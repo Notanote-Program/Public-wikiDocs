@@ -10,10 +10,10 @@
             "Href": "/tos"
         },
         {
-            "Class": "Object",
-            "Content": "测试",
+            "Class": "Object-SubTitle",
+            "Content": "测试一小下",
             "Href": "/privacy"
         }
     ],
-    "main": "主界面"
+    "Score/readScore": "123"
 }
