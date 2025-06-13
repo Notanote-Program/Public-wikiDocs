@@ -7,12 +7,8 @@
         {
             "Class": "Object",
             "Content": "你好",
-            "Href": "/tos"
-        },
-        {
-            "Class": "Object-SubTitle",
-            "Content": "测试一小下",
-            "Href": "/privacy"
+            "Href": "/tos",
+            "SubObject": "123"
         }
     ],
     "Score/readScore": "123"
