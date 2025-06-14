@@ -1,0 +1,19 @@
+{
+    "Main": [
+        {
+            "Class": "ClassText",
+            "Content": "列表"
+        },
+        {
+            "Class": "Object",
+            "Content": "你好",
+            "Href": "/tos"
+        },
+        {
+            "Class": "Object",
+            "Content": "测试",
+            "Href": "/privacy"
+        }
+    ],
+    "main": "主界面"
+}
