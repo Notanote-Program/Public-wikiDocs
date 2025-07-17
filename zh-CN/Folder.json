@@ -6,14 +6,30 @@
         },
         {
             "Class": "Object",
-            "Content": "你好",
-            "Href": "/tos"
+            "Content": "Test1",
+            "Href": "/wiki?p=songList"
         },
         {
             "Class": "Object",
-            "Content": "测试",
-            "Href": "/privacy"
+            "Content": "Test2",
+            "Href": "/wiki?p=charterList"
+        },
+        {
+            "Class": "Object",
+            "Content": "Test",
+            "Href": "/wiki?p=main#do-you-know"
         }
     ],
-    "main": "主界面"
+    "main": "主界面",
+    "mechanics": "机制",
+    "interface": "界面",
+    "FAQ": "FAQ",
+    "songList": "曲目列表",
+    "chapterList": "章节列表",
+    "composerList": "曲师列表",
+    "charterList": "谱师列表",
+    "illustratorList": "画师列表",
+    "collectibleList": "收藏品列表",
+    "characterList": "角色列表",
+    "memes": "梗"
 }

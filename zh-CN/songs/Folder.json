@@ -1,0 +1,27 @@
+{
+    "Main": [
+        {
+            "Class": "ClassText",
+            "Content": "目录"
+        },
+        {
+            "Class": "Object",
+            "Content": "Test1",
+            "Href": "/wiki?p=Tsuioku#top"
+        },
+        {
+            "Class": "Object",
+            "Content": "Test2",
+            "Href": "/wiki?p=main"
+        }
+    ],
+    "Tsuioku": "追憶",
+    "SHE": "\"SHE\"",
+    "Cursed_Land_(Acoustic)": "Cursed Land (Acoustic)",
+    "Lockdown_(Tatsunoshin_VIP)": "Lockdown (Tatsunoshin VIP)",
+    "Eltaw": "Eltaw",
+    "i": "i",
+    "Summer_Dream": "Summer Dream",
+    "Grayscale_Tragedy": "Grayscale_Tragedy",
+    "Shiro_to_Kuro_no_Bakemono": "白と黒のバケモノ"
+}
