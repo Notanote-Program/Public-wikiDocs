@@ -1,27 +1,140 @@
 {
     "Main": [
         {
+            "Class": "Object",
+            "Content": "主界面",
+            "Href": "?p=main&l=zh-CN"
+        },
+        {
             "Class": "ClassText",
-            "Content": "目录"
+            "Content": "玩法条目"
         },
         {
             "Class": "Object",
-            "Content": "Test1",
-            "Href": "/wiki?p=Tsuioku#top"
+            "Content": "机制",
+            "Href": "?p=mechanics&l=zh-CN"
         },
         {
             "Class": "Object",
-            "Content": "Test2",
-            "Href": "/wiki?p=main"
+            "Content": "界面",
+            "Href": "?p=interface&l=zh-CN"
+        },
+
+        {
+            "Class": "ClassText",
+            "Content": "列表条目"
+        },
+        {
+            "Class": "Object",
+            "Content": "曲目列表",
+            "Href": "?p=song_list&l=zh-CN"
+        },
+        {
+            "Class": "Object",
+            "Content": "章节列表",
+            "Href": "?p=chapter_list&l=zh-CN"
+        },
+        {
+            "Class": "Object",
+            "Content": "曲师列表",
+            "Href": "?p=composer_list&l=zh-CN"
+        },
+        {
+            "Class": "Object",
+            "Content": "谱师列表",
+            "Href": "?p=charter_list&l=zh-CN"
+        },
+        {
+            "Class": "Object",
+            "Content": "画师列表",
+            "Href": "?p=illustrator_list&l=zh-CN"
+        },
+        {
+            "Class": "Object",
+            "Content": "收藏品列表",
+            "Href": "?p=collectible_list&l=zh-CN"
+        },
+        {
+            "Class": "Object",
+            "Content": "角色列表",
+            "Href": "?p=character_list&l=zh-CN"
+        },
+
+        {
+            "Class": "ClassText",
+            "Content": "其他"
+        },
+        {
+            "Class": "Object",
+            "Content": "FAQ",
+            "Href": "?p=FAQ&l=zh-CN"
+        },
+        {
+            "Class": "Object",
+            "Content": "梗",
+            "Href": "?p=memes&l=zh-CN"
         }
     ],
-    "Tsuioku": "追憶",
-    "SHE": "\"SHE\"",
-    "Cursed_Land_(Acoustic)": "Cursed Land (Acoustic)",
-    "Lockdown_(Tatsunoshin_VIP)": "Lockdown (Tatsunoshin VIP)",
-    "Eltaw": "Eltaw",
-    "i": "i",
-    "Summer_Dream": "Summer Dream",
-    "Grayscale_Tragedy": "Grayscale_Tragedy",
-    "Shiro_to_Kuro_no_Bakemono": "白と黒のバケモノ"
+
+    "songs/Tsuioku.md": "追憶",
+    "songs/SHE.md": "\"SHE\"",
+    "songs/Cursed_Land_(Acoustic).md": "Cursed Land (Acoustic)",
+    "songs/Lockdown_(Tatsunoshin_VIP).md": "Lockdown (Tatsunoshin VIP)",
+    "songs/Eltaw.md": "Eltaw",
+
+    "songs/Summer_Dream.md": "Summer Dream",
+    "songs/Rainbow_Flavor!.md": "Rainbow Flavor",
+    "songs/Airy_Dream.md": "Airy Dream",
+    "songs/Natsu_no_Hana.md": "夏の花",
+    "songs/Meng_de_Bi-an.md": "梦的彼岸",
+    "songs/Brand_New_Day.md": "Brand New Day",
+
+    "songs/Yiwen.md": "异闻",
+    "songs/Daughter_of_Daedalus.md": "Daughter of Daedalus",
+    "songs/i.md": "i",
+    "songs/End_Time.md": "End Time",
+    "songs/Moondread.md": "Moondread",
+    "songs/OZCURIDAD.md": "ΩZСÜRIDΛD",
+
+    "songs/Grayscale_Tragedy.md": "Grayscale Tragedy",
+    "songs/Shiro_to_Kuro_no_Bakemono.md": "白と黒のバケモノ",
+
+    "songs/Eschatology.md": "Eschatology",
+
+    "songs/Innocent_white.md": "Innocent white",
+    "songs/Meltovt_Necrosys.md": "Meltovt Necrosys",
+
+    "songs/Le_Porteur_d-Ombre": "Le Porteur d'Ombre",
+
+    "songs/Last_Season.md": "Last Season",
+    "songs/Aether_Ingita!.md": "Aether Ingita!",
+    "songs/Meltovt_Necrosys_(Salty_Salt_Remix).md": "Meltovt Necrosys (Salty Salt Remix)",
+    "songs/Meltovt_Necrosys_(UraniumW_Remix).md": "Meltovt Necrosys (UraniumW Remix)",
+    "songs/Get_Back.md": "Get Back",
+
+    "songs/IGNITE.md": "IGNITE",
+
+    "songs/Kaze.md": "Kaze",
+    "songs/Break_Through_Myself.md": "Break Through Myself",
+    "songs/Convergence.md": "《Ж》",
+    "Stardust_Ember.md": "Stardust Ember",
+    "songs/Sense.md": "Sense",
+    "songs/DayBreak.md": "DayBreak",
+    "songs/Yuutai_Ridatsu.md": "幽体離脱",
+    "songs/Reimei.md": "Reimei",
+    "songs/the_world_of_scarlet.md": "the world of scarlet",
+    "songs/FRIEND.md": "F℟IEND",
+    "songs/Mizu.md": "Mizu",
+    "songs/Lapis.md": "Lapis",
+    "songs/Victory_Sense.md": "Victory Sense",
+    "songs/Fever_Dream.md": "Fever Dream",
+    "songs/Glimmer.md": "Glimmer",
+    "songs/Overjoy_OVERDOSE!!.md": "Overjoy ★ OVERDOSE!!",
+    "songs/Silver_Morpho.md": "Silver Morpho",
+
+    "songs/Kiri.md": "Kiri",
+    "songs/Crystal_Ember.md": "Crystal Ember",
+    "songs/meteor();.md": "meteor();",
+    "songs/Recordatio_Temporis.md": "Recordatio Temporis",
+    "songs/Chami.md": "茶靡"
 }
