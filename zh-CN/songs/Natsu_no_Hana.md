@@ -56,7 +56,7 @@
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[夏の花 - Sakanapaste/Hilarity Leap Records - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2068402486)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[夏の花 - Sakanapaste/Hilarity Leap Records - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2068402486)
 
 ## 相关视频
 

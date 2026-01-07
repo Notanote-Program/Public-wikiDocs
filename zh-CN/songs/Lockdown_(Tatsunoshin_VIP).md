@@ -114,17 +114,17 @@
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Lockdown (Tatsunoshin VIP) - Tatsunoshin/PIKASONIC/Tsugumi Nagahara - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1844464120)<sup><a id="note-1.1" href="#ref-1">[1]</a></sup>
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Lockdown (feat. NEONA) - Tatsunoshin/PIKASONIC/NEONA - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1937255781)<sup><a id="note-2.1" href="#ref-2">[2]</a></sup>
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico)[Lockdown (Tatsunoshin VIP)](https://www.youtube.com/watch?v=kbOwM4G6gTQ)<sup><a id="note-1.2" href="#ref-1">[1]</a></sup>
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico)[PIKASONIC & Tatsunoshin - Lockdown (ft.NEONA) [Official Video]](https://www.youtube.com/watch?v=VyOVykOzvoE)<sup><a id="note-2.2" href="#ref-2">[2]</a></sup>
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[PIKASONIC x Tatsunoshin feat. Tsugumi Nagahara - Lockdown (Tatsunoshin VIP)](https://www.bilibili.com/video/BV1qt4y1s79g/)<sup><a id="note-1.3" href="#ref-1">[1]</a></sup>
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[PIKASONIC & Tatsunoshin - Lockdown (ft.NEONA)](https://www.bilibili.com/video/BV1xR4y1e7SQ/)<sup><a id="note-2.3" href="#ref-2">[2]</a></sup>
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Lockdown (Tatsunoshin VIP) - Tatsunoshin/PIKASONIC/Tsugumi Nagahara - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1844464120)<sup><a id="note-1.1" href="#ref-1">[1]</a></sup>
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Lockdown (feat. NEONA) - Tatsunoshin/PIKASONIC/NEONA - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1937255781)<sup><a id="note-2.1" href="#ref-2">[2]</a></sup>
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico)[Lockdown (Tatsunoshin VIP)](https://www.youtube.com/watch?v=kbOwM4G6gTQ)<sup><a id="note-1.2" href="#ref-1">[1]</a></sup>
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico)[PIKASONIC & Tatsunoshin - Lockdown (ft.NEONA) [Official Video]](https://www.youtube.com/watch?v=VyOVykOzvoE)<sup><a id="note-2.2" href="#ref-2">[2]</a></sup>
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[PIKASONIC x Tatsunoshin feat. Tsugumi Nagahara - Lockdown (Tatsunoshin VIP)](https://www.bilibili.com/video/BV1qt4y1s79g/)<sup><a id="note-1.3" href="#ref-1">[1]</a></sup>
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[PIKASONIC & Tatsunoshin - Lockdown (ft.NEONA)](https://www.bilibili.com/video/BV1xR4y1e7SQ/)<sup><a id="note-2.3" href="#ref-2">[2]</a></sup>
 
 ## 相关视频
 
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Lockdown (Tatsunoshin VIP) [SY 6.8] 谱面演示](https://www.bilibili.com/video/BV1ZJgozwEbL/)
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Lockdown (Tatsunoshin VIP) [EZ 3.5] 谱面演示](https://www.bilibili.com/video/BV1dpgozFE6s/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Lockdown (Tatsunoshin VIP) [SY 6.8] 谱面演示](https://www.bilibili.com/video/BV1ZJgozwEbL/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Lockdown (Tatsunoshin VIP) [EZ 3.5] 谱面演示](https://www.bilibili.com/video/BV1dpgozFE6s/)
 
 ## 注释
 

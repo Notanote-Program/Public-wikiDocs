@@ -195,13 +195,13 @@ Until the end of the world
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Summer Dream (feat. Chevy) - Kirara Magic/Chevy - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1854644975)<sup><a id="note-1.1" href="#ref-1">[1]</a></sup>
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【清新夏日单曲】Summer Dream (feat. Chevy)【MV】](https://www.bilibili.com/video/BV1yB4y1K7X5/)<sup><a id="note-1.2" href="#ref-1">[1]</a></sup>
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Summer Dream (feat. Chevy) - Kirara Magic/Chevy - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1854644975)<sup><a id="note-1.1" href="#ref-1">[1]</a></sup>
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【清新夏日单曲】Summer Dream (feat. Chevy)【MV】](https://www.bilibili.com/video/BV1yB4y1K7X5/)<sup><a id="note-1.2" href="#ref-1">[1]</a></sup>
 
 ## 相关视频
 
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Summer Dream [SY 2.5] 谱面演示](https://www.bilibili.com/video/BV1UkGNzGEPg/)
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote/不要急挑战（）】Summer Dream SY1 All Perfect](https://www.bilibili.com/video/BV1TY2NYSEyi/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Summer Dream [SY 2.5] 谱面演示](https://www.bilibili.com/video/BV1UkGNzGEPg/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote/不要急挑战（）】Summer Dream SY1 All Perfect](https://www.bilibili.com/video/BV1TY2NYSEyi/)
 
 ## 注释
 

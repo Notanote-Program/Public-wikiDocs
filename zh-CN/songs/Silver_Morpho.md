@@ -187,9 +187,9 @@ Are you goin' down with me?
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Silver Morpho（银闪蝶） - sakakosmos - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2612128470)
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【官方MV】 《Silver Morpho》（银闪蝶）- sakakosmos【先行主打1】【PROJECT 001】](https://www.bilibili.com/video/BV1sr421M711/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Silver Morpho（银闪蝶） - sakakosmos - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2612128470)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【官方MV】 《Silver Morpho》（银闪蝶）- sakakosmos【先行主打1】【PROJECT 001】](https://www.bilibili.com/video/BV1sr421M711/)
 
 ## 相关视频
 
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Silver Morpho [SY 6.0] 谱面演示](https://www.bilibili.com/video/BV1QLqQB9EEo/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Silver Morpho [SY 6.0] 谱面演示](https://www.bilibili.com/video/BV1QLqQB9EEo/)

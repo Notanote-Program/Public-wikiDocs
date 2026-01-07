@@ -36,6 +36,32 @@
 
 ## 新闻
 
+### 2025/12/31
+
+Notanote x 三相奇谈 的联动内容将在 Notanote v2.9，于 2026.01.14 更新！<br>
+
+本次更新将带来《三相奇谈》的主题曲目：<br>
+·[「三相奇谈」](?p=songs/Threefold_Recital&l=zh-CN) by [奥田友幸](?p=composer_list#Okuda_Tomoyuki&l=zh-CN) feat. AcAcia<br>
+
+同时，三位来自《三相奇谈》的角色也将在Notanote中以特别形态登场——<br>
+· 常驻角色时装新增：[「三相 - 净饭」](?p=characters/Threefold-Triratna&l=zh-CN)[「三相 - 三宝」](?p=characters/Threefold-Taiqing&l=zh-CN)[「三相 - 皮月羞」](?p=characters/Threefold-Transia&l=zh-CN)<br>
+三位角色的时装均通过糖果解锁。特别地，在v2.9版本内，三位角色的时装将半价出售，不要错过哦！<br>
+
+· 开屏图新增：「三相奇谈」<br>
+v2.9版本内，该开屏图将限时解锁并默认加入开屏图池中。<br>
+获得「三相 - 净饭」「三相 - 三宝」「三相 - 皮月羞」后，该开屏图永久解锁。<br>
+可以使用收藏品界面中的[「一堆照片」](?p=collectibles/A_Pile_Of_Photos&l=zh-CN)收集物（完成[「支线一 · 花火之夏」](?p=chapters/Side_Story_I&l=zh-CN)后获得）进行开屏图管理。<br>
+
+最后，为了帮助新玩家与老玩家更快体验Notanote内容，v2.9版本内将开启糖果双倍活动：<br>
+· 限时双倍糖果：在v2.9版本内，前十次游玩获得的糖果翻倍<br>
+
+—————————————————————
+*视频中为开发中效果，实际以实机效果为准。
+
+![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)**[【Notanote】v2.9 三相奇谈联动内容预览](https://www.bilibili.com/video/BV1BviTBuEah/)**
+
+---
+
 ### 2025/12/15
 
 **[原动态](https://www.bilibili.com/opus/1146639629654425632)**
@@ -44,7 +70,7 @@
 
 Notanote x 三相奇谈 联·动·确·认
 
-**![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[Notanote x 三相奇谈 联动确认](https://www.bilibili.com/video/BV1HxqoBpEL5/)**
+![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)**[Notanote x 三相奇谈 联动确认](https://www.bilibili.com/video/BV1HxqoBpEL5/)**
 
 ![](https://i0.hdslb.com/bfs/new_dyn/8974a553c880ecaaba0bc49750bf1ee9701972652.png@1052w_!web-dynamic.avif)
 
@@ -59,21 +85,9 @@ Notanote v2.8将于2025.12.14更新！本次更新包含两首单曲：
 
 同时，v2.7的版本活动将在更新后结束，记得在更新前完成哦！
 
-**![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote】v2.8 单曲更新预览](https://www.bilibili.com/video/BV1Wb2XBTEGN/)**
+![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)**[【Notanote】v2.8 单曲更新预览](https://www.bilibili.com/video/BV1Wb2XBTEGN/)**
 
 ![](https://i0.hdslb.com/bfs/new_dyn/561767b7761276c78ab85f432571a306701972652.png@1052w_!web-dynamic.avif)
-
----
-
-### 2025/11/29
-
-Notanote公布全新独家曲目：
-
-- [「茶靡」](?p=songs/Chami&l=zh-CN) by [急冻秋刀鱼](?p=composer_list&l=zh-CN#Jidong_Qiudaoyu)
-
-注：独家曲目为以独家性质授权的曲目。独家性质是Notanote中新增的一种授权性质。以该性质授权的曲目，在「音乐游戏」范围内仅可提供给Notanote使用。与独占性质不同，通过独家性质授权后，作曲者仍然保留绝大部分权利。后续，Notanote将在游戏内增加独家曲目的特殊标注。
-
-**![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote独家曲目】茶靡 - 急冻秋刀鱼](https://www.bilibili.com/video/BV1DkUfBBENj/)**
 
 ## 你知道吗
 

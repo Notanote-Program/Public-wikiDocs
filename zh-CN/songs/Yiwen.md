@@ -73,9 +73,9 @@
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[异闻 - 姜米條/darkxixin/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2738692773)
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote原创曲】异闻 - 姜米條](https://www.bilibili.com/video/BV1GEh2z1Egs/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[异闻 - 姜米條/darkxixin/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2738692773)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote原创曲】异闻 - 姜米條](https://www.bilibili.com/video/BV1GEh2z1Egs/)
 
 ## 相关视频
 
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】异闻 [SY 5.0] 谱面演示](https://www.bilibili.com/video/BV1AAeqz1Eyv/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】异闻 [SY 5.0] 谱面演示](https://www.bilibili.com/video/BV1AAeqz1Eyv/)

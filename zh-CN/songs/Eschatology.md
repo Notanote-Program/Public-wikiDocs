@@ -55,11 +55,11 @@
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Eschatology - 清水達也/Scarlette - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2689900694)
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico)[[Kalpa] Eschatology - Tatsh & Scarlette【Music】](https://www.youtube.com/watch?v=8i1d3R9dyik)
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【转载，已授权】【KALPA】Eschatology 末世论（KALPA × Lanota联动曲目之一）](https://www.bilibili.com/video/BV1Ht4y187yM/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Eschatology - 清水達也/Scarlette - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2689900694)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico)[[Kalpa] Eschatology - Tatsh & Scarlette【Music】](https://www.youtube.com/watch?v=8i1d3R9dyik)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【转载，已授权】【KALPA】Eschatology 末世论（KALPA × Lanota联动曲目之一）](https://www.bilibili.com/video/BV1Ht4y187yM/)
 
 ## 相关视频
 
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Eschatology [SY 10.4] 谱面演示](https://www.bilibili.com/video/BV17i8CzkE53/)
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Eschatology [EZ 4.5] 谱面演示](https://www.bilibili.com/video/BV1qi8CzkE6X/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Eschatology [SY 10.4] 谱面演示](https://www.bilibili.com/video/BV17i8CzkE53/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Eschatology [EZ 4.5] 谱面演示](https://www.bilibili.com/video/BV1qi8CzkE6X/)

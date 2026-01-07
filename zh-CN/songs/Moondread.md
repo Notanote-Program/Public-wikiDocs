@@ -58,13 +58,13 @@
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Moondread - Kry.exe - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1987568855)
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico)[【BOF:ET】 Kry.exe - Moondread【BGA】](https://www.youtube.com/watch?v=MnlqdFuX8Hk)
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【BOF:ET】Kry.exe - Moondread【BGA】](https://www.bilibili.com/video/BV1re4y1r7dk/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Moondread - Kry.exe - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1987568855)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico)[【BOF:ET】 Kry.exe - Moondread【BGA】](https://www.youtube.com/watch?v=MnlqdFuX8Hk)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【BOF:ET】Kry.exe - Moondread【BGA】](https://www.bilibili.com/video/BV1re4y1r7dk/)
 
 ## 相关视频
 
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Moondread [SY 8.3] 谱面演示](https://www.bilibili.com/video/BV18Deiz9ESS/)
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Moondread [EZ 3.5] 谱面演示](https://www.bilibili.com/video/BV1DkJXzAEGU/)
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Moondread [NT 10.3] 谱面演示](https://www.bilibili.com/video/BV1gSeizsED2/)
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote/烬月光痕】Moondread [NT 10] All Perfect Rank X！](https://www.bilibili.com/video/BV1o2egzhEfY/)（玩家：[九段不合格](https://space.bilibili.com/1633653929/)）
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Moondread [SY 8.3] 谱面演示](https://www.bilibili.com/video/BV18Deiz9ESS/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Moondread [EZ 3.5] 谱面演示](https://www.bilibili.com/video/BV1DkJXzAEGU/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Moondread [NT 10.3] 谱面演示](https://www.bilibili.com/video/BV1gSeizsED2/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote/烬月光痕】Moondread [NT 10] All Perfect Rank X！](https://www.bilibili.com/video/BV1o2egzhEfY/)（玩家：[九段不合格](https://space.bilibili.com/1633653929/)）

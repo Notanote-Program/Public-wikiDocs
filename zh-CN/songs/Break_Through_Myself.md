@@ -131,11 +131,11 @@ Make a stand against
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Break Through Myself (feat. Risa Yuzuki) [Short Version] - DJ Myosuke/Laur/Risa Yuzuki - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1847176520)
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico)[DJ Myosuke & Laur - Break Through Myself feat. Risa Yuzuki (Official Music Video)](https://www.youtube.com/watch?v=9D8NJxSMHrk)
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[DJ Myosuke & Laur - Break Through Myself feat. Risa Yuzuki](https://www.bilibili.com/video/BV1xK4y1R76F/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Break Through Myself (feat. Risa Yuzuki) [Short Version] - DJ Myosuke/Laur/Risa Yuzuki - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1847176520)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico)[DJ Myosuke & Laur - Break Through Myself feat. Risa Yuzuki (Official Music Video)](https://www.youtube.com/watch?v=9D8NJxSMHrk)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[DJ Myosuke & Laur - Break Through Myself feat. Risa Yuzuki](https://www.bilibili.com/video/BV1xK4y1R76F/)
 
 ## 相关视频
 
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Break Through Myself [SY 9.6] 谱面演示](https://www.bilibili.com/video/BV117KTeKE9H/)
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Break Through Myself [EZ 5.4] 谱面演示](https://www.bilibili.com/video/BV117KTeKERM/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Break Through Myself [SY 9.6] 谱面演示](https://www.bilibili.com/video/BV117KTeKE9H/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Break Through Myself [EZ 5.4] 谱面演示](https://www.bilibili.com/video/BV117KTeKERM/)

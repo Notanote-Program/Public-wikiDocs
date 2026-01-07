@@ -41,6 +41,7 @@
 
 - 本曲是BOF:NT个人战第11名。
 - 本曲的歌词混合了英语、法语、日语、韩语。
+- 本曲的[官方谱面预览](https://www.bilibili.com/video/BV1hLqQB9ECe/)结尾藏了人机验证动画，暗示之后公布的[三相奇谈联动](?p=chapters/Threefold_Recital&l=zh-CN)，人机验证对应的是《三相奇谈》第三章中的“吾非机关人”。
 
 ## 攻略
 
@@ -169,10 +170,10 @@ So come back again, okay?
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Overjoy ★ OVERDOSE!! - BilliumMoto/黒皇帝/Sobrem/Vally.exe - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2106610918)
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico)[【BOF:NT】Overjoy ★ OVERDOSE!!](https://www.youtube.com/watch?v=tbVnVaIE5ys)
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【BOF:NT】Luna Fozer(BilliumMoto & 黒皇帝 & Sobrem) - Overjoy ★ OVERDOSE!!](https://www.bilibili.com/video/BV1W94y1j7Q2/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Overjoy ★ OVERDOSE!! - BilliumMoto/黒皇帝/Sobrem/Vally.exe - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2106610918)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico)[【BOF:NT】Overjoy ★ OVERDOSE!!](https://www.youtube.com/watch?v=tbVnVaIE5ys)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【BOF:NT】Luna Fozer(BilliumMoto & 黒皇帝 & Sobrem) - Overjoy ★ OVERDOSE!!](https://www.bilibili.com/video/BV1W94y1j7Q2/)
 
 ## 相关视频
 
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Overjoy ★ OVERDOSE!! [SY 9.1] 谱面演示](https://www.bilibili.com/video/BV1hLqQB9ECe/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Overjoy ★ OVERDOSE!! [SY 9.1] 谱面演示](https://www.bilibili.com/video/BV1hLqQB9ECe/)

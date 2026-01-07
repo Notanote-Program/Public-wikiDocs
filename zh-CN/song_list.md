@@ -4,11 +4,11 @@
 
 | 曲名 | 曲师 | 画师 | 上线版本 | 难度 |
 | :-: | :-: | :-: | :-: | :-: |
-| [追憶](?p=songs/Tsuioku&l=zh-CN) | [PIKASONIC](?p=composerList&l=zh-CN#PIKASONIC) & [なこたんまる](?p=composerList&l=zh-CN#Nakontanmaru) | [于白](?p=illustrator_list&l=zh-CN#Yubai) | 第一次游戏性测试 | SY 5.4<br>EZ 3.0 |
+| [追憶](?p=songs/Tsuioku&l=zh-CN) | [PIKASONIC](?p=composer_list&l=zh-CN#PIKASONIC) & [なこたんまる](?p=composer_list&l=zh-CN#Nakontanmaru) | [于白](?p=illustrator_list&l=zh-CN#Yubai) | 第一次游戏性测试 | SY 5.4<br>EZ 3.0 |
 | ["SHE"](?p=songs/SHE&l=zh-CN) | [ΓИ7AL](?p=composer_list&l=zh-CN#ΓИ7AL) | 第二次游戏性测试 | [故离](?p=illustrator_list&l=zh-CN#Guli) | SY 3.5 |
-| [Cursed Land (Acoustic)](?p=songs/Cursed_Land_(Acoustic&l=zh-CN)) | [SJQ音福](?p=composerList&l=zh-CN#SJQ_Yinfu) | 第一次游戏性测试 | [ikun](?p=illustrator_list&l=zh-CN#Ikun) | SY 5.0 |
-| [Lockdown (Tatsunoshin VIP)](?p=songs/Lockdown_(Tatsunoshin_VIP)&l=zh-CN) | [Tatsunoshin](?p=composerList&l=zh-CN#Tatsunoshin) & [PIKASONIC](?p=composerList&l=zh-CN#PIKASONIC) | [故离](?p=illustrator_list&l=zh-CN#Guli) | 第一次游戏性测试 | SY 6.9<br>EZ 3.5 |
-| [Eltaw](?p=songs/Eltaw&l=zh-CN) | [Fl00t](?p=composerList&l=zh-CN#Fl00t) | [Fl00t](?p=composerList&l=zh-CN#Fl00t) | 第一次游戏性测试 | SY 8.3<br>EZ 4.5<br>TL 4.0 |
+| [Cursed Land (Acoustic)](?p=songs/Cursed_Land_(Acoustic&l=zh-CN)) | [SJQ音福](?p=composer_list&l=zh-CN#SJQ_Yinfu) | 第一次游戏性测试 | [ikun](?p=illustrator_list&l=zh-CN#Ikun) | SY 5.0 |
+| [Lockdown (Tatsunoshin VIP)](?p=songs/Lockdown_(Tatsunoshin_VIP)&l=zh-CN) | [Tatsunoshin](?p=composer_list&l=zh-CN#Tatsunoshin) & [PIKASONIC](?p=composer_list&l=zh-CN#PIKASONIC) | [故离](?p=illustrator_list&l=zh-CN#Guli) | 第一次游戏性测试 | SY 6.9<br>EZ 3.5 |
+| [Eltaw](?p=songs/Eltaw&l=zh-CN) | [Fl00t](?p=composer_list&l=zh-CN#Fl00t) | [Fl00t](?p=composer_list&l=zh-CN#Fl00t) | 第一次游戏性测试 | SY 8.3<br>EZ 4.5<br>TL 4.0 |
 
 ## [支线一·花火之夏](?p=chapters/Side_Story_I)
 
@@ -16,10 +16,10 @@
 | :-: | :-: | :-: | :-: | :-: |
 | [Summer Dream](?p=songs/Summer_Dream&l=zh-CN) | [Kirara Magic](?p=composer_list&l=zh-CN#Kirara_Magic) | [天野岁](?p=illustrator_list&l=zh-CN#Tianyesui) | 第二次游戏性测试 | SY 3.0 |
 | [Rainbow Flavor!](?p=songs/Rainbow_Flavor!&l=zh-CN) | [SuggestedCopy7](?p=composer_list&l=zh-CN#SuggestedCopy7) & [Yashu](?p=composer_list&l=zh-CN#Yashu) | [纸箱林Exut](?p=illustrator_list&l=zh-CN#Exut) | 第二次游戏性测试 | SY 6.3<br>EZ 1.5 |
-| [Airy Dream](?p=songs/Airy_Dream&l=zh-CN) | [Bob Hou](?p=composerList&l=zh-CN#Bob_Hou) & [DEP](?p=composerList&l=zh-CN#DEP) | [百利](?p=illustrator_list&l=zh-CN#Baili) | 第二次游戏性测试 | SY 7.3<br>EZ 1.0 |
-| [夏の花](?p=songs/Natsu_no_Hana&l=zh-CN) | [Sakanapaste](?p=composerList&l=zh-CN#Sakanapaste) | [卡莫伦斯](?p=illustrator_list&l=zh-CN#CARMOLENS)　©跃动记录 | 第二次游戏性测试 | SY 5.4<br>EZ 1.5 |
-| [梦的彼岸](?p=songs/Meng_de_Bi-an&l=zh-CN) | [Caviare](?p=composerList&l=zh-CN#Caviare) | [半界](?p=illustrator_list&l=zh-CN#Banjie) vs. [喑暗](?p=illustrator_list&l=zh-CN#Yin-an) | 第二次游戏性测试 | SY 3.0<br>EZ 1.0 |
-| [Brand New Day](?p=songs/Brand_New_Day&l=zh-CN) | [Bcc](?p=composerList&l=zh-CN#Bcc) & [猎影双煞](?p=composerList&l=zh-CN#NonNam) & [FrostOwl](?p=composerList&l=zh-CN#FrostOwl) ft. 诺塔 & 赫瑞 | [咩咩](?p=illustrator_list&l=zh-CN#Miemie) | 第二次游戏性测试 | SY 5.1 |
+| [Airy Dream](?p=songs/Airy_Dream&l=zh-CN) | [Bob Hou](?p=composer_list&l=zh-CN#Bob_Hou) & [DEP](?p=composer_list&l=zh-CN#DEP) | [百利](?p=illustrator_list&l=zh-CN#Baili) | 第二次游戏性测试 | SY 7.3<br>EZ 1.0 |
+| [夏の花](?p=songs/Natsu_no_Hana&l=zh-CN) | [Sakanapaste](?p=composer_list&l=zh-CN#Sakanapaste) | [卡莫伦斯](?p=illustrator_list&l=zh-CN#CARMOLENS)　©跃动记录 | 第二次游戏性测试 | SY 5.4<br>EZ 1.5 |
+| [梦的彼岸](?p=songs/Meng_de_Bi-an&l=zh-CN) | [Caviare](?p=composer_list&l=zh-CN#Caviare) | [半界](?p=illustrator_list&l=zh-CN#Banjie) vs. [喑暗](?p=illustrator_list&l=zh-CN#Yin-an) | 第二次游戏性测试 | SY 3.0<br>EZ 1.0 |
+| [Brand New Day](?p=songs/Brand_New_Day&l=zh-CN) | [Bcc](?p=composer_list&l=zh-CN#Bcc) & [猎影双煞](?p=composer_list&l=zh-CN#NonNam) & [FrostOwl](?p=composer_list&l=zh-CN#FrostOwl) ft. 诺塔 & 赫瑞 | [咩咩](?p=illustrator_list&l=zh-CN#Miemie) | 第二次游戏性测试 | SY 5.1 |
 
 ## [主线二·无尽回廊](?p=chapters/Main_Story_II)
 
@@ -86,6 +86,7 @@
 | [甜涩之梦](?p=songs/Tianse_zhi_Meng&l=zh-CN) | [YUC'e](?p=composer_list&l=zh-CN#YUC-e) feat. [早稻叽](?p=composer_list&l=zh-CN#Zaodaoji) | [岚](?p=illustrator_list&l=zh-CN#Lan) | v1.5.0 | SY 5.3 |
 | [恶修女——永火熔铸](?p=songs/Exiunyu_Yonghuo_Rongzhu&l=zh-CN) | [负离子SYNTHETIC](?p=composer_list&l=zh-CN#Fulizi_SYNTHETIC) feat. [黑泽诺亚NOIR](?p=composer_list&l=zh-CN#Noir) | [黑茶](?p=illustrator_list&l=zh-CN#Heicha) | v1.5.0 | SY 6.1<br>TL 7.5 |
 | [IGNITE](?p=songs/IGNITE&l=zh-CN) | [USAO](?p=composer_list&l=zh-CN#USAO) vs. [Massive New Krew](?p=composer_list&l=zh-CN#Massive_New_Krew) | [LAM](?p=illustrator_list&l=zh-CN#LAM) | v2.6.0 | SY 9.3<br>EZ 4.5 |
+| [Get Back](?p=songs/Get_Back&l=zh-CN) | [CAP3](?p=composer_list&l=zh-CN#CAP3) | [Soul Notes](?p=chapters/Soul_Notes&l=zh-CN) | v2.6.0 | SY 8.2<br>EZ 2.0 |
 
 ## [UXN Records](?p=chapter/UXN_Records)
 
@@ -131,6 +132,7 @@
 | [Sense](?p=songs/Sense&l=zh-CN) | [BilliumMoto](?p=composer_list&l=zh-CN#BilliumMoto) × [Silentroom](?p=composer_list&l=zh-CN#Silentroom) | [Mahinii](?p=illustrator_list&l=zh-CN#Mahinii) | v2.4.0 | SY 8.1 |
 | [DayBreak](?p=songs/DayBreak&l=zh-CN) | [shadow_bling](?p=composer_list&l=zh-CN#shadow_bling) & [ТЕЕМСИКЛ](?p=composer_list&l=zh-CN#ТЕЕМSYKL) & [SKa2or](?p=composer_list&l=zh-CN#SKa2or) feat. 左乙ZOEE | [Chen-ing尘音文化](?p=illustrator_list&l=zh-CN#Chen-ing) | v2.6.0 | SY 7.9<br>EZ 5.1 |
 | [幽体離脱](?p=songs/Yuutai_Ridatsu&l=zh-CN) | [きくお](?p=composer_list&l=zh-CN#Kikuo) feat. 初音ミク | [瓶装可乐](?p=illustrator_list&l=zh-CN#BottledSodaa) | v2.6.0 | SY 5.6 |
+| [Reimei](?p=songs/Reimei&l=zh-CN) | [影虎。](?p=composer_list&l=zh-CN#Kagetora.) | [影虎。](?p=composer_list&l=zh-CN#Kagetora.) | v2.6.0 | SY 7.7<br>EZ 3.0 |
 | [the world of scarlet](?p=songs/the_world_of_scarlet&l=zh-CN) | [OfficialAz3](?p=composer_list&l=zh-CN#OfficialAz3) | [haohao](?p=illustrator_list&l=zh-CN#haohao) | v2.6.0 | SY 10.0<br>EZ 4.5 |
 | [F℟IEND](?p=songs/FRIEND&l=zh-CN) | [D_AAN](?p=composer_list&l=zh-CN#D_AAN) | [半界](?p=illustrator_list&l=zh-CN#Semiryoiki) & [X-chalk](?p=illustrator_list&l=zh-CN#X-chalk) | v2.7.0 | SY 8.6<br>EZ 4.0 |
 | [Mizu](?p=songs/Mizu&l=zh-CN) | [Itz咸鱼](?p=composer_list&l=zh-CN#Itz_Xianyu) | [CroxsBOss](?p=illustrator_list&l=zh-CN#CroxsBOss) | v2.7.0 | SY 8.4<br>EZ 3.0 |
@@ -159,3 +161,4 @@
 | [ИÖDΣ](?p=songs/NODE&l=zh-CN) | [I](?p=composer_list&l=zh-CN#ILusMin)[C](?p=composer_list&l=zh-CN#CNHKSS)[B](?p=composer_list&l=zh-CN#Brycillum)[M](?p=composer_list&l=zh-CN#NonNam) | （画师名义未知）[JQ.Professor](?p=illustrator_list&l=zh-CN#JQ.Professor) & [Panthullu](?p=illustrator_list&l=zh-CN#Panthullu) | 未知 |
 | [Recordatio Temporis](?p=songs/Recordatio_Temporis&l=zh-CN) | [EOTW433](?p=composer_list&l=zh-CN#EOTW433) | [HOSHILINEARX.](?p=illustrator_list&l=zh-CN#HOSHILINEARX.) | 未知 |
 | [茶靡](?p=songs/Chami&l=zh-CN) | [急冻秋刀鱼](?p=composer_list&l=zh-CN#Jidong_Qiudaoyu) | [Semiryoiki](?p=illustrator_list&l=zh-CN#Semiryoiki) | 未知 |
+| [三相奇谈](?p=songs/Threefold_Recital&l=zh-CN) | [奥田友幸](?p=composer_list#Okuda_Tomoyuki&l=zh-CN) feat. AcAcia | [狼小魂](?p=illustrator_list#Yamawolf&l=zh-CN) | v2.9.0 |

@@ -42,9 +42,9 @@
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[茶靡 - 急冻秋刀鱼 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=3322484128)<sup><a id="note-1.1" href="#ref-1">[1]</a></sup>
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote独家曲目】茶靡 - 急冻秋刀鱼](https://www.bilibili.com/video/BV1DkUfBBENj/)
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Album】花圃 - 急冻秋刀鱼 | 3 茶糜](https://www.bilibili.com/video/BV1cnSgBWEPU/?p=3)<sup><a id="note-1.2" href="#ref-1">[1]</a></sup>
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[茶靡 - 急冻秋刀鱼 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=3322484128)<sup><a id="note-1.1" href="#ref-1">[1]</a></sup>
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote独家曲目】茶靡 - 急冻秋刀鱼](https://www.bilibili.com/video/BV1DkUfBBENj/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Album】花圃 - 急冻秋刀鱼 | 3 茶糜](https://www.bilibili.com/video/BV1cnSgBWEPU/?p=3)<sup><a id="note-1.2" href="#ref-1">[1]</a></sup>
 
 ## 相关视频
 

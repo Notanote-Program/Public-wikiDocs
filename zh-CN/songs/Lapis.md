@@ -53,11 +53,11 @@
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Lapis（苍星石） - SHIKI - 单曲 - 网易云音乐](https://music.163.com/#/song?id=22792729)
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico)[SHIKI - Lapis](https://www.youtube.com/watch?v=cx2FMTxQ98A)
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[Lapis / SHIKI┃BMS - BOF2008【BGA】](https://www.bilibili.com/video/BV1NU4y1W78v/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Lapis（苍星石） - SHIKI - 单曲 - 网易云音乐](https://music.163.com/#/song?id=22792729)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico)[SHIKI - Lapis](https://www.youtube.com/watch?v=cx2FMTxQ98A)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[Lapis / SHIKI┃BMS - BOF2008【BGA】](https://www.bilibili.com/video/BV1NU4y1W78v/)
 
 ## 相关视频
 
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Lapis [SY 8.6] 谱面演示](https://www.bilibili.com/video/BV1nrkXBWEe6/)
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Lapis [EZ 2.5] 谱面演示](https://www.bilibili.com/video/BV16kkXBXEJB/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Lapis [SY 8.6] 谱面演示](https://www.bilibili.com/video/BV1nrkXBWEe6/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Lapis [EZ 2.5] 谱面演示](https://www.bilibili.com/video/BV16kkXBXEJB/)

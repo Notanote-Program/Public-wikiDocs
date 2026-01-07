@@ -41,6 +41,7 @@
 
 - 本曲是BOF2006个人战第37名。
 - 本曲是Notanote第一个拥有谱面异象的曲目。在解锁过程中，游玩Moondread后再游玩End Time即可触发异象。
+    - 重玩异象的方法为：在设置中将亮度、对比度、饱和度中任意一项调至100%或-100%。
 - 本曲的三张谱面为[JMY](?p=charter_list&l=zh-CN#JMY)与[SiLENTORANGE](?p=charter_list&l=zh-CN#SiLENTORANGE)在Notanote中第一次亮相的谱面。
 
 ## 攻略
@@ -59,13 +60,13 @@
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[End Time - Cres. - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2079867339)
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico)[[BOF 2006] End Time - Cres](https://www.youtube.com/watch?v=9-bLRFOTVQM)
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【BOF2006】Cres. - End Time [SEGA高画质REMAKE For maimai]](https://www.bilibili.com/video/BV1at411F7nS/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[End Time - Cres. - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2079867339)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico)[[BOF 2006] End Time - Cres](https://www.youtube.com/watch?v=9-bLRFOTVQM)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【BOF2006】Cres. - End Time [SEGA高画质REMAKE For maimai]](https://www.bilibili.com/video/BV1at411F7nS/)
 
 ## 相关视频
 
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】End Time [SY 9.4] 谱面演示](https://www.bilibili.com/video/BV1EYeizKEfv/)
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】End Time [SY+ 10.4] 谱面演示](https://www.bilibili.com/video/BV1EYeizKEfv/)
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】End Time [EZ 3.0] 谱面演示](https://www.bilibili.com/video/BV1EYeizKEfv/)
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote/手把手教你爆打烂烂的楼】End Time [SY+ 10] All Perfect Rank X！](https://www.bilibili.com/video/BV13oegz9E21/)（玩家：[九段不合格](https://space.bilibili.com/1633653929/)）
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】End Time [SY 9.4] 谱面演示](https://www.bilibili.com/video/BV1EYeizKEfv/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】End Time [SY+ 10.4] 谱面演示](https://www.bilibili.com/video/BV1EYeizKEfv/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】End Time [EZ 3.0] 谱面演示](https://www.bilibili.com/video/BV1EYeizKEfv/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote/手把手教你爆打烂烂的楼】End Time [SY+ 10] All Perfect Rank X！](https://www.bilibili.com/video/BV13oegz9E21/)（玩家：[九段不合格](https://space.bilibili.com/1633653929/)）

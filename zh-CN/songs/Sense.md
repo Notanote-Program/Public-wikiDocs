@@ -49,10 +49,10 @@
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Sense - BilliumMoto/Silentroom - 单曲 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1909347605)
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico)[【BOFXVII】BilliumMoto × Silentroom - Sense](https://www.youtube.com/watch?v=ZZtzydJXkaw)
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[BilliumMoto × Silentroom - Sense | BOFXVII Team [Clue]](https://www.bilibili.com/video/BV1HU4y1g7AQ/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Sense - BilliumMoto/Silentroom - 单曲 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1909347605)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico)[【BOFXVII】BilliumMoto × Silentroom - Sense](https://www.youtube.com/watch?v=ZZtzydJXkaw)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[BilliumMoto × Silentroom - Sense | BOFXVII Team [Clue]](https://www.bilibili.com/video/BV1HU4y1g7AQ/)
 
 ## 相关视频
 
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Sense [SY 8.1] 谱面演示](https://www.bilibili.com/video/BV1ac8Ez8EJs/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Sense [SY 8.1] 谱面演示](https://www.bilibili.com/video/BV1ac8Ez8EJs/)
