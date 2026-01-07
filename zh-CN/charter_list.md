@@ -12,10 +12,7 @@
 - 常用马甲：嘤箱、xyx、yx
 - Notanote主力谱师，截至目前共参与80多张谱面
 - 在组内也负责剧情
-- Phigros自制谱谱师
-- 上海人
 - 性别：男
-- 现就读于上海师范大学
 - [哔哩哔哩](https://space.bilibili.com/652255251)
 
 | 曲名 | 所属章节 | 谱师名义 | 备注 |
@@ -119,7 +116,6 @@
 - 曾用网名Milolin
 - 冰与火之舞自制谱谱师
 - 也是无限梦工作人员
-- 性别：男
 - [哔哩哔哩](https://space.bilibili.com/590670174)
 
 | 曲名 | 所属章节 | 谱师名义 | 备注 |
@@ -139,6 +135,7 @@
 | [Glimmer](?p=songs/Glimmer&l=zh-CN) | [单曲](?p=chapters/Singles&l=zh-CN) | **SY** [zecolost](?p=charter_list&l=zh-CN#zecolost) | |
 
 <a id="Arthur"></a>
+
 ## Arthur
 
 - 常用马甲：DarntZhunr、吐司
@@ -162,7 +159,6 @@
 ## Lei_motife
 
 - 常用马甲：Lei、泪、泪莫提
-- Phigros自制谱谱师
 - 性别：男
 - [哔哩哔哩](https://space.bilibili.com/1665937402)
 
@@ -183,7 +179,6 @@
 
 ## 活性氮
 
-- Arcaea自制谱谱师
 - 性别：男
 - [哔哩哔哩](https://space.bilibili.com/325475443)
 
@@ -205,7 +200,6 @@
 
 - Notanote主策~~，嘿嘿嘿香香软软的主策大人~~
 - Phigros自制谱谱师
-- 安徽安庆人
 - 性别：男
 - [哔哩哔哩](https://space.bilibili.com/439775291)
 
@@ -233,16 +227,25 @@
 | [能量过载-オーバロード-](?p=songs/Nengliang_Guozai-Overload-&l=zh-CN) | [单曲](?p=chapters/Singles&l=zh-CN) | **SY** [OV](?p=charter_list&l=zh-CN#XyX)[ER](?p=charter_list&l=zh-CN#qm)[LO](?p=charter_list&l=zh-CN#Yiye)[AD](?p=charter_list&l=zh-CN#Greenball233)<br>**EZ** [嘤箱](?p=charter_list&l=zh-CN#XyX) vs. [qm](?p=charter_list&l=zh-CN#qm)（[OwO](?p=charter_list&l=zh-CN#OwO) Modified） | SY难度谱师名义意为“过载”，对应曲名 |
 | [《Ж》](?p=songs/Convergence&l=zh-CN) | [单曲](?p=chapters/Singles&l=zh-CN) | **TL** 《[LEI](?p=charter_list&l=zh-CN#Lei_motife) devour [QM](?p=charter_list&l=zh-CN#qm)》 | 谱师名义被书名号包裹，模仿曲名 |
 
+<a id="1615"></a>
+
+## 十六点一刻
+
+- 常用马甲：1615
+- [哔哩哔哩](https://space.bilibili.com/43743261)
+
+| 曲名 | 所属章节 | 谱师名义 | 备注 |
+| :-: | :-: | :-: | :-: |
+| [Flutter Echo](?p=songs/Flutter_Echo&l=zh-CN) | [KALPA](?p=chapters/KALPA&l=zh-CN) | **SY** [F1utt6r1n5](?p=charter_list&l=zh-CN#1615) | |
+
 <a id="SiLENTORANGE"></a>
 
 ## SiLENTORANGE
 
 - 常用马甲：KNYORG（与[JMY](?p=charter_list&l=zh-CN#JMY)的合作名义）
 - 常与[JMY](?p=charter_list&l=zh-CN#JMY)合作
-- 也是曲师与曲绘画师
-- Phigros自制谱谱师
+- 也是曲师，会平面设计
 - 性别：男
-- 北京人
 - [哔哩哔哩](https://space.bilibili.com/1675907700)
 
 | 曲名 | 所属章节 | 谱师名义 | 备注 |
@@ -253,10 +256,9 @@
 
 ## JMY
 
-- 常用马甲：KNYORG（与SiLENTORANGE[?p=charter_list&l=zh-CN#SiLENTORANGE]的合作名义）
-- 常与SiLENTORANGE[?p=charter_list&l=zh-CN#SiLENTORANGE]合作
+- 常用马甲：KNYORG（与[SiLENTORANGE](?p=charter_list&l=zh-CN#SiLENTORANGE)的合作名义）
+- 常与[SiLENTORANGE](?p=charter_list&l=zh-CN#SiLENTORANGE)合作
 - 也是曲师
-- Phigros自制谱谱师
 - 电子音乐社团“奇迹小调”主催
 - 性别：男
 - [哔哩哔哩](https://space.bilibili.com/302224165)
@@ -293,12 +295,8 @@
 - 在组内也负责数据管理
 - ***本Wiki内容编写者***
 - ***[Notanote查分器](http://xuziyao.com/notanote/best/)制作者***
-- Phigros自制谱师
-- 性别：男
-- 生日：2010年9月18日（目前Notanote组内第二年轻的人，第一是负责配音的大寒）
-- 上海人
+- Notanote组内第二年轻的人（第一是配音大寒）
 - [哔哩哔哩](https://space.bilibili.com/17116186)
-- QQ：2296655624
 - [X](https://twitter.com/Dason2074137)
 - [GitHub](https://github.com/SeRazon)
 - [个人网站](http://xuziyao.com)
@@ -315,15 +313,8 @@
 - 曾用网名为星河StarsRiver，2024年3月改为现名
 - 在Notanote中的初谱为[F℟IEND](?p=songs/FRIEND&l=zh-CN)的EZ谱面
 - 在组内也负责程序、外部联络、外部宣传
-- Phigros自制谱师
-- 也是PhiTogether、Phigrim的工作人员
-- 性别：男
-- 生日：2007年6月29日
-- 江西赣州人
-- 现就读于江西财经大学软件工程专业
-- 兴趣：音乐、编程等
+- 也是曲师
 - [哔哩哔哩](https://space.bilibili.com/472170134)
-- QQ：2161252115
 - [X](https://twitter.com/starsriver779)
 - [GitHub](https://github.com/Notanote-Program)
 - [个人网站](https://xhsr.org.cn)

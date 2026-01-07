@@ -87,12 +87,12 @@
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Glimmer - Akiuta - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2601368621)<sup><a id="note-1.1" href="#ref-1">[1]</a></sup>
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[Glimmer - Sea of Flowers EP -](https://www.bilibili.com/video/BV1AS411A7om/)<sup><a id="note-1.2" href="#ref-1">[1]</a></sup>
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Glimmer - Akiuta - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2601368621)<sup><a id="note-1.1" href="#ref-1">[1]</a></sup>
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[Glimmer - Sea of Flowers EP -](https://www.bilibili.com/video/BV1AS411A7om/)<sup><a id="note-1.2" href="#ref-1">[1]</a></sup>
 
 ## 相关视频
 
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Glimmer [SY 5.3] 谱面演示](https://www.bilibili.com/video/BV1QGmPB2EGA/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Glimmer [SY 5.3] 谱面演示](https://www.bilibili.com/video/BV1QGmPB2EGA/)
 
 ## 注释
 

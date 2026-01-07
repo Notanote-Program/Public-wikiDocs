@@ -61,12 +61,12 @@
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[《Ж》（第19届BOF创作大赛个人战冠军曲） - LYRi "Cyanblue" WHiTE/NIKANON - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2128530603)
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico)[【BOF:NT】 《Ж》 【BGA】](https://www.youtube.com/watch?v=iUB32XQAwEE)
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【BOF:NT】《Ж》【BGA】](https://www.bilibili.com/video/BV1fr4y1X7nt/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[《Ж》（第19届BOF创作大赛个人战冠军曲） - LYRi "Cyanblue" WHiTE/NIKANON - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2128530603)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico)[【BOF:NT】 《Ж》 【BGA】](https://www.youtube.com/watch?v=iUB32XQAwEE)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【BOF:NT】《Ж》【BGA】](https://www.bilibili.com/video/BV1fr4y1X7nt/)
 
 ## 相关视频
 
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】《Ж》 [SY 10.5] 谱面预览 / 米 / 黑洞](https://www.bilibili.com/video/BV1g6421w7mo/)
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】《Ж》 [TL 8.6] 谱面演示 / 米 / 黑洞](https://www.bilibili.com/video/BV1yZ8XzEEZp/)
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote/全球首杀】震撼！Notanote最难魔王曲《Ж》[SY 10] All Perfect Rank X！](https://www.bilibili.com/video/BV1R78gz1Ewe/)（玩家：[九段不合格](https://space.bilibili.com/1633653929/)）
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】《Ж》 [SY 10.5] 谱面预览 / 米 / 黑洞](https://www.bilibili.com/video/BV1g6421w7mo/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】《Ж》 [TL 8.6] 谱面演示 / 米 / 黑洞](https://www.bilibili.com/video/BV1yZ8XzEEZp/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote/全球首杀】震撼！Notanote最难魔王曲《Ж》[SY 10] All Perfect Rank X！](https://www.bilibili.com/video/BV1R78gz1Ewe/)（玩家：[九段不合格](https://space.bilibili.com/1633653929/)）

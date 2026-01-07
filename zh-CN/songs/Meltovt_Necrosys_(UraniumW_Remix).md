@@ -57,13 +57,13 @@
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Meltovt Necrosys (Uraniumw Remix) - UraniumW/Halv/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2714634342)
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote x Soul Notes】Meltovt Necrosys (UraniumW Remix) - UraniumW](https://www.bilibili.com/video/BV1b4P2e1Ehc/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Meltovt Necrosys (Uraniumw Remix) - UraniumW/Halv/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2714634342)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote x Soul Notes】Meltovt Necrosys (UraniumW Remix) - UraniumW](https://www.bilibili.com/video/BV1b4P2e1Ehc/)
 
 ## 相关视频
 
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Meltovt Necrosys (UraniumW Remix) [SY 7.9] 谱面演示 / 香蕉牛奶](https://www.bilibili.com/video/BV1TNGzziEP1/)
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Meltovt Necrosys (UraniumW Remix) [TL 4.5] 谱面演示 / 香蕉牛奶](https://www.bilibili.com/video/BV1PgGzzAEQv/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Meltovt Necrosys (UraniumW Remix) [SY 7.9] 谱面演示 / 香蕉牛奶](https://www.bilibili.com/video/BV1TNGzziEP1/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Meltovt Necrosys (UraniumW Remix) [TL 4.5] 谱面演示 / 香蕉牛奶](https://www.bilibili.com/video/BV1PgGzzAEQv/)
 
 ## 注释
 

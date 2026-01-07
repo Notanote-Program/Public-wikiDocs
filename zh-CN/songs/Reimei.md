@@ -53,11 +53,11 @@
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Reimei（黎明） - 影虎。 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1396181979)
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico)[影虎。[Kagetora.] / Reimei 【G2R2018 / Phigros】](https://www.youtube.com/watch?v=PqkNsrEJzpk)
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[影虎。[Kagetora..] / Reimei](https://www.bilibili.com/video/BV1C44y1r7KH/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Reimei（黎明） - 影虎。 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1396181979)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico)[影虎。[Kagetora.] / Reimei 【G2R2018 / Phigros】](https://www.youtube.com/watch?v=PqkNsrEJzpk)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[影虎。[Kagetora..] / Reimei](https://www.bilibili.com/video/BV1C44y1r7KH/)
 
 ## 相关视频
 
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Reimei [SY 7.7] 谱面演示](https://www.bilibili.com/video/BV1ugHAzfEXX/)
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Reimei [EZ 3.0] 谱面演示](https://www.bilibili.com/video/BV1TLHAzxEcu/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Reimei [SY 7.7] 谱面演示](https://www.bilibili.com/video/BV1ugHAzfEXX/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Reimei [EZ 3.0] 谱面演示](https://www.bilibili.com/video/BV1TLHAzxEcu/)

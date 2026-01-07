@@ -40,7 +40,7 @@
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote x 第九日记录】Recordatio Temporis - EOTW433](https://www.bilibili.com/video/BV16p17B8EPb/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote x 第九日记录】Recordatio Temporis - EOTW433](https://www.bilibili.com/video/BV16p17B8EPb/)
 
 ## 相关视频
 

@@ -98,9 +98,9 @@ And not have to remember you never belonged to me
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)["She" - ΓИ7AL - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1887473162)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)["She" - ΓИ7AL - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1887473162)
 
 ## 相关视频
 
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】"SHE" [SY 3.5] 谱面演示](https://www.bilibili.com/video/BV16igZzgEif/)
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote/移动端测试】"SHE" SY4 All Perfect](https://www.bilibili.com/video/BV1pP4wePEwu/)（玩家：[CMR_音律浪](https://space.bilibili.com/549751251/)）
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】"SHE" [SY 3.5] 谱面演示](https://www.bilibili.com/video/BV16igZzgEif/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote/移动端测试】"SHE" SY4 All Perfect](https://www.bilibili.com/video/BV1pP4wePEwu/)（玩家：[CMR_音律浪](https://space.bilibili.com/549751251/)）

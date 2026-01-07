@@ -56,8 +56,8 @@
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[梦的彼岸 - Caviare - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1971867249)
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【电音/Midtempo】霓彩 —— Caviare - 梦的彼岸](https://www.bilibili.com/video/BV1514y197CD/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[梦的彼岸 - Caviare - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1971867249)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【电音/Midtempo】霓彩 —— Caviare - 梦的彼岸](https://www.bilibili.com/video/BV1514y197CD/)
 
 ## 相关视频
 

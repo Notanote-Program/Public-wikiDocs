@@ -98,10 +98,10 @@ And it's time to claim our every rights
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[韵临律界·DayBreak（韵临律界II主题曲） - shadow_bling/ТЕЕМСИКЛ/SKa2or/左乙/Chen-ing Music/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2731284950)
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【韵临律界II】主题曲《DayBreak》，那座大门将再度打开！](https://www.bilibili.com/video/BV1Z28Bz8EjS/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[韵临律界·DayBreak（韵临律界II主题曲） - shadow_bling/ТЕЕМСИКЛ/SKa2or/左乙/Chen-ing Music/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2731284950)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【韵临律界II】主题曲《DayBreak》，那座大门将再度打开！](https://www.bilibili.com/video/BV1Z28Bz8EjS/)
 
 ## 相关视频
 
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】DayBreak [SY 7.9] 谱面演示](https://www.bilibili.com/video/BV16uHPzEEXC/)
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】DayBreak [EZ 5.1] 谱面演示](https://www.bilibili.com/video/BV17qHAz3Egr/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】DayBreak [SY 7.9] 谱面演示](https://www.bilibili.com/video/BV16uHPzEEXC/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】DayBreak [EZ 5.1] 谱面演示](https://www.bilibili.com/video/BV17qHAz3Egr/)

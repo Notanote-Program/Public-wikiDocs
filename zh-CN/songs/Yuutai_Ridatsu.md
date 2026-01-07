@@ -215,10 +215,10 @@
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[幽体離脱 (feat. 初音ミク)（灵魂出窍） - きくお/初音ミク - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1953839808)
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico)[Kikuo - 幽体離脱](https://www.youtube.com/watch?v=UHH2KKN0xoc)
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[Kikuo - 星体投射 feat. 初音ミク & 初音未來](https://www.bilibili.com/video/BV1pU4y1d78T/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[幽体離脱 (feat. 初音ミク)（灵魂出窍） - きくお/初音ミク - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1953839808)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico)[Kikuo - 幽体離脱](https://www.youtube.com/watch?v=UHH2KKN0xoc)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[Kikuo - 星体投射 feat. 初音ミク & 初音未來](https://www.bilibili.com/video/BV1pU4y1d78T/)
 
 ## 相关视频
 
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】幽体離脱 [SY 5.6] 谱面演示 / 星体投射](https://www.bilibili.com/video/BV1fhHAz5EdM/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】幽体離脱 [SY 5.6] 谱面演示 / 星体投射](https://www.bilibili.com/video/BV1fhHAz5EdM/)

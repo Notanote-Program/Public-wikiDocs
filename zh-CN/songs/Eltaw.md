@@ -78,16 +78,16 @@ Eltaw
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Eltaw - Fl00t - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1924765006)
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico)[Fl00t - Eltaw](https://www.youtube.com/watch?v=tgH4FxutyXc)
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[Fl00t - Eltaw](https://www.bilibili.com/video/BV1Fb4y117BW/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Eltaw - Fl00t - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1924765006)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico)[Fl00t - Eltaw](https://www.youtube.com/watch?v=tgH4FxutyXc)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[Fl00t - Eltaw](https://www.bilibili.com/video/BV1Fb4y117BW/)
 
 ## 相关视频
 
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Eltaw [SY 8.3] 谱面演示](https://www.bilibili.com/video/BV1WtgZz1EDU/)
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Eltaw [EZ 4.5] 谱面演示](https://www.bilibili.com/video/BV1WtgZz1E6n/)
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Eltaw [TL 4.0] 谱面演示](https://www.bilibili.com/video/BV1khgZzCEZ8/)
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【内测首杀】Eltaw - Notanote](https://www.bilibili.com/video/BV1fX4y177be/)（玩家：[爬爬](https://space.bilibili.com/296690663/)）
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Eltaw [SY 8.3] 谱面演示](https://www.bilibili.com/video/BV1WtgZz1EDU/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Eltaw [EZ 4.5] 谱面演示](https://www.bilibili.com/video/BV1WtgZz1E6n/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Eltaw [TL 4.0] 谱面演示](https://www.bilibili.com/video/BV1khgZzCEZ8/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【内测首杀】Eltaw - Notanote](https://www.bilibili.com/video/BV1fX4y177be/)（玩家：[爬爬](https://space.bilibili.com/296690663/)）
 
 ## 注释
 

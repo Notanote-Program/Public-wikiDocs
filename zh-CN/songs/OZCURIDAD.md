@@ -61,15 +61,15 @@
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[ΩZСÜRIDΛD - 猎影双煞NonNam/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2737848248)
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote原创曲】主线二最终曲：ΩZСÜRIDΛD - 瓜牛女王 vs. 瓜牛女王の夫 feat. SOLARIA](https://www.bilibili.com/video/BV15yeBziEH7/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[ΩZСÜRIDΛD - 猎影双煞NonNam/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2737848248)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote原创曲】主线二最终曲：ΩZСÜRIDΛD - 瓜牛女王 vs. 瓜牛女王の夫 feat. SOLARIA](https://www.bilibili.com/video/BV15yeBziEH7/)
 
 ## 相关视频
 
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】ΩZСÜRIDΛD [SY 9.3] 谱面演示 / 瓜牛 / OZCURIDAD](https://www.bilibili.com/video/BV1aHJ9ziEWk/)
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】ΩZСÜRIDΛD [EZ 2.5] 谱面演示 / 瓜牛 / OZCURIDAD](https://www.bilibili.com/video/BV15keizFEQz/)
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】ΩZСÜRIDΛD [NT 10.8] 谱面演示 / 瓜牛 / OZCURIDAD](https://www.bilibili.com/video/BV1aAeizdEQo/)
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote/手法教学】全新第二章最难魔王曲 ΩZСÜRIDΛD [NT 10+] All Perfect Rank X！读谱拆谱手顺背谱节奏地狱　瓜牛](https://www.bilibili.com/video/BV1chebzsED5/)（玩家：[九段不合格](https://space.bilibili.com/1633653929/)）
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】ΩZСÜRIDΛD [SY 9.3] 谱面演示 / 瓜牛 / OZCURIDAD](https://www.bilibili.com/video/BV1aHJ9ziEWk/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】ΩZСÜRIDΛD [EZ 2.5] 谱面演示 / 瓜牛 / OZCURIDAD](https://www.bilibili.com/video/BV15keizFEQz/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】ΩZСÜRIDΛD [NT 10.8] 谱面演示 / 瓜牛 / OZCURIDAD](https://www.bilibili.com/video/BV1aAeizdEQo/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote/手法教学】全新第二章最难魔王曲 ΩZСÜRIDΛD [NT 10+] All Perfect Rank X！读谱拆谱手顺背谱节奏地狱　瓜牛](https://www.bilibili.com/video/BV1chebzsED5/)（玩家：[九段不合格](https://space.bilibili.com/1633653929/)）
 
 ## 注释
 

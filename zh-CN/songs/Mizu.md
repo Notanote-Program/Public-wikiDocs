@@ -52,10 +52,10 @@
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Mizu - Itz咸鱼/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2147011178)
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote原创曲】Mizu - Itz咸鱼](https://www.bilibili.com/video/BV1AZ421n78Z/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Mizu - Itz咸鱼/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2147011178)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote原创曲】Mizu - Itz咸鱼](https://www.bilibili.com/video/BV1AZ421n78Z/)
 
 ## 相关视频
 
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Mizu [SY 8.4] 谱面演示](https://www.bilibili.com/video/BV1bskXBNEEZ/)
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Mizu [EZ 3.0] 谱面演示](https://www.bilibili.com/video/BV1nrkXBWEEa/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Mizu [SY 8.4] 谱面演示](https://www.bilibili.com/video/BV1bskXBNEEZ/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Mizu [EZ 3.0] 谱面演示](https://www.bilibili.com/video/BV1nrkXBWEEa/)

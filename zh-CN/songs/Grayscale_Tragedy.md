@@ -59,10 +59,10 @@
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[polysha - Grayscale Tragedy【BerryMelody/DanceRail3】](https://www.bilibili.com/video/BV1sdFeeYERN/)
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico)[[Berry Melody/Lanota] Grayscale Tragedy - polysha【音源】【高音質】](https://www.youtube.com/watch?v=DTSyKp43Zxg)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[polysha - Grayscale Tragedy【BerryMelody/DanceRail3】](https://www.bilibili.com/video/BV1sdFeeYERN/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico)[[Berry Melody/Lanota] Grayscale Tragedy - polysha【音源】【高音質】](https://www.youtube.com/watch?v=DTSyKp43Zxg)
 
 ## 相关视频
 
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Grayscale Tragedy [SY 8.0] 谱面演示](https://www.bilibili.com/video/BV1Q7KWzSEnV/)
-- ![](https://gh.llkk.cc/raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Grayscale Tragedy [EZ 2.0] 谱面演示](https://www.bilibili.com/video/BV1PvKWzuEaG/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Grayscale Tragedy [SY 8.0] 谱面演示](https://www.bilibili.com/video/BV1Q7KWzSEnV/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Grayscale Tragedy [EZ 2.0] 谱面演示](https://www.bilibili.com/video/BV1PvKWzuEaG/)
