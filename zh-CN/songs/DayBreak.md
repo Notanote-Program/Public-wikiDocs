@@ -1,7 +1,6 @@
 # DayBreak
 
 <div class="NoticeBoard">
-  <br>
   <p>照れ照れdance~oh~照れ照れdance~</p>
 </div>
 
@@ -52,56 +51,56 @@
 
 ## 歌词
 
-早早早！爱的morning call～
-新一天！马上充满电量～
-就算跌倒！姿势也闪耀～
-照れ照れdance oh 照れ照れ dance
+早早早！爱的morning call～<br />
+新一天！马上充满电量～<br />
+就算跌倒！姿势也闪耀～<br />
+照れ照れdance oh 照れ照れ dance<br />
 照れdance～
 
-早早早！爱的morning call～
-新一天！马上充满电量～
-就算跌倒！姿势也闪耀～
-照れ照れdance oh 照れ照れ dance
-Drop！
-早早早！爱的morning call～
-新一天！马上充满电量～
-就算跌倒！姿势也闪耀～
-照れ照れdance oh 照れ照れ dance
-早早早！爱的morning call～
-新一天！马上充满电量～
-就算跌倒！姿势也闪耀～
-照れ照れdance oh 照れ照れ dance
-照れdance～
-own my daybreak
-ba ba ba ba ba
-own my daybreak
-ba ba ba
+早早早！爱的morning call～<br />
+新一天！马上充满电量～<br />
+就算跌倒！姿势也闪耀～<br />
+照れ照れdance oh 照れ照れ dance<br />
+Drop！<br />
+早早早！爱的morning call～<br />
+新一天！马上充满电量～<br />
+就算跌倒！姿势也闪耀～<br />
+照れ照れdance oh 照れ照れ dance<br />
+早早早！爱的morning call～<br />
+新一天！马上充满电量～<br />
+就算跌倒！姿势也闪耀～<br />
+照れ照れdance oh 照れ照れ dance<br />
+照れdance～<br />
+own my daybreak<br />
+ba ba ba ba ba<br />
+own my daybreak<br />
+ba ba ba<br />
 And it's time to claim our every rights
 
-照れ照れdance
-照れ照れdance
-照れ照れdance
+照れ照れdance<br />
+照れ照れdance<br />
+照れ照れdance<br />
 照れ照れdance
 
-Drop！
-own my daybreak
-Drop！
-And it's time to claim our every rights
+Drop！<br />
+own my daybreak<br />
+Drop！<br />
+And it's time to claim our every rights<br />
 早早早！爱的morning call～
 
 就算跌倒！姿势也闪耀～
 
-早早早！爱的morning call～
-新一天！马上充满电量～
-就算跌倒！姿势也闪耀～
+早早早！爱的morning call～<br />
+新一天！马上充满电量～<br />
+就算跌倒！姿势也闪耀～<br />
 照れ照れdance oh 照れ照れ dance
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[韵临律界·DayBreak（韵临律界II主题曲） - shadow_bling/ТЕЕМСИКЛ/SKa2or/左乙/Chen-ing Music/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2731284950)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【韵临律界II】主题曲《DayBreak》，那座大门将再度打开！](https://www.bilibili.com/video/BV1Z28Bz8EjS/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico) [韵临律界·DayBreak（韵临律界II主题曲） - shadow_bling/ТЕЕМСИКЛ/SKa2or/左乙/Chen-ing Music/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2731284950)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【韵临律界II】主题曲《DayBreak》，那座大门将再度打开！](https://www.bilibili.com/video/BV1Z28Bz8EjS/)
 
 ## 相关视频
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】DayBreak [SY 7.9] 谱面演示](https://www.bilibili.com/video/BV16uHPzEEXC/)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】DayBreak [EZ 5.1] 谱面演示](https://www.bilibili.com/video/BV17qHAz3Egr/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote谱面保管室】DayBreak [SY 7.9] 谱面演示](https://www.bilibili.com/video/BV16uHPzEEXC/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote谱面保管室】DayBreak [EZ 5.1] 谱面演示](https://www.bilibili.com/video/BV17qHAz3Egr/)

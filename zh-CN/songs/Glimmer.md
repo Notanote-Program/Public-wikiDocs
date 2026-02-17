@@ -1,7 +1,6 @@
 # Glimmer
 
 <div class="NoticeBoard">
-  <br>
   <p>「心中的灯塔 照亮那漫长的前方」</p>
 </div>
 
@@ -51,11 +50,11 @@
 
 ## 歌词
 
-夜晚降临 漆黑的天空
-星空闪烁 点亮那光芒
-追寻梦想的旅途 永不停歇
-眺望远方 期待未来的奇迹
-夜晚的黑暗 也无法阻挡
+夜晚降临 漆黑的天空<br />
+星空闪烁 点亮那光芒<br />
+追寻梦想的旅途 永不停歇<br />
+眺望远方 期待未来的奇迹<br />
+夜晚的黑暗 也无法阻挡<br />
 心中的灯塔 照亮那漫长的前方
 
 <div class="NoticeBoard">
@@ -63,36 +62,36 @@
     <details>
       <summary>点击展开/折叠游戏中版本被删去歌词</summary>
       <p>
-        星空璀璨 闪烁着微光<br>
-        光芒照亮 我心中的梦想<br>
-        追寻着希望 在无尽的远方<br>
-        温暖的微光 藏于那心房<br>
-        追寻梦想的旅途 永不停歇<br>
-        凝视远方 期待未来的奇迹<br>
-        我站在山巅迎接每个霞光四射的日出<br>
+        星空璀璨 闪烁着微光<br />
+        光芒照亮 我心中的梦想<br />
+        追寻着希望 在无尽的远方<br />
+        温暖的微光 藏于那心房<br />
+        追寻梦想的旅途 永不停歇<br />
+        凝视远方 期待未来的奇迹<br />
+        我站在山巅迎接每个霞光四射的日出<br />
         让心中的梦想翱翔在澄澈的天空
       </p>
       <p>
-        夜晚的黑暗 也无法阻挡<br>
+        夜晚的黑暗 也无法阻挡<br />
         心中的灯塔 照亮那漫长的前方
       </p>
     </details>
   </p>
 </div>
 
-追寻梦想的旅途 永不停歇
-眺望远方 期待未来的奇迹
-夜晚的黑暗 也无法阻挡
+追寻梦想的旅途 永不停歇<br />
+眺望远方 期待未来的奇迹<br />
+夜晚的黑暗 也无法阻挡<br />
 心中的灯塔 照亮那漫长的前方
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Glimmer - Akiuta - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2601368621)<sup><a id="note-1.1" href="#ref-1">[1]</a></sup>
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[Glimmer - Sea of Flowers EP -](https://www.bilibili.com/video/BV1AS411A7om/)<sup><a id="note-1.2" href="#ref-1">[1]</a></sup>
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico) [Glimmer - Akiuta - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2601368621)<sup><a id="note-1.1" href="#ref-1">[1]</a></sup>
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [Glimmer - Sea of Flowers EP -](https://www.bilibili.com/video/BV1AS411A7om/)<sup><a id="note-1.2" href="#ref-1">[1]</a></sup>
 
 ## 相关视频
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Glimmer [SY 5.3] 谱面演示](https://www.bilibili.com/video/BV1QGmPB2EGA/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote谱面保管室】Glimmer [SY 5.3] 谱面演示](https://www.bilibili.com/video/BV1QGmPB2EGA/)
 
 ## 注释
 

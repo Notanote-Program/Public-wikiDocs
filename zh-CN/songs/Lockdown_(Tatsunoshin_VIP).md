@@ -1,7 +1,6 @@
 # Lockdown (Tatsunoshin VIP)
 
 <div class="NoticeBoard">
-  <br>
   <p>「因为未来啊，仍存于彼方」</p>
 </div>
 
@@ -28,7 +27,7 @@
 
 ## 解锁方法
 
-阅读剧情收集品[「Cursed Land (Acoustic)」](?p=collectible_list&l=zh-CN#Cursed_Land_(Acoustic))解锁。
+阅读剧情收集品[「无色之人与无色之物」](?p=collectible_list&l=zh-CN#Colorless_People_and_Colorless_Things)解锁。
 
 ## 更新记录
 
@@ -62,25 +61,25 @@
 
 ### 原文
 
-沈んでいた 味のない日々でも<br>
-聞こえた君の ささやかな声を<br>
-掴めないまま ただこの街で<br>
-ずっと、ずっと 道を失った<br>
-どこへ行くだろう ただ進んで<br>
-行先もない 未来をずっと<br>
-砕いて 刻んて 潰して、迷いもなく<br>
-進んで 未来は<br>
+沈んでいた 味のない日々でも<br />
+聞こえた君の ささやかな声を<br />
+掴めないまま ただこの街で<br />
+ずっと、ずっと 道を失った<br />
+どこへ行くだろう ただ進んで<br />
+行先もない 未来をずっと<br />
+砕いて 刻んて 潰して、迷いもなく<br />
+進んで 未来は<br />
 そこにあるから
 
 そこにあるから
 
-消えていた 手紙の行き先へ<br>
-明かりと共に 飲み込まれていて<br>
-見つからないまま ただこの街で<br>
+消えていた 手紙の行き先へ<br />
+明かりと共に 飲み込まれていて<br />
+見つからないまま ただこの街で<br />
 ずっと ずっと ただ探していた
 
-砕いて 刻んて 潰して 迷いもなく<br>
-進んで 未来は<br>
+砕いて 刻んて 潰して 迷いもなく<br />
+進んで 未来は<br />
 そこにあるから
 
 そこにあるから
@@ -89,42 +88,42 @@
 
 - 翻译：[希望终焉](https://music.163.com/#/user/home?id=81334699)
 
-即使在这段失落平淡的日子里<br>
-也能听到你发出的微弱的声音<br>
-可是始终无法把握住 只是在这座城市里<br>
-重蹈覆辙的 迷失在道路中<br>
-要去往何方呢 我只是一直前进着<br>
-然而没有明确的目的 在未来到来之前一直<br>
-毁灭之 刻印之 击溃之 尔后不再迷惘<br>
-继续前进 因为未来啊<br>
+即使在这段失落平淡的日子里<br />
+也能听到你发出的微弱的声音<br />
+可是始终无法把握住 只是在这座城市里<br />
+重蹈覆辙的 迷失在道路中<br />
+要去往何方呢 我只是一直前进着<br />
+然而没有明确的目的 在未来到来之前一直<br />
+毁灭之 刻印之 击溃之 尔后不再迷惘<br />
+继续前进 因为未来啊<br />
 仍存于彼方
 
 仍存于彼方
 
-那封信件的目的地逐渐消失<br>
-和光芒一同 逐渐被吞噬<br>
-至今为止仍未找到 只是在这座城市里<br>
+那封信件的目的地逐渐消失<br />
+和光芒一同 逐渐被吞噬<br />
+至今为止仍未找到 只是在这座城市里<br />
 一次又一次的 寻找着
 
-毁灭之 刻印之 击溃之 尔后不再迷惘<br>
-继续前进 因为未来啊<br>
+毁灭之 刻印之 击溃之 尔后不再迷惘<br />
+继续前进 因为未来啊<br />
 仍存于彼方
 
 仍存于彼方
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Lockdown (Tatsunoshin VIP) - Tatsunoshin/PIKASONIC/Tsugumi Nagahara - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1844464120)<sup><a id="note-1.1" href="#ref-1">[1]</a></sup>
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Lockdown (feat. NEONA) - Tatsunoshin/PIKASONIC/NEONA - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1937255781)<sup><a id="note-2.1" href="#ref-2">[2]</a></sup>
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico)[Lockdown (Tatsunoshin VIP)](https://www.youtube.com/watch?v=kbOwM4G6gTQ)<sup><a id="note-1.2" href="#ref-1">[1]</a></sup>
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico)[PIKASONIC & Tatsunoshin - Lockdown (ft.NEONA) [Official Video]](https://www.youtube.com/watch?v=VyOVykOzvoE)<sup><a id="note-2.2" href="#ref-2">[2]</a></sup>
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[PIKASONIC x Tatsunoshin feat. Tsugumi Nagahara - Lockdown (Tatsunoshin VIP)](https://www.bilibili.com/video/BV1qt4y1s79g/)<sup><a id="note-1.3" href="#ref-1">[1]</a></sup>
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[PIKASONIC & Tatsunoshin - Lockdown (ft.NEONA)](https://www.bilibili.com/video/BV1xR4y1e7SQ/)<sup><a id="note-2.3" href="#ref-2">[2]</a></sup>
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico) [Lockdown (Tatsunoshin VIP) - Tatsunoshin/PIKASONIC/Tsugumi Nagahara - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1844464120)<sup><a id="note-1.1" href="#ref-1">[1]</a></sup>
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico) [Lockdown (feat. NEONA) - Tatsunoshin/PIKASONIC/NEONA - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1937255781)<sup><a id="note-2.1" href="#ref-2">[2]</a></sup>
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico) [Lockdown (Tatsunoshin VIP)](https://www.youtube.com/watch?v=kbOwM4G6gTQ)<sup><a id="note-1.2" href="#ref-1">[1]</a></sup>
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico) [PIKASONIC & Tatsunoshin - Lockdown (ft.NEONA) [Official Video]](https://www.youtube.com/watch?v=VyOVykOzvoE)<sup><a id="note-2.2" href="#ref-2">[2]</a></sup>
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [PIKASONIC x Tatsunoshin feat. Tsugumi Nagahara - Lockdown (Tatsunoshin VIP)](https://www.bilibili.com/video/BV1qt4y1s79g/)<sup><a id="note-1.3" href="#ref-1">[1]</a></sup>
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [PIKASONIC & Tatsunoshin - Lockdown (ft.NEONA)](https://www.bilibili.com/video/BV1xR4y1e7SQ/)<sup><a id="note-2.3" href="#ref-2">[2]</a></sup>
 
 ## 相关视频
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Lockdown (Tatsunoshin VIP) [SY 6.8] 谱面演示](https://www.bilibili.com/video/BV1ZJgozwEbL/)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Lockdown (Tatsunoshin VIP) [EZ 3.5] 谱面演示](https://www.bilibili.com/video/BV1dpgozFE6s/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote谱面保管室】Lockdown (Tatsunoshin VIP) [SY 6.8] 谱面演示](https://www.bilibili.com/video/BV1ZJgozwEbL/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote谱面保管室】Lockdown (Tatsunoshin VIP) [EZ 3.5] 谱面演示](https://www.bilibili.com/video/BV1dpgozFE6s/)
 
 ## 注释
 

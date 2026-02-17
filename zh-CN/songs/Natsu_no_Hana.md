@@ -1,8 +1,7 @@
 # 夏の花
 
 <div class="NoticeBoard">
-  <br>
-  <p>一起……<br>看烟花……</p>
+  <p>一起……<br />看烟花……</p>
 </div>
 
 ## 曲目信息
@@ -28,7 +27,7 @@
 
 ## 解锁方法
 
-阅读剧情收集品[「Airy Dream」](?p=collectible_list&l=zh-CN#Airy_Dream)解锁。
+阅读剧情收集品[「宅女出门！」](?p=collectible_list&l=zh-CN#The_Otaku_Girl_Goes_Out)解锁。
 
 ## 更新记录
 
@@ -56,7 +55,7 @@
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[夏の花 - Sakanapaste/Hilarity Leap Records - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2068402486)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico) [夏の花 - Sakanapaste/Hilarity Leap Records - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2068402486)
 
 ## 相关视频
 

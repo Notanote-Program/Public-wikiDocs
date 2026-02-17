@@ -1,7 +1,6 @@
 # 《Ж》
 
 <div class="NoticeBoard">
-  <br>
   <p>𝚃𝚑𝚎 𝚊𝚋𝚜𝚎𝚗𝚌𝚎 𝚘𝚏 𝚎𝚟𝚎𝚗𝚝 𝚑𝚘𝚛𝚒𝚣𝚘𝚗𝚜 𝚖𝚎𝚊𝚗𝚜 𝚝𝚑𝚊𝚝 𝚝𝚑𝚎𝚛𝚎 𝚊𝚛𝚎 𝚗𝚘 𝚋𝚕𝚊𝚌𝚔 𝚑𝚘𝚕𝚎𝚜 — 𝚒𝚗 𝚝𝚑𝚎 𝚜𝚎𝚗𝚜𝚎 𝚘𝚏 𝚛𝚎𝚐𝚒𝚖𝚎𝚜 𝚏𝚛𝚘𝚖 𝚠𝚑𝚒𝚌𝚑 𝚕𝚒𝚐𝚑𝚝 𝚌𝚊𝚗'𝚝 𝚎𝚜𝚌𝚊𝚙𝚎 𝚝𝚘 𝚒𝚗𝚏𝚒𝚗𝚒𝚝𝚢.</p>
 </div>
 
@@ -61,12 +60,12 @@
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[《Ж》（第19届BOF创作大赛个人战冠军曲） - LYRi "Cyanblue" WHiTE/NIKANON - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2128530603)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico)[【BOF:NT】 《Ж》 【BGA】](https://www.youtube.com/watch?v=iUB32XQAwEE)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【BOF:NT】《Ж》【BGA】](https://www.bilibili.com/video/BV1fr4y1X7nt/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico) [《Ж》（第19届BOF创作大赛个人战冠军曲） - LYRi "Cyanblue" WHiTE/NIKANON - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2128530603)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico) [【BOF:NT】 《Ж》 【BGA】](https://www.youtube.com/watch?v=iUB32XQAwEE)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【BOF:NT】《Ж》【BGA】](https://www.bilibili.com/video/BV1fr4y1X7nt/)
 
 ## 相关视频
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】《Ж》 [SY 10.5] 谱面预览 / 米 / 黑洞](https://www.bilibili.com/video/BV1g6421w7mo/)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】《Ж》 [TL 8.6] 谱面演示 / 米 / 黑洞](https://www.bilibili.com/video/BV1yZ8XzEEZp/)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote/全球首杀】震撼！Notanote最难魔王曲《Ж》[SY 10] All Perfect Rank X！](https://www.bilibili.com/video/BV1R78gz1Ewe/)（玩家：[九段不合格](https://space.bilibili.com/1633653929/)）
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote谱面保管室】《Ж》 [SY 10.5] 谱面预览 / 米 / 黑洞](https://www.bilibili.com/video/BV1g6421w7mo/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote谱面保管室】《Ж》 [TL 8.6] 谱面演示 / 米 / 黑洞](https://www.bilibili.com/video/BV1yZ8XzEEZp/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote/全球首杀】震撼！Notanote最难魔王曲《Ж》[SY 10] All Perfect Rank X！](https://www.bilibili.com/video/BV1R78gz1Ewe/)（玩家：[九段不合格](https://space.bilibili.com/1633653929/)）

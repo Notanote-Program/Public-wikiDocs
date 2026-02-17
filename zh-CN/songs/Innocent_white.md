@@ -1,7 +1,6 @@
 # Innocent white
 
 <div class="NoticeBoard">
-  <br>
   <p><s>雪花飘飘，北风萧萧</s></p>
 </div>
 
@@ -28,15 +27,15 @@
 
 ## 解锁方法
 
-该曲目无需额外解锁。
+游玩[「cybernetic blazar」](?p=songs/cybernetic_blazar&l=zh-CN)的主难度（SY / EZ）解锁。
 
 ## 更新记录
 
 | 时间 | 版本 | 内容 |
 | :-: | :-: | :-: |
 | 2024/04/19 | v1.3.0 | Steam侧上线曲目 |
-| 2025/03/29 | v2.0.0 | SY难度定数由9.4改为9.7<br>EZ难度定数由5.3改为5.2<br>EZ难度定数由2.7改为2.5 |
-| 2025/04/02 | v2.0.0 | TapTap侧上线曲目<br>更改曲绘 |
+| 2025/03/29 | v2.0.0 | SY难度定数由9.4改为9.7<br />EZ难度定数由5.3改为5.2<br />EZ难度定数由2.7改为2.5 |
+| 2025/04/02 | v2.0.0 | TapTap侧上线曲目<br />更改曲绘 |
 | 2025/06/22 | v2.3.2 | App Store外区侧上线曲目 |
 | 2025/07/21 | v2.4.1 | App Store国区侧上线曲目 |
 
@@ -62,12 +61,12 @@
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Innocent white（游戏《Milthm》X《Notanote》原创曲） - 影虎。 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2139042161)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico)[影虎。[Kagetora..] / Innocent white【from Notanote x Milthm】](https://www.youtube.com/watch?v=AYmGKA-3SC4)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[影虎。 / Innocent white【from Notanote x Milthm】](https://www.bilibili.com/video/BV1Cr42187Lk/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico) [Innocent white（游戏《Milthm》X《Notanote》原创曲） - 影虎。 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2139042161)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico) [影虎。[Kagetora..] / Innocent white【from Notanote x Milthm】](https://www.youtube.com/watch?v=AYmGKA-3SC4)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [影虎。 / Innocent white【from Notanote x Milthm】](https://www.bilibili.com/video/BV1Cr42187Lk/)
 
 ## 相关视频
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Innocent white [SY 9.7] 谱面演示](https://www.bilibili.com/video/BV1u5nJzMEpB/)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Innocent white [EZ+ 5.2] 谱面演示](https://www.bilibili.com/video/BV14YHpz1Enu/)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Innocent white [EZ 2.5] 谱面演示](https://www.bilibili.com/video/BV147HxzpE6P/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote谱面保管室】Innocent white [SY 9.7] 谱面演示](https://www.bilibili.com/video/BV1u5nJzMEpB/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote谱面保管室】Innocent white [EZ+ 5.2] 谱面演示](https://www.bilibili.com/video/BV14YHpz1Enu/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote谱面保管室】Innocent white [EZ 2.5] 谱面演示](https://www.bilibili.com/video/BV147HxzpE6P/)

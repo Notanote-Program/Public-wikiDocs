@@ -1,7 +1,6 @@
 # Daughter of Daedalus
 
 <div class="NoticeBoard">
-  <br>
   <p>幽澜上楼梯是什么歌</p>
 </div>
 
@@ -28,7 +27,7 @@
 
 ## 解锁方法
 
-阅读剧情收集品[「异闻」](?p=collectible_list&l=zh-CN#Yiwen)解锁。
+阅读剧情收集品[「转校生」](?p=collectible_list&l=zh-CN#Transfer_Student)解锁。
 
 ## 更新记录
 
@@ -61,10 +60,10 @@
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote原创曲】Daughter of Daedalus - tn-shi](https://www.bilibili.com/video/BV1MyvPzaErG/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote原创曲】Daughter of Daedalus - tn-shi](https://www.bilibili.com/video/BV1MyvPzaErG/)
 
 ## 相关视频
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Daughter of Daedalus [SY 7.1] 谱面演示 / DOD](https://www.bilibili.com/video/BV1p6J9zWET8/)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Daughter of Daedalus [SY+ 9.6] 谱面演示 / DOD](https://www.bilibili.com/video/BV1XEJ9zBEDy/)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Daughter of Daedalus [EZ 2.0] 谱面演示 / DOD](https://www.bilibili.com/video/BV1YEJ9zBEUv/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote谱面保管室】Daughter of Daedalus [SY 7.1] 谱面演示 / DOD](https://www.bilibili.com/video/BV1p6J9zWET8/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote谱面保管室】Daughter of Daedalus [SY+ 9.6] 谱面演示 / DOD](https://www.bilibili.com/video/BV1XEJ9zBEDy/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote谱面保管室】Daughter of Daedalus [EZ 2.0] 谱面演示 / DOD](https://www.bilibili.com/video/BV1YEJ9zBEUv/)

@@ -2,7 +2,7 @@
 
 <style>
     .spoiler {
-        background-color: var(--fgColor-default);
+        background-color: var(--vp-c-text-1);
         transition: background-color 0.3s;
     }
 
@@ -11,8 +11,8 @@
     }
 </style>
 
-<div class="NoticeBoard" style="border-left: 7px solid #fc8800;">
-  <br>
+<div class="NoticeBoard" style="border-left-color: #fc8800;">
+  <br />
   <p><span class="spoiler"><strong>感谢您的降临，能再见到您真好</strong></span></p>
 </div>
 
@@ -31,31 +31,49 @@
 
 ## 谱面信息
 
-此部分暂无内容。
+| 信息 | SY | EZ |
+| :-: | :-: | :-: |
+| 定数 | 5.9 | 2.0 |
+| 物量 | 478 | 362 |
+| 谱师 | [海公子](?p=charter_list&l=zh-CN#XyX) | [海公子](?p=charter_list&l=zh-CN#XyX) feat. [钱备](?p=charter_list&l=zh-CN#Dason) |
 
 ## 解锁方法
 
-此部分暂无内容。
+该曲目无需额外解锁。
 
 ## 更新记录
 
-此部分暂无内容。
+| 时间 | 版本 | 内容 |
+| :-: | :-: | :-: |
+| 2026/01/14 | v2.9.0 | 上线曲目 |
+| 2026/01/20 | v2.9.1 | 修正谱面延迟 |
 
 ## 游戏相关
 
 - 本曲为《三相奇谈》的主题曲。
 - 本曲是第一个在谱面上线前就公布谱师的曲目。（信息位于简介）
-- 本曲的谱面包含了以下还原：
-  - [更新预览](https://www.bilibili.com/video/BV1BviTBuEah/)中展示的部分还原了<span class="spoiler">幂洞天的场景</span>；
-  - ……
+- 本曲的谱面包含了多个《三相奇谈》中的元素：
+  - SY与EZ谱面的1 Combo处还原了<span class="spoiler">奏折（“接下来要做的是”表示游戏中的必做任务）</span>；
+  - SY与EZ谱面的2~8 Combo处还原了<span class="spoiler">序章开始时的介绍画面</span>；
+  - SY谱面的129~296 Combo/EZ谱面的90~213 Combo处还原了<span class="spoiler">四次幂洞天的场景</span>；
+    - <span class="spoiler">（值得一提的是，虽然这部分还原的是四次幂洞天，然而谱面中却出现了八次幂洞天中才有的红色彼岸花）</span>
+  - SY谱面的294~296 Combo/EZ谱面的211~213 Combo处三个Hold的颜色分别代表净饭、三宝、皮月羞；
+  - SY谱面的342~478 Combo/EZ谱面的257~362 Combo处还原了<span class="spoiler">解缘的场景</span>；
+  - SY谱面的478 Combo、/EZ谱面的257~362 Combo之后还原了净饭、三宝、皮月羞。
 
 ## 攻略
+
+### SY
+
+此部分暂无内容。
+
+### EZ
 
 此部分暂无内容。
 
 ## 音乐
 
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[主题曲 - 《三相奇谈》](https://www.bilibili.com/video/BV1o4whekEH7/)
+- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [主题曲 - 《三相奇谈》](https://www.bilibili.com/video/BV1o4whekEH7/)
 
 ## 相关视频
 

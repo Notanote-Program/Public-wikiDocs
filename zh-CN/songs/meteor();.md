@@ -1,11 +1,8 @@
 # meteor();
 
 <div class="NoticeBoard RedLeftLine">
-  <br>
   <p style="font-size: x-large;"><strong>此曲目暂未上线</strong></p>
 </div>
-
-此部分暂无内容。
 
 ## 曲目信息
 
@@ -17,8 +14,8 @@
 | 曲师 | [ILusMin](?p=composer_list&l=zh-CN#ILusMin) & [ShooTinGStaR](?p=composer_list&l=zh-CN#ShooTinGStaR) |
 | 时长 | 03:01 |
 | BPM | 162 |
-| 章节 | - |
-| 曲绘 | - |
+| 章节 | 未知 |
+| 曲绘 | 未知 |
 
 ## 谱面信息
 
@@ -44,7 +41,7 @@
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[meteor(); (ILusMin “OVERDECONSTRUCTION” remix) - ILusMin/ShooTinGStaR/Hilarity Leap Records/维度坍缩/逃离记录Exit Records/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2713426120)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico) [meteor(); (ILusMin “OVERDECONSTRUCTION” remix) - ILusMin/ShooTinGStaR/Hilarity Leap Records/维度坍缩/逃离记录Exit Records/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2713426120)
 
 ## 相关视频
 

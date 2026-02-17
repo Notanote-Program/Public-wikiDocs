@@ -1,7 +1,6 @@
 # Airy Dream
 
 <div class="NoticeBoard">
-  <br>
   <p>AD<s>钙奶</s></p>
 </div>
 
@@ -28,7 +27,7 @@
 
 ## 解锁方法
 
-阅读剧情收集品[「Rainbow Flavor!」](?p=collectible_list&l=zh-CN#Rainbow_Flavor!)解锁。
+阅读剧情收集品[「没有她的日常」](?p=collectible_list&l=zh-CN#Days_without_Her)解锁。
 
 ## 更新记录
 
@@ -44,6 +43,7 @@
 ## 游戏相关
 
 - 本曲是与[Sakura Records](https://space.bilibili.com/1772142689/)联动的原创曲。
+- 本曲是后来被Notanote买为原创曲的。
 
 ## 攻略
 
@@ -57,7 +57,7 @@
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Airy Dream - Bob Hou/DEP/Sakura records official樱花记录 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2073434954)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico) [Airy Dream - Bob Hou/DEP/Sakura records official樱花记录 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2073434954)
 
 ## 相关视频
 

@@ -1,7 +1,6 @@
-# Stardust Ember
+# ΩZСÜRIDΛD
 
 <div class="NoticeBoard">
-  <br>
   <p>「原来，星星是这么亮的哇……」</p>
 </div>
 
@@ -28,7 +27,7 @@
 
 ## 解锁方法
 
-游玩[「Moondread」](?p=songs/Moondread&l=zh-CN)后。此时主线二除[「End Time」](?p=songs/End_Time&l=zh-CN)与「Moondread」之外的曲目被隐藏，此时再次游玩「End Time」，曲名会变成「End Time?」并且难度显示为?。游玩结束后主线二除「ΩZСÜRIDΛD」之外的曲目被隐藏阅读剧情收集品[「End Time?」](?p=collectible_list&l=zh-CN#End_Time?)解锁。
+游玩[「Moondread」](?p=songs/Moondread&l=zh-CN)后，此时主线二除[「End Time」](?p=songs/End_Time&l=zh-CN)与「Moondread」之外的曲目被隐藏，此时再次游玩「End Time」，曲名会变成「End Time?」并且难度显示为?。游玩结束后主线二除「ΩZСÜRIDΛD」之外的曲目被隐藏，阅读剧情收集品[「结局……？」](?p=collectible_list&l=zh-CN#The_End)解锁。
 
 ## 更新记录
 
@@ -36,14 +35,16 @@
 | :-: | :-: | :-: |
 | 2025/08/16 | v2.5.0 | Steam、TapTap侧上线曲目 |
 | 2025/08/18 | v2.5.0 | App Store侧上线曲目 |
-| 2025/09/13 | v2.5.1 | NT难度定数由10.7改为10.8<br>修改SY、EZ难度谱面<sup><a id="note1" href="#ref-1">[1]</a></sup> |
+| 2025/09/13 | v2.5.1 | NT难度定数由10.7改为10.8<br />修改SY、EZ难度谱面<sup><a id="note1" href="#ref-1">[1]</a></sup> |
 | 2025/10/01 | v2.6.0 | SY难度定数由9.3改为9.2 |
+| 2026/02/14 | re:v2.0.0 | 增加解锁动画 |
 
 ## 游戏相关
 
 - 本曲曲名来自于西班牙语中的oscuridad一词，意为黑暗。
 - 本曲的NT难度是Notanote中定数最高的谱面。
 - 本曲的NT难度是Notanote中第一个10+。
+- 本曲与[「ИÖDΣ」](?p=songs/NODE&l=zh-CN)都是Notanote中第一个有解锁动画的曲目（不算解锁动画被删除的[「Eltaw」](?p=songs/Eltaw&l=zh-CN)）。
 
 ## 攻略
 
@@ -61,15 +62,15 @@
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[ΩZСÜRIDΛD - 猎影双煞NonNam/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2737848248)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote原创曲】主线二最终曲：ΩZСÜRIDΛD - 瓜牛女王 vs. 瓜牛女王の夫 feat. SOLARIA](https://www.bilibili.com/video/BV15yeBziEH7/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico) [ΩZСÜRIDΛD - 猎影双煞NonNam/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2737848248)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote原创曲】主线二最终曲：ΩZСÜRIDΛD - 瓜牛女王 vs. 瓜牛女王の夫 feat. SOLARIA](https://www.bilibili.com/video/BV15yeBziEH7/)
 
 ## 相关视频
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】ΩZСÜRIDΛD [SY 9.3] 谱面演示 / 瓜牛 / OZCURIDAD](https://www.bilibili.com/video/BV1aHJ9ziEWk/)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】ΩZСÜRIDΛD [EZ 2.5] 谱面演示 / 瓜牛 / OZCURIDAD](https://www.bilibili.com/video/BV15keizFEQz/)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】ΩZСÜRIDΛD [NT 10.8] 谱面演示 / 瓜牛 / OZCURIDAD](https://www.bilibili.com/video/BV1aAeizdEQo/)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote/手法教学】全新第二章最难魔王曲 ΩZСÜRIDΛD [NT 10+] All Perfect Rank X！读谱拆谱手顺背谱节奏地狱　瓜牛](https://www.bilibili.com/video/BV1chebzsED5/)（玩家：[九段不合格](https://space.bilibili.com/1633653929/)）
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote谱面保管室】ΩZСÜRIDΛD [SY 9.3] 谱面演示 / 瓜牛 / OZCURIDAD](https://www.bilibili.com/video/BV1aHJ9ziEWk/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote谱面保管室】ΩZСÜRIDΛD [EZ 2.5] 谱面演示 / 瓜牛 / OZCURIDAD](https://www.bilibili.com/video/BV15keizFEQz/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote谱面保管室】ΩZСÜRIDΛD [NT 10.8] 谱面演示 / 瓜牛 / OZCURIDAD](https://www.bilibili.com/video/BV1aAeizdEQo/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote/手法教学】全新第二章最难魔王曲 ΩZСÜRIDΛD [NT 10+] All Perfect Rank X！读谱拆谱手顺背谱节奏地狱　瓜牛](https://www.bilibili.com/video/BV1chebzsED5/)（玩家：[九段不合格](https://space.bilibili.com/1633653929/)）
 
 ## 注释
 

@@ -1,0 +1,48 @@
+# Fiend Demme
+
+<div class="NoticeBoard RedLeftLine">
+  <p style="font-size: x-large;"><strong>此曲目暂未上线</strong></p>
+</div>
+
+## 曲目信息
+
+| 信息 | 内容 |
+| :-: | :-: |
+| 曲名 | Fiend Demme |
+| 别名 | 无 |
+| 授权性质 | 联动（来自Orzmic） |
+| 曲师 | Delaina as ["ZxNX"](?p=composer_list&l=zh-CN#ZxNX) |
+| 时长 | 未知 |
+| BPM | 210 |
+| 章节 | [Orzmic](?p=chapters/Orzmic&l=zh-CN) |
+| 曲绘 | [QIER](?p=illustrator_list&l=zh-CN#QIER) |
+
+## 谱面信息
+
+此部分暂无内容。
+
+## 解锁方法
+
+此部分暂无内容。
+
+## 更新记录
+
+此部分暂无内容。
+
+## 游戏相关
+
+此部分暂无内容。
+
+## 攻略
+
+此部分暂无内容。
+
+## 音乐
+
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico) [Fiend Demme（From Orzmic） - ZxNX - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2678547740)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico) [【Orzmic】Delaina as "ZxNX" - Fiend Demme](https://www.youtube.com/watch?v=JzPsTGd1PPA)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Orzmic】Delaina as "ZxNX" - Fiend Demme](https://www.bilibili.com/video/BV1DF411x72r/)
+
+## 相关视频
+
+此部分暂无内容。

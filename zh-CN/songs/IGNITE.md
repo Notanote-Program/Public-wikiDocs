@@ -1,7 +1,6 @@
 # IGNITE
 
 <div class="NoticeBoard">
-  <br>
   <p>The soundwave will——IGNITE!</p>
 </div>
 
@@ -28,7 +27,7 @@
 
 ## 解锁方法
 
-游玩[「爱上想象的你」](?p=songs/Aishang_Xiangxiang_de_Ni&l=zh-CN)的谱面，并使用600糖果解锁。
+游玩[「爱上想象的你」](?p=songs/Aishang_Xiangxiang_de_Ni&l=zh-CN)的主难度（SY / EZ），并使用600糖果解锁。
 
 ## 更新记录
 
@@ -56,44 +55,44 @@
 
 ### 原文
 
-Even when the sound is gone
-Its echo keeps us holding on
-Through the dark, through every fight
+Even when the sound is gone<br />
+Its echo keeps us holding on<br />
+Through the dark, through every fight<br />
 The Soundwave will IGNITE!
 
 Louder!
 
-Through the dark, through every fight
+Through the dark, through every fight<br />
 The Soundwave will IGNITE!
 
 IGNITE!
 
 Hey, put your hands up!
 
-The lights are flashing bright
-as the world begins to shake
-A thousand screaming voices
-caught inside the crashing break
-Now, no fear, no looking back
-Blaze through the noise, ride the wave
-Even when the sound is gone
-Its echo keeps us holding on
-Through the dark, through every fight
+The lights are flashing bright<br />
+as the world begins to shake<br />
+A thousand screaming voices<br />
+caught inside the crashing break<br />
+Now, no fear, no looking back<br />
+Blaze through the noise, ride the wave<br />
+Even when the sound is gone<br />
+Its echo keeps us holding on<br />
+Through the dark, through every fight<br />
 The Soundwave will IGNITE!
 
-Even when the sound is gone
-Its echo keeps us holding on
-Through the dark, through every fight
+Even when the sound is gone<br />
+Its echo keeps us holding on<br />
+Through the dark, through every fight<br />
 The Soundwave will IGNITE!
 
-Through the dark, through every fight
+Through the dark, through every fight<br />
 The Soundwave will IGNITE!
 
 Are you ready?
 
 IGNITE!
 
-Through the dark, through every fight
+Through the dark, through every fight<br />
 The Soundwave will IGNITE!
 
 ### 翻译
@@ -140,11 +139,11 @@ The Soundwave will IGNITE!
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[IGNITE - USAO/Massive New Krew - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2128530603)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico)[USAO & Massive New Krew - IGNITE](https://www.youtube.com/watch?v=EbaaHmy4QCM)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[USAO & Massive New Krew - IGNITE 【音波狂潮3.0 活动主题曲】](https://www.bilibili.com/video/BV1fr4y1X7nt/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico) [IGNITE - USAO/Massive New Krew - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2128530603)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico) [USAO & Massive New Krew - IGNITE](https://www.youtube.com/watch?v=EbaaHmy4QCM)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [USAO & Massive New Krew - IGNITE 【音波狂潮3.0 活动主题曲】](https://www.bilibili.com/video/BV1fr4y1X7nt/)
 
 ## 相关视频
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室/这谱咱仨写的】IGNITE [SY 9.3] 谱面演示](https://www.bilibili.com/video/BV14LHxz9EWQ/)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室/这谱咱仨写的】IGNITE [EZ 4.5] 谱面演示](https://www.bilibili.com/video/BV1snHxznEUu/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote谱面保管室/这谱咱仨写的】IGNITE [SY 9.3] 谱面演示](https://www.bilibili.com/video/BV14LHxz9EWQ/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote谱面保管室/这谱咱仨写的】IGNITE [EZ 4.5] 谱面演示](https://www.bilibili.com/video/BV1snHxznEUu/)

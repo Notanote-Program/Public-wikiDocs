@@ -1,7 +1,6 @@
 # Kaze
 
 <div class="NoticeBoard">
-  <br>
   <p><s>龙控狂喜</s></p>
 </div>
 
@@ -20,11 +19,11 @@
 
 ## 谱面信息
 
-| 信息 | SY |
-| :-: | :-: |
-| 难度 | 7.1 |
-| 物量 | 595 |
-| 谱师 | [福luuuu](?p=charter_list&l=zh-CN#Fulu) & [qm](?p=charter_list&l=zh-CN#qm) & [嘤龙](?p=charter_list&l=zh-CN#XyX) |
+| 信息 | SY | <span style="color: gray;">旧SY</span> |
+| :-: | :-: | :-: |
+| 难度 | 6.2 | <span style="color: gray;">7.1</span> |
+| 物量 | 547 | <span style="color: gray;">595</span> |
+| 谱师 | [嘤龙](?p=charter_list&l=zh-CN#XyX) | <span style="color: gray;">[福luuuu](?p=charter_list&l=zh-CN#Fulu) & [qm](?p=charter_list&l=zh-CN#qm) & [嘤龙](?p=charter_list&l=zh-CN#XyX)</span> |
 
 ## 解锁方法
 
@@ -35,12 +34,13 @@
 | 时间 | 版本 | 内容 |
 | :-: | :-: | :-: |
 | 2024/01/08 | 第二次游戏性测试 | Steam侧上线曲目 |
-| 2024/02/14 | v1.0.0 | 修改SY难度谱面<br>SY难度定数由6改为7.3 |
+| 2024/02/14 | v1.0.0 | 修改SY难度谱面<br />SY难度定数由6改为7.3 |
 | 2025/03/29 | v2.0.0 | SY难度定数由7.3改为7.0 |
 | 2025/04/02 | v2.0.0 | TapTap侧上线曲目 |
 | 2025/05/28 | v2.2.1 | App Store外区侧上线曲目 |
 | 2025/07/21 | v2.4.1 | App Store国区侧上线曲目 |
 | 2025/08/16 | v2.5.0 | SY难度定数由7.0改为7.1 |
+| 2026/02/14 | v2.0.0 | 修改SY难度谱面<br />SY难度定数由7.1改为6.2 |
 
 ## 游戏相关
 
@@ -64,9 +64,9 @@
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Kaze - Itz咸鱼 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2080814039)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【新音游 Notanote】Kaze - Itz咸鱼](https://www.bilibili.com/video/BV1e14y1k7JD/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico) [Kaze - Itz咸鱼 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2080814039)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【新音游 Notanote】Kaze - Itz咸鱼](https://www.bilibili.com/video/BV1e14y1k7JD/)
 
 ## 相关视频
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Kaze [SY 7.1] 谱面演示](https://www.bilibili.com/video/BV1Nf8XzUEuY/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote谱面保管室】Kaze [SY 6.2] 谱面演示](https://www.bilibili.com/video/BV1Nf8XzUEuY/)

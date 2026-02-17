@@ -1,7 +1,6 @@
 # Fever Dream
 
 <div class="NoticeBoard">
-  <br>
   <p>🎃👻HALOWEEN👻🎃</p>
 </div>
 
@@ -56,77 +55,77 @@
 
 ### 原文
 
-The heat creeping up your backbone
-Strikes underneath the skin
-Oh, to survive this summer fever,
-Won’t you find darkened solace?
-I sought the chill of madness
-A cold embrace for all
-It’s a long twisted celebration
+The heat creeping up your backbone<br />
+Strikes underneath the skin<br />
+Oh, to survive this summer fever,<br />
+Won’t you find darkened solace?<br />
+I sought the chill of madness<br />
+A cold embrace for all<br />
+It’s a long twisted celebration<br />
 Filled with clouds and endless night-
 
--Mares I can’t wake from
-Colors, dark, shivers
-Falling into
+-Mares I can’t wake from<br />
+Colors, dark, shivers<br />
+Falling into<br />
 Empty darkness…
 
-Cold in a sea of pleasure,
-I seek another’s warm embrace.
-But temptations rages on
-Alone in this
-Dream, leaving me with only
-Ecstasy to find. Now I’m burning
-Up inside, lost in dreams too
+Cold in a sea of pleasure,<br />
+I seek another’s warm embrace.<br />
+But temptations rages on<br />
+Alone in this<br />
+Dream, leaving me with only<br />
+Ecstasy to find. Now I’m burning<br />
+Up inside, lost in dreams too<br />
 Good to wake up from…
 
-HELP me… cure this sickness deep within… it’s
-A mirage I cannot
-Chase more…
-It was a foolish
-Fever
+HELP me… cure this sickness deep within… it’s<br />
+A mirage I cannot<br />
+Chase more…<br />
+It was a foolish<br />
+Fever<br />
 Dream
 
 ### 翻译
 
 - 翻译：[FireWither](https://music.163.com/#/user/home?id=1342601525)
 
-热量蔓延上你的脊梁
-在肌肤下不断地侵袭
-哦，为了熬过这场暑热
-想不想来点漆黑的慰藉？
-我疯狂地寻求一丝凉意
-向所有人都投以冰冷的拥抱
-这是一场盛大且病态的庆典
+热量蔓延上你的脊梁<br />
+在肌肤下不断地侵袭<br />
+哦，为了熬过这场暑热<br />
+想不想来点漆黑的慰藉？<br />
+我疯狂地寻求一丝凉意<br />
+向所有人都投以冰冷的拥抱<br />
+这是一场盛大且病态的庆典<br />
 充满了阴暗与无尽的夜——
 
-——我无法从这梦魇中醒来
-斑斓，幽暗，寒颤
-深深陷入至
+——我无法从这梦魇中醒来<br />
+斑斓，幽暗，寒颤<br />
+深深陷入至<br />
 虚渺的黑暗……
 
-寒冷，却身处于欢乐的海洋之中，
-我，寻求又一个温暖的怀抱
-但是诱惑仍在肆虐
-独自徘徊于
-这梦中，留给我的只有那
-无法自拔的狂喜，现在我如全身
-在被灼烧，迷失在这
+寒冷，却身处于欢乐的海洋之中，<br />
+我，寻求又一个温暖的怀抱<br />
+但是诱惑仍在肆虐<br />
+独自徘徊于<br />
+这梦中，留给我的只有那<br />
+无法自拔的狂喜，现在我如全身<br />
+在被灼烧，迷失在这<br />
 美妙到无法醒来的梦中……
 
-救救我—— 治愈我内心深处的疾病…… 这一切都是
-海市蜃楼而我
-遥不可及……
-这是一个愚蠢的
-虚幻
+救救我—— 治愈我内心深处的疾病…… 这一切都是<br />
+海市蜃楼而我<br />
+遥不可及……<br />
+这是一个愚蠢的<br />
+虚幻<br />
 梦境
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Fever Dream - BilliumMoto/Hundotte - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1993475592)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico)[【BOF:ET】Fever Dream / Hundotte & BilliumMoto【BGA】](https://www.youtube.com/watch?v=hfZm9nIia9w)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【BOF:ET】Fever Dream / Hundotte & BilliumMoto【BGA】](https://www.bilibili.com/video/BV1Uk4y1T7Mb/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico) [Fever Dream - BilliumMoto/Hundotte - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1993475592)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico) [【BOF:ET】Fever Dream / Hundotte & BilliumMoto【BGA】](https://www.youtube.com/watch?v=hfZm9nIia9w)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【BOF:ET】Fever Dream / Hundotte & BilliumMoto【BGA】](https://www.bilibili.com/video/BV1Uk4y1T7Mb/)
 
 ## 相关视频
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Fever Dream [SY 9.9] 谱面演示](https://www.bilibili.com/video/BV1zAkXBJEYD/)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Fever Dream [EZ 4.0] 谱面演示](https://www.bilibili.com/video/BV1GEkXBgEG9/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote谱面保管室】Fever Dream [SY 9.9] 谱面演示](https://www.bilibili.com/video/BV1zAkXBJEYD/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote谱面保管室】Fever Dream [EZ 4.0] 谱面演示](https://www.bilibili.com/video/BV1GEkXBgEG9/)

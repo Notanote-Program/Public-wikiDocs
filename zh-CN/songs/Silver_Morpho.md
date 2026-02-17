@@ -1,7 +1,6 @@
 # Silver Morpho
 
 <div class="NoticeBoard">
-  <br>
   <p>Free↑~ ly↓~, free↑~ ly↓~</p>
 </div>
 
@@ -49,71 +48,71 @@
 
 ### 原文
 
-I'm the queen of these flowers
-Locked in my transparent glassy tower
-I see through the cat's eye
-The nasty naughty mysteries
-See you went back
-You went forth
-You're still hesitated to be one of my collections ahh
-I look back and go forth to check my human observation's going well or not
+I'm the queen of these flowers<br />
+Locked in my transparent glassy tower<br />
+I see through the cat's eye<br />
+The nasty naughty mysteries<br />
+See you went back<br />
+You went forth<br />
+You're still hesitated to be one of my collections ahh<br />
+I look back and go forth to check my human observation's going well or not<br />
 Go, Silver Morpho
 
-Freely, freely
-Flying out break out the borderline
-Freely, calmly
-Got the miseries but got the rhymes
-Ag
-Filled in electric
-100% effective
-Not only for you baby
-Ag
-Filled in fantastic
-Silent romantic, dramatic
+Freely, freely<br />
+Flying out break out the borderline<br />
+Freely, calmly<br />
+Got the miseries but got the rhymes<br />
+Ag<br />
+Filled in electric<br />
+100% effective<br />
+Not only for you baby<br />
+Ag<br />
+Filled in fantastic<br />
+Silent, romantic, dramatic<br />
 Sophisticated
 
-I
-Absorbed the moonlight
-舒展我翅膀上的鳞粉
-Gimme now gimme now
-一天又一天在眼眶 在沙滩
-书写着浪漫
-书写着不甘
-As hard as the stone but can be melted in the glow
-As cold as the floe but got the fire inside, oh
-Burning, burning
+I<br />
+Absorbed the moonlight<br />
+舒展我翅膀上的鳞粉<br />
+Gimme now gimme now<br />
+一天又一天在眼眶 在沙滩<br />
+书写着浪漫<br />
+书写着不甘<br />
+As hard as the stone but can be melted in the glow<br />
+As cold as the floe but got the fire inside, oh<br />
+Burning, burning<br />
 I'm burning up into the midnight yea
 
-Freely freely
-Flying out break out the borderline
-Freely, calmly
-Got the miseries but got the rhymes
-Ag
-Filled in electric
-100 effective
-Not only for you baby
-Ag
-Filled in fantastic
-Silent romantic, dramatic
+Freely, freely<br />
+Flying out break out the borderline<br />
+Freely, calmly<br />
+Got the miseries but got the rhymes<br />
+Ag<br />
+Filled in electric<br />
+100 effective<br />
+Not only for you baby<br />
+Ag<br />
+Filled in fantastic<br />
+Silent, romantic, dramatic<br />
 Sophisticated
 
-I…
-Used to hide, my butterfly…
-Where am I going?
-Ask the rivers where to go
-Where am I going?
-The rivers don't know where's the flow
-Where am I going?
-To the forest? To the shoal?
-Where am I going?
-My butterfly, my morpho
-Where are we going?
-From the oceans to a boat
-Where are we going?
-From the fingers to the toes
-Where are we going?
-It'll be a tough but fabs journey
-Where are we going?
+I…<br />
+Used to hide, my butterfly…<br />
+Where am I going?<br />
+Ask the rivers where to go<br />
+Where am I going?<br />
+The rivers don't know where's the flow<br />
+Where am I going?<br />
+To the forest? To the shoal?<br />
+Where am I going?<br />
+My butterfly, my morpho<br />
+Where are we going?<br />
+From the oceans to a boat<br />
+Where are we going?<br />
+From the fingers to the toes<br />
+Where are we going?<br />
+It'll be a tough but fabs journey<br />
+Where are we going?<br />
 Are you goin' down with me?
 
 ### 翻译
@@ -187,9 +186,9 @@ Are you goin' down with me?
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Silver Morpho（银闪蝶） - sakakosmos - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2612128470)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【官方MV】 《Silver Morpho》（银闪蝶）- sakakosmos【先行主打1】【PROJECT 001】](https://www.bilibili.com/video/BV1sr421M711/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico) [Silver Morpho（银闪蝶） - sakakosmos - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2612128470)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【官方MV】 《Silver Morpho》（银闪蝶）- sakakosmos【先行主打1】【PROJECT 001】](https://www.bilibili.com/video/BV1sr421M711/)
 
 ## 相关视频
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Silver Morpho [SY 6.0] 谱面演示](https://www.bilibili.com/video/BV1QLqQB9EEo/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote谱面保管室】Silver Morpho [SY 6.0] 谱面演示](https://www.bilibili.com/video/BV1QLqQB9EEo/)

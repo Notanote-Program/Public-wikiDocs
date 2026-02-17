@@ -1,7 +1,6 @@
 # Last Season
 
 <div class="NoticeBoard">
-  <br>
   <p>初春</p>
 </div>
 
@@ -28,7 +27,7 @@
 
 ## 解锁方法
 
-该曲目无需额外解锁。
+游玩[「Star Chain」](?p=songs/Star_Chain&l=zh-CN)的主难度（SY / EZ），并使用600糖果解锁。
 
 ## 更新记录
 
@@ -56,9 +55,9 @@
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Last Season - lunari.io/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2714634339)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote x Soul Notes】Last Season - lunari.io](https://www.bilibili.com/video/BV15GKweNEcq/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico) [Last Season - lunari.io/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2714634339)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote x Soul Notes】Last Season - lunari.io](https://www.bilibili.com/video/BV15GKweNEcq/)
 
 ## 相关视频
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Last Season [SY 6.2] 谱面演示](https://www.bilibili.com/video/BV1N6ZRY7EtU/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote谱面保管室】Last Season [SY 6.2] 谱面演示](https://www.bilibili.com/video/BV1N6ZRY7EtU/)

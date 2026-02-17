@@ -1,7 +1,6 @@
 # i
 
 <div class="NoticeBoard">
-  <br>
   <p>我去是Ωμεγα！</p>
 </div>
 
@@ -28,7 +27,7 @@
 
 ## 解锁方法
 
-阅读剧情收集品[「Daughter of Daedalus」](?p=collectible_list&l=zh-CN#Daughter_of_Daedalus)解锁。
+阅读剧情收集品[「无尽回廊的起点」](?p=collectible_list&l=zh-CN#The_Starting_Point_of_the_Endless_Corridor)解锁。SP难度需完成[「主线二·无尽回廊」](?p=chapters/Main_Story_II&l=zh-CN)后解锁。
 
 ## 更新记录
 
@@ -36,7 +35,7 @@
 | :-: | :-: | :-: |
 | 2025/08/16 | v2.5.0 | Steam、TapTap侧上线曲目 |
 | 2025/08/18 | v2.5.0 | App Store侧上线曲目 |
-| 2025/09/13 | v2.5.1 | 增加SP难度<br>SY难度定数由6.5改为6.7 |
+| 2025/09/13 | v2.5.1 | 增加SP难度<br />SY难度定数由6.5改为6.7 |
 | 2025/10/01 | v2.6.0 | 修正SP难度的谱面延迟 |
 
 ## 游戏相关
@@ -58,13 +57,13 @@
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[i - Ωμεγα - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2717010221)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote原创曲】i - Ωμεγα](https://www.bilibili.com/video/BV1tuhmz6ETF/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico) [i - Ωμεγα - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2717010221)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote原创曲】i - Ωμεγα](https://www.bilibili.com/video/BV1tuhmz6ETF/)
 
 ## 相关视频
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】i [SY 6.7] 谱面演示](https://www.bilibili.com/video/BV1ANeqz5EGs/)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】i [EZ 2.5] 谱面演示](https://www.bilibili.com/video/BV17ieizPEeW/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote谱面保管室】i [SY 6.7] 谱面演示](https://www.bilibili.com/video/BV1ANeqz5EGs/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote谱面保管室】i [EZ 2.5] 谱面演示](https://www.bilibili.com/video/BV17ieizPEeW/)
 
 ## 注释
 

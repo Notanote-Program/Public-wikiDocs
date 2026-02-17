@@ -1,7 +1,6 @@
 # F℟IEND
 
 <div class="NoticeBoard">
-  <br>
   <p>FRIEND WHO BECOME F<p style="opacity: 0.5;">℟</p>IEND BY DEVIL</p>
 </div>
 
@@ -57,49 +56,49 @@
 
 ### 原文
 
-僕の影にかくす
-寂しい時に伴う
-僕の鏡見られる
-リアルではなくて別世界に生きる
-真っ白真っ黒になる
-光も闇に変わる
-星の下に目覚める
+僕の影にかくす<br />
+寂しい時に伴う<br />
+僕の鏡見られる<br />
+リアルではなくて別世界に生きる<br />
+真っ白真っ黒になる<br />
+光も闇に変わる<br />
+星の下に目覚める<br />
 この体が空の上に持って行く
 
-血が流した場所
-戦争が始まる
-天国に目指そう
-地獄も守るよ
-闇に戦うように
+血が流した場所<br />
+戦争が始まる<br />
+天国に目指そう<br />
+地獄も守るよ<br />
+闇に戦うように<br />
 光に亡くなせる
 
 ### 翻译
 
 - 翻译：[Concvssion_03](https://music.163.com/#/user/home?id=6356056378)
 
-在我的影子中
-伴随着孤独而寂寞的时间
-不是我能看到镜子的真实
-而是活在另一个世界
-世界变白为黑
-尽管是光也变成了黑暗
-在星星下醒来
+在我的影子中<br />
+伴随着孤独而寂寞的时间<br />
+不是我能看到镜子的真实<br />
+而是活在另一个世界<br />
+世界变白为黑<br />
+尽管是光也变成了黑暗<br />
+在星星下醒来<br />
 我的身体被带到了天空之上
 
-流血的地方
-战争开始了
-让我们瞄准天堂
-我会守护地狱
-如同在黑暗中战斗
+流血的地方<br />
+战争开始了<br />
+让我们瞄准天堂<br />
+我会守护地狱<br />
+如同在黑暗中战斗<br />
 死于光明
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[F℟IEND - D_AAN/初音ミク - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1930968844)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico)[【BOFU2017】 F℟IEND](https://www.youtube.com/watch?v=l2hVqHSEhtU)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【BOFU2017】 F℟IEND](https://www.bilibili.com/video/BV1Qx411u71a/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico) [F℟IEND - D_AAN/初音ミク - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1930968844)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico) [【BOFU2017】 F℟IEND](https://www.youtube.com/watch?v=l2hVqHSEhtU)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【BOFU2017】 F℟IEND](https://www.bilibili.com/video/BV1Qx411u71a/)
 
 ## 相关视频
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】F℟IEND [SY 8.4] 谱面演示](https://www.bilibili.com/video/BV1MskXBPE7W/)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】F℟IEND [EZ 4.0] 谱面演示](https://www.bilibili.com/video/BV1UskXBNErG/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote谱面保管室】F℟IEND [SY 8.4] 谱面演示](https://www.bilibili.com/video/BV1MskXBPE7W/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote谱面保管室】F℟IEND [EZ 4.0] 谱面演示](https://www.bilibili.com/video/BV1UskXBNErG/)

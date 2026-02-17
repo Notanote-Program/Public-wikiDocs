@@ -1,7 +1,6 @@
 # the world of scarlet
 
 <div class="NoticeBoard">
-  <br>
   <p>旺旺<ruby>碎<rt>碎核</rt></ruby><ruby>冰冰<rt>爽翻了</rt></ruby></p>
 </div>
 
@@ -16,7 +15,7 @@
 | 时长 | 02:00 |
 | BPM | 210 |
 | 章节 | [单曲](?p=chapters/Singles&l=zh-CN) |
-| 曲绘 | [haohao](?p=illustrator_list&l=zh-CN#haohao) |
+| 曲绘 | [haohao](?p=illustrator_list&l=zh-CN#Ember) |
 
 ## 谱面信息
 
@@ -52,11 +51,11 @@
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[the world of scarlet（绯红世界） - OfficialAz3 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2674918018)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico)[【BOF:TT】the world of scarlet / OfficialAz3 (mov: Echa as "!") #breakcore](https://www.youtube.com/watch?v=Pl1dPRX_Kik)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【BOF:TT】the world of scarlet / OfficialAz3 (mov: Echa as "!")](https://www.bilibili.com/video/BV1Us4CefED2/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico) [the world of scarlet（绯红世界） - OfficialAz3 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2674918018)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico) [【BOF:TT】the world of scarlet / OfficialAz3 (mov: Echa as "!") #breakcore](https://www.youtube.com/watch?v=Pl1dPRX_Kik)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【BOF:TT】the world of scarlet / OfficialAz3 (mov: Echa as "!")](https://www.bilibili.com/video/BV1Us4CefED2/)
 
 ## 相关视频
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】the world of scarlet [SY 10.0] 谱面预览 / 猩红世界](https://www.bilibili.com/video/BV1MVHAzoEPw/)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】the world of scarlet [EZ 4.5] 谱面演示 / 猩红世界](https://www.bilibili.com/video/BV1tVHAzoEAn/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote谱面保管室】the world of scarlet [SY 10.0] 谱面预览 / 猩红世界](https://www.bilibili.com/video/BV1MVHAzoEPw/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote谱面保管室】the world of scarlet [EZ 4.5] 谱面演示 / 猩红世界](https://www.bilibili.com/video/BV1tVHAzoEAn/)

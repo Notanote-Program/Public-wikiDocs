@@ -1,7 +1,6 @@
 # cybernetic blazar
 
 <div class="NoticeBoard">
-  <br>
   <p><s><strong>c</strong>yber<strong> c</strong>ybernetic <strong>b</strong>lazar</s></p>
 </div>
 
@@ -14,7 +13,7 @@
 | 原创 | 联合原创（与Milthm） |
 | 曲师 | [ああああ](?p=composer_list&l=zh-CN#aaaa) |
 | 时长 | 02:01 |
-| BPM | **0ms**: 148.0<br>**40540ms**: 220.0<br>**47049ms**: 230.0<br>**50179ms**: 210.0<br>**51893ms**: 156.0<br>**58046ms**: 150.0<br>**61246ms**: 148.0 |
+| BPM | **0ms**: 148.0<br />**40540ms**: 220.0<br />**47049ms**: 230.0<br />**50179ms**: 210.0<br />**51893ms**: 156.0<br />**58046ms**: 150.0<br />**61246ms**: 148.0 |
 | 章节 | [Milthm](?p=chapters/Milthm&l=zh-CN) |
 | 曲绘 | [天野岁](?p=illustrator_list&l=zh-CN#Tianyesui) |
 
@@ -28,7 +27,7 @@
 
 ## 解锁方法
 
-该曲目无需额外解锁。
+游玩[「烁雨」](?p=songs/Sparkrain&l=zh-CN)的主难度（SY / EZ）解锁。
 
 ## 更新记录
 
@@ -44,7 +43,7 @@
 ## 游戏相关
 
 - 本曲是Notanote中BPM变化最多的曲子。
-- 本曲为KALPA联动提供曲。
+- 本曲为Orzmic、KALPA联动提供曲。
 
 ## 攻略
 
@@ -54,10 +53,10 @@
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[cybernetic blazar（Notanote x Milthm Original） - ああああ - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2688806116)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico)[ああああ - cybernetic blazar](https://www.youtube.com/watch?v=NEmnoZBmrYM)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【原创曲】cybernetic blazar - Milthm x Notanote](https://www.bilibili.com/video/BV12m421x7Am/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico) [cybernetic blazar（Notanote x Milthm Original） - ああああ - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2688806116)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico) [ああああ - cybernetic blazar](https://www.youtube.com/watch?v=NEmnoZBmrYM)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【原创曲】cybernetic blazar - Milthm x Notanote](https://www.bilibili.com/video/BV12m421x7Am/)
 
 ## 相关视频
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】cybernetic blazar [SY 8.8] 谱面演示](https://www.bilibili.com/video/BV19ar3BsEk4/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote谱面保管室】cybernetic blazar [SY 8.8] 谱面演示](https://www.bilibili.com/video/BV19ar3BsEk4/)

@@ -1,11 +1,8 @@
 # Crystal Ember
 
 <div class="NoticeBoard RedLeftLine">
-  <br>
   <p style="font-size: x-large;"><strong>此曲目暂未上线</strong></p>
 </div>
-
-此部分暂无内容。
 
 ## 曲目信息
 
@@ -17,8 +14,8 @@
 | 曲师 | [Ascellia Mio](?p=composer_list&l=zh-CN#Ascellia_Mio) |
 | 时长 | 03:17 |
 | BPM | 135 |
-| 章节 | - |
-| 曲绘 | - |
+| 章节 | 未知 |
+| 曲绘 | 未知 |
 
 ## 谱面信息
 
@@ -42,7 +39,7 @@
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Crystal Ember - Ascellia Mio/Hilarity Leap Records/维度坍缩/逃离记录Exit Records/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2713429542)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico) [Crystal Ember - Ascellia Mio/Hilarity Leap Records/维度坍缩/逃离记录Exit Records/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2713429542)
 
 ## 相关视频
 

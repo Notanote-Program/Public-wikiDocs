@@ -1,7 +1,6 @@
 # Rainbow Flavor!
 
 <div class="NoticeBoard">
-  <br>
   <p>(︾▽︾*)</p>
 </div>
 
@@ -28,7 +27,7 @@
 
 ## 解锁方法
 
-阅读剧情收集品[「Summer Dream」](?p=collectible_list&l=zh-CN#Summer_Dream)解锁。
+阅读剧情收集品[「假期计划」](?p=collectible_list&l=zh-CN#Holiday_Plans)解锁。
 
 ## 更新记录
 
@@ -58,13 +57,13 @@
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico)[Rainbow Flavor!（彩虹的味道） - SuggestedCopy7/亚述 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2039084825)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【原创萌系电音EP】SuggestedCopy7&YashuUwU—《Rainbow Flavor!》单曲试听~](https://www.bilibili.com/video/BV1RT41187Hi/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico) [Rainbow Flavor!（彩虹的味道） - SuggestedCopy7/亚述 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2039084825)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【原创萌系电音EP】SuggestedCopy7&YashuUwU—《Rainbow Flavor!》单曲试听~](https://www.bilibili.com/video/BV1RT41187Hi/)
 
 ## 相关视频
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Rainbow Flavor! [SY 7.0] 谱面演示](https://www.bilibili.com/video/BV1278RzsEiN/)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico)[【Notanote谱面保管室】Rainbow Flavor! [EZ 1.5] 谱面演示](https://www.bilibili.com/video/BV1KZ8CztEkJ/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote谱面保管室】Rainbow Flavor! [SY 7.0] 谱面演示](https://www.bilibili.com/video/BV1278RzsEiN/)
+- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote谱面保管室】Rainbow Flavor! [EZ 1.5] 谱面演示](https://www.bilibili.com/video/BV1KZ8CztEkJ/)
 
 ## 注释
 
