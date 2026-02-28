@@ -13,7 +13,7 @@
 | 原创 | 联合原创（与Milthm） |
 | 曲师 | [ああああ](?p=composer_list&l=zh-CN#aaaa) |
 | 时长 | 02:01 |
-| BPM | **0ms**: 148.0<br />**40540ms**: 220.0<br />**47049ms**: 230.0<br />**50179ms**: 210.0<br />**51893ms**: 156.0<br />**58046ms**: 150.0<br />**61246ms**: 148.0 |
+| BPM | **0ms**: 148<br />**40540ms**: 220<br />**47049ms**: 230<br />**50179ms**: 210<br />**51893ms**: 156<br />**58046ms**: 150<br />**61246ms**: 148 |
 | 章节 | [Milthm](?p=chapters/Milthm&l=zh-CN) |
 | 曲绘 | [天野岁](?p=illustrator_list&l=zh-CN#Tianyesui) |
 
@@ -22,6 +22,7 @@
 | 信息 | SY |
 | :-: | :-: |
 | 定数 | 8.8 |
+| 颜色 | [流韵之赤](?p=chapters/Red&l=zh-CN) |
 | 物量 | 536 |
 | 谱师 | [泪泪泪泪](?p=charter_list&l=zh-CN#Lei_motife) vs [嘤嘤嘤嘤](?p=charter_list&l=zh-CN#XyX) |
 
@@ -53,10 +54,10 @@
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico) [cybernetic blazar（Notanote x Milthm Original） - ああああ - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2688806116)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico) [ああああ - cybernetic blazar](https://www.youtube.com/watch?v=NEmnoZBmrYM)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【原创曲】cybernetic blazar - Milthm x Notanote](https://www.bilibili.com/video/BV12m421x7Am/)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico) [cybernetic blazar（Notanote x Milthm Original） - ああああ - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2688806116)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/youtube.ico) [ああああ - cybernetic blazar](https://www.youtube.com/watch?v=NEmnoZBmrYM)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【原创曲】cybernetic blazar - Milthm x Notanote](https://www.bilibili.com/video/BV12m421x7Am/)
 
 ## 相关视频
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote谱面保管室】cybernetic blazar [SY 8.8] 谱面演示](https://www.bilibili.com/video/BV19ar3BsEk4/)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】cybernetic blazar [SY 8.8] 谱面演示](https://www.bilibili.com/video/BV19ar3BsEk4/)

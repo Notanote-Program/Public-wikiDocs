@@ -22,12 +22,16 @@
 | 信息 | SY | SY+ | EZ |
 | :-: | :-: | :-: | :-: |
 | 定数 | 9.4 | 10.4 | 3.0 |
+| 颜色 | [赋染之蓝](?p=chapters/Blue&l=zh-CN) | [赋染之蓝](?p=chapters/Blue&l=zh-CN) | [赋染之蓝](?p=chapters/Blue&l=zh-CN) |
 | 物量 | 1019 | 1081 | 855 |
 | 谱师 | [KNY](?p=charter_list&l=zh-CN#JMY)[ORG](?p=charter_list&l=zh-CN#SiLENTORANGE) | [qm](?p=charter_list&l=zh-CN#qm) vs [KNY](?p=charter_list&l=zh-CN#JMY)[ORG](?p=charter_list&l=zh-CN#SiLENTORANGE) | [KNY](?p=charter_list&l=zh-CN#JMY)[ORG](?p=charter_list&l=zh-CN#SiLENTORANGE) |
 
 ## 解锁方法
 
-阅读剧情收集品[「差之毫厘」](?p=collectible_list&l=zh-CN#Missed_by_an_Inch)解锁。
+以下条件满足任意一个：
+
+- 阅读剧情收集品[「差之毫厘」](?p=collectible_list&l=zh-CN#Missed_by_an_Inch)
+- 600糖果。
 
 ## 更新记录
 
@@ -59,13 +63,13 @@
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico) [End Time - Cres. - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2079867339)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico) [[BOF 2006] End Time - Cres](https://www.youtube.com/watch?v=9-bLRFOTVQM)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【BOF2006】Cres. - End Time [SEGA高画质REMAKE For maimai]](https://www.bilibili.com/video/BV1at411F7nS/)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico) [End Time - Cres. - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2079867339)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/youtube.ico) [[BOF 2006] End Time - Cres](https://www.youtube.com/watch?v=9-bLRFOTVQM)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【BOF2006】Cres. - End Time [SEGA高画质REMAKE For maimai]](https://www.bilibili.com/video/BV1at411F7nS/)
 
 ## 相关视频
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote谱面保管室】End Time [SY 9.4] 谱面演示](https://www.bilibili.com/video/BV1EYeizKEfv/)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote谱面保管室】End Time [SY+ 10.4] 谱面演示](https://www.bilibili.com/video/BV1EYeizKEfv/)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote谱面保管室】End Time [EZ 3.0] 谱面演示](https://www.bilibili.com/video/BV1EYeizKEfv/)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote/手把手教你爆打烂烂的楼】End Time [SY+ 10] All Perfect Rank X！](https://www.bilibili.com/video/BV13oegz9E21/)（玩家：[九段不合格](https://space.bilibili.com/1633653929/)）
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】End Time [SY 9.4] 谱面演示](https://www.bilibili.com/video/BV1EYeizKEfv/)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】End Time [SY+ 10.4] 谱面演示](https://www.bilibili.com/video/BV1EYeizKEfv/)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】End Time [EZ 3.0] 谱面演示](https://www.bilibili.com/video/BV1EYeizKEfv/)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote/手把手教你爆打烂烂的楼】End Time [SY+ 10] All Perfect Rank X！](https://www.bilibili.com/video/BV13oegz9E21/)（玩家：[九段不合格](https://space.bilibili.com/1633653929/)）

@@ -39,9 +39,9 @@
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico) [Fiend Demme（From Orzmic） - ZxNX - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2678547740)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico) [【Orzmic】Delaina as "ZxNX" - Fiend Demme](https://www.youtube.com/watch?v=JzPsTGd1PPA)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Orzmic】Delaina as "ZxNX" - Fiend Demme](https://www.bilibili.com/video/BV1DF411x72r/)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico) [Fiend Demme（From Orzmic） - ZxNX - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2678547740)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/youtube.ico) [【Orzmic】Delaina as "ZxNX" - Fiend Demme](https://www.youtube.com/watch?v=JzPsTGd1PPA)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Orzmic】Delaina as "ZxNX" - Fiend Demme](https://www.bilibili.com/video/BV1DF411x72r/)
 
 ## 相关视频
 

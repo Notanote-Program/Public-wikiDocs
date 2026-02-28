@@ -22,7 +22,8 @@
 
 | 信息 | SY |
 | :-: | :-: |
-| 难度 | 8.4 |
+| 定数 | 8.4 |
+| 颜色 | [框势之黑](?p=chapters/Black&l=zh-CN) |
 | 物量 | 999 |
 | 谱师 | [小嘤箱](?p=charter_list&l=zh-CN#XyX) |
 
@@ -34,7 +35,8 @@
 
 | 时间 | 版本 | 内容 |
 | :-: | :-: | :-: |
-| 2026/02/14 | v2.0.0 | Steam、TapTap侧上线曲目 |
+| 2026/02/14 | re:v2.0.0 | Steam、TapTap侧上线曲目 |
+| 2026/02/21 | re:v2.0.5 | App Store侧上线曲目 |
 
 ## 游戏相关
 
@@ -48,8 +50,8 @@
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico) [Kirakira Universe - Bakami/Sakura records official樱花记录 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2046728252)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico) [Kirakira Universe - Bakami/Sakura records official樱花记录 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2046728252)
 
 ## 相关视频
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote谱面保管室】Kirakira Universe [SY 8.4] 谱面演示](https://www.bilibili.com/video/BV1w7ZtBZEpU/)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】Kirakira Universe [SY 8.4] 谱面演示](https://www.bilibili.com/video/BV1w7ZtBZEpU/)

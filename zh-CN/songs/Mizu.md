@@ -21,7 +21,8 @@
 
 | 信息 | SY | EZ |
 | :-: | :-: | :-: |
-| 难度 | 8.4 | 3.0 |
+| 定数 | 8.5 | 3.0 |
+| 颜色 | [框势之黑](?p=chapters/Black&l=zh-CN) | [框势之黑](?p=chapters/Black&l=zh-CN) |
 | 物量 | 523 | 604 |
 | 谱师 | [二回：一曲浮槎云水间](?p=charter_list&l=zh-CN#XyX) | [二回](?p=charter_list&l=zh-CN#XyX)：[一曲浮槎云水间](?p=charter_list&l=zh-CN#AwlF) |
 
@@ -34,6 +35,7 @@
 | 时间 | 版本 | 内容 |
 | :-: | :-: | :-: |
 | 2025/11/01 | v2.7.0 | 上线曲目 |
+| 2026/02/14 | re:v2.0.0 | SY难度定数由8.4改为8.5 |
 
 ## 游戏相关
 
@@ -51,10 +53,10 @@
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico) [Mizu - Itz咸鱼/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2147011178)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote原创曲】Mizu - Itz咸鱼](https://www.bilibili.com/video/BV1AZ421n78Z/)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico) [Mizu - Itz咸鱼/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2147011178)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote原创曲】Mizu - Itz咸鱼](https://www.bilibili.com/video/BV1AZ421n78Z/)
 
 ## 相关视频
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote谱面保管室】Mizu [SY 8.4] 谱面演示](https://www.bilibili.com/video/BV1bskXBNEEZ/)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote谱面保管室】Mizu [EZ 3.0] 谱面演示](https://www.bilibili.com/video/BV1nrkXBWEEa/)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】Mizu [SY 8.4] 谱面演示](https://www.bilibili.com/video/BV1bskXBNEEZ/)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】Mizu [EZ 3.0] 谱面演示](https://www.bilibili.com/video/BV1nrkXBWEEa/)

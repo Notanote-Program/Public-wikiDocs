@@ -22,12 +22,16 @@
 | 信息 | SY | EZ |
 | :-: | :-: | :-: |
 | 定数 | 10.5 | 5.5 |
+| 颜色 | [空域之碧](?p=chapters/Green&l=zh-CN) | [空域之碧](?p=chapters/Green&l=zh-CN) |
 | 物量 | 1315 | 844 |
 | 谱师 | [Nota](?p=charter_list&l=zh-CN#Fulu)[note](?p=charter_list&l=zh-CN#qm) [Char](?p=charter_list&l=zh-CN#XyX)[ting](?p=charter_list&l=zh-CN#zecolost) [Te](?p=charter_list&l=zh-CN#wxy)[am](?p=charter_list&l=zh-CN#Arthur) | [Nota](?p=charter_list&l=zh-CN#Fulu)[note](?p=charter_list&l=zh-CN#qm) [Char](?p=charter_list&l=zh-CN#XyX)[ting](?p=charter_list&l=zh-CN#zecolost) [Te](?p=charter_list&l=zh-CN#wxy)[am](?p=charter_list&l=zh-CN#Arthur) |
 
 ## 解锁方法
 
-游玩[「Star Chain」](?p=songs/Star_Chain&l=zh-CN)的主难度（SY / EZ），并使用500糖果解锁
+以下条件满足任意一个：
+
+- 游玩[「Star Chain」](?p=songs/Star_Chain&l=zh-CN)的主难度（SY / EZ）
+- 500糖果
 
 ## 更新记录
 
@@ -67,11 +71,11 @@
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico) [Aether Ingita!!!!! - ZAWA/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2714634340)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote x Soul Notes】Aether Ingita! - ZAWA](https://www.bilibili.com/video/BV1uFPCeqEJD/)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico) [Aether Ingita!!!!! - ZAWA/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2714634340)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote x Soul Notes】Aether Ingita! - ZAWA](https://www.bilibili.com/video/BV1uFPCeqEJD/)
 
 ## 相关视频
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote谱面保管室】Aether Ingita! [SY 10.5] 谱面演示](https://www.bilibili.com/video/BV1wyZRYyEUF/)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote谱面保管室】Aether Ingita! [EZ 5.5] 谱面演示](https://www.bilibili.com/video/BV1S6GzzrEp7/)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote/全球首杀/屏元】Notanote第二难曲 Aether Ingita! [SY 10] All Perfect Rank X！](https://www.bilibili.com/video/BV1zMhNz3E5M/)（玩家：[九段不合格](https://space.bilibili.com/1633653929/)）
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】Aether Ingita! [SY 10.5] 谱面演示](https://www.bilibili.com/video/BV1wyZRYyEUF/)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】Aether Ingita! [EZ 5.5] 谱面演示](https://www.bilibili.com/video/BV1S6GzzrEp7/)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote/全球首杀/屏元】Notanote第二难曲 Aether Ingita! [SY 10] All Perfect Rank X！](https://www.bilibili.com/video/BV1zMhNz3E5M/)（玩家：[九段不合格](https://space.bilibili.com/1633653929/)）

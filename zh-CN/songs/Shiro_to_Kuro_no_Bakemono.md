@@ -22,12 +22,16 @@
 | 信息 | SY |
 | :-: | :-: |
 | 定数 | 9.8 |
+| 颜色 | [映拟之缃](?p=chapters/Yellow&l=zh-CN) |
 | 物量 | 1046 |
 | 谱师 | [111](?p=charter_list&l=zh-CN#Vluoy) |
 
 ## 解锁方法
 
-该曲目无需额外解锁。
+以下条件满足任意一个：
+
+- 游玩[「Grayscale Tragedy」](?p=songs/Grayscale_Tragedy&l=zh-CN)的主难度（SY / EZ）
+- 600糖果
 
 ## 更新记录
 
@@ -138,15 +142,15 @@
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico) [白と黒のバケモノ（白与黑的怪物） - テヅカ - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2679749732)<sup><a id="note-1.1" href="#ref-1">[1]</a></sup>
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico) [白と黒のバケモノ(feat. 鏡音リン)（白与黑的怪物） - テヅカ/鏡音リン - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2679751286)<sup><a id="note-2.1" href="#ref-2">[2]</a></sup>
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico) [[Berry Melody/Phigros] 白と黒のバケモノ - テヅカ【Music】](https://www.youtube.com/watch?v=p03JG9jb2dM)<sup><a id="note-1.2" href="#ref-1">[1]</a></sup>
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico) [白と黒のバケモノ / テヅカ feat. 鏡音リン](https://www.youtube.com/watch?v=6IqP1IBwvXE)<sup><a id="note-2.2" href="#ref-2">[2]</a></sup>
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [白と黒のバケモノ(黑与白的怪物) / テヅカ feat. 鏡音リン](https://www.bilibili.com/video/BV1xU4y1v7tW/)<sup><a id="note-2.3" href="#ref-2">[2]</a></sup>
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico) [白と黒のバケモノ（白与黑的怪物） - テヅカ - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2679749732)<sup><a id="note-1.1" href="#ref-1">[1]</a></sup>
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico) [白と黒のバケモノ(feat. 鏡音リン)（白与黑的怪物） - テヅカ/鏡音リン - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2679751286)<sup><a id="note-2.1" href="#ref-2">[2]</a></sup>
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/youtube.ico) [[Berry Melody/Phigros] 白と黒のバケモノ - テヅカ【Music】](https://www.youtube.com/watch?v=p03JG9jb2dM)<sup><a id="note-1.2" href="#ref-1">[1]</a></sup>
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/youtube.ico) [白と黒のバケモノ / テヅカ feat. 鏡音リン](https://www.youtube.com/watch?v=6IqP1IBwvXE)<sup><a id="note-2.2" href="#ref-2">[2]</a></sup>
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [白と黒のバケモノ(黑与白的怪物) / テヅカ feat. 鏡音リン](https://www.bilibili.com/video/BV1xU4y1v7tW/)<sup><a id="note-2.3" href="#ref-2">[2]</a></sup>
 
 ## 相关视频
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote谱面保管室】白と黒のバケモノ [SY 9.8] 谱面演示 / 白黑怪物](https://www.bilibili.com/video/BV1m4KWzCEhs/)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】白と黒のバケモノ [SY 9.8] 谱面演示 / 白黑怪物](https://www.bilibili.com/video/BV1m4KWzCEhs/)
 
 ## 注释
 

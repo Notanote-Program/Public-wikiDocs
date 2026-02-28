@@ -6,7 +6,7 @@
 
 <p style="text-align: center;font-size: 1.2rem;"><strong>本Wiki仍在建设中</strong></p>
 
-<p style="text-align: center;"><a href="?p=FAQ&l=zh-CN">FAQ</a> | <a href="?p=mechanics&l=zh-CN">机制</a> | <a href="?p=interface&l=zh-CN">界面</a> | <a href="?p=song_list&l=zh-CN">曲目列表</a> | <a href="?p=chapter_list&l=zh-CN">章节列表</a> | <a href="?p=composer_list&l=zh-CN">曲师列表</a> | <a href="?p=charter_list&l=zh-CN">谱师列表</a> | <a href="?p=illustrator_list&l=zh-CN">画师列表</a> | <a href="?p=collectible_list&l=zh-CN">收藏品列表</a> | <a href="?p=character_list&l=zh-CN">角色列表</a> | <a href="?p=memes&l=zh-CN">梗</a></p>
+<p style="text-align: center;"><a href="?p=FAQ&l=zh-CN">FAQ</a> | <a href="?p=mechanics&l=zh-CN">机制</a> | <a href="?p=interface&l=zh-CN">界面</a> | <a href="?p=constant_table&l=zh-CN">定数表</a> | <a href="?p=song_list&l=zh-CN">曲目列表</a> | <a href="?p=chapter_list&l=zh-CN">章节列表</a> | <a href="?p=composer_list&l=zh-CN">曲师列表</a> | <a href="?p=charter_list&l=zh-CN">谱师列表</a> | <a href="?p=illustrator_list&l=zh-CN">画师列表</a> | <a href="?p=collectible_list&l=zh-CN">收藏品列表</a> | <a href="?p=character_list&l=zh-CN">角色列表</a> | <a href="?p=memes&l=zh-CN">梗</a></p>
 
 <p style="text-align: center;font-size: 1.2rem;"><strong><a href="?p=about&l=zh-CN">关于本Wiki</a></strong></p>
 
@@ -37,6 +37,12 @@
 
 ## 新闻
 
+### 2026/02/27
+
+![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) **[【Notanote原创曲】余烬行者 - KAIRCI feat. Kari脆球](https://www.bilibili.com/video/BV1PGAmzhEL6/)**
+
+---
+
 ### 2026/02/17
 
 Notanote x Orzmic Vol.2 联动确认
@@ -51,19 +57,19 @@ Notanote x Orzmic Vol.2 联动确认
 
 ![](http://i0.hdslb.com/bfs/new_dyn/7666ab7ec616a06274975fdaffbe24c3701972652.png)
 
-![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) **[原动态](https://www.bilibili.com/opus/1169877288211185664)**
+![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) **[原动态](https://www.bilibili.com/opus/1169877288211185664)**
 
 ---
 
 ### 2026/02/11
 
-![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) **[【Berry Melody x Notanote 原创曲】Faxeanos - Link"0](https://www.bilibili.com/video/BV1dZcbzFERa/)**
+![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) **[【Berry Melody x Notanote 原创曲】Faxeanos - Link"0](https://www.bilibili.com/video/BV1dZcbzFERa/)**
 
 ---
 
 ### 2026/02/10
 
-![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) **[【Notanote原创曲】重置版：Brand New Day - Bcc & NonNam ft. Mai](https://www.bilibili.com/video/BV1SPFQzrEcF/)**
+![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) **[【Notanote原创曲】重置版：Brand New Day - Bcc & NonNam ft. Mai](https://www.bilibili.com/video/BV1SPFQzrEcF/)**
 
 ---
 
@@ -105,13 +111,13 @@ Notanote re:v2.0将于2026.02.14更新！
 最后，2025最喜爱的曲目投票结果公布！前三名曲目将在后续版本中追加特别内容！​<br />
 敬请期待！
 
-![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) **[【Notanote】re:v2.0 二周年内容预览](https://www.bilibili.com/video/BV1PgF4zhEND/)**
+![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) **[【Notanote】re:v2.0 二周年内容预览](https://www.bilibili.com/video/BV1PgF4zhEND/)**
 
 ---
 
 ### 2026/02/01
 
-![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) **[【Notanote原创曲】 时契 - KAIRCI feat. Aletta](https://www.bilibili.com/video/BV1Ly6wBaE4y/)**
+![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) **[【Notanote原创曲】 时契 - KAIRCI feat. Aletta](https://www.bilibili.com/video/BV1Ly6wBaE4y/)**
 
 ---
 
@@ -127,21 +133,6 @@ Notanote周年版本​全新角色公布：
 当画纸成为最好的信物，烛火终将燎原……
 
 ![](https://i0.hdslb.com/bfs/new_dyn/5aed0ada55109a503416cf5ec91332ec701972652.png)
-
----
-
-### 2026/01/16
-
-转眼间，Notanote的二周年即将到来。在临近周年庆之际，一首全新单曲将于2月1日公布！
-
-• [「时契」](?p=songs/Shiqi&l=zh-CN) by [KAIRCI](?p=composer_list&l=zh-CN#KAIRCI) feat. Aletta [Notanote Original]
-
-敬请期待！
-
-此外，Notanote二周年喜爱曲目投票即将于2026/01/18 00:00截止，抓紧时间哦！<br />
-<https://tp.wjx.top/vm/PvPnlfa.aspx#>
-
-![](https://i0.hdslb.com/bfs/new_dyn/6af6940b1355b853ac3d47fd76bc1c79701972652.png)
 
 ## 你知道吗
 

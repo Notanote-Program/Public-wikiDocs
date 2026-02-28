@@ -22,12 +22,16 @@
 | 信息 | SY | TL |
 | :-: | :-: | :-: |
 | 定数 | 2.5 | 3.5 |
+| 颜色 | [框势之黑](?p=chapters/Black&l=zh-CN) | [框势之黑](?p=chapters/Black&l=zh-CN) |
 | 物量 | 450 | 122 |
 | 谱师 | [XyX](?p=charter_list&l=zh-CN#XyX) | [流星嘤](?p=charter_list&l=zh-CN#XyX) |
 
 ## 解锁方法
 
-阅读剧情收集品[「雨之遇」](?p=collectible_list&l=zh-CN#Rainy_Getaway)解锁。
+以下条件满足任意一个：
+
+- 阅读剧情收集品[「雨之遇」](?p=collectible_list&l=zh-CN#Rainy_Getaway)
+- 600糖果
 
 ## 更新记录
 
@@ -102,9 +106,9 @@ And not have to remember you never belonged to me
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico) ["She" - ΓИ7AL - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1887473162)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico) ["She" - ΓИ7AL - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1887473162)
 
 ## 相关视频
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote谱面保管室】"SHE" [SY 3.5] 谱面演示](https://www.bilibili.com/video/BV16igZzgEif/)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote/移动端测试】"SHE" SY4 All Perfect](https://www.bilibili.com/video/BV1pP4wePEwu/)（玩家：[CMR_音律浪](https://space.bilibili.com/549751251/)）
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】"SHE" [SY 3.5] 谱面演示](https://www.bilibili.com/video/BV16igZzgEif/)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote/移动端测试】"SHE" SY4 All Perfect](https://www.bilibili.com/video/BV1pP4wePEwu/)（玩家：[CMR_音律浪](https://space.bilibili.com/549751251/)）

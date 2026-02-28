@@ -22,12 +22,16 @@
 | 信息 | SY | EZ |
 | :-: | :-: | :-: |
 | 定数 | 9.3 | 4.5 |
+| 颜色 | [框势之黑](?p=chapters/Black&l=zh-CN) | [框势之黑](?p=chapters/Black&l=zh-CN) |
 | 物量 | 988 | 885 |
 | 谱师 | THE NEXT >>> [XyX](?p=charter_list&l=zh-CN#XyX) + [AwlF](?p=charter_list&l=zh-CN#AwlF) + [大松_Dason](?p=charter_list&l=zh-CN#Dason) | AAA_[Dason](?p=charter_list&l=zh-CN#Dason)[嘤箱](?p=charter_list&l=zh-CN#XyX)批[Fa](?p=charter_list&l=zh-CN#AwlF) |
 
 ## 解锁方法
 
-游玩[「爱上想象的你」](?p=songs/Aishang_Xiangxiang_de_Ni&l=zh-CN)的主难度（SY / EZ），并使用600糖果解锁。
+以下条件满足任意一个：
+
+- 游玩[「爱上想象的你」](?p=songs/Aishang_Xiangxiang_de_Ni&l=zh-CN)的主难度（SY / EZ）
+- 600糖果
 
 ## 更新记录
 
@@ -139,11 +143,11 @@ The Soundwave will IGNITE!
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico) [IGNITE - USAO/Massive New Krew - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2128530603)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico) [USAO & Massive New Krew - IGNITE](https://www.youtube.com/watch?v=EbaaHmy4QCM)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [USAO & Massive New Krew - IGNITE 【音波狂潮3.0 活动主题曲】](https://www.bilibili.com/video/BV1fr4y1X7nt/)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico) [IGNITE - USAO/Massive New Krew - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2128530603)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/youtube.ico) [USAO & Massive New Krew - IGNITE](https://www.youtube.com/watch?v=EbaaHmy4QCM)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [USAO & Massive New Krew - IGNITE 【音波狂潮3.0 活动主题曲】](https://www.bilibili.com/video/BV1fr4y1X7nt/)
 
 ## 相关视频
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote谱面保管室/这谱咱仨写的】IGNITE [SY 9.3] 谱面演示](https://www.bilibili.com/video/BV14LHxz9EWQ/)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote谱面保管室/这谱咱仨写的】IGNITE [EZ 4.5] 谱面演示](https://www.bilibili.com/video/BV1snHxznEUu/)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室/这谱咱仨写的】IGNITE [SY 9.3] 谱面演示](https://www.bilibili.com/video/BV14LHxz9EWQ/)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室/这谱咱仨写的】IGNITE [EZ 4.5] 谱面演示](https://www.bilibili.com/video/BV1snHxznEUu/)

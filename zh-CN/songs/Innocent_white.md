@@ -22,6 +22,7 @@
 | 信息 | SY | EZ+ | EZ |
 | :-: | :-: | :-: | :-: |
 | 定数 | 9.7 | 5.2 | 2.5 |
+| 颜色 | [承演之白](?p=chapters/White&l=zh-CN) | [承演之白](?p=chapters/White&l=zh-CN) | [承演之白](?p=chapters/White&l=zh-CN) |
 | 物量 | 881 | 695 | 117 |
 | 谱师 | [舞仙翼](?p=charter_list&l=zh-CN#wxy) feat. [Ariayaka](?p=charter_list&l=zh-CN#Ariayaka) (Milthm) | [活性氮](?p=charter_list&l=zh-CN#HXDan) | [舞仙翼](?p=charter_list&l=zh-CN#wxy) |
 
@@ -61,12 +62,12 @@
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico) [Innocent white（游戏《Milthm》X《Notanote》原创曲） - 影虎。 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2139042161)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico) [影虎。[Kagetora..] / Innocent white【from Notanote x Milthm】](https://www.youtube.com/watch?v=AYmGKA-3SC4)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [影虎。 / Innocent white【from Notanote x Milthm】](https://www.bilibili.com/video/BV1Cr42187Lk/)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico) [Innocent white（游戏《Milthm》X《Notanote》原创曲） - 影虎。 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2139042161)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/youtube.ico) [影虎。[Kagetora..] / Innocent white【from Notanote x Milthm】](https://www.youtube.com/watch?v=AYmGKA-3SC4)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [影虎。 / Innocent white【from Notanote x Milthm】](https://www.bilibili.com/video/BV1Cr42187Lk/)
 
 ## 相关视频
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote谱面保管室】Innocent white [SY 9.7] 谱面演示](https://www.bilibili.com/video/BV1u5nJzMEpB/)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote谱面保管室】Innocent white [EZ+ 5.2] 谱面演示](https://www.bilibili.com/video/BV14YHpz1Enu/)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote谱面保管室】Innocent white [EZ 2.5] 谱面演示](https://www.bilibili.com/video/BV147HxzpE6P/)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】Innocent white [SY 9.7] 谱面演示](https://www.bilibili.com/video/BV1u5nJzMEpB/)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】Innocent white [EZ+ 5.2] 谱面演示](https://www.bilibili.com/video/BV14YHpz1Enu/)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】Innocent white [EZ 2.5] 谱面演示](https://www.bilibili.com/video/BV147HxzpE6P/)

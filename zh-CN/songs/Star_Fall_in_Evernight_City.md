@@ -39,8 +39,8 @@
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico) [Star Fall in Evernight City / Reku Mochizuki【Orzmic】](https://www.youtube.com/watch?v=RFXi-MkgQys)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Orzmic】Star Fall in Evernight City- Reku Mochizuki](https://www.bilibili.com/video/BV1DF411x72r/)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/youtube.ico) [Star Fall in Evernight City / Reku Mochizuki【Orzmic】](https://www.youtube.com/watch?v=RFXi-MkgQys)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Orzmic】Star Fall in Evernight City- Reku Mochizuki](https://www.bilibili.com/video/BV1DF411x72r/)
 
 ## 相关视频
 

@@ -22,7 +22,8 @@
 
 | 信息 | SY | EZ |
 | :-: | :-: | :-: |
-| 难度 | 8.1 | 1.5 |
+| 定数 | 8.1 | 1.5 |
+| 颜色 | [空域之碧](?p=chapters/Green&l=zh-CN) | [空域之碧](?p=chapters/Green&l=zh-CN) |
 | 物量 | 960 | 536 |
 | 谱师 | [小嘤箱](?p=charter_list&l=zh-CN#XyX) | [小嘤箱](?p=charter_list&l=zh-CN#XyX) ft. [大松Dason](?p=charter_list&l=zh-CN#Dason) |
 
@@ -34,7 +35,8 @@
 
 | 时间 | 版本 | 内容 |
 | :-: | :-: | :-: |
-| 2026/02/14 | v2.0.0 | Steam、TapTap侧上线曲目 |
+| 2026/02/14 | re:v2.0.0 | Steam、TapTap侧上线曲目 |
+| 2026/02/21 | re:v2.0.5 | App Store侧上线曲目 |
 
 ## 游戏相关
 
@@ -69,10 +71,10 @@
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico) [时契 - KAIRCI/Aletta/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=3344738302)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote原创曲】时契 - KAIRCI feat. Aletta](https://www.bilibili.com/video/BV1Ly6wBaE4y/)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico) [时契 - KAIRCI/Aletta/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=3344738302)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote原创曲】时契 - KAIRCI feat. Aletta](https://www.bilibili.com/video/BV1Ly6wBaE4y/)
 
 ## 相关视频
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote谱面保管室】时契 [SY 8.1] 谱面演示](https://www.bilibili.com/video/BV18yZtBuEYa/)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote谱面保管室】时契 [EZ 1.5] 谱面演示](https://www.bilibili.com/video/BV1byZtBuEys/)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】时契 [SY 8.1] 谱面演示](https://www.bilibili.com/video/BV18yZtBuEYa/)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】时契 [EZ 1.5] 谱面演示](https://www.bilibili.com/video/BV1byZtBuEys/)

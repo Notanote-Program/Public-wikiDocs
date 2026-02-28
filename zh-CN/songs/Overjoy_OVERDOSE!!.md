@@ -22,6 +22,7 @@
 | 信息 | SY |
 | :-: | :-: |
 | 定数 | 9.1 |
+| 颜色 | [空域之碧](?p=chapters/Green&l=zh-CN) |
 | 物量 | 897 |
 | 谱师 | [小嘤箱](?p=charter_list&l=zh-CN#XyX) |
 
@@ -169,10 +170,10 @@ So come back again, okay?
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico) [Overjoy ★ OVERDOSE!! - BilliumMoto/黒皇帝/Sobrem/Vally.exe - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2106610918)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico) [【BOF:NT】Overjoy ★ OVERDOSE!!](https://www.youtube.com/watch?v=tbVnVaIE5ys)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【BOF:NT】Luna Fozer(BilliumMoto & 黒皇帝 & Sobrem) - Overjoy ★ OVERDOSE!!](https://www.bilibili.com/video/BV1W94y1j7Q2/)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico) [Overjoy ★ OVERDOSE!! - BilliumMoto/黒皇帝/Sobrem/Vally.exe - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2106610918)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/youtube.ico) [【BOF:NT】Overjoy ★ OVERDOSE!!](https://www.youtube.com/watch?v=tbVnVaIE5ys)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【BOF:NT】Luna Fozer(BilliumMoto & 黒皇帝 & Sobrem) - Overjoy ★ OVERDOSE!!](https://www.bilibili.com/video/BV1W94y1j7Q2/)
 
 ## 相关视频
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote谱面保管室】Overjoy ★ OVERDOSE!! [SY 9.1] 谱面演示](https://www.bilibili.com/video/BV1hLqQB9ECe/)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】Overjoy ★ OVERDOSE!! [SY 9.1] 谱面演示](https://www.bilibili.com/video/BV1hLqQB9ECe/)

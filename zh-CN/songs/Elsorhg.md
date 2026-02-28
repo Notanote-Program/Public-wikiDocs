@@ -22,12 +22,16 @@
 | 信息 | SY |
 | :-: | :-: |
 | 定数 | 8.5 |
+| 颜色 | [框势之黑](?p=chapters/Black&l=zh-CN) |
 | 物量 | 653 |
 | 谱师 | [Lei](?p=charter_list&l=zh-CN#Lei_motife) vs. [wxy](?p=charter_list&l=zh-CN#wxy) |
 
 ## 解锁方法
 
-阅读剧情收集品[「Innocent white」](?p=collectibles&l=zh-CN#Innocent_white)解锁。
+以下条件满足任意一个：
+
+- 阅读剧情收藏品[「Innocent white」](?p=collectible_list&l=zh-CN#Innocent_white)
+- 500糖果
 
 ## 更新记录
 
@@ -67,10 +71,10 @@ Elsorhgey delimed tu le
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico) [Elsorhg - Fl00t/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2676684027)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico) [【Notanote × Milthm】Fl00t - Elsorhg](https://www.youtube.com/watch?v=9_3tjJYLvdE)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote原创曲】Elsorhg - Fl00t](https://www.bilibili.com/video/BV16aFieoEB5/)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico) [Elsorhg - Fl00t/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2676684027)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/youtube.ico) [【Notanote × Milthm】Fl00t - Elsorhg](https://www.youtube.com/watch?v=9_3tjJYLvdE)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote原创曲】Elsorhg - Fl00t](https://www.bilibili.com/video/BV16aFieoEB5/)
 
 ## 相关视频
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote谱面保管室】Elsorhg [SY 8.5] 谱面演示](https://www.bilibili.com/video/BV1eBZ9YfE6M/)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】Elsorhg [SY 8.5] 谱面演示](https://www.bilibili.com/video/BV1eBZ9YfE6M/)

@@ -22,12 +22,16 @@
 | 信息 | SY | <span style="color: gray;">TL（已删除）</span> |
 | :-: | :-: | :-: |
 | 定数 | 4.0 | <span style="color: gray;">5.0</span> |
+| 颜色 | [框势之黑](?p=chapters/Black&l=zh-CN) | |
 | 物量 | 286 | <span style="color: gray;">401</span> |
 | 谱师 | [XyX](?p=charter_list&l=zh-CN#XyX) | <span style="color: gray;">[嘤箱](?p=charter_list&l=zh-CN#XyX) feat. [qm](?p=charter_list&l=zh-CN#qm) & [wxy](?p=charter_list&l=zh-CN#wxy)</span> |
 
 ## 解锁方法
 
-阅读剧情收集品[「"另一个我……？"」](?p=collectible_list&l=zh-CN#Another_Me)解锁。
+以下条件满足任意一个：
+
+- 阅读剧情收集品[「"另一个我……？"」](?p=collectible_list&l=zh-CN#Another_Me)
+- 600糖果
 
 ## 更新记录
 
@@ -42,7 +46,7 @@
 | 2025/08/16 | v2.5.0 | SY（现TL）难度定数由4.5改为5.0 |
 | 2025/09/13 | v2.5.1 | 增加TL（现SY）难度 |
 | 2026/01/14 | v2.9.0 | SY与TL难度谱面互换<br />SY（原TL）定数由?改为4.0 |
-| 2026/02/14 | v2.0.0 | 删除TL谱面 |
+| 2026/02/14 | re:v2.0.0 | 删除TL谱面 |
 
 ## 游戏相关
 
@@ -56,9 +60,9 @@
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico) [Cursed Land (Acoustic) - SJQ音福 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2009517807)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [[音乐制作工坊/凯尔特风] 《Cursed Land》 愚蠢贪婪的人类，终将受到惩罚……](https://www.bilibili.com/video/BV1pv4y1z7UR/)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico) [Cursed Land (Acoustic) - SJQ音福 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2009517807)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [[音乐制作工坊/凯尔特风] 《Cursed Land》 愚蠢贪婪的人类，终将受到惩罚……](https://www.bilibili.com/video/BV1pv4y1z7UR/)
 
 ## 相关视频
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote谱面保管室】Cursed Land (Acoustic) [SY 5.0] 谱面演示](https://www.bilibili.com/video/BV1nigZzgEge/)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】Cursed Land (Acoustic) [SY 5.0] 谱面演示](https://www.bilibili.com/video/BV1nigZzgEge/)

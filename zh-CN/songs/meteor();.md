@@ -41,7 +41,7 @@
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico) [meteor(); (ILusMin “OVERDECONSTRUCTION” remix) - ILusMin/ShooTinGStaR/Hilarity Leap Records/维度坍缩/逃离记录Exit Records/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2713426120)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico) [meteor(); (ILusMin “OVERDECONSTRUCTION” remix) - ILusMin/ShooTinGStaR/Hilarity Leap Records/维度坍缩/逃离记录Exit Records/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2713426120)
 
 ## 相关视频
 

@@ -12,7 +12,7 @@
 | 曲名 | 星祀る狐 |
 | 别名 | 无 |
 | 授权性质 | 原创 |
-| 曲师 | [Andreko](?p=composer_list&l=zh-CN#Andreko) |
+| 曲师 | [andreko](?p=composer_list&l=zh-CN#andreko) |
 | 时长 | 02:28 |
 | BPM | 138 |
 | 章节 | [单曲](?p=chapters/Singles&l=zh-CN) |
@@ -22,7 +22,8 @@
 
 | 信息 | SY | EZ |
 | :-: | :-: | :-: |
-| 难度 | 8.0 | 1.0 |
+| 定数 | 8.3 | 1.0 |
+| 颜色 | [赋染之蓝](?p=chapters/Blue&l=zh-CN) | [赋染之蓝](?p=chapters/Blue&l=zh-CN) |
 | 物量 | 665 | 311 |
 | 谱师 | [小嘤箱](?p=charter_list&l=zh-CN#XyX) | [小嘤箱](?p=charter_list&l=zh-CN#XyX) ft. [大松Dason](?p=charter_list&l=zh-CN#Dason) |
 
@@ -34,11 +35,12 @@
 
 | 时间 | 版本 | 内容 |
 | :-: | :-: | :-: |
-| 2026/02/14 | v2.0.0 | Steam、TapTap侧上线曲目 |
+| 2026/02/14 | re:v2.0.0 | Steam、TapTap侧上线曲目 |
+| 2026/02/21 | re:v2.0.5 | App Store侧上线曲目 |
 
 ## 游戏相关
 
-此部分暂无内容。
+- 曲绘上的角色为[狐星](https://space.bilibili.com/3546576507111863)。
 
 ## 攻略
 
@@ -52,9 +54,9 @@
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico) [星祀る狐 - Andreko - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2690081539)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico) [星祀る狐 - Andreko - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2690081539)
 
 ## 相关视频
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote谱面保管室】星祀る狐 [SY 8.3] 谱面演示](https://www.bilibili.com/video/BV1tmZtBTEyX/)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote谱面保管室】星祀る狐 [EZ 1.0] 谱面演示](https://www.bilibili.com/video/BV1y5ZtBfEuE/)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】星祀る狐 [SY 8.3] 谱面演示](https://www.bilibili.com/video/BV1tmZtBTEyX/)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】星祀る狐 [EZ 1.0] 谱面演示](https://www.bilibili.com/video/BV1y5ZtBfEuE/)

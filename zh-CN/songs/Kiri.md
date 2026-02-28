@@ -16,7 +16,7 @@
 | 曲师 | [Itz咸鱼](?p=composer_list&l=zh-CN#ItzXianyu) |
 | 时长 | 02:16 |
 | BPM | 100 |
-| 章节 | - |
+| 章节 | 未知 |
 | 曲绘 | [CroxsBOss](?p=illustrator_list&l=zh-CN#CroxsBOss) |
 
 ## 谱面信息
@@ -41,8 +41,8 @@
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico) [Kiri - Itz咸鱼/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2681833383)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote原创曲】Kiri - Itz咸鱼](https://www.bilibili.com/video/BV18jmzYHEBw/)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico) [Kiri - Itz咸鱼/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2681833383)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote原创曲】Kiri - Itz咸鱼](https://www.bilibili.com/video/BV18jmzYHEBw/)
 
 ## 相关视频
 

@@ -22,12 +22,16 @@
 | 信息 | SY | EZ |
 | :-: | :-: | :-: |
 | 定数 | 7.3 | 1.0 |
+| 颜色 | [承演之白](?p=chapters/White&l=zh-CN) | [承演之白](?p=chapters/White&l=zh-CN) |
 | 物量 | 483 | 525 |
 | 谱师 | [嘤箱](?p=charter_list&l=zh-CN#XyX) | [嘤箱](?p=charter_list&l=zh-CN#XyX) (Modified by [Rea_cy](?p=charter_list&l=zh-CN#Rea_cy)) |
 
 ## 解锁方法
 
-阅读剧情收集品[「没有她的日常」](?p=collectible_list&l=zh-CN#Days_without_Her)解锁。
+以下条件满足任意一个：
+
+- 阅读剧情收集品[「没有她的日常」](?p=collectible_list&l=zh-CN#Days_without_Her)
+- 600糖果
 
 ## 更新记录
 
@@ -57,7 +61,7 @@
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico) [Airy Dream - Bob Hou/DEP/Sakura records official樱花记录 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2073434954)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico) [Airy Dream - Bob Hou/DEP/Sakura records official樱花记录 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2073434954)
 
 ## 相关视频
 

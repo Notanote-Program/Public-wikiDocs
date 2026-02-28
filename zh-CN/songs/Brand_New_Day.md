@@ -22,12 +22,16 @@
 | 信息 | SY | EZ |
 | :-: | :-: | :-: |
 | 定数 | 6.3 | 2.0 |
+| 颜色 | [承演之白](?p=chapters/White&l=zh-CN) | [承演之白](?p=chapters/White&l=zh-CN) |
 | 物量 | 829 | 359 |
 | 谱师 | [Yx](?p=charter_list&l=zh-CN#XyX) | [Yx](?p=charter_list&l=zh-CN#XyX) feat. [Dason](?p=charter_list&l=zh-CN#Dason) & [Wxy](?p=charter_list&l=zh-CN#wxy) |
 
 ## 解锁方法
 
-阅读剧情收集品[「烟火祭」](?p=collectible_list&l=zh-CN#Summer_Fireworks)解锁。
+以下条件满足任意一个：
+
+- 阅读剧情收集品[「烟火祭」](?p=collectible_list&l=zh-CN#Summer_Fireworks)
+- 600糖果
 
 ## 更新记录
 
@@ -38,7 +42,7 @@
 | 2025/05/28 | v2.2.1 | App Store外区侧上线曲目 |
 | 2025/07/21 | v2.4.1 | App Store国区侧上线曲目 |
 | 2025/08/16 | v2.5.0 | SY难度定数由6.0改为5.1 |
-| 2026/02/14 | v2.0.0 | 重制曲目<br />修改SY难度谱面<br />增加EZ难度<br />SY难度定数由5.1改为6.3<br />曲师名义由[Bcc](?p=composer_list&l=zh-CN#Bcc) & [猎影双煞](?p=composer_list&l=zh-CN#NonNam) & [FrostOwl](?p=composer_list&l=zh-CN#FrostOwl) ft. 诺塔 & 赫瑞改为Bcc & NonNam ft. Mai |
+| 2026/02/14 | re:v2.0.0 | 重制曲目<br />修改SY难度谱面<br />增加EZ难度<br />SY难度定数由5.1改为6.3<br />曲师名义由[Bcc](?p=composer_list&l=zh-CN#Bcc) & [猎影双煞](?p=composer_list&l=zh-CN#NonNam) & [FrostOwl](?p=composer_list&l=zh-CN#FrostOwl) ft. 诺塔 & 赫瑞改为Bcc & NonNam ft. Mai |
 
 ## 游戏相关
 
@@ -112,9 +116,9 @@
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico) [Brand New Day - 猎影双煞NonNam/FrostOwl - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2079106190)<sup><a id="note-1.1" href="#ref-1">[1]</a></sup>
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote原创曲】重置版：Brand New Day - Bcc & NonNam ft. Mai](https://www.bilibili.com/video/BV1SPFQzrEcF/)<sup><a id="note-2" href="#ref-2">[2]</a></sup>
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【新音游 Notanote / Ace Studio】Brand New Day [ft. 赫瑞 & 诺塔]](https://www.bilibili.com/video/BV1jp4y177Bo/)<sup><a id="note-1.2" href="#ref-1">[1]</a></sup>
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico) [Brand New Day - 猎影双煞NonNam/FrostOwl - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2079106190)<sup><a id="note-1.1" href="#ref-1">[1]</a></sup>
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote原创曲】重置版：Brand New Day - Bcc & NonNam ft. Mai](https://www.bilibili.com/video/BV1SPFQzrEcF/)<sup><a id="note-2" href="#ref-2">[2]</a></sup>
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【新音游 Notanote / Ace Studio】Brand New Day [ft. 赫瑞 & 诺塔]](https://www.bilibili.com/video/BV1jp4y177Bo/)<sup><a id="note-1.2" href="#ref-1">[1]</a></sup>
 
 ## 相关视频
 

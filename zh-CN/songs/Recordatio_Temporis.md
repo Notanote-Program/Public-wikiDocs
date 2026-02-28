@@ -14,7 +14,7 @@
 | 曲师 | [EOTW433](?p=composer_list&l=zh-CN#EOTW433) |
 | 时长 | 03:25 |
 | BPM | 180 |
-| 章节 | - |
+| 章节 | 未知 |
 | 曲绘 | [HOSHILINEARX.](?p=illustrator_list&l=zh-CN#HOSHILINEARX.) |
 
 ## 谱面信息
@@ -39,7 +39,7 @@
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote x 第九日记录】Recordatio Temporis - EOTW433](https://www.bilibili.com/video/BV16p17B8EPb/)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote x 第九日记录】Recordatio Temporis - EOTW433](https://www.bilibili.com/video/BV16p17B8EPb/)
 
 ## 相关视频
 

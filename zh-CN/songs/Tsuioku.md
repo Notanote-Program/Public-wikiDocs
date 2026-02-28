@@ -22,6 +22,7 @@
 | 信息 | SY | <span style="color: gray;">EZ（已删除）</span> | <span style="color: gray;">TL（已删除）</span> |
 | :-: | :-: | :-: | :-: |
 | 定数 | 4.5 | <span style="color: gray;">3.0</span> | <span style="color: gray;">5.4</span> |
+| 颜色 | [流韵之赤](?p=chapters/Red&l=zh-CN) | | |
 | 物量 | 351 | <span style="color: gray;">458</span> | <span style="color: gray;">509</span> |
 | 谱师 | [XyX](?p=charter_list&l=zh-CN#XyX) | <span style="color: gray;">[八樱盒](?p=charter_list&l=zh-CN#XyX) ([活性氮](?p=charter_list&l=zh-CN#HXDan) modified)</span> | <span style="color: gray;">[八樱盒](?p=charter_list&l=zh-CN#XyX) feat. [Fyato](?p=charter_list&l=zh-CN#Fyato)</span> |
 
@@ -43,7 +44,7 @@
 | 2025/09/13 | v2.5.1 | 增加TL（现SY）难度 |
 | 2025/12/24 | v2.8.0 | 将TL（现SY）难度谱面的开始提示文字由白色改为黑色 |
 | 2026/01/14 | v2.9.0 | SY与TL难度谱面互换<br />SY（原TL）定数由?改为4.5 |
-| 2026/02/14 | v2.0.0 | 删除EZ与TL谱面 |
+| 2026/02/14 | re:v2.0.0 | 删除EZ与TL谱面 |
 
 ## 游戏相关
 
@@ -197,14 +198,14 @@
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico) [追憶 (feat. nakotanmaru) - PIKASONIC / なこたんまる - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1869161372)<sup><a id="note-1.1" href="#ref-1">[1]</a></sup>
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico) [PIKASONIC - 追憶 (feat.nakotanmaru)](https://www.youtube.com/watch?v=8TpMs2oS5u0)<sup><a id="note-1.2" href="#ref-1">[1]</a></sup>
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [PIKASONIC - 追憶 (feat.nakotanmaru)](https://www.bilibili.com/video/BV1C3411R7c2/)<sup><a id="note-1.3" href="#ref-1">[1]</a></sup>
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico) [追憶 (feat. nakotanmaru) - PIKASONIC / なこたんまる - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1869161372)<sup><a id="note-1.1" href="#ref-1">[1]</a></sup>
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/youtube.ico) [PIKASONIC - 追憶 (feat.nakotanmaru)](https://www.youtube.com/watch?v=8TpMs2oS5u0)<sup><a id="note-1.2" href="#ref-1">[1]</a></sup>
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [PIKASONIC - 追憶 (feat.nakotanmaru)](https://www.bilibili.com/video/BV1C3411R7c2/)<sup><a id="note-1.3" href="#ref-1">[1]</a></sup>
 
 ## 相关视频
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote谱面保管室】追憶 [SY 5.4] 谱面演示](https://www.bilibili.com/video/BV1negZzrECL/)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote谱面保管室】追憶 [EZ 3.0] 谱面演示](https://www.bilibili.com/video/BV1pYgZzGEcM/)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】追憶 [SY 5.4] 谱面演示](https://www.bilibili.com/video/BV1negZzrECL/)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】追憶 [EZ 3.0] 谱面演示](https://www.bilibili.com/video/BV1pYgZzGEcM/)
 
 ## 注释
 

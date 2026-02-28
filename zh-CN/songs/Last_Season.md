@@ -21,13 +21,17 @@
 
 | 信息 | SY |
 | :-: | :-: |
-| 定数 | 6.2 |
+| 定数 | 5.8 |
+| 颜色 | [承演之白](?p=chapters/White&l=zh-CN) |
 | 物量 | 553 |
 | 谱师 | [舞仙翼](?p=charter_list&l=zh-CN#wxy) |
 
 ## 解锁方法
 
-游玩[「Star Chain」](?p=songs/Star_Chain&l=zh-CN)的主难度（SY / EZ），并使用600糖果解锁。
+以下条件满足任意一个：
+
+- 游玩[「Star Chain」](?p=songs/Star_Chain&l=zh-CN)的主难度（SY / EZ）
+- 500糖果
 
 ## 更新记录
 
@@ -38,6 +42,7 @@
 | 2025/05/28 | v2.2.1 | App Store外区侧上线曲目 |
 | 2025/07/21 | v2.4.1 | App Store国区侧上线曲目 |
 | 2025/08/16 | v2.5.0 | SY难度定数由6.0改为6.2 |
+| 2026/02/14 | re:v2.0.0 | SY难度定数由6.2改为5.8 |
 
 ## 游戏相关
 
@@ -45,7 +50,7 @@
   > 心中有光的人总在深冬怀揣春天。
   > ——正观新闻《此心光明万物生》
 
-  本动态已删除，但是有[大松_Dason](?p=user_list&l=zh-CN#大松_Dason)在[Notanote官方Discord服务器](https://discord.gg/tCqyBQPg2c)上发送的一张动态[截图](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/Last_Season_leak.png)留存。（[Discord原消息链接](https://discord.com/channels/1094981701190557706/1094982163981684796/1334501924027760711)）
+  本动态已删除，但是有[大松_Dason](?p=user_list&l=zh-CN#大松_Dason)在[Notanote官方Discord服务器](https://discord.gg/tCqyBQPg2c)上发送的一张动态[截图](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/Last_Season_leak.png)留存。（[Discord原消息链接](https://discord.com/channels/1094981701190557706/1094982163981684796/1334501924027760711)）
 
 ## 攻略
 
@@ -55,9 +60,9 @@
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico) [Last Season - lunari.io/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2714634339)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote x Soul Notes】Last Season - lunari.io](https://www.bilibili.com/video/BV15GKweNEcq/)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico) [Last Season - lunari.io/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2714634339)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote x Soul Notes】Last Season - lunari.io](https://www.bilibili.com/video/BV15GKweNEcq/)
 
 ## 相关视频
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote谱面保管室】Last Season [SY 6.2] 谱面演示](https://www.bilibili.com/video/BV1N6ZRY7EtU/)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】Last Season [SY 6.2] 谱面演示](https://www.bilibili.com/video/BV1N6ZRY7EtU/)

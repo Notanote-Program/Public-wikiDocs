@@ -22,12 +22,16 @@
 | 信息 | SY |
 | :-: | :-: |
 | 定数 | 5.0 |
+| 颜色 | [空域之碧](?p=chapters/Green&l=zh-CN) |
 | 物量 | 190 |
 | 谱师 | [小嘤箱](?p=charter_list&l=zh-CN#XyX) |
 
 ## 解锁方法
 
-完成[「支线一·花火之夏」](?p=chapters/Side_Story_I&l=zh-CN)解锁。
+以下条件满足任意一个：
+
+- 完成[「支线一·花火之夏」](?p=chapters/Side_Story_I&l=zh-CN)
+- 600糖果
 
 ## 更新记录
 
@@ -72,9 +76,9 @@
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico) [异闻 - 姜米條/darkxixin/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2738692773)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote原创曲】异闻 - 姜米條](https://www.bilibili.com/video/BV1GEh2z1Egs/)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico) [异闻 - 姜米條/darkxixin/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2738692773)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote原创曲】异闻 - 姜米條](https://www.bilibili.com/video/BV1GEh2z1Egs/)
 
 ## 相关视频
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote谱面保管室】异闻 [SY 5.0] 谱面演示](https://www.bilibili.com/video/BV1AAeqz1Eyv/)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】异闻 [SY 5.0] 谱面演示](https://www.bilibili.com/video/BV1AAeqz1Eyv/)

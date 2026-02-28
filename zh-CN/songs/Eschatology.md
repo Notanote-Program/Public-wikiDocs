@@ -12,7 +12,7 @@
 | 别名 | 末世论 |
 | 授权性质 | 联动（来自KALPA） |
 | 曲师 | [Tatsh](?p=composer_list&l=zh-CN#Tatsh) & [Scarlette](?p=composer_list&l=zh-CN#Scarlette) |
-| 时长 | 02:31|
+| 时长 | 02:31 |
 | BPM | 200 |
 | 章节 | [KALPA](?p=chapters/KALPA&l=zh-CN) |
 | 曲绘 | [Toya Fujimura](?p=illustrator_list&l=zh-CN#Toya_Fujimura) |
@@ -22,12 +22,16 @@
 | 信息 | SY | EZ |
 | :-: | :-: | :-: |
 | 定数 | 10.4 | 4.5 |
+| 颜色 | [赋染之蓝](?p=chapters/Blue&l=zh-CN) | [赋染之蓝](?p=chapters/Blue&l=zh-CN) |
 | 物量 | 1000 | 689 |
 | 谱师 | C/ [2025 H√-1](?p=charter_list&l=zh-CN#wxy) "[ZRESAIPH](?p=charter_list&l=zh-CN#zecolost) | C/ 2025 H√-1 "[ZRESAIPH](?p=charter_list&l=zh-CN#zecolost) |
 
 ## 解锁方法
 
-游玩[「REVΘCATE」](?p=songs/REVOCATE&l=zh-CN)的主难度（SY / EZ）解锁。
+以下条件满足任意一个：
+
+- 游玩[「REVΘCATE」](?p=songs/REVOCATE&l=zh-CN)的主难度（SY / EZ）
+- 500糖果
 
 ## 更新记录
 
@@ -54,11 +58,11 @@
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico) [Eschatology - 清水達也/Scarlette - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2689900694)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico) [[Kalpa] Eschatology - Tatsh & Scarlette【Music】](https://www.youtube.com/watch?v=8i1d3R9dyik)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【转载，已授权】【KALPA】Eschatology 末世论（KALPA × Lanota联动曲目之一）](https://www.bilibili.com/video/BV1Ht4y187yM/)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico) [Eschatology - 清水達也/Scarlette - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2689900694)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/youtube.ico) [[Kalpa] Eschatology - Tatsh & Scarlette【Music】](https://www.youtube.com/watch?v=8i1d3R9dyik)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【转载，已授权】【KALPA】Eschatology 末世论（KALPA × Lanota联动曲目之一）](https://www.bilibili.com/video/BV1Ht4y187yM/)
 
 ## 相关视频
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote谱面保管室】Eschatology [SY 10.4] 谱面演示](https://www.bilibili.com/video/BV17i8CzkE53/)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote谱面保管室】Eschatology [EZ 4.5] 谱面演示](https://www.bilibili.com/video/BV1qi8CzkE6X/)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】Eschatology [SY 10.4] 谱面演示](https://www.bilibili.com/video/BV17i8CzkE53/)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】Eschatology [EZ 4.5] 谱面演示](https://www.bilibili.com/video/BV1qi8CzkE6X/)

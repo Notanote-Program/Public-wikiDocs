@@ -34,6 +34,7 @@
 | 信息 | SY | EZ |
 | :-: | :-: | :-: |
 | 定数 | 5.9 | 2.0 |
+| 颜色 | [空域之碧](?p=chapters/Green&l=zh-CN) | [空域之碧](?p=chapters/Green&l=zh-CN) |
 | 物量 | 478 | 362 |
 | 谱师 | [海公子](?p=charter_list&l=zh-CN#XyX) | [海公子](?p=charter_list&l=zh-CN#XyX) feat. [钱备](?p=charter_list&l=zh-CN#Dason) |
 
@@ -46,12 +47,12 @@
 | 时间 | 版本 | 内容 |
 | :-: | :-: | :-: |
 | 2026/01/14 | v2.9.0 | 上线曲目 |
-| 2026/01/20 | v2.9.1 | 修正谱面延迟 |
 
 ## 游戏相关
 
 - 本曲为《三相奇谈》的主题曲。
-- 本曲是第一个在谱面上线前就公布谱师的曲目。（信息位于简介）
+- 本曲是第一个在谱面上线前就公布谱师的曲目。（信息位于预览视频中的简介）
+- 谱师名义中的海公子与钱备为<span class="spoiler">《三相奇谈》中的角色</span>。
 - 本曲的谱面包含了多个《三相奇谈》中的元素：
   - SY与EZ谱面的1 Combo处还原了<span class="spoiler">奏折（“接下来要做的是”表示游戏中的必做任务）</span>；
   - SY与EZ谱面的2~8 Combo处还原了<span class="spoiler">序章开始时的介绍画面</span>；
@@ -73,7 +74,7 @@
 
 ## 音乐
 
-- ![哔哩哔哩图标](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [主题曲 - 《三相奇谈》](https://www.bilibili.com/video/BV1o4whekEH7/)
+- ![哔哩哔哩图标](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [主题曲 - 《三相奇谈》](https://www.bilibili.com/video/BV1o4whekEH7/)
 
 ## 相关视频
 

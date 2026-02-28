@@ -21,7 +21,8 @@
 
 | 信息 | SY | SY+ | EZ |
 | :-: | :-: | :-: | :-: |
-| 难度 | 9.0 | 10.6 | 5.0 |
+| 定数 | 9.0 | 10.6 | 5.0 |
+| 颜色 | [赋染之蓝](?p=chapters/Blue&l=zh-CN) | [赋染之蓝](?p=chapters/Blue&l=zh-CN) | [赋染之蓝](?p=chapters/Blue&l=zh-CN) |
 | 物量 | 1215 | 1544 | 1028 |
 | 谱师 | [Notanote Charting Team](?p=charter_list&l=zh-CN#XyX) | [Notanote](?p=charter_list&l=zh-CN#XyX) Charting [Team](?p=charter_list&l=zh-CN#wxy) | [小嘤箱](?p=charter_list&l=zh-CN#XyX) & [凉皮!!!](?p=charter_list&l=zh-CN#LPI) |
 
@@ -33,7 +34,8 @@
 
 | 时间 | 版本 | 内容 |
 | :-: | :-: | :-: |
-| 2026/02/14 | v2.0.0 | Steam、TapTap侧上线曲目 |
+| 2026/02/14 | re:v2.0.0 | Steam、TapTap侧上线曲目 |
+| 2026/02/21 | re:v2.0.5 | App Store侧上线曲目 |
 
 ## 游戏相关
 
@@ -42,7 +44,7 @@
 - 本曲与[「ΩZСÜRIDΛD」](?p=songs/OZCURIDAD&l=zh-CN)都是Notanote中第一个有解锁动画的曲目（不算解锁动画被删除的[「Eltaw」](?p=songs/Eltaw&l=zh-CN)）。
 - 本曲是提前公布的曲目。
 - 本曲是Notanote第一个拥有BGA的原创曲。
-- 哔哩哔哩官号在2025年6月15日发布了两条黑屏视频，标题都只有多个下划线，背景音乐分别透露了本曲的两段不同内容。[第一条视频](https://www.bilibili.com/video/BV1FxMtzUEzZ/)标题为「_____」（五个下划线），[第二条视频](https://www.bilibili.com/video/BV17jMhzHEtV/)标题为「____」（四个下划线）。两个视频已删除，但是有[Notanote官方QQ群1群](https://qm.qq.com/q/fGXBLixNe0)上转发视频链接的两条消息（[消息1](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/NODE_leak1.png)、[消息2](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/NODE_leak2.png)）留存。
+- 哔哩哔哩官号在2025年6月15日发布了两条黑屏视频，标题都只有多个下划线，背景音乐分别透露了本曲的两段不同内容。[第一条视频](https://www.bilibili.com/video/BV1FxMtzUEzZ/)标题为「_____」（五个下划线），[第二条视频](https://www.bilibili.com/video/BV17jMhzHEtV/)标题为「____」（四个下划线）。两个视频已删除，但是有[Notanote官方QQ群1群](https://qm.qq.com/q/fGXBLixNe0)上转发视频链接的两条消息（[消息1](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/NODE_leak1.png)、[消息2](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/NODE_leak2.png)）留存。
 
 ## 攻略
 
@@ -91,11 +93,11 @@
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico) [ИÖDΣ - ILusMin/CNHKSS/ブリシルム★/猎影双煞NonNam/Cher雪小小/Notanote/Sakura records official樱花记录 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2726207063)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [[Notanote原创曲] ИÖDΣ - ICBM](https://www.bilibili.com/video/BV1L931zPEZs/)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico) [ИÖDΣ - ILusMin/CNHKSS/ブリシルム★/猎影双煞NonNam/Cher雪小小/Notanote/Sakura records official樱花记录 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2726207063)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [[Notanote原创曲] ИÖDΣ - ICBM](https://www.bilibili.com/video/BV1L931zPEZs/)
 
 ## 相关视频
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote谱面保管室】ИÖDΣ [SY 9.0] 谱面演示 / NODE](https://www.bilibili.com/video/BV1fqZpBBEMJ/)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote谱面保管室】ИÖDΣ [SY+ 10.6] 谱面演示 / NODE](https://www.bilibili.com/video/BV1ZzZpBTEtX/)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote谱面保管室】ИÖDΣ [EZ 5.0] 谱面演示 / NODE](https://www.bilibili.com/video/BV1dkZpBNEPQ/)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】ИÖDΣ [SY 9.0] 谱面演示 / NODE](https://www.bilibili.com/video/BV1fqZpBBEMJ/)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】ИÖDΣ [SY+ 10.6] 谱面演示 / NODE](https://www.bilibili.com/video/BV1ZzZpBTEtX/)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】ИÖDΣ [EZ 5.0] 谱面演示 / NODE](https://www.bilibili.com/video/BV1dkZpBNEPQ/)

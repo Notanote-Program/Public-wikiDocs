@@ -22,12 +22,16 @@
 | 信息 | SY | EZ |
 | :-: | :-: | :-: |
 | 定数 | 8.2 | 2.0 |
+| 颜色 | [赋染之蓝](?p=chapters/Blue&l=zh-CN) | [赋染之蓝](?p=chapters/Blue&l=zh-CN) |
 | 物量 | 848 | 804 |
-| 谱师 | [乾啊啊啊啊啊](?p=charter_list&l=zh-CN#qa) & [AwlF](?p=charter_list&l=zh-CN#AwlF) | [AwlF](?p=charter_list&l=zh-CN#AwlF) & [乾啊啊啊啊啊](?p=charter_list&l=zh-CN#qa)  |
+| 谱师 | [乾啊啊啊啊啊](?p=charter_list&l=zh-CN#qa) & [AwlF](?p=charter_list&l=zh-CN#AwlF) | [AwlF](?p=charter_list&l=zh-CN#AwlF) & [乾啊啊啊啊啊](?p=charter_list&l=zh-CN#qa) |
 
 ## 解锁方法
 
-游玩[「Star Chain」](?p=songs/Star_Chain&l=zh-CN)的主难度（SY / EZ），并使用600糖果解锁。
+以下条件满足任意一个：
+
+- 游玩[「Star Chain」](?p=songs/Star_Chain&l=zh-CN)的主难度（SY / EZ）
+- 500糖果
 
 ## 更新记录
 
@@ -51,10 +55,10 @@
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico) [Get Back（游戏《Phigros》收录曲） - CAP3 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1428353930)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [Get Back-CAP3](https://www.bilibili.com/video/BV18S411A7Bv/)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico) [Get Back（游戏《Phigros》收录曲） - CAP3 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1428353930)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [Get Back-CAP3](https://www.bilibili.com/video/BV18S411A7Bv/)
 
 ## 相关视频
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote谱面保管室】Get Back [SY 8.2] 谱面演示](https://www.bilibili.com/video/BV18LHtzaEEj/)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote谱面保管室】Get Back [EZ 2.0] 谱面演示](https://www.bilibili.com/video/BV1wuHPzJEcH/)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】Get Back [SY 8.2] 谱面演示](https://www.bilibili.com/video/BV18LHtzaEEj/)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】Get Back [EZ 2.0] 谱面演示](https://www.bilibili.com/video/BV1wuHPzJEcH/)

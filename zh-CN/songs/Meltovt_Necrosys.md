@@ -22,12 +22,16 @@
 | 信息 | SY | EZ |
 | :-: | :-: | :-: |
 | 定数 | 10.2 | 5.3 |
+| 颜色 | [框势之黑](?p=chapters/Black&l=zh-CN) | [框势之黑](?p=chapters/Black&l=zh-CN) |
 | 物量 | 891 | 633 |
 | 谱师 | [Wxy](?p=charter_list&l=zh-CN#wxy)with [Xecolost](?p=charter_list&l=zh-CN#zecolost) | [Xecolost](?p=charter_list&l=zh-CN#zecolost) |
 
 ## 解锁方法
 
-阅读剧情收集品[「Innocent white」](?p=collectibles&l=zh-CN#Innocent_white)解锁。
+以下条件满足任意一个：
+
+- 阅读剧情收藏品[「Innocent white」](?p=collectible_list&l=zh-CN#Innocent_white)
+- 500糖果
 
 ## 更新记录
 
@@ -58,14 +62,14 @@
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico) [Meltovt Necrosys - Halv - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2671549237)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico) [【Official】Halv - Meltovt Necrosys【Milthm x Notanote】](https://www.youtube.com/watch?v=CHEdbzhvW-s)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Milthm x Notanote】Halv - Meltovt Necrosys](https://www.bilibili.com/video/BV1Cr42187Lk/)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico) [Meltovt Necrosys - Halv - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2671549237)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/youtube.ico) [【Official】Halv - Meltovt Necrosys【Milthm x Notanote】](https://www.youtube.com/watch?v=CHEdbzhvW-s)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Milthm x Notanote】Halv - Meltovt Necrosys](https://www.bilibili.com/video/BV1Cr42187Lk/)
 
 ## 相关视频
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote谱面保管室】Meltovt Necrosys [SY 10.2] 谱面演示](https://www.bilibili.com/video/BV1PrZRY2EVA/)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote谱面保管室】Meltovt Necrosys [EZ 5.8] 谱面演示](https://www.bilibili.com/video/BV116ZRY7Eki/)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】Meltovt Necrosys [SY 10.2] 谱面演示](https://www.bilibili.com/video/BV1PrZRY2EVA/)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】Meltovt Necrosys [EZ 5.8] 谱面演示](https://www.bilibili.com/video/BV116ZRY7Eki/)
 
 ## 注释
 

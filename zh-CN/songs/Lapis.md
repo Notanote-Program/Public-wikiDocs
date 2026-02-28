@@ -21,8 +21,9 @@
 
 | 信息 | SY | EZ |
 | :-: | :-: | :-: |
-| 难度 | 8.6 | 2.5 |
-| 物量 | - | - |
+| 定数 | 8.6 | 2.5 |
+| 颜色 | [框势之黑](?p=chapters/Black&l=zh-CN) | [框势之黑](?p=chapters/Black&l=zh-CN) |
+| 物量 | 923 | 959 |
 | 谱师 | [Lei](?p=charter_list&l=zh-CN#Lei_motife) & [xyx](?p=charter_list&l=zh-CN#XyX) feat. [AwlF](?p=charter_list&l=zh-CN#AwlF) | [AwlF](?p=charter_list&l=zh-CN#AwlF) feat. [Lei](?p=charter_list&l=zh-CN#Lei_motife) & [xyx](?p=charter_list&l=zh-CN#XyX) |
 
 ## 解锁方法
@@ -52,11 +53,11 @@
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico) [Lapis（苍星石） - SHIKI - 单曲 - 网易云音乐](https://music.163.com/#/song?id=22792729)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/youtube.ico) [SHIKI - Lapis](https://www.youtube.com/watch?v=cx2FMTxQ98A)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [Lapis / SHIKI┃BMS - BOF2008【BGA】](https://www.bilibili.com/video/BV1NU4y1W78v/)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico) [Lapis（苍星石） - SHIKI - 单曲 - 网易云音乐](https://music.163.com/#/song?id=22792729)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/youtube.ico) [SHIKI - Lapis](https://www.youtube.com/watch?v=cx2FMTxQ98A)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [Lapis / SHIKI┃BMS - BOF2008【BGA】](https://www.bilibili.com/video/BV1NU4y1W78v/)
 
 ## 相关视频
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote谱面保管室】Lapis [SY 8.6] 谱面演示](https://www.bilibili.com/video/BV1nrkXBWEe6/)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote谱面保管室】Lapis [EZ 2.5] 谱面演示](https://www.bilibili.com/video/BV16kkXBXEJB/)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】Lapis [SY 8.6] 谱面演示](https://www.bilibili.com/video/BV1nrkXBWEe6/)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】Lapis [EZ 2.5] 谱面演示](https://www.bilibili.com/video/BV16kkXBXEJB/)

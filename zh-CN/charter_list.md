@@ -1,5 +1,16 @@
 # 谱师列表
 
+<style>
+    .spoiler {
+        background-color: var(--vp-c-text-1);
+        transition: background-color 0.3s;
+    }
+
+    .spoiler:hover {
+        background-color: unset;
+    }
+</style>
+
 <div class="NoticeBoard RedLeftLine">
   <p style="font-size: x-large;"><strong>此条目暂未编写完成</strong></p>
 </div>
@@ -28,7 +39,7 @@
 | [异闻](?p=songs/Yiwen&l=zh-CN) | [主线二·无尽回廊](?p=chapters/Main_Story_II&l=zh-CN) | **SY** [小嘤箱](#XyX) | |
 | [Daughter of Daedalus](?p=songs/Daughter_of_Daedalus&l=zh-CN) | [主线二·无尽回廊](?p=chapters/Main_Story_II&l=zh-CN) | **SY** [小嘤箱](#XyX)<br />**SY+** [小嘤箱](#XyX)<br />**EZ** [小嘤箱](#XyX) | |
 | [ΩZСÜRIDΛD](?p=songs/OZCURIDAD&l=zh-CN) | [主线二·无尽回廊](?p=chapters/Main_Story_II&l=zh-CN) | **SY** [小嘤箱](#XyX)<br />**EZ** [小嘤箱](#XyX)<br />**NT** [Nimbus](#XyX) about [Nightmare](#wxy) | |
-| [三相奇谈](?p=songs/Threefold_Recital&l=zh-CN) | [三相奇谈](?p=chapters/Threefold_Recital&l=zh-CN) | **SY** [海公子](#XyX)<br />**EZ** [海公子](#XyX) feat. [钱备](#Dason) | |
+| [三相奇谈](?p=songs/Threefold_Recital&l=zh-CN) | [三相奇谈](?p=chapters/Threefold_Recital&l=zh-CN) | **SY** [海公子](#XyX)<br />**EZ** [海公子](#XyX) feat. [钱备](#Dason) | <span class="spoiler">海公子与钱备为《三相奇谈》中的角色</span> |
 | [烁雨](?p=songs/Sparkrain&l=zh-CN) | [Milthm](?p=chapters/Milthm&l=zh-CN) | **SY** [嘤泪](#XyX) | |
 | [cybernetic blazar](?p=songs/cybernetic_blazar&l=zh-CN) | [Milthm](?p=chapters/Milthm&l=zh-CN) | **SY** [泪泪泪泪](#Lei_motife) vs [嘤嘤嘤嘤](#XyX) | 两个谱师名义都为四个重复的字，模仿曲师名 |
 | [Vestige of Dreams](?p=songs/Vestige_of_Dreams&l=zh-CN) | [Milthm](?p=chapters/Milthm&l=zh-CN) | **SY** [小嘤箱](#XyX) | |
@@ -43,7 +54,7 @@
 | [Feeling Lonely](?p=songs/Feeling_Lonely&l=zh-CN) | [UXN Records](?p=chapters/UXN_Records&l=zh-CN) | **SY** [Lei motife](#Lei_motife) vs. [qm](#qm) feat. [小嘤箱](#XyX)<br />**TL** [yx](#XyX) | |
 | [Velocity](?p=songs/Velocity&l=zh-CN) | [UXN Records](?p=chapters/UXN_Records&l=zh-CN) | **SY** [福luuuu](#Fulu) & [嘤箱](#XyX)<br />**EZ** [福luuuu](#Fulu) & [嘤箱](#XyX) | |
 | [纸上江山](?p=songs/Zhishang_Jiangshan&l=zh-CN) | [单曲](?p=chapters/Singles&l=zh-CN) | **SY** [纸箱](#XyX)<br />**EZ** [纸箱](#XyX) | 谱师名义中的“纸”模仿曲名 |
-| [MARENOL](?p=songs/MARENOL&l=zh-CN) | [单曲](?p=chapters/Singles&l=zh-CN) | **SY** 啊！[箱](#XyX) feat. 哇！[仙翼](#wxy) & [qm](#qm)<br />**TL** 啊！[箱](#XyX) | 谱师名义中的“啊！”“哇！”对应曲目中的尖叫声 |
+| [MARENOL](?p=songs/MARENOL&l=zh-CN) | [单曲](?p=chapters/Singles&l=zh-CN) | **SY** 啊！[箱](#XyX) feat. 哇！[仙翼](#wxy) & [q弹！m](#qm)<br />**TL** 啊！[箱](#XyX) | 谱师名义中的“啊！”“哇！”对应曲目中的尖叫声 |
 | [Altersist](?p=songs/Altersist&l=zh-CN) | [单曲](?p=chapters/Singles&l=zh-CN) | **SY** [嘤箱](#XyX) & [舞仙翼](#wxy) feat. [qm](#qm)（[熠烨](#Yiye)） vs. [zecolost](#zecolost)<br />**EZ** [嘤箱](#XyX) & [舞仙翼](#wxy) feat. [Lei](#Lei_motife) | |
 | [End Me](?p=songs/End_Me&l=zh-CN) | [单曲](?p=chapters/Singles&l=zh-CN) | **SY** [嘤](#XyX)<br />**EZ** [嘤](#XyX) vs. [甘油](#Ganyou) | |
 | [Heavenly Sky (2024 Remake)](?p=songs/Heavenly_Sky_(2024_Remake)&l=zh-CN) | [单曲](?p=chapters/Singles&l=zh-CN) | **SY** [qm](#qm) vs. [yx](#XyX)<br />**EZ** [qm](#qm) vs. [yx](#XyX) vs. [Rea_cy](#Rea_cy) | |
@@ -72,6 +83,7 @@
 | [Agnostic](?p=songs/Agnostic&l=zh-CN) | [单曲](?p=chapters/Singles&l=zh-CN) | **SY** [Arthur](#Arthur) VS [小嘤箱](#XyX)<br />**EZ** [Arthur](#Arthur) VS [小嘤箱](#XyX) feat. [大松Dason](#Dason) | |
 | [Kirakira Universe](?p=songs/Kirakira_Universe&l=zh-CN) | [单曲](?p=chapters/Singles&l=zh-CN) | **SY** [小嘤箱](#XyX) | |
 | [星祀る狐](?p=songs/Hoshi_Matsuru_Kitsune&l=zh-CN) | [单曲](?p=chapters/Singles&l=zh-CN) | **SY** [小嘤箱](#XyX)<br />**EZ** [小嘤箱](#XyX) ft. [大松Dason](#Dason) | |
+| [T R A N S C E N D - T H E - E A R T H](?p=songs/TRANSCEND-THE-UNIVERSE&l=zh-CN) | [单曲](?p=chapters/Singles&l=zh-CN) | **SY** [ＸＣＤ](?p=charter_list&l=zh-CN#AwlF) - Ａ - [ＺＯＮＥ](?p=charter_list&l=zh-CN#XyX) | 谱师名义每个字母之间有空格，模仿曲名 |
 | [ИÖDΣ](?p=songs/NODE&l=zh-CN) | [单曲](?p=chapters/Singles&l=zh-CN) | **SY** [Notanote Charting Team](#XyX)<br />**SY+** [Notanote](#XyX) Charting [Team](#wxy)<br />**EZ** [小嘤箱](#XyX) & [凉皮!!!](#LPI) | |
 | [时契](?p=songs/Shiqi&l=zh-CN) | [单曲](?p=chapters/Singles&l=zh-CN) | **SY** [小嘤箱](#XyX)<br />**EZ** [小嘤箱](#XyX) ft. [大松Dason](#Dason) | |
 
@@ -105,7 +117,7 @@
 | [今天不是明天](?p=songs/Jintian_Bushi_Mingtian&l=zh-CN) | [音波狂潮](?p=chapters/LiveMania&l=zh-CN) | **SY** [小嘤箱](#XyX) ≠ [舞仙翼](#wxy) ≠ [zecolost](#zecolost) | 谱师名义用不等于号连接，对应曲名中的“不是” |
 | [Enough](?p=songs/Enough&l=zh-CN) | [UXN Records](?p=chapters/UXN_Records&l=zh-CN) | **SY** [DarntZhunr](#DarntZhunr) & [舞仙翼](#wxy) | |
 | [The Fire](?p=songs/Enough&l=zh-CN) | [UXN Records](?p=chapters/UXN_Records&l=zh-CN) | **SY** [0641](#wxy) | |
-| [MARENOL](?p=songs/MARENOL&l=zh-CN) | [单曲](?p=chapters/Singles&l=zh-CN) | **SY** 啊！[箱](#XyX) feat. 哇！[仙翼](#wxy) & [qm](#qm) | 谱师名义中的“啊！”“哇！”对应曲目中的尖叫声 |
+| [MARENOL](?p=songs/MARENOL&l=zh-CN) | [单曲](?p=chapters/Singles&l=zh-CN) | **SY** 啊！[箱](#XyX) feat. 哇！[仙翼](#wxy) & [q弹！m](#qm) | 谱师名义中的“啊！”“哇！”对应曲目中的尖叫声 |
 | [Altersist](?p=songs/Altersist&l=zh-CN) | [单曲](?p=chapters/Singles&l=zh-CN) | **SY** [嘤箱](#XyX) & [舞仙翼](#wxy) feat. [qm](#qm)（[熠烨](#Yiye)） vs. [zecolost](#zecolost)<br />**EZ** [嘤箱](#XyX) & [舞仙翼](#wxy) feat. [Lei](#Lei_motife) | |
 | [Only 1 Minute](?p=songs/Only_1_Minute&l=zh-CN) | [单曲](?p=chapters/Singles&l=zh-CN) | **SY** [0641](#wxy) feat. [舞仙翼](#wxy)<br />**TL** [0641](#wxy) feat. [舞仙翼](#wxy) | |
 | [DayBreakers](?p=songs/DayBreakers&l=zh-CN) | [单曲](?p=chapters/Singles&l=zh-CN) | **SY** [Wait](#qm) For [Dawn](#XyX)<br />**EZ** [Wait](#qm) [For](#Rea_cy) [Dawn](#XyX) | 谱师名义意为“等待黎明”，对应曲名含义“破晓” |
@@ -137,7 +149,7 @@
 | [璃](?p=songs/Li&l=zh-CN) | [Soul Notes](?p=chapters/Soul_Notes&l=zh-CN) | **EZ** [小嘤箱](#XyX) ft. [qm](#qm)<br /><span style="color: gray;">**旧SY** [福lu](#Fulu) x [qm](#qm) x [嘤箱](#XyX) x [Lei](#Lei_motife)</span> | |
 | [Aether Ingita!](?p=songs/Aether_Ingita!&l=zh-CN) | [Soul Notes](?p=chapters/Soul_Notes&l=zh-CN) | **SY** [Nota](#Fulu)[note](#qm) [Char](#XyX)[ting](#zecolost) [Te](#wxy)[am](#Arthur)<br />**EZ** [Nota](#Fulu)[note](#qm) [Char](#XyX)[ting](#zecolost) [Te](#wxy)[am](#Arthur) | |
 | [Feeling Lonely](?p=songs/Feeling_Lonely&l=zh-CN) | [UXN Records](?p=chapters/UXN_Records&l=zh-CN) | **SY** [Lei motife](#Lei_motife) vs. [qm](#qm) feat. [小嘤箱](#XyX) | |
-| [MARENOL](?p=songs/MARENOL&l=zh-CN) | [单曲](?p=chapters/Singles&l=zh-CN) | **SY** 啊！[箱](#XyX) feat. 哇！[仙翼](#wxy) & [qm](#qm) | 谱师名义中的“啊！”“哇！”对应曲目中的尖叫声 |
+| [MARENOL](?p=songs/MARENOL&l=zh-CN) | [单曲](?p=chapters/Singles&l=zh-CN) | **SY** 啊！[箱](#XyX) feat. 哇！[仙翼](#wxy) & [q弹！m](#qm) | 谱师名义中的“啊！”“哇！”对应曲目中的尖叫声 |
 | [Altersist](?p=songs/Altersist&l=zh-CN) | [单曲](?p=chapters/Singles&l=zh-CN) | **SY** [嘤箱](#XyX) & [舞仙翼](#wxy) feat. [qm](#qm)（[熠烨](#Yiye)） vs. [zecolost](#zecolost) | |
 | [Heavenly Sky (2024 Remake)](?p=songs/Heavenly_Sky_(2024_Remake)&l=zh-CN) | [单曲](?p=chapters/Singles&l=zh-CN) | **SY** [qm](#qm) vs. [yx](#XyX)<br />**EZ** [qm](#qm) vs. [yx](#XyX) vs. [Rea_cy](#Rea_cy) | |
 | [Kaze](?p=songs/Kaze&l=zh-CN) | [单曲](?p=chapters/Singles&l=zh-CN) | <span style="color: gray;">**旧SY** [福luuuu](#Fulu) & [qm](#qm) & [嘤龙](#XyX)</span> | |
@@ -285,7 +297,7 @@
 | [Mizu](?p=songs/Mizu&l=zh-CN) | [单曲](?p=chapters/Singles&l=zh-CN) | **EZ** [二回](#AwlF)：[一曲浮槎云水间](#XyX) | |
 | [Victory Sense](?p=songs/Victory_Sense&l=zh-CN) | [单曲](?p=chapters/Singles&l=zh-CN) | **EZ** [小嘤箱](#XyX) feat. [AwlF](#AwlF) | |
 | [Lapis](?p=songs/Lapis&l=zh-CN) | [单曲](?p=chapters/Singles&l=zh-CN) | **SY** [Lei](#Lei_motife) & [xyx](#XyX) feat. [AwlF](#AwlF)<br />**EZ** [AwlF](#AwlF) feat. [Lei](#Lei_motife) & [xyx](#XyX) | |
-| [T R A N S C E N D - T H E - E A R T H](?p=songs/TRANSCEND-THE-UNIVERSE&l=zh-CN) | [单曲](?p=chapters/Singles&l=zh-CN) | **SY** [X C D - A - Z O N E](?p=illustrator_list&l=zh-CN#AwlF) | 谱师名义每个字母之间有空格，模仿曲名 |
+| [T R A N S C E N D - T H E - E A R T H](?p=songs/TRANSCEND-THE-UNIVERSE&l=zh-CN) | [单曲](?p=chapters/Singles&l=zh-CN) | **SY** [ＸＣＤ](?p=charter_list&l=zh-CN#AwlF) - Ａ - [ＺＯＮＥ](?p=charter_list&l=zh-CN#XyX) | 谱师名义每个字母之间有空格，模仿曲名 |
 
 <a id="qa"></a>
 
@@ -302,7 +314,7 @@
 - 在Notanote中的初谱为[「IGNITE」](?p=songs/IGNITE&l=zh-CN)的SY与EZ谱面
 - 在组内也负责数据管理
 - **本Wiki内容编写者**
-- **[Notanote查分器](http://xuziyao.com/notanote/best/)制作者**
+- **[Notanote查分器](https://xuziyao.com/notanote/best/)制作者**
 - Notanote组内第二年轻的人（第一是配音大寒）
 - [哔哩哔哩](https://space.bilibili.com/17116186)
 - [X](https://twitter.com/Dason2074137)
@@ -312,7 +324,7 @@
 | 曲名 | 所属章节 | 谱师名义 | 备注 |
 | :-: | :-: | :-: | :-: |
 | [Brand New Day](?p=songs/Brand_New_Day&l=zh-CN) | [支线一·花火之夏](?p=chapters/Side_Story_I&l=zh-CN) | **EZ** [Yx](#XyX) feat. [Dason](#Dason) & [Wxy](#wxy) | 每个谱师的名义都为首字母大写，模仿曲名每个单词首字母大写 |
-| [三相奇谈](?p=songs/Threefold_Recital&l=zh-CN) | [三相奇谈](?p=chapters/Threefold_Recital&l=zh-CN) | **EZ** [海公子](#XyX) feat. [钱备](#Dason) | 海公子与钱备为《三相奇谈》中的角色 |
+| [三相奇谈](?p=songs/Threefold_Recital&l=zh-CN) | [三相奇谈](?p=chapters/Threefold_Recital&l=zh-CN) | **EZ** [海公子](#XyX) feat. [钱备](#Dason) | <span class="spoiler">海公子与钱备为《三相奇谈》中的角色</span> |
 | [IGNITE](?p=songs/IGNITE&l=zh-CN) | [音波狂潮](?p=chapters/LiveMania&l=zh-CN) | **SY** THE NEXT >>> [小嘤箱](#XyX) + [AwlF](#AwlF) + [大松](#Dason)<br />**EZ** AAA_[大松](#Dason)[嘤箱](#XyX)批[Fa](#AwlF) | SY难度谱师名义中的“THE NEXT >>>”代表音波狂潮3.0现场的艺人登场 |
 | [Agnostic](?p=songs/Agnostic&l=zh-CN) | [单曲](?p=chapters/Singles&l=zh-CN) | **EZ** [Arthur](#Arthur) VS [小嘤箱](#XyX) feat. [大松Dason](#Dason) | |
 | [星祀る狐](?p=songs/Hoshi_Matsuru_Kitsune&l=zh-CN) | [单曲](?p=chapters/Singles&l=zh-CN) | **EZ** [小嘤箱](#XyX) ft. [大松Dason](#Dason) | |

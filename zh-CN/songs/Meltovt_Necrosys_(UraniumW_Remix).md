@@ -22,6 +22,7 @@
 | 信息 | SY | TL |
 | :-: | :-: | :-: |
 | 定数 | 7.9 | 4.5 |
+| 颜色 | [框势之黑](?p=chapters/Black&l=zh-CN) | [框势之黑](?p=chapters/Black&l=zh-CN) |
 | 物量 | 636 | 487 |
 | 谱师 | [Lost](?p=charter_list&l=zh-CN#zecolost) in [Abyss](?p=charter_list&l=zh-CN#SrY-ABYSS) | [百八十四](?p=charter_list&l=zh-CN#SrY-ABYSS) |
 
@@ -37,7 +38,8 @@
 | 2025/04/02 | v2.0.0 | TapTap侧上线曲目 |
 | 2025/05/28 | v2.2.1 | App Store外区侧上线曲目 |
 | 2025/07/21 | v2.4.1 | App Store国区侧上线曲目 |
-| 2025/08/16 | v2.5.0 | SY难度定数由8.0改为7.9<br />EZ难度定数由3.5改为4.5 |
+| 2025/08/16 | v2.5.0 | SY难度定数由8.0改为7.9<br />TL难度定数由3.5改为4.5 |
+| 2026/02/14 | re:v2.0.0 | SY难度定数由7.9改为8.3 |
 
 ## 游戏相关
 
@@ -56,13 +58,13 @@
 
 ## 音乐
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/netease-cloud-music.ico) [Meltovt Necrosys (Uraniumw Remix) - UraniumW/Halv/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2714634342)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote x Soul Notes】Meltovt Necrosys (UraniumW Remix) - UraniumW](https://www.bilibili.com/video/BV1b4P2e1Ehc/)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico) [Meltovt Necrosys (Uraniumw Remix) - UraniumW/Halv/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2714634342)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote x Soul Notes】Meltovt Necrosys (UraniumW Remix) - UraniumW](https://www.bilibili.com/video/BV1b4P2e1Ehc/)
 
 ## 相关视频
 
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote谱面保管室】Meltovt Necrosys (UraniumW Remix) [SY 7.9] 谱面演示 / 香蕉牛奶](https://www.bilibili.com/video/BV1TNGzziEP1/)
-- ![](https://gh.llkk.cc/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/main/static/bilibili.ico) [【Notanote谱面保管室】Meltovt Necrosys (UraniumW Remix) [TL 4.5] 谱面演示 / 香蕉牛奶](https://www.bilibili.com/video/BV1PgGzzAEQv/)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】Meltovt Necrosys (UraniumW Remix) [SY 7.9] 谱面演示 / 香蕉牛奶](https://www.bilibili.com/video/BV1TNGzziEP1/)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】Meltovt Necrosys (UraniumW Remix) [TL 4.5] 谱面演示 / 香蕉牛奶](https://www.bilibili.com/video/BV1PgGzzAEQv/)
 
 ## 注释
 
