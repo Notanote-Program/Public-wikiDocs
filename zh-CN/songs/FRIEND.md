@@ -15,7 +15,7 @@
 | 时长 | 01:54 |
 | BPM | 200 |
 | 章节 | [单曲](?p=chapters/Singles&l=zh-CN) |
-| 曲绘 | [半界](?p=illustrator_list&l=zh-CN#Semiryoiki) & [X-chalk](?p=illustrator_list&l=zh-CN#X-chalk) |
+| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/FRIEND.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[半界](?p=illustrator_list&l=zh-CN#Semiryoiki) & [X-chalk](?p=illustrator_list&l=zh-CN#X-chalk) |
 
 ## 谱面信息
 

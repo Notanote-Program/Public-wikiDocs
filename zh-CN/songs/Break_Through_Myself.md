@@ -15,7 +15,7 @@
 | 时长 | 02:25 |
 | BPM | 200 |
 | 章节 | [单曲](?p=chapters/Singles&l=zh-CN) |
-| 曲绘 | [喑暗](?p=illustrator_list&l=zh-CN#Yin-an) |
+| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Break_Through_Myself.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[喑暗](?p=illustrator_list&l=zh-CN#Yin-an) |
 
 ## 谱面信息
 

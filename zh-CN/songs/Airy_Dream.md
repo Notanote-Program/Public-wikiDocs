@@ -15,7 +15,7 @@
 | 时长 | 03:12 |
 | BPM | 128 |
 | 章节 | [支线一·花火之夏](?p=chapters/Side_Story_I&l=zh-CN) |
-| 曲绘 | [百利](?p=illustrator_list&l=zh-CN#Baili) |
+| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Airy_Dream.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[百利](?p=illustrator_list&l=zh-CN#Baili) |
 
 ## 谱面信息
 
@@ -30,7 +30,7 @@
 
 以下条件满足任意一个：
 
-- 阅读剧情收集品[「没有她的日常」](?p=collectible_list&l=zh-CN#Days_without_Her)
+- 阅读剧情收集品[「没有她的日常」](?p=collection_list&l=zh-CN#Days_without_Her)
 - 600糖果
 
 ## 更新记录

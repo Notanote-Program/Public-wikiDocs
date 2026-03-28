@@ -15,7 +15,7 @@
 | 时长 | 03:17 |
 | BPM | 135 |
 | 章节 | 未知 |
-| 曲绘 | 未知 |
+| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Crystal_Ember.jpg" style="max-width: 13rem;max-height: 13rem" /><br />未知 |
 
 ## 谱面信息
 

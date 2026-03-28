@@ -1,7 +1,6 @@
 # Flutter Echo
 
 <div class="NoticeBoard">
-  <br>
   <p>活泼的旋律，轻松的生活</p>
 </div>
 
@@ -16,7 +15,7 @@
 | 时长 | 02:42 |
 | BPM | **0ms**: 219<br />**142191ms**: 292 |
 | 章节 | [KALPA](?p=chapters/KALPA&l=zh-CN) |
-| 曲绘 | [©QueseraGames Co., Ltd](?p=illustrator_list&l=zh-CN#QueseraGames) |
+| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Flutter_Echo.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[©QueseraGames Co., Ltd](?p=illustrator_list&l=zh-CN#QueseraGames) |
 
 ## 谱面信息
 

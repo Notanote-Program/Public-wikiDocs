@@ -15,7 +15,7 @@
 | 时长 | 02:10 |
 | BPM | 186 |
 | 章节 | [单曲](?p=chapters/Singles&l=zh-CN) |
-| 曲绘 | [CroxsBOss](?p=illustrator_list&l=zh-CN#CroxsBOss) |
+| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Kaze.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[CroxsBOss](?p=illustrator_list&l=zh-CN#CroxsBOss) |
 
 ## 谱面信息
 

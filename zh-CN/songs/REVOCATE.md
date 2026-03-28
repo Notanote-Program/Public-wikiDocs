@@ -1,7 +1,6 @@
 # REVΘCATE
 
 <div class="NoticeBoard">
-  <br>
   <p>R=10Ω</p>
 </div>
 
@@ -16,7 +15,7 @@
 | 时长 | 01:59 |
 | BPM | 203 |
 | 章节 | [KALPA](?p=chapters/KALPA&l=zh-CN) |
-| 曲绘 | [ZG](?p=illustrator_list&l=zh-CN#ZG) & [Hyeeun](?p=illustrator_list&l=zh-CN#Hyeeun) |
+| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/REVOCATE.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[ZG](?p=illustrator_list&l=zh-CN#ZG) & [Hyeeun](?p=illustrator_list&l=zh-CN#Hyeeun) |
 
 ## 谱面信息
 
@@ -45,7 +44,7 @@
 
 ## 游戏相关
 
-此部分暂无内容。
+- SY谱面的285 Combo及EZ谱面的143 Combo之后的休息段的判定线表演，模仿了Phigros侧a truth seeker -Communication with Utopia will be lost-的IN谱面的591 Combo之后的休息段，两首曲子的曲师都是kuro。
 
 ## 攻略
 

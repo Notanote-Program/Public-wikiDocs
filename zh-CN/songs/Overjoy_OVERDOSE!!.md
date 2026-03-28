@@ -15,7 +15,7 @@
 | 时长 | 02:29 |
 | BPM | 143 |
 | 章节 | [单曲](?p=chapters/Single&l=zh-CN) |
-| 曲绘 | [Shalink](?p=illustrator_list&l=zh-CN#Shalink) |
+| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Overjoy_OVERDOSE!!.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[Shalink](?p=illustrator_list&l=zh-CN#Shalink) |
 
 ## 谱面信息
 

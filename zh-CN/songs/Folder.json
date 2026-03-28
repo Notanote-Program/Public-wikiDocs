@@ -52,7 +52,7 @@
         {
             "Class": "Object",
             "Content": "收藏品列表",
-            "Href": "?p=collectible_list&l=zh-CN"
+            "Href": "?p=collection_list&l=zh-CN"
         },
         {
             "Class": "Object",
@@ -155,5 +155,6 @@
     "songs/Fiend_Demme.md": "Fiend Demme",
     "songs/Star_Fall_in_Evernight_City.md": "Star Fall in Evernight City",
     "songs/Sphalerite.md": "Sphalerite",
-    "songs/Yujin_Xingzhe.md": "余烬行者"
+    "songs/Yujin_Xingzhe.md": "余烬行者",
+    "songs/Threefold_Recital_(SKa2or_Remix).md": "三相奇谈 (SKa2or Remix)"
 }

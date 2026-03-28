@@ -15,7 +15,7 @@
 | 时长 | 03:00 |
 | BPM | 128 |
 | 章节 | [支线一·花火之夏](?p=chapters/Side_Story_I&l=zh-CN) |
-| 曲绘 | [咩咩](?p=illustrator_list&l=zh-CN#Miemie) |
+| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Brand_New_Day.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[咩咩](?p=illustrator_list&l=zh-CN#Miemie) |
 
 ## 谱面信息
 
@@ -30,7 +30,7 @@
 
 以下条件满足任意一个：
 
-- 阅读剧情收集品[「烟火祭」](?p=collectible_list&l=zh-CN#Summer_Fireworks)
+- 阅读剧情收集品[「烟火祭」](?p=collection_list&l=zh-CN#Summer_Fireworks)
 - 600糖果
 
 ## 更新记录
@@ -122,7 +122,8 @@
 
 ## 相关视频
 
-此部分暂无内容。
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】Brand New Day [SY 6.3] 谱面演示](https://www.bilibili.com/video/BV1w1QUBBEkj/)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】Brand New Day [EZ 2.0] 谱面演示](https://www.bilibili.com/video/BV1p1QUBqEG1/)
 
 ## 注释
 

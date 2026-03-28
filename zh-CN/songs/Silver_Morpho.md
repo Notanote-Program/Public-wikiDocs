@@ -15,7 +15,7 @@
 | 时长 | 02:49 |
 | BPM | 75 |
 | 章节 | [单曲](?p=chapters/Single&l=zh-CN) |
-| 曲绘 | [sakakosmos](?p=illustrator_list&l=zh-CN#sakakosmos) |
+| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Silver_Morpho.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[sakakosmos](?p=illustrator_list&l=zh-CN#sakakosmos) |
 
 ## 谱面信息
 

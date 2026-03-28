@@ -15,7 +15,7 @@
 | 时长 | 02:31 |
 | BPM | 190 |
 | 章节 | [支线一·花火之夏](?p=chapters/Side_Story_I&l=zh-CN) |
-| 曲绘 | [天野岁](?p=illustrator_list&l=zh-CN#Tianyesui) |
+| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Summer_Dream.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[天野岁](?p=illustrator_list&l=zh-CN#Tianyesui) |
 
 ## 谱面信息
 
@@ -30,7 +30,7 @@
 
 以下条件满足任意一个：
 
-- 阅读剧情收集品[「晴之遇」](?p=collectible_list&l=zh-CN#Sunny_Getaway)
+- 阅读剧情收集品[「晴之遇」](?p=collection_list&l=zh-CN#Sunny_Getaway)
 - 600糖果
 
 ## 更新记录

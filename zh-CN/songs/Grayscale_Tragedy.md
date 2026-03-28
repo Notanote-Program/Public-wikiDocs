@@ -15,7 +15,7 @@
 | 时长 | 02:09 |
 | BPM | 185 |
 | 章节 | [Berry Melody](?p=chapters/Berry_Melody&l=zh-CN) |
-| 曲绘 | [快乐鸽子厂](?p=illustrator_list&l=zh-CN#Kuaile_Gezichang) |
+| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Grayscale_Tragedy.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[快乐鸽子厂](?p=illustrator_list&l=zh-CN#Kuaile_Gezichang) |
 
 ## 谱面信息
 

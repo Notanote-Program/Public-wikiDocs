@@ -15,7 +15,7 @@
 | 时长 | 02:35 |
 | BPM | 198 |
 | 章节 | [主线二·无尽回廊](?p=chapters/Main_Story_II&l=zh-CN) |
-| 曲绘 | [Exut](?p=illustrator_list&l=zh-CN#Exut) & [Panthullu](?p=illustrator_list&l=zh-CN#Panthullu) |
+| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Daughter_of_Daedalus.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[Exut](?p=illustrator_list&l=zh-CN#Exut) & [Panthullu](?p=illustrator_list&l=zh-CN#Panthullu) |
 
 ## 谱面信息
 
@@ -30,7 +30,7 @@
 
 以下条件满足任意一个：
 
-- 阅读剧情收集品[「转校生」](?p=collectible_list&l=zh-CN#Transfer_Student)
+- 阅读剧情收集品[「转校生」](?p=collection_list&l=zh-CN#Transfer_Student)
 - 600糖果
 
 ## 更新记录

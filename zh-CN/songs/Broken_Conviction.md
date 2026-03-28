@@ -1,7 +1,6 @@
 # Broken Conviction
 
 <div class="NoticeBoard">
-  <br>
   <p><s>双指歌剧表演节目</s></p>
 </div>
 
@@ -16,7 +15,7 @@
 | 时长 | 02:25 |
 | BPM | 180 |
 | 章节 | [Milthm](?p=chapters/Milthm&l=zh-CN) |
-| 曲绘 | [QIER](?p=illustrator_list&l=zh-CN#QIER) |
+| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Broken_Conviction.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[QIER](?p=illustrator_list&l=zh-CN#QIER) |
 
 ## 谱面信息
 
@@ -31,7 +30,7 @@
 
 以下条件满足任意一个：
 
-- 阅读剧情收藏品[「Innocent white」](?p=collectible_list&l=zh-CN#Innocent_white)
+- 阅读剧情收藏品[「Innocent white」](?p=collection_list&l=zh-CN#Innocent_white)
 - 500糖果
 
 ## 更新记录

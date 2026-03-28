@@ -15,7 +15,7 @@
 | 时长 | 02:31 |
 | BPM | 200 |
 | 章节 | [KALPA](?p=chapters/KALPA&l=zh-CN) |
-| 曲绘 | [Toya Fujimura](?p=illustrator_list&l=zh-CN#Toya_Fujimura) |
+| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Eschatology.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[Toya Fujimura](?p=illustrator_list&l=zh-CN#Toya_Fujimura) |
 
 ## 谱面信息
 

@@ -15,7 +15,7 @@
 | 时长 | 未知 |
 | BPM | 185 |
 | 章节 | [Orzmic](?p=chapters/Orzmic&l=zh-CN) |
-| 曲绘 | [微米](?p=illustrator_list&l=zh-CN#Weimi) |
+| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Star_Fall_in_Evernight_City.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[微米](?p=illustrator_list&l=zh-CN#Weimi) |
 
 ## 谱面信息
 

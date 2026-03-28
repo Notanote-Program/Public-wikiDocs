@@ -15,7 +15,7 @@
 | 时长 | 02:42 |
 | BPM | 136.12 |
 | 章节 | [主线一·晴雨之遇](?p=chapters/Main_Story_I&l=zh-CN) |
-| 曲绘 | [ikun](?p=illustrator_list&l=zh-CN#ikun) |
+| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Cursed_Land_(Acoustic" style="max-width: 13rem;max-height: 13rem" />.jpg)<br />[ikun](?p=illustrator_list&l=zh-CN#ikun) |
 
 ## 谱面信息
 
@@ -30,7 +30,7 @@
 
 以下条件满足任意一个：
 
-- 阅读剧情收集品[「"另一个我……？"」](?p=collectible_list&l=zh-CN#Another_Me)
+- 阅读剧情收集品[「"另一个我……？"」](?p=collection_list&l=zh-CN#Another_Me)
 - 600糖果
 
 ## 更新记录
@@ -65,4 +65,5 @@
 
 ## 相关视频
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】Cursed Land (Acoustic) [SY 5.0] 谱面演示](https://www.bilibili.com/video/BV1nigZzgEge/)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】Cursed Land (Acoustic) [SY 4.0] 谱面演示](https://www.bilibili.com/video/BV1o5QUBZEof/)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】（已删除谱面）Cursed Land (Acoustic) [TL 5.0] 谱面演示](https://www.bilibili.com/video/BV1nigZzgEge/)

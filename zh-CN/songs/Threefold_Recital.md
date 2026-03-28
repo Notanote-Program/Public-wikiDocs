@@ -27,7 +27,7 @@
 | 时长 | 03:41 |
 | BPM | 144 |
 | 章节 | [三相奇谈](?p=chapters/Threefold_Recital&l=zh-CN) |
-| 曲绘 | [狼小魂](?p=illustrator_list#Yamawolf&l=zh-CN) |
+| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Threefold_Recital.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[狼小魂](?p=illustrator_list#Yamawolf&l=zh-CN) |
 
 ## 谱面信息
 
@@ -60,7 +60,7 @@
     - <span class="spoiler">（值得一提的是，虽然这部分还原的是四次幂洞天，然而谱面中却出现了八次幂洞天中才有的红色彼岸花）</span>
   - SY谱面的294~296 Combo/EZ谱面的211~213 Combo处三个Hold的颜色分别代表净饭、三宝、皮月羞；
   - SY谱面的342~478 Combo/EZ谱面的257~362 Combo处还原了<span class="spoiler">解缘的场景</span>；
-  - SY谱面的478 Combo、/EZ谱面的257~362 Combo之后还原了净饭、三宝、皮月羞。
+  - SY谱面的478 Combo/EZ谱面的257~362 Combo之后还原了净饭、三宝、皮月羞。
 
 ## 攻略
 

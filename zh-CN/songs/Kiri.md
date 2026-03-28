@@ -17,7 +17,7 @@
 | 时长 | 02:16 |
 | BPM | 100 |
 | 章节 | 未知 |
-| 曲绘 | [CroxsBOss](?p=illustrator_list&l=zh-CN#CroxsBOss) |
+| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Kiri.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[CroxsBOss](?p=illustrator_list&l=zh-CN#CroxsBOss) |
 
 ## 谱面信息
 

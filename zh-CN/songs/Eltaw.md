@@ -15,7 +15,7 @@
 | 时长 | 02:26 |
 | BPM | 193 |
 | 章节 | [主线一·晴雨之遇](?p=chapters/Main_Story_I&l=zh-CN) |
-| 曲绘 | [Fl00t](?p=illustrator_list&l=zh-CN#Fl00t) |
+| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Eltaw.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[Fl00t](?p=illustrator_list&l=zh-CN#Fl00t) |
 
 ## 谱面信息
 
@@ -30,7 +30,7 @@
 
 以下条件满足任意一个：
 
-- 阅读剧情收集品[「转生成为异世界主角」](?p=collectible_list&l=zh-CN#Reincarnate_as_an_Otherwordly_Protagonist)
+- 阅读剧情收集品[「转生成为异世界主角」](?p=collection_list&l=zh-CN#Reincarnate_as_an_Otherwordly_Protagonist)
 - 600糖果
 
 ## 更新记录

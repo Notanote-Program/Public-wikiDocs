@@ -319,7 +319,7 @@
 - [哔哩哔哩](https://space.bilibili.com/17116186)
 - [X](https://twitter.com/Dason2074137)
 - [GitHub](https://github.com/SeRazon)
-- [个人网站](http://xuziyao.com)
+- [个人网站](https://xuziyao.com)
 
 | 曲名 | 所属章节 | 谱师名义 | 备注 |
 | :-: | :-: | :-: | :-: |

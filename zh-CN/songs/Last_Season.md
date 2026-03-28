@@ -15,7 +15,7 @@
 | 时长 | 02:35 |
 | BPM | 120 |
 | 章节 | [Soul Notes](?p=chapters/Milthm&l=zh-CN) |
-| 曲绘 | [青梅煮酒](?p=illustrator_list&l=zh-CN#Qingmei_Zhujiu) |
+| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Last_Season.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[青梅煮酒](?p=illustrator_list&l=zh-CN#Qingmei_Zhujiu) |
 
 ## 谱面信息
 

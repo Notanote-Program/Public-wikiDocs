@@ -15,7 +15,7 @@
 | 时长 | 03:42 |
 | BPM | 170 |
 | 章节 | [主线一·晴雨之遇](?p=chapters/Main_Story_I&l=zh-CN) |
-| 曲绘 | [故离](?p=illustrator_list&l=zh-CN#Guli) |
+| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Lockdown_(Tatsunoshin_VIP" style="max-width: 13rem;max-height: 13rem" />.jpg)<br />[故离](?p=illustrator_list&l=zh-CN#Guli) |
 
 ## 谱面信息
 
@@ -30,7 +30,7 @@
 
 以下条件满足任意一个：
 
-- 阅读剧情收集品[「无色之人与无色之物」](?p=collectible_list&l=zh-CN#Colorless_People_and_Colorless_Things)
+- 阅读剧情收集品[「无色之人与无色之物」](?p=collection_list&l=zh-CN#Colorless_People_and_Colorless_Things)
 - 600糖果
 
 ## 更新记录

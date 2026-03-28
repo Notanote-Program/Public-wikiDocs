@@ -15,7 +15,7 @@
 | 时长 | 02:52 |
 | BPM | 170 |
 | 章节 | [单曲](?p=chapters/Singles&l=zh-CN) |
-| 曲绘 | [Chen-ing尘音文化](?p=illustrator_list&l=zh-CN#Chen-ing) |
+| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/DayBreak.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[Chen-ing尘音文化](?p=illustrator_list&l=zh-CN#Chen-ing) |
 
 ## 谱面信息
 

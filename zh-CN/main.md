@@ -6,7 +6,7 @@
 
 <p style="text-align: center;font-size: 1.2rem;"><strong>本Wiki仍在建设中</strong></p>
 
-<p style="text-align: center;"><a href="?p=FAQ&l=zh-CN">FAQ</a> | <a href="?p=mechanics&l=zh-CN">机制</a> | <a href="?p=interface&l=zh-CN">界面</a> | <a href="?p=constant_table&l=zh-CN">定数表</a> | <a href="?p=song_list&l=zh-CN">曲目列表</a> | <a href="?p=chapter_list&l=zh-CN">章节列表</a> | <a href="?p=composer_list&l=zh-CN">曲师列表</a> | <a href="?p=charter_list&l=zh-CN">谱师列表</a> | <a href="?p=illustrator_list&l=zh-CN">画师列表</a> | <a href="?p=collectible_list&l=zh-CN">收藏品列表</a> | <a href="?p=character_list&l=zh-CN">角色列表</a> | <a href="?p=memes&l=zh-CN">梗</a></p>
+<p style="text-align: center;"><a href="?p=FAQ&l=zh-CN">FAQ</a> | <a href="?p=mechanics&l=zh-CN">机制</a> | <a href="?p=interface&l=zh-CN">界面</a> | <a href="?p=constant_table&l=zh-CN">定数表</a> | <a href="?p=song_list&l=zh-CN">曲目列表</a> | <a href="?p=chapter_list&l=zh-CN">章节列表</a> | <a href="?p=composer_list&l=zh-CN">曲师列表</a> | <a href="?p=charter_list&l=zh-CN">谱师列表</a> | <a href="?p=illustrator_list&l=zh-CN">画师列表</a> | <a href="?p=collection_list&l=zh-CN">收藏品列表</a> | <a href="?p=character_list&l=zh-CN">角色列表</a> | <a href="?p=memes&l=zh-CN">梗</a></p>
 
 <p style="text-align: center;font-size: 1.2rem;"><strong><a href="?p=about&l=zh-CN">关于本Wiki</a></strong></p>
 
@@ -25,7 +25,7 @@
 
 - **（QQ）**[Notanote交流群 #1](https://qm.qq.com/q/fGXBLixNe0)
 - **（QQ）**[Notanote交流群 #2](https://qm.qq.com/q/9J5ZxtfQcM)
-- **（Discord）**[Notanote](https://discord.gg/tCqyBQPg2c)
+- **（Discord）**[Notanote Official](https://discord.gg/notanote)
 
 #### 非官方
 
@@ -36,6 +36,38 @@
 - [zzzProject爱发电赞助渠道](https://afdian.com/a/zzzProject)
 
 ## 新闻
+
+### 2026/03/27
+
+**盗版网站套路深，​<br />
+破解补丁别当真。​<br />
+链接一点几十万，​<br />
+够买十年正版身。**
+
+**⚡诺无语⚡在此提醒您：​<br />
+游玩不规范，亲人两行泪​<br />
+设备中毒炸穿屏⚡**
+
+![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/April_Fool_Preview.png)
+
+![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) **[【☢️诺无语/未授权翻译☢️】⚡⚡OtaOte破解版.exe⚡⚡](https://www.bilibili.com/video/BV1c8QSBqETF/)**
+
+### 2026/03/02
+
+![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) **[【Notanote原创曲】三相奇谈 (SKa2or Remix) - SKa2or](https://www.bilibili.com/video/BV1DnAqz5EhB/)**
+
+---
+
+### 2026/02/26
+
+“来自世界以外的目光……注视过来了……”
+
+在下一个更新版本中，一名特殊角色将在Notanote中限时出场。​<br />
+\>\> 花费糖果解锁该角色…？
+
+“糖果……混乱……逆转……恐慌……祝各位好运。”
+
+![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/news/f13b0239027007fccf2bf81310657e86701972652.png)
 
 ### 2026/02/27
 
@@ -55,7 +87,7 @@ Notanote x Orzmic Vol.2 联动确认
 
 更多联动内容敬请期待后续官方消息~
 
-![](http://i0.hdslb.com/bfs/new_dyn/7666ab7ec616a06274975fdaffbe24c3701972652.png)
+![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/news/7666ab7ec616a06274975fdaffbe24c3701972652.png)
 
 ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) **[原动态](https://www.bilibili.com/opus/1169877288211185664)**
 
@@ -113,27 +145,6 @@ Notanote re:v2.0将于2026.02.14更新！
 
 ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) **[【Notanote】re:v2.0 二周年内容预览](https://www.bilibili.com/video/BV1PgF4zhEND/)**
 
----
-
-### 2026/02/01
-
-![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) **[【Notanote原创曲】 时契 - KAIRCI feat. Aletta](https://www.bilibili.com/video/BV1Ly6wBaE4y/)**
-
----
-
-### 2026/01/28
-
-Notanote周年版本​全新角色公布：
-
-[「夏烛焰」](?p=characters/Candellia_Xia&l=zh-CN)​<br />
-——“我叫夏烛焰！夏天的夏，烛光的烛，火焰的焰。”<br />
-——“好久不见！嘻嘻，喜欢我的新裙子嘛？ ”<br />
-\>\> 完成[「主线二·无尽回廊」](?p=chapters/Main_Story_II&l=zh-CN)后，花费糖果解锁该角色。
-
-当画纸成为最好的信物，烛火终将燎原……
-
-![](https://i0.hdslb.com/bfs/new_dyn/5aed0ada55109a503416cf5ec91332ec701972652.png)
-
 ## 你知道吗
 
 - [「Aether Ingita!」](?p=songs/Aether_Ingita!&l=zh-CN)的SY难度是Notanote中物量最高的谱面，物量为2026；[「Only 1 Minute」](?p=songs/Only_1_Minute&l=zh-CN)的SY难度是Notanote中物量最低的谱面，物量为5。  
@@ -147,12 +158,15 @@ Notanote周年版本​全新角色公布：
 - [「cybernetic blazar」](?p=songs/cybernetic_blazar&l=zh-CN)为Notanote第一个被联动出去的曲子，被联动至Orzmic。
 - [「夏の花」](?p=songs/Natsu_no_Hana&l=zh-CN)是Notanote中时长最短的音乐，仅有1分37秒。
 - [「追憶」](?p=songs/Tsuioku&l=zh-CN)是Notanote中第一个更改曲绘的曲目。
-- [「能量过载-オーバロード-」](?p=songs/Nengliang_Guozai-Overload&l=zh-CN)的曲名曾被误写为「能量过载-オーバロート-」（ド写成了ト），后于v1.6.0被修正。
+- [「ΩZСÜRIDΛD」](?p=songs/OZCURIDAD&l=zh-CN)与[「ИÖDΣ」](?p=songs/NODE&l=zh-CN)都是Notanote中第一个有解锁动画的曲目（不算解锁动画被删除的[「Eltaw」](?p=songs/Eltaw&l=zh-CN)）。
+- [「End Time」](?p=songs/End_Time&l=zh-CN)是Notanote中第一个拥有谱面异象的曲目。
+- [「能量过载-オーバロード-」](?p=songs/Nengliang_Guozai-Overload-&l=zh-CN)的曲名曾被误写为「能量过载-オーバロート-」（ド写成了ト），后于v1.6.0被修正。
 - [「Heavenly Sky (2024 Remake)」](?p=songs/Heavenly_Sky_(2024_Remake)&l=zh-CN)的曲名曾被误写为「Heavenly Sky(2024 Remake)」（左括号左侧漏加空格），后于v2.8.0被修正。
 - [「Aether Ingita!」](?p=songs/Aether_Ingita!&l=zh-CN)本来正确的曲名是「Aether Ignite!」，但是曲师提交初版稿件时打错字了，交终版的时候才发现，于是最后将错就错了。甚至在[更新预告动态](https://t.bilibili.com/1030287065050251271)中曲名又被错写成了「Aether Ignita!」的形式，现在动态已修改。
 - TL难度在v2.0以前叫做EX。
 - Notanote的前主策为[Amusing](https://space.bilibili.com/349685001)，后变为[qm](?p=charter_list&l=zh-CN#qm)。
 - Notanote的前主策[Amusing](https://space.bilibili.com/349685001)曾经开发过一个音游叫Compaz，后来被弃。
+- [泉](?p=characters/Izumi&l=zh-CN)的角色形象来自于Notanote的主策[qm](?p=charter_list&l=zh-CN#qm)的OC。
 - [小嘤箱](?p=charter_list&l=zh-CN#XyX)是Notanote中参与谱面数量最多的谱师，截至目前共参与80多张谱面。第二名为[舞仙翼](?p=charter_list&l=zh-CN#wxy)，截至目前共参与30多张谱面。第三名为[qm](?p=charter_list&l=zh-CN#qm)，截至目前共参与20多张谱面。
 - [SiLENTORANGE](?p=charter_list&l=zh-CN#SiLENTORANGE)与[JMY](?p=charter_list&l=zh-CN#JMY)的初谱为[「End Time」](?p=songs/End_Time&l=zh-CN)全难度谱面，其中SY+难度定数为10.4，是Notanote中初谱定数最高的谱师。
 - v2.7.3是第一个在修订版本号追加曲目的版本。

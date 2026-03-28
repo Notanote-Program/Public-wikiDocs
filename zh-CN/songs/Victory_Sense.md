@@ -15,7 +15,7 @@
 | 时长 | 02:30 |
 | BPM | 155 |
 | 章节 | [单曲](?p=chapters/Singles&l=zh-CN) |
-| 曲绘 | [LUMINESCENCEP](?p=illustrator_list&l=zh-CN#LUMINESCENCEP) feat. [X-chalk](?p=illustrator_list&l=zh-CN#X-chalk) |
+| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Victory_Sense.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[LUMINESCENCEP](?p=illustrator_list&l=zh-CN#LUMINESCENCEP) feat. [X-chalk](?p=illustrator_list&l=zh-CN#X-chalk) |
 
 ## 谱面信息
 

@@ -15,7 +15,7 @@
 | 时长 | 02:01 |
 | BPM | 166 |
 | 章节 | [Milthm](?p=chapters/Milthm&l=zh-CN) |
-| 曲绘 | [nanakaria](?p=illustrator_list&l=zh-CN#nanakaria) |
+| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Sparkrain.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[nanakaria](?p=illustrator_list&l=zh-CN#nanakaria) |
 
 ## 谱面信息
 

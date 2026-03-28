@@ -1,7 +1,6 @@
 # Vestige of Dreams
 
 <div class="NoticeBoard">
-  <br>
   <p><s>不知名本家还未上线就在Notanote上线的曲目</s></p>
 </div>
 
@@ -16,7 +15,7 @@
 | 时长 | 02:16 |
 | BPM | 202 |
 | 章节 | [Milthm](?p=chapters/Milthm&l=zh-CN) |
-| 曲绘 | [水沐汐](?p=illustrator_list&l=zh-CN#Shuimuxi) |
+| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Vestige_of_Dreams.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[水沐汐](?p=illustrator_list&l=zh-CN#Shuimuxi) |
 
 ## 谱面信息
 
@@ -31,7 +30,7 @@
 
 以下条件满足任意一个：
 
-- 阅读剧情收藏品[「Innocent white」](?p=collectible_list&l=zh-CN#Innocent_white)
+- 阅读剧情收藏品[「Innocent white」](?p=collection_list&l=zh-CN#Innocent_white)
 - 500糖果
 
 ## 更新记录

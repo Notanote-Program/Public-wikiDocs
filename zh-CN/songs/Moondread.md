@@ -15,7 +15,7 @@
 | 时长 | 02:20 |
 | BPM | 220 |
 | 章节 | [主线二·无尽回廊](?p=chapters/Main_Story_II&l=zh-CN) |
-| 曲绘 | [故离](?p=illustrator_list&l=zh-CN#Guli) |
+| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Moondread.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[故离](?p=illustrator_list&l=zh-CN#Guli) |
 
 ## 谱面信息
 
@@ -28,7 +28,7 @@
 
 ## 解锁方法
 
-阅读剧情收集品[「循环」](?p=collectible_list&l=zh-CN#Loop)解锁。、
+阅读剧情收集品[「循环」](?p=collection_list&l=zh-CN#Loop)解锁。、
 
 NT难度需完成[「主线二·无尽回廊」](?p=chapters/Main_Story_II&l=zh-CN)后解锁。
 

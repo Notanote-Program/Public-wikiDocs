@@ -1,7 +1,6 @@
 # 时契
 
 <div class="NoticeBoard">
-  <br>
   <p>「请与我同行，到下个黎明」</p>
 </div>
 
@@ -16,7 +15,7 @@
 | 时长 | 03:08 |
 | BPM | 173 |
 | 章节 | [单曲](?p=chapters/Singles&l=zh-CN) |
-| 曲绘 | [ブウユー](?p=illustrator_list&l=zh-CN#Buyu) ft. [此路Cilu](?p=illustrator_list&l=zh-CN#Cilu) |
+| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Shiqi.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[ブウユー](?p=illustrator_list&l=zh-CN#Buyu) ft. [此路Cilu](?p=illustrator_list&l=zh-CN#Cilu) |
 
 ## 谱面信息
 

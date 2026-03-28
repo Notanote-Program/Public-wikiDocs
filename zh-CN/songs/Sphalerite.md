@@ -15,7 +15,7 @@
 | 时长 | 未知 |
 | BPM | 230 |
 | 章节 | [Orzmic](?p=chapters/Orzmic&l=zh-CN) |
-| 曲绘 | [恋殇](?p=illustrator_list&l=zh-CN#Lianshang) |
+| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Sphalerite.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[恋殇](?p=illustrator_list&l=zh-CN#Lianshang) |
 
 ## 谱面信息
 

@@ -57,7 +57,7 @@
         {
             "Class": "Object",
             "Content": "收藏品列表",
-            "Href": "?p=collectible_list&l=zh-CN"
+            "Href": "?p=collection_list&l=zh-CN"
         },
         {
             "Class": "Object",
@@ -91,7 +91,8 @@
     "composer_list.md": "曲师列表",
     "charter_list.md": "谱师列表",
     "illustrator_list.md": "画师列表",
-    "collectible_list.md": "收藏品列表",
+    "collection_list.md": "收藏品列表",
     "character_list.md": "角色列表",
-    "memes.md": "梗"
+    "memes.md": "梗",
+    "404.md": "404"
 }

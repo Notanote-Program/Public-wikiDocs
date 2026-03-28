@@ -15,7 +15,7 @@
 | 时长 | 02:03 |
 | BPM | 88 |
 | 章节 | [主线一·晴雨之遇](?p=chapters/Main_Story_I&l=zh-CN) |
-| 曲绘 | [故离](?p=illustrator_list&l=zh-CN#Guli) |
+| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/SHE.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[故离](?p=illustrator_list&l=zh-CN#Guli) |
 
 ## 谱面信息
 
@@ -23,14 +23,14 @@
 | :-: | :-: | :-: |
 | 定数 | 2.5 | 3.5 |
 | 颜色 | [框势之黑](?p=chapters/Black&l=zh-CN) | [框势之黑](?p=chapters/Black&l=zh-CN) |
-| 物量 | 450 | 122 |
+| 物量 | 449 | 122 |
 | 谱师 | [XyX](?p=charter_list&l=zh-CN#XyX) | [流星嘤](?p=charter_list&l=zh-CN#XyX) |
 
 ## 解锁方法
 
 以下条件满足任意一个：
 
-- 阅读剧情收集品[「雨之遇」](?p=collectible_list&l=zh-CN#Rainy_Getaway)
+- 阅读剧情收集品[「雨之遇」](?p=collection_list&l=zh-CN#Rainy_Getaway)
 - 600糖果
 
 ## 更新记录
@@ -110,5 +110,4 @@ And not have to remember you never belonged to me
 
 ## 相关视频
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】"SHE" [SY 3.5] 谱面演示](https://www.bilibili.com/video/BV16igZzgEif/)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote/移动端测试】"SHE" SY4 All Perfect](https://www.bilibili.com/video/BV1pP4wePEwu/)（玩家：[CMR_音律浪](https://space.bilibili.com/549751251/)）
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】"SHE" [TL 3.5] 谱面演示](https://www.bilibili.com/video/BV16igZzgEif/)

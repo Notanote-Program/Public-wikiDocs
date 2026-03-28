@@ -15,7 +15,7 @@
 | 时长 | 02:00 |
 | BPM | 210 |
 | 章节 | [单曲](?p=chapters/Singles&l=zh-CN) |
-| 曲绘 | [haohao](?p=illustrator_list&l=zh-CN#Ember) |
+| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/the_world_of_scarlet.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[haohao](?p=illustrator_list&l=zh-CN#Ember) |
 
 ## 谱面信息
 

@@ -15,7 +15,7 @@
 | 时长 | 03:24 |
 | BPM | 202.4 |
 | 章节 | [Soul Note](?p=chapters/Soul_Notes&l=zh-CN) |
-| 曲绘 | // [半界](?p=illustrator_list&l=zh-CN#Semiryoiki) |
+| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Aether_Ingita!.jpg" style="max-width: 13rem;max-height: 13rem" /><br />// [半界](?p=illustrator_list&l=zh-CN#Semiryoiki) |
 
 ## 谱面信息
 

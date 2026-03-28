@@ -1,7 +1,6 @@
 # T R A N S C E N D - T H E - E A R T H
 
 <div class="NoticeBoard">
-  <br>
   <p>超 越 地 球</p>
 </div>
 
@@ -16,7 +15,7 @@
 | 时长 | 02:29 |
 | BPM | 145 |
 | 章节 | [单曲](?p=chapters/Singles&l=zh-CN) |
-| 曲绘 | [三卜二卜百五十一](?p=illustrator_list&l=zh-CN#Sanbu) |
+| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/TRANSCEND-THE-EARTH.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[三卜二卜百五十一](?p=illustrator_list&l=zh-CN#Sanbu) |
 
 ## 谱面信息
 

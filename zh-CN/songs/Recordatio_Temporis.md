@@ -15,7 +15,7 @@
 | 时长 | 03:25 |
 | BPM | 180 |
 | 章节 | 未知 |
-| 曲绘 | [HOSHILINEARX.](?p=illustrator_list&l=zh-CN#HOSHILINEARX.) |
+| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Recordatio_Temporis.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[HOSHILINEARX.](?p=illustrator_list&l=zh-CN#HOSHILINEARX.) |
 
 ## 谱面信息
 

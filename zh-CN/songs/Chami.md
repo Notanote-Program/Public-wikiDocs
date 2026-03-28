@@ -15,7 +15,7 @@
 | 时长 | 02:37 |
 | BPM | 160 |
 | 章节 | 未知 |
-| 曲绘 | [Semiryoiki](?p=illustrator_list&l=zh-CN#Semiryoiki) |
+| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Chami.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[Semiryoiki](?p=illustrator_list&l=zh-CN#Semiryoiki) |
 
 ## 谱面信息
 

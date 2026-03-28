@@ -15,7 +15,7 @@
 | 时长 | 02:44 |
 | BPM | 190 |
 | 章节 | [主线二·无尽回廊](?p=chapters/Main_Story_II&l=zh-CN) |
-| 曲绘 | [PΩLIΛNYΛΩI](?p=illustrator_list&l=zh-CN#PoliaNyaoi) feat. [KΩÜRIE](?p=illustrator_list&l=zh-CN#kourie) |
+| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/OZCURIDAD.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[PΩLIΛNYΛΩI](?p=illustrator_list&l=zh-CN#PoliaNyaoi) feat. [KΩÜRIE](?p=illustrator_list&l=zh-CN#kourie) |
 
 ## 谱面信息
 
@@ -28,7 +28,7 @@
 
 ## 解锁方法
 
-解锁[「Moondread」](?p=songs/Moondread&l=zh-CN)后会进入剧情模式，此时主线二的其他曲目都被隐藏。游玩Moondread后，[「End Time」](?p=songs/End_Time&l=zh-CN)再次显示，此时再次游玩「End Time」会触发异象，曲名会变成「End Time?」并且难度显示为?。游玩End Time后主线二除「ΩZСÜRIDΛD」之外的曲目被隐藏，阅读剧情收集品[「结局……？」](?p=collectible_list&l=zh-CN#The_End)解锁「ΩZСÜRIDΛD」。
+解锁[「Moondread」](?p=songs/Moondread&l=zh-CN)后会进入剧情模式，此时主线二的其他曲目都被隐藏。游玩Moondread后，[「End Time」](?p=songs/End_Time&l=zh-CN)再次显示，此时再次游玩「End Time」会触发异象，曲名会变成「End Time?」并且难度显示为?。游玩End Time后主线二除「ΩZСÜRIDΛD」之外的曲目被隐藏，阅读剧情收集品[「结局……？」](?p=collection_list&l=zh-CN#The_End)解锁「ΩZСÜRIDΛD」。
 
 NT难度需完成[「主线二·无尽回廊」](?p=chapters/Main_Story_II&l=zh-CN)后解锁。
 

@@ -15,7 +15,7 @@
 | 时长 | 02:40 |
 | BPM | 128 |
 | 章节 | [支线一·花火之夏](?p=chapters/Side_Story_I&l=zh-CN) |
-| 曲绘 | [纸箱林Exut](?p=illustrator_list&l=zh-CN#Exut) |
+| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Rainbow_Flavor!.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[纸箱林Exut](?p=illustrator_list&l=zh-CN#Exut) |
 
 ## 谱面信息
 
@@ -30,7 +30,7 @@
 
 以下条件满足任意一个：
 
-- 阅读剧情收集品[「假期计划」](?p=collectible_list&l=zh-CN#Holiday_Plans)
+- 阅读剧情收集品[「假期计划」](?p=collection_list&l=zh-CN#Holiday_Plans)
 - 600糖果
 
 ## 更新记录

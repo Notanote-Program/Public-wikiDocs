@@ -14,7 +14,7 @@
 | 时长 | 03:10 |
 | BPM | 180 |
 | 章节 | [单曲](?p=chapters/Singles&l=zh-CN) |
-| 曲绘 | [Mahinii](?p=illustrator_list&l=zh-CN#Mahinii) |
+| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Sense.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[Mahinii](?p=illustrator_list&l=zh-CN#Mahinii) |
 
 ## 谱面信息
 

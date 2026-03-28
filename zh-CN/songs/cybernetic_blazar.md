@@ -15,7 +15,7 @@
 | 时长 | 02:01 |
 | BPM | **0ms**: 148<br />**40540ms**: 220<br />**47049ms**: 230<br />**50179ms**: 210<br />**51893ms**: 156<br />**58046ms**: 150<br />**61246ms**: 148 |
 | 章节 | [Milthm](?p=chapters/Milthm&l=zh-CN) |
-| 曲绘 | [天野岁](?p=illustrator_list&l=zh-CN#Tianyesui) |
+| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/cybernetic_blazar.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[天野岁](?p=illustrator_list&l=zh-CN#Tianyesui) |
 
 ## 谱面信息
 

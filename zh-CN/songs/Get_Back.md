@@ -15,7 +15,7 @@
 | 时长 | 03:09 |
 | BPM | 128 |
 | 章节 | [Soul Notes](?p=chapters/Soul_Notes&l=zh-CN) |
-| 曲绘 | [Soul Notes](?p=chapters/Soul_Notes&l=zh-CN) |
+| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Get_Back.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[Soul Notes](?p=chapters/Soul_Notes&l=zh-CN) |
 
 ## 谱面信息
 

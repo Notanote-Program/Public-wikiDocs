@@ -15,7 +15,7 @@
 | 时长 | 02:28 |
 | BPM | 185 |
 | 章节 | [单曲](?p=chapters/Singles&l=zh-CN) |
-| 曲绘 | [HaltquinZ♠♥♣♦](?p=composer_list&l=zh-CN#HaltquinZ) |
+| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Reimei.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[HaltquinZ♠♥♣♦](?p=composer_list&l=zh-CN#HaltquinZ) |
 
 ## 谱面信息
 

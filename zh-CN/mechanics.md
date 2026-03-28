@@ -50,7 +50,7 @@ $$\text{Nrk} = \frac{\sum\limits_{i=1}^{31}(R_i \times \omega_i)}{\sum\limits_{i
 
 <a id="Candy"></a>
 
-### [糖果](?p=collectible_list&l=zh-CN#Candy)
+### [糖果](?p=collection_list&l=zh-CN#Candy)
 
 糖果为游戏中的货币，可以用于解锁曲目、解锁角色等。
 
@@ -154,13 +154,13 @@ $$
 - 若通过上一条检验（即掉落其他头像），则有33%或67%的概率随机掉落一个全局头像或其他曲绘头像。
 - 若本次仅掉落糖果，则额外有 $\frac{\max ({\text{Acc}}-0.92, 0)^2}{0.08^2} \times \text{定数}$ 的概率掉落随机头像。
 
-<a id="collectibles"></a>
+<a id="collections"></a>
 
-## [收集物](?p=collectible_list&l=zh-CN)
+## [收集物](?p=collection_list&l=zh-CN)
 
 <a id="Candy_Can"></a>
 
-### [糖果罐](?p=collectible_list&l=zh-CN#Candy_Can)
+### [糖果罐](?p=collection_list&l=zh-CN#Candy_Can)
 
 可以往糖果罐里装糖果，根据当前糖果量分为空、少量、中量、大量四种状态。糖果罐最多能储存3000糖果，1-999为少量，1000-1999为中量，2000-3000为大量。
 
@@ -174,6 +174,6 @@ $$
 
 <a id="Four_Leaf_Clover"></a>
 
-### [四叶草](?p=collectible_list&l=zh-CN#Four-Leaf_Clover)
+### [四叶草](?p=collection_list&l=zh-CN#Four-Leaf_Clover)
 
 使用后，获得「不稳定幸运」状态：期间，掉落物（收集物、头像等）掉落概率提升，糖果掉落数量降低。当第一次遍历后未掉落物品（除糖果外），开启第二次遍历，糖果掉落数量降低20%。在「不稳定幸运」状态下，第二次遍历获得的收集物与降低掉落数量的糖果右上角会标有四叶草图片。

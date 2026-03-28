@@ -15,7 +15,7 @@
 | 时长 | 02:27 |
 | BPM | 220 |
 | 章节 | [Orzmic](?p=chapters/Orzmic&l=zh-CN) |
-| 曲绘 | [NekoFTR](?p=illustrator_list&l=zh-CN#NekoFTR) |
+| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Le_Porteur_d-Ombre.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[NekoFTR](?p=illustrator_list&l=zh-CN#NekoFTR) |
 
 ## 谱面信息
 

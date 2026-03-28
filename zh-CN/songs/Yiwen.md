@@ -15,7 +15,7 @@
 | 时长 | 02:28 |
 | BPM | 163 |
 | 章节 | [主线二·无尽回廊](?p=chapters/Main_Story_II&l=zh-CN) |
-| 曲绘 | [瓶装可乐](?p=illustrator_list&l=zh-CN#BottledSodaa) |
+| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Yiwen.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[瓶装可乐](?p=illustrator_list&l=zh-CN#BottledSodaa) |
 
 ## 谱面信息
 

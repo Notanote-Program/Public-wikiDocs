@@ -1,7 +1,6 @@
 # Agnostic
 
 <div class="NoticeBoard">
-  <br>
   <p><ruby>5A级景区<rt>曲名、曲师、曲绘画师、俩谱的谱师名义</rt></ruby>是什么歌</p>
 </div>
 
@@ -16,7 +15,7 @@
 | 时长 | 02:13 |
 | BPM | 167 |
 | 章节 | [单曲](?p=chapters/Singles&l=zh-CN) |
-| 曲绘 | [Ayutkia](?p=illustrator_list&l=zh-CN#Ayutkia) |
+| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Agnostic.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[Ayutkia](?p=illustrator_list&l=zh-CN#Ayutkia) |
 
 ## 谱面信息
 
@@ -24,7 +23,7 @@
 | :-: | :-: | :-: |
 | 定数 | 8.8 | 2.5 |
 | 颜色 | [流韵之赤](?p=chapters/Red&l=zh-CN) | [流韵之赤](?p=chapters/Red&l=zh-CN) |
-| 物量 | 878 | 624 |
+| 物量 | 876 | 624 |
 | 谱师 | [Arthur](?p=charter_list&l=zh-CN#Arthur) VS [小嘤箱](?p=charter_list&l=zh-CN#XyX) | [Arthur](?p=charter_list&l=zh-CN#Arthur) VS [小嘤箱](?p=charter_list&l=zh-CN#XyX) feat. [大松Dason](?p=charter_list&l=zh-CN#Dason) |
 
 ## 解锁方法

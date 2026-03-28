@@ -15,7 +15,7 @@
 | 时长 | 03:03 |
 | BPM | 303 |
 | 章节 | [主线一·晴雨之遇](?p=chapters/Main_Story_I&l=zh-CN) |
-| 曲绘 | [于白](?p=illustrator_list&l=zh-CN#Yubai) |
+| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Tsuioku.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[于白](?p=illustrator_list&l=zh-CN#Yubai) |
 
 ## 谱面信息
 
@@ -23,7 +23,7 @@
 | :-: | :-: | :-: | :-: |
 | 定数 | 4.5 | <span style="color: gray;">3.0</span> | <span style="color: gray;">5.4</span> |
 | 颜色 | [流韵之赤](?p=chapters/Red&l=zh-CN) | | |
-| 物量 | 351 | <span style="color: gray;">458</span> | <span style="color: gray;">509</span> |
+| 物量 | 350 | <span style="color: gray;">458</span> | <span style="color: gray;">509</span> |
 | 谱师 | [XyX](?p=charter_list&l=zh-CN#XyX) | <span style="color: gray;">[八樱盒](?p=charter_list&l=zh-CN#XyX) ([活性氮](?p=charter_list&l=zh-CN#HXDan) modified)</span> | <span style="color: gray;">[八樱盒](?p=charter_list&l=zh-CN#XyX) feat. [Fyato](?p=charter_list&l=zh-CN#Fyato)</span> |
 
 ## 解锁方法
@@ -204,8 +204,9 @@
 
 ## 相关视频
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】追憶 [SY 5.4] 谱面演示](https://www.bilibili.com/video/BV1negZzrECL/)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】追憶 [EZ 3.0] 谱面演示](https://www.bilibili.com/video/BV1pYgZzGEcM/)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】追憶 [SY 4.5] 谱面演示](https://www.bilibili.com/video/BV1nUQUBvE42/)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】（已删除谱面）追憶 [EZ 3.0] 谱面演示](https://www.bilibili.com/video/BV1pYgZzGEcM/)
+- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】（已删除谱面）追憶 [TL 5.4] 谱面演示](https://www.bilibili.com/video/BV1negZzrECL/)
 
 ## 注释
 

@@ -1,8 +1,7 @@
 # Kirakira Universe
 
 <div class="NoticeBoard">
-  <br>
-  <p></p>
+  <p>Hold: → ← → ← → ← →</p>
 </div>
 
 ## 曲目信息
@@ -16,7 +15,7 @@
 | 时长 | 02:28 |
 | BPM | 138 |
 | 章节 | [单曲](?p=chapters/Singles&l=zh-CN) |
-| 曲绘 | [Sakura Records](?p=illustrator_list&l=zh-CN#Sakura_Records) |
+| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Kirakira_Universe.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[Sakura Records](?p=illustrator_list&l=zh-CN#Sakura_Records) |
 
 ## 谱面信息
 

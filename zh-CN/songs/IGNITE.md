@@ -15,7 +15,7 @@
 | 时长 | 02:36 |
 | BPM | 200 |
 | 章节 | [音波狂潮](?p=chapters/LiveMania&l=zh-CN) |
-| 曲绘 | [LiveMania](?p=illustrator_list&l=zh-CN#LAM) |
+| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/IGNITE.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[LiveMania](?p=illustrator_list&l=zh-CN#LAM) |
 
 ## 谱面信息
 

@@ -15,7 +15,7 @@
 | 时长 | 02:26 |
 | BPM | 210 |
 | 章节 | [Milthm](?p=chapters/Milthm&l=zh-CN) |
-| 曲绘 | [nyniazero](?p=illustrator_list&l=zh-CN#nyniazero) vs. [yx](?p=illustrator_list&l=zh-CN#yx) |
+| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Meltovt_Necrosys.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[nyniazero](?p=illustrator_list&l=zh-CN#nyniazero) vs. [yx](?p=illustrator_list&l=zh-CN#yx) |
 
 ## 谱面信息
 
@@ -30,7 +30,7 @@
 
 以下条件满足任意一个：
 
-- 阅读剧情收藏品[「Innocent white」](?p=collectible_list&l=zh-CN#Innocent_white)
+- 阅读剧情收藏品[「Innocent white」](?p=collection_list&l=zh-CN#Innocent_white)
 - 500糖果
 
 ## 更新记录
