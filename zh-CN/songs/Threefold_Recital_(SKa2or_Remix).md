@@ -27,7 +27,7 @@
 | 时长 | 03:29 |
 | BPM | 166 |
 | 章节 | [三相奇谈](?p=chapters/Threefold_Recital&l=zh-CN) |
-| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Threefold_Recital_(SKa2or_Remix" style="max-width: 13rem;max-height: 13rem" />.jpg)<br />[whale](?p=illustrator_list#whale&l=zh-CN) / [Ayutkia](?p=illustrator_list#Ayutkia&l=zh-CN) ft. [可乐](?p=illustrator_list#Sanbu&l=zh-CN) |
+| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Threefold_Recital_(SKa2or_Remix).jpg" style="max-width: 13rem;max-height: 13rem" /><br />[whale](?p=illustrator_list#whale&l=zh-CN) / [Ayutkia](?p=illustrator_list#Ayutkia&l=zh-CN) ft. [可乐](?p=illustrator_list#BottledSodaa&l=zh-CN) |
 
 ## 谱面信息
 

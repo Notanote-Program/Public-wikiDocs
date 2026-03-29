@@ -15,7 +15,7 @@
 | 时长 | 02:29 |
 | BPM | 145 |
 | 章节 | [单曲](?p=chapters/Singles&l=zh-CN) |
-| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/TRANSCEND-THE-EARTH.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[三卜二卜百五十一](?p=illustrator_list&l=zh-CN#Sanbu) |
+| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/TRANSCEND-THE-EARTH.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[三卜二卜百五十一](?p=illustrator_list&l=zh-CN#BottledSodaa) |
 
 ## 谱面信息
 

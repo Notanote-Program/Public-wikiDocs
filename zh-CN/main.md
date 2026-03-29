@@ -48,9 +48,11 @@
 游玩不规范，亲人两行泪​<br />
 设备中毒炸穿屏⚡**
 
-![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/April_Fool_Preview.png)
+![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/news/April_Fool_Preview.png)
 
 ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) **[【☢️诺无语/未授权翻译☢️】⚡⚡OtaOte破解版.exe⚡⚡](https://www.bilibili.com/video/BV1c8QSBqETF/)**
+
+---
 
 ### 2026/03/02
 
@@ -91,65 +93,11 @@ Notanote x Orzmic Vol.2 联动确认
 
 ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) **[原动态](https://www.bilibili.com/opus/1169877288211185664)**
 
----
-
-### 2026/02/11
-
-![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) **[【Berry Melody x Notanote 原创曲】Faxeanos - Link"0](https://www.bilibili.com/video/BV1dZcbzFERa/)**
-
----
-
-### 2026/02/10
-
-![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) **[【Notanote原创曲】重置版：Brand New Day - Bcc & NonNam ft. Mai](https://www.bilibili.com/video/BV1SPFQzrEcF/)**
-
----
-
-### 2026/02/07
-
-Notanote re:v2.0将于2026.02.14更新！
-
-本次周年庆中将上新六首曲目！分别是：
-
-- [「ИÖDΣ」](?p=song_list&l=zh-CN#NODE)by [I](?p=composer_list&l=zh-CN#ILusMin)[C](?p=composer_list&l=zh-CN#CNHKSS)[B](?p=composer_list&l=zh-CN#Brycillum)[M](?p=composer_list&l=zh-CN#NonNam) [Notanote Original]
-- [「时契」](?p=song_list&l=zh-CN#Shiqi)by [KAIRCI](?p=composer_list&l=zh-CN#KAIRCI) feat. [Aletta](?p=composer_list&l=zh-CN#Aletta) [Notanote Original]
-- [「星祀る狐」](?p=song_list&l=zh-CN#Hoshi_Matsuru_Kitsune)by [Andreko](?p=composer_list&l=zh-CN#Andreko) [Notanote Original]
-- [「Agnostic」](?p=song_list&l=zh-CN#Agnostic)by [AiSS](?p=composer_list&l=zh-CN#AiSS)
-- [「T R A N S C E N D - T H E - E A R T H」](?p=song_list&l=zh-CN#TRANSCEND-THE-EARTH)by [Akiuta](?p=composer_list&l=zh-CN#Akiuta) / 2088 RECORDS [Notanote Original]
-- [「Kirakira Universe」](?p=song_list&l=zh-CN#Kirakira_Universe)by [Bakami](?p=composer_list&l=zh-CN#Bakami) [Notanote Original]
-
-同时，角色时装也将迎来上新与活动：
-
-- 全新限时时装[「幽澜 - 新春」](?p=characters/Lan-New_Year&l=zh-CN)版本期间限时开放​<br />\>\> 完成[「主线二·无尽回廊」](?p=chapters/Main_Story_II&l=zh-CN)后花费10000糖果解锁。
-
-- 全新角色[「夏烛焰」](?p=characters/Candellia_Xia&l=zh-CN)版本期间三折开放​<br />\>\> 完成[「主线二·无尽回廊」](?p=chapters/Main_Story_II&l=zh-CN)后花费1800（原6000）糖果解锁。
-
-- 常驻时装六折开放​<br />\>\> 版本期间，[「诺特 - 不登校」](?p=characters/Note-Futoko&l=zh-CN)[「三相 - 净饭」](?p=characters/Threefold-Triratna&l=zh-CN)[「三相 - 三宝」](?p=characters/Threefold-Taiqing&l=zh-CN)[「三相 - 皮月羞」](?p=characters/Threefold-Transia&l=zh-CN)六折开放解锁。
-
-此外，我们重构了章节、选曲系统：
-
-取消了单曲章节，取消了章节选择界面左侧的滑动机制。​<br />
-将章节重新分为「剧情」「联动」「主题」三大类，并在右侧全部呈现。​<br />
-将所有谱面根据谱面特征划分为六类，所属与不同主题中。
-
-剧情章节中的曲目新增糖果解锁方式，将剧情收集物和剧情章节曲目分离。​<br />
-保留了原先的剧情推进与解锁方式，同时允许玩家自由解锁曲目与剧情文本。
-
-双倍糖果虽迟但到！
-
-- 版本期间，前十次游玩获得的糖果数量翻倍
-- 版本期间，糖果掉落数量提升25%
-
-最后，2025最喜爱的曲目投票结果公布！前三名曲目将在后续版本中追加特别内容！​<br />
-敬请期待！
-
-![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) **[【Notanote】re:v2.0 二周年内容预览](https://www.bilibili.com/video/BV1PgF4zhEND/)**
-
 ## 你知道吗
 
 - [「Aether Ingita!」](?p=songs/Aether_Ingita!&l=zh-CN)的SY难度是Notanote中物量最高的谱面，物量为2026；[「Only 1 Minute」](?p=songs/Only_1_Minute&l=zh-CN)的SY难度是Notanote中物量最低的谱面，物量为5。  
 - [「ΩZСÜRIDΛD」](?p=songs/OZCURIDAD&l=zh-CN)的NT难度是Notanote中定数最高的谱面，定数为10.8。
-- [「ΩZСÜRIDΛD」](?p=songs/OZCURIDAD&l=zh-CN)的NT难度是Notanote第一个，也是唯一一个10+。
+- [「ΩZСÜRIDΛD」](?p=songs/OZCURIDAD&l=zh-CN)的NT难度是Notanote第一个，也是目前唯一一个10+。
 - [「《Ж》」](?p=songs/OZCURIDAD&l=zh-CN)的SY难度是Notanote第一个10。
 - [「《Ж》」](?p=songs/OZCURIDAD&l=zh-CN)的SY难度是Notanote存活时间最长的谱面，存活504天后被[九段不合格](https://space.bilibili.com/1633653929/)击杀。
 - [「Innocent white」](?p=songs/Innocent_white&l=zh-CN)之所以有EZ+难度是因为[舞仙翼](?p=charter_list&l=zh-CN#wxy)和[活性氮](?p=charter_list&l=zh-CN#HXDan)撞车了。
@@ -170,3 +118,5 @@ Notanote re:v2.0将于2026.02.14更新！
 - [小嘤箱](?p=charter_list&l=zh-CN#XyX)是Notanote中参与谱面数量最多的谱师，截至目前共参与80多张谱面。第二名为[舞仙翼](?p=charter_list&l=zh-CN#wxy)，截至目前共参与30多张谱面。第三名为[qm](?p=charter_list&l=zh-CN#qm)，截至目前共参与20多张谱面。
 - [SiLENTORANGE](?p=charter_list&l=zh-CN#SiLENTORANGE)与[JMY](?p=charter_list&l=zh-CN#JMY)的初谱为[「End Time」](?p=songs/End_Time&l=zh-CN)全难度谱面，其中SY+难度定数为10.4，是Notanote中初谱定数最高的谱师。
 - v2.7.3是第一个在修订版本号追加曲目的版本。
+- Notanote的二周年版本号为re:v2.0（在游戏平台上标注为v2.10），是第一个也是目前唯一一个非常规形式版本号。
+- Notanote原定的公测日期为2024年2月15日，结果实际上线不小心提前了一天。

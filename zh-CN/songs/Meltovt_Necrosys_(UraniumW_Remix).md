@@ -15,7 +15,7 @@
 | 时长 | 02:04 |
 | BPM | 155 |
 | 章节 | [Soul Notes](?p=chapters/Milthm&l=zh-CN) |
-| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Meltovt_Necrosys_(UraniumW_Remix" style="max-width: 13rem;max-height: 13rem" />.jpg)<br />[nyniazero](?p=illustrator_list&l=zh-CN#nyniazero) vs. [yx](?p=illustrator_list&l=zh-CN#yx) |
+| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Meltovt_Necrosys_(UraniumW_Remix).jpg" style="max-width: 13rem;max-height: 13rem" /><br />[nyniazero](?p=illustrator_list&l=zh-CN#nyniazero) vs. [yx](?p=illustrator_list&l=zh-CN#yx) |
 
 ## 谱面信息
 

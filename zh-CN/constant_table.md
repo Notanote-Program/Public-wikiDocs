@@ -181,7 +181,7 @@
     </tr>
     <tr>
       <td>8.9</td>
-      <td><a href="?p=songs/GRAND-i-FlORA&l=zh-CN" data-class="SY"><img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/GRAND-i-FlORA.jpg" alt="GRAND-i-FlORA" /></a></td>
+      <td><a href="?p=songs/GRAND-i-FlORA&l=zh-CN" data-class="SY"><img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/GRAND-i-FLORA.jpg" alt="GRAND-i-FLORA" /></a></td>
     </tr>
     <tr>
       <td>8.8</td>
