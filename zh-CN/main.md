@@ -37,6 +37,18 @@
 
 ## 新闻
 
+### 2026/04/01
+
+（迫害策划中……）
+
+![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) **[【OtaOte愚人节】ИÖDΣ - OMG It's Boss Quan we're doomed - - 泉大人的恩情还不完✋😭✋](https://www.bilibili.com/video/BV1XK9EBzEyq/)**
+
+---
+
+![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) **[【诺特utau声库配布】あなたしか見えないの/眼中只有你一人](https://www.bilibili.com/video/BV144XDBHE2T/)**
+
+---
+
 ### 2026/03/27
 
 **盗版网站套路深，​<br />

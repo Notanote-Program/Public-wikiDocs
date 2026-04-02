@@ -22,7 +22,7 @@
 | 信息 | SY | EZ | NT |
 | :-: | :-: | :-: | :-: |
 | 定数 | 9.2 | 2.5 | 10.8 |
-| 颜色 | [无色之诺](?p=chapters/Void&l=zh-CN) | [无色之诺](?p=chapters/Void&l=zh-CN) | [赋染之蓝](?p=chapters/Blue&l=zh-CN) |
+| 颜色 | [无色](?p=colours&l=zh-CN#void) | [无色](?p=colours&l=zh-CN#void) | [赋染之蓝](?p=chapters/Blue&l=zh-CN) |
 | 物量 | 1159 | 1120 | 1666 |
 | 谱师 | [小嘤箱](?p=charter_list&l=zh-CN#XyX) | [小嘤箱](?p=charter_list&l=zh-CN#XyX) | [Nimbus](?p=charter_list&l=zh-CN#XyX) about [Nightmare](?p=charter_list&l=zh-CN#wxy) |
 

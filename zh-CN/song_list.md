@@ -155,13 +155,19 @@
 | [ИÖDΣ](?p=songs/NODE&l=zh-CN) | [I](?p=composer_list&l=zh-CN#ILusMin)[C](?p=composer_list&l=zh-CN#CNHKSS)[B](?p=composer_list&l=zh-CN#Brycillum)[M](?p=composer_list&l=zh-CN#NonNam) | [教授_Professor](?p=illustrator_list&l=zh-CN#JQ.Professor) & [祈莲](?p=illustrator_list&l=zh-CN#Panthullu) | re:v2.0.0 | SY 9.0<br />SY+ 10.6<br />EZ 5.0 |
 | [时契](?p=songs/Shiqi&l=zh-CN) | [KAIRCI](?p=composer_list&l=zh-CN#KAIRCI) feat. Aletta | [ブウユー](?p=illustrator_list&l=zh-CN#Buyu) ft. [此路Cilu](?p=illustrator_list&l=zh-CN#Cilu) | re:v2.0.0 | SY 8.1 |
 
+## [？？？](?p=chapters/???&l=zh-CN)
+
+| 曲名 | 曲师 | 画师 | 上线版本 | 定数 | 备注 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| [Nota Studio](?p=songs/Nota_Studio&l=zh-CN) | 诺塔 & 诺特 feat. [嘤箱](?p=composer_list&l=zh-CN#XyX) & [呆泠](?p=composer_list&l=zh-CN#Dailing) | | v2.0.0 | SP ? | 2025年愚人节曲目 |
+| [Candy Day](?p=songs/Candy_Day&l=zh-CN) | 诺塔 & 诺特 feat. [嘤箱](?p=composer_list&l=zh-CN#XyX) & [Bob Hou](?p=composer_list&l=zh-CN#Bob_Hou) | | v2.0.0 | SP ? | 2025年愚人节曲目 |
+| [ИÖDΣ - OMG It's Boss Quan we're doomed -](?p=songs/NODE-OMG_It-s_Boss_Quan_we-re_doomed-&l=zh-CN) | [泉大人的恩情](?p=composer_list&l=zh-CN#NonNam)[还不完\o/](?p=composer_list&l=zh-CN#watch) | [泉大人的恩情还不完\o/](?p=composer_list&l=zh-CN#Semiryoiki) | v2.11.0 | SP ? | 2026年愚人节曲目 |
+
 ## 下架曲目
 
 | 曲名 | 曲师 | 画师 | 上线版本 | 下架版本 | 定数 | 备注 |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | [メズマライザー](?p=songs/Mesmerizer&l=zh-CN) | [サツキ](?p=composer_list&l=zh-CN#Satsuki) | [纸箱林Exut](?p=illustrator_list&l=zh-CN#Exut) | v1.8.0 | v1.8.2 | SY 7.4 | 原属于[单曲](?p=chapters/Singles&l=zh-CN) |
-| [Nota Studio](?p=songs/Nota_Studio&l=zh-CN) | 诺塔 & 诺特 feat. [嘤箱](?p=composer_list&l=zh-CN#XyX) & [呆泠](?p=composer_list&l=zh-CN#Dailing) | 未知 | v2.0.0 | v2.1.0 | SP ? | 2025年愚人节曲目 |
-| [Candy Day](?p=songs/Candy_Day&l=zh-CN) | 诺塔 & 诺特 feat. [嘤箱](?p=composer_list&l=zh-CN#XyX) & [Bob Hou](?p=composer_list&l=zh-CN#Bob_Hou) | 未知 | v2.0.0 | v2.1.0 | SP ? | 2025年愚人节曲目 |
 
 ## 未上线曲目
 

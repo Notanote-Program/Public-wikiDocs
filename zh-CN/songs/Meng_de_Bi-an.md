@@ -22,7 +22,7 @@
 | 信息 | SY | EZ |
 | :-: | :-: | :-: |
 | 定数 | 3.0 | 1.0 |
-| 颜色 | [无色之诺](?p=chapters/Void&l=zh-CN) | [无色之诺](?p=chapters/Void&l=zh-CN) |
+| 颜色 | [无色](?p=colours&l=zh-CN#void) | [无色](?p=colours&l=zh-CN#void) |
 | 物量 | 483 | 525 |
 | 谱师 | [嘤箱](?p=charter_list&l=zh-CN#XyX) | [嘤箱](?p=charter_list&l=zh-CN#XyX) vs. [Rea_cy](?p=charter_list&l=zh-CN#Rea_cy) |
 

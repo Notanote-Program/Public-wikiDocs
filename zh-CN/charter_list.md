@@ -86,6 +86,9 @@
 | [T R A N S C E N D - T H E - E A R T H](?p=songs/TRANSCEND-THE-UNIVERSE&l=zh-CN) | [单曲](?p=chapters/Singles&l=zh-CN) | **SY** [ＸＣＤ](?p=charter_list&l=zh-CN#AwlF) - Ａ - [ＺＯＮＥ](?p=charter_list&l=zh-CN#XyX) | 谱师名义每个字母之间有空格，模仿曲名 |
 | [ИÖDΣ](?p=songs/NODE&l=zh-CN) | [单曲](?p=chapters/Singles&l=zh-CN) | **SY** [Notanote Charting Team](#XyX)<br />**SY+** [Notanote](#XyX) Charting [Team](#wxy)<br />**EZ** [小嘤箱](#XyX) & [凉皮!!!](#LPI) | |
 | [时契](?p=songs/Shiqi&l=zh-CN) | [单曲](?p=chapters/Singles&l=zh-CN) | **SY** [小嘤箱](#XyX)<br />**EZ** [小嘤箱](#XyX) ft. [大松Dason](#Dason) | |
+| [Nota Studio](?p=songs/Nota_Studio&l=zh-CN) | [？？？](?p=chapters/???&l=zh-CN) | [诺塔 & 诺特](?p=composer_list&l=zh-CN#XyX) | |
+| [Candy Day](?p=songs/Candy_Day&l=zh-CN) | [？？？](?p=chapters/???&l=zh-CN) | [诺塔 & 诺特](?p=composer_list&l=zh-CN#XyX) | |
+| [ИÖDΣ - OMG It's Boss Quan we're doomed -](?p=songs/NODE-OMG_It-s_Boss_Quan_we-re_doomed-&l=zh-CN) | [？？？](?p=chapters/???&l=zh-CN) | [泉大人的](?p=composer_list&l=zh-CN#qm)[恩情](?p=composer_list&l=zh-CN#XyX)[还不完\o/](?p=composer_list&l=zh-CN#Dason) | |
 
 <a id="wxy"></a>
 
@@ -159,6 +162,7 @@
 | [Alice in a xxxxxxxx](?p=songs/Alice_in_a_xxxxxxxx&l=zh-CN) | [单曲](?p=chapters/Singles&l=zh-CN) | **SY** [qm](#qm) in a xx[wxy](#XyX)[yx](#XyX)x | 谱师名义模仿曲名 |
 | [能量过载-オーバロード-](?p=songs/Nengliang_Guozai-Overload-&l=zh-CN) | [单曲](?p=chapters/Singles&l=zh-CN) | **SY** [OV](#XyX)[ER](#qm)[LO](#Yiye)[AD](#Greenball233)<br />**EZ** [嘤箱](#XyX) vs. [qm](#qm)（[OwO](#OwO) Modified） | SY难度谱师名义意为“过载”，对应曲名 |
 | [《Ж》](?p=songs/Convergence&l=zh-CN) | [单曲](?p=chapters/Singles&l=zh-CN) | **TL** 《[LEI](#Lei_motife) devour [QM](#qm)》 | 谱师名义被书名号包裹，模仿曲名 |
+| [ИÖDΣ - OMG It's Boss Quan we're doomed -](?p=songs/NODE-OMG_It-s_Boss_Quan_we-re_doomed-&l=zh-CN) | [？？？](?p=chapters/???&l=zh-CN) | [泉大人的](?p=composer_list&l=zh-CN#qm)[恩情](?p=composer_list&l=zh-CN#XyX)[还不完\o/](?p=composer_list&l=zh-CN#Dason) | |
 
 <a id="zecolost"></a>
 
@@ -329,6 +333,7 @@
 | [Agnostic](?p=songs/Agnostic&l=zh-CN) | [单曲](?p=chapters/Singles&l=zh-CN) | **EZ** [Arthur](#Arthur) VS [小嘤箱](#XyX) feat. [大松Dason](#Dason) | |
 | [星祀る狐](?p=songs/Hoshi_Matsuru_Kitsune&l=zh-CN) | [单曲](?p=chapters/Singles&l=zh-CN) | **EZ** [小嘤箱](#XyX) ft. [大松Dason](#Dason) | |
 | [时契](?p=songs/Shiqi&l=zh-CN) | [单曲](?p=chapters/Singles&l=zh-CN) | **EZ** [小嘤箱](#XyX) ft. [大松Dason](#Dason) | |
+| [ИÖDΣ - OMG It's Boss Quan we're doomed -](?p=songs/NODE-OMG_It-s_Boss_Quan_we-re_doomed-&l=zh-CN) | [？？？](?p=chapters/???&l=zh-CN) | [泉大人的](?p=composer_list&l=zh-CN#qm)[恩情](?p=composer_list&l=zh-CN#XyX)[还不完\o/](?p=composer_list&l=zh-CN#Dason) | |
 
 <a id="SeRazon"></a>
 

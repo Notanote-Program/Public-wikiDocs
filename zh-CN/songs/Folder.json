@@ -26,6 +26,11 @@
         },
         {
             "Class": "Object",
+            "Content": "定数表",
+            "Href": "?p=constant_table&l=zh-CN"
+        },
+        {
+            "Class": "Object",
             "Content": "曲目列表",
             "Href": "?p=song_list&l=zh-CN"
         },
@@ -146,6 +151,10 @@
     "songs/TRANSCEND-THE-EARTH.md": "T R A N S C E N D - T H E - E A R T H",
     "songs/NODE.md": "ИÖDΣ",
     "songs/Shiqi.md": "时契",
+
+    "songs/Nota_Studio.md": "Nota Studio",
+    "songs/Candy_Day.md": "Candy Day",
+    "songs/NODE-OMG_It-s_Boss_Quan_we-re_doomed-.md": "ИÖDΣ - OMG It's Boss Quan we're doomed -",
 
     "songs/Kiri.md": "Kiri",
     "songs/Crystal_Ember.md": "Crystal Ember",

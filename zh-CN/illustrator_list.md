@@ -9,7 +9,7 @@
 ## 半界
 
 - 常用马甲：Semiryoiki
-- Notanote主力画师之一
+- Notanote主力画师
 - 性别：女
 - ~~爱吃三文鱼~~
 - [哔哩哔哩](https://space.bilibili.com/228477244)
@@ -30,6 +30,7 @@
 | [Stardust Ember](?p=songs/Stardust_Ember&l=zh-CN) | [单曲](?p=chapters/Singles&l=zh-CN) | [半界](?p=illustrator_list&l=zh-CN#Semiryoiki) | |
 | [F℟IEND](?p=songs/FRIEND&l=zh-CN) | [单曲](?p=chapters/Singles&l=zh-CN) | [半界](?p=illustrator_list&l=zh-CN#Semiryoiki) & [X-chalk](?p=illustrator_list&l=zh-CN#X-chalk) | |
 | [Lapis](?p=songs/Lapis&l=zh-CN) | [单曲](?p=chapters/Singles&l=zh-CN) | [半界](?p=illustrator_list&l=zh-CN#Semiryoiki) | |
+| [ИÖDΣ - OMG It's Boss Quan we're doomed -](?p=songs/NODE-OMG_It-s_Boss_Quan_we-re_doomed-&l=zh-CN) | [？？？](?p=chapters/???&l=zh-CN) | [泉大人的恩情还不完\o/](?p=composer_list&l=zh-CN#Semiryoiki) | |
 | [茶靡](?p=songs/Chami&l=zh-CN) | 未上线 | [Semiryoiki](?p=illustrator_list&l=zh-CN#Semiryoiki) | |
 
 <a id="Exut"></a>
@@ -76,3 +77,26 @@
 | [MARENOL](?p=songs/MARENOL&l=zh-CN) | [单曲](?p=chapters/Singles) | [故离](?p=illustrator_list&l=zh-CN#Guli) | |
 | [Only 1 Minute](?p=songs/Only_1_Minute&l=zh-CN) | [单曲](?p=chapters/Singles) | [故离](?p=illustrator_list&l=zh-CN#Guli) | |
 | [YUMEND](?p=songs/YUMEND&l=zh-CN) | [单曲](?p=chapters/Singles) | [故离](?p=illustrator_list&l=zh-CN#Guli) & [于白](?p=illustrator_list&l=zh-CN#Yubai) | |
+
+<a id="Ayutkia"></a>
+
+## Ayutkia
+
+- 中文名阿语
+- [哔哩哔哩](https://space.bilibili.com/649231221)
+
+| 曲名 | 所属章节 | 画师名义 | 备注 |
+| :-: | :-: | :-: | :-: |
+| [三相奇谈 (SKa2or Remix)](?p=songs/Threefold_Recital_(SKa2or_Remix)&l=zh-CN) | [三相奇谈](?p=chapters/Threefold_Recital&l=zh-CN) | [whale](?p=illustrator_list#whale&l=zh-CN) / [Ayutkia](?p=illustrator_list#Ayutkia&l=zh-CN) ft. [可乐](?p=illustrator_list#BottledSodaa&l=zh-CN) | |
+| [Agnostic](?p=songs/Agnostic&l=zh-CN) | [单曲](?p=chapters/Singles&l=zh-CN) | [Ayutkia](?p=illustrator_list#Ayutkia&l=zh-CN) | |
+
+<a id="whale"></a>
+
+## whale
+
+- 中文名鲸皓
+- [哔哩哔哩](https://space.bilibili.com/1125844412)
+
+| 曲名 | 所属章节 | 画师名义 | 备注 |
+| :-: | :-: | :-: | :-: |
+| [三相奇谈 (SKa2or Remix)](?p=songs/Threefold_Recital_(SKa2or_Remix)&l=zh-CN) | [三相奇谈](?p=chapters/Threefold_Recital&l=zh-CN) | [whale](?p=illustrator_list#whale&l=zh-CN) / [Ayutkia](?p=illustrator_list#Ayutkia&l=zh-CN) ft. [可乐](?p=illustrator_list#BottledSodaa&l=zh-CN) | |
