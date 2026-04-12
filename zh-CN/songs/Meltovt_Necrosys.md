@@ -22,7 +22,7 @@
 | 信息 | SY | EZ |
 | :-: | :-: | :-: |
 | 定数 | 10.2 | 5.3 |
-| 颜色 | [框势之黑](?p=chapters/Black&l=zh-CN) | [框势之黑](?p=chapters/Black&l=zh-CN) |
+| 颜色 | [框势之黑](?p=colors/Black&l=zh-CN) | [框势之黑](?p=colors/Black&l=zh-CN) |
 | 物量 | 891 | 633 |
 | 谱师 | [Wxy](?p=charter_list&l=zh-CN#wxy)with [Xecolost](?p=charter_list&l=zh-CN#zecolost) | [Xecolost](?p=charter_list&l=zh-CN#zecolost) |
 
@@ -46,7 +46,7 @@
 ## 游戏相关
 
 - 本曲与[「Elsorhg」](?p=songs/Elsorhg&l=zh-CN)虽然在[Milthm](?p=chapters/Milthm&l=zh-CN)联动章节内，但实际上为Notanote一家的原创曲。
-- 本曲还有两个Remix版本也是Notanote原创曲，分别是[「Meltovt Necrosys (Salty Salt Remix)」](?p=songs/Meltovt_Necrosys_(Salty_Salt_Remix))和[「Meltovt Necrosys (UraniumW Remix)」](?p=songs/Meltovt_Necrosys_(UraniumW_Remix)&l=zh-CN)。
+- 本曲还有两个Remix版本也是Notanote原创曲，分别是[「Meltovt Necrosys (Salty Salt Remix)」](?p=songs/Meltovt_Necrosys_Salty_Salt_Remix)和[「Meltovt Necrosys (UraniumW Remix)」](?p=songs/Meltovt_Necrosys_UraniumW_Remix&l=zh-CN)。
 - 本曲为Milthm联动提供曲。
 - 本曲曲名的单词首字母为M和N，对应联动双方Milthm与Notanote。
 
@@ -62,15 +62,15 @@
 
 ## 音乐
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico) [Meltovt Necrosys - Halv - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2671549237)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/youtube.ico) [【Official】Halv - Meltovt Necrosys【Milthm x Notanote】](https://www.youtube.com/watch?v=CHEdbzhvW-s)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Milthm x Notanote】Halv - Meltovt Necrosys](https://www.bilibili.com/video/BV1Cr42187Lk/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Meltovt Necrosys - Halv - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2671549237)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/youtube.ico" class="vidimgicon" /> [【Official】Halv - Meltovt Necrosys【Milthm x Notanote】](https://www.youtube.com/watch?v=CHEdbzhvW-s)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Milthm x Notanote】Halv - Meltovt Necrosys](https://www.bilibili.com/video/BV1Cr42187Lk/)
 
 ## 相关视频
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】Meltovt Necrosys [SY 10.2] 谱面演示](https://www.bilibili.com/video/BV1PrZRY2EVA/)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】Meltovt Necrosys [EZ 5.8] 谱面演示](https://www.bilibili.com/video/BV116ZRY7Eki/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Meltovt Necrosys [SY 10.2] 谱面演示](https://www.bilibili.com/video/BV1PrZRY2EVA/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Meltovt Necrosys [EZ 5.8] 谱面演示](https://www.bilibili.com/video/BV116ZRY7Eki/)
 
 ## 注释
 
-1. <a id="ref-1" href="&l=zh-CN#note-1">↑</a> “蓝莓/咸盐牛奶”指[「Meltovt Necrosys (Salty Salt Remix)」](?p=songs/Meltovt_Necrosys_(Salty_Salt_Remix)&l=zh-CN)，“香蕉牛奶”指[「Meltovt Necrosys (UraniumW Remix)」](?p=songs/Meltovt_Necrosys_(UraniumW_Remix)&l=zh-CN)。
+1. <a id="ref-1" href="&l=zh-CN#note-1">↑</a> “蓝莓/咸盐牛奶”指[「Meltovt Necrosys (Salty Salt Remix)」](?p=songs/Meltovt_Necrosys_Salty_Salt_Remix&l=zh-CN)，“香蕉牛奶”指[「Meltovt Necrosys (UraniumW Remix)」](?p=songs/Meltovt_Necrosys_UraniumW_Remix&l=zh-CN)。

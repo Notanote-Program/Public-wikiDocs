@@ -54,10 +54,10 @@
 
 ## 音乐
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico) [Agnostic (Short ver. ) - AiSS/AiSS_初号机 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1891508303)<sup><a id="note-1.1" href="#ref-1">[1]</a></sup>
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico) [Agnostic - 卉HUI-Works/AiSS/AiSS_初号机 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1805342105)<sup><a id="note-2.1" href="#ref-2">[2]</a></sup>
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【原创/音游投稿】Agnostic (Short ver. )](https://www.bilibili.com/video/BV1zP4y1G7aJ/)<sup><a id="note-1.2" href="#ref-1">[1]</a></sup>
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【原创音乐】Agnostic](https://www.bilibili.com/video/BV19T4y1M7r9/)<sup><a id="note-2.2" href="#ref-2">[2]</a></sup>
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Agnostic (Short ver. ) - AiSS/AiSS_初号机 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1891508303)<sup><a id="note-1.1" href="#ref-1">[1]</a></sup>
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Agnostic - 卉HUI-Works/AiSS/AiSS_初号机 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1805342105)<sup><a id="note-2.1" href="#ref-2">[2]</a></sup>
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【原创/音游投稿】Agnostic (Short ver. )](https://www.bilibili.com/video/BV1zP4y1G7aJ/)<sup><a id="note-1.2" href="#ref-1">[1]</a></sup>
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【原创音乐】Agnostic](https://www.bilibili.com/video/BV19T4y1M7r9/)<sup><a id="note-2.2" href="#ref-2">[2]</a></sup>
 
 ## 相关视频
 

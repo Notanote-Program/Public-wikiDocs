@@ -65,9 +65,9 @@
 
 ## 音乐
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico) [Kaze - Itz咸鱼 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2080814039)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【新音游 Notanote】Kaze - Itz咸鱼](https://www.bilibili.com/video/BV1e14y1k7JD/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Kaze - Itz咸鱼 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2080814039)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【新音游 Notanote】Kaze - Itz咸鱼](https://www.bilibili.com/video/BV1e14y1k7JD/)
 
 ## 相关视频
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】Kaze [SY 6.2] 谱面演示](https://www.bilibili.com/video/BV1Nf8XzUEuY/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Kaze [SY 6.2] 谱面演示](https://www.bilibili.com/video/BV1Nf8XzUEuY/)

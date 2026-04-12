@@ -22,7 +22,7 @@
 | 信息 | SY |
 | :-: | :-: |
 | 定数 | 3.0 |
-| 颜色 | [空域之碧](?p=chapters/Green&l=zh-CN) |
+| 颜色 | [空域之碧](?p=colors/Green&l=zh-CN) |
 | 物量 | 79 |
 | 谱师 | [qm](?p=charter_list&l=zh-CN#qm) x [wxy](?p=charter_list&l=zh-CN#wxy) |
 
@@ -198,13 +198,13 @@ Until the end of the world
 
 ## 音乐
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico) [Summer Dream (feat. Chevy) - Kirara Magic/Chevy - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1854644975)<sup><a id="note-1.1" href="#ref-1">[1]</a></sup>
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【清新夏日单曲】Summer Dream (feat. Chevy)【MV】](https://www.bilibili.com/video/BV1yB4y1K7X5/)<sup><a id="note-1.2" href="#ref-1">[1]</a></sup>
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Summer Dream (feat. Chevy) - Kirara Magic/Chevy - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1854644975)<sup><a id="note-1.1" href="#ref-1">[1]</a></sup>
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【清新夏日单曲】Summer Dream (feat. Chevy)【MV】](https://www.bilibili.com/video/BV1yB4y1K7X5/)<sup><a id="note-1.2" href="#ref-1">[1]</a></sup>
 
 ## 相关视频
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】Summer Dream [SY 2.5] 谱面演示](https://www.bilibili.com/video/BV1UkGNzGEPg/)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote/不要急挑战（）】Summer Dream SY1 All Perfect](https://www.bilibili.com/video/BV1TY2NYSEyi/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Summer Dream [SY 2.5] 谱面演示](https://www.bilibili.com/video/BV1UkGNzGEPg/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote/不要急挑战（）】Summer Dream SY1 All Perfect](https://www.bilibili.com/video/BV1TY2NYSEyi/)
 
 ## 注释
 

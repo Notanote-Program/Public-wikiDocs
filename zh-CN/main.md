@@ -37,15 +37,23 @@
 
 ## 新闻
 
+### 2026/04/12
+
+<img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> **[【Rhythmic Commons】Outa Starlight - 祈枫_yita](https://www.bilibili.com/video/BV1tqDyBYEx2/)**
+
+<img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> **[【Rhythmic Commons】XIII: Fatum - Chikanya](https://www.bilibili.com/video/BV1fUDQBMEPH/)**
+
+---
+
 ### 2026/04/01
 
 （迫害策划中……）
 
-![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) **[【OtaOte愚人节】ИÖDΣ - OMG It's Boss Quan we're doomed - - 泉大人的恩情还不完✋😭✋](https://www.bilibili.com/video/BV1XK9EBzEyq/)**
+<img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> **[【OtaOte愚人节】ИÖDΣ - OMG It's Boss Quan we're doomed - - 泉大人的恩情还不完✋😭✋](https://www.bilibili.com/video/BV1XK9EBzEyq/)**
 
 ---
 
-![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) **[【诺特utau声库配布】あなたしか見えないの/眼中只有你一人](https://www.bilibili.com/video/BV144XDBHE2T/)**
+<img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> **[【诺特utau声库配布】あなたしか見えないの/眼中只有你一人](https://www.bilibili.com/video/BV144XDBHE2T/)**
 
 ---
 
@@ -62,13 +70,13 @@
 
 ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/news/April_Fool_Preview.png)
 
-![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) **[【☢️诺无语/未授权翻译☢️】⚡⚡OtaOte破解版.exe⚡⚡](https://www.bilibili.com/video/BV1c8QSBqETF/)**
+<img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> **[【☢️诺无语/未授权翻译☢️】⚡⚡OtaOte破解版.exe⚡⚡](https://www.bilibili.com/video/BV1c8QSBqETF/)**
 
 ---
 
 ### 2026/03/02
 
-![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) **[【Notanote原创曲】三相奇谈 (SKa2or Remix) - SKa2or](https://www.bilibili.com/video/BV1DnAqz5EhB/)**
+<img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> **[【Notanote原创曲】三相奇谈 (SKa2or Remix) - SKa2or](https://www.bilibili.com/video/BV1DnAqz5EhB/)**
 
 ---
 
@@ -85,29 +93,11 @@
 
 ### 2026/02/27
 
-![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) **[【Notanote原创曲】余烬行者 - KAIRCI feat. Kari脆球](https://www.bilibili.com/video/BV1PGAmzhEL6/)**
-
----
-
-### 2026/02/17
-
-Notanote x Orzmic Vol.2 联动确认
-
-在第二弹联动中，三首来自Orzmic的曲目将会登场：
-
-- [「Fiend Demme」](?p=song_list&l=zh-CN#Fiend_Demme)by Delaina as ["ZxNX"](?p=composer_list&l=zh-CN#ZxNX)
-- [「Star Fall in Evernight City」](?p=song_list&l=zh-CN#Star_Fall_in_Evernight_City)by [Reku Mochizuki](?p=composer_list&l=zh-CN#Reku_Mochizuki)
-- [「Sphalerite」](?p=song_list&l=zh-CN#Sphalerite)by [RYOQUCHA](?p=composer_list&l=zh-CN#RYOQUCHA) & [CS4W](?p=composer_list&l=zh-CN#CS4W)
-
-更多联动内容敬请期待后续官方消息~
-
-![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/news/7666ab7ec616a06274975fdaffbe24c3701972652.png)
-
-![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) **[原动态](https://www.bilibili.com/opus/1169877288211185664)**
+<img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> **[【Notanote原创曲】余烬行者 - KAIRCI feat. Kari脆球](https://www.bilibili.com/video/BV1PGAmzhEL6/)**
 
 ## 你知道吗
 
-- [「Aether Ingita!」](?p=songs/Aether_Ingita!&l=zh-CN)的SY难度是Notanote中物量最高的谱面，物量为2026；[「Only 1 Minute」](?p=songs/Only_1_Minute&l=zh-CN)的SY难度是Notanote中物量最低的谱面，物量为5。  
+- [「Aether Ingita!」](?p=songs/Aether_Ingita&l=zh-CN)的SY难度是Notanote中物量最高的常驻谱面，物量为2026（若算上非常驻谱面则为[「Candy Day」](?p=songs/Candy_Day&l=zh-CN)的SP难度）；[「Only 1 Minute」](?p=songs/Only_1_Minute&l=zh-CN)的SY难度是Notanote中物量最低的谱面，物量为5。  
 - [「ΩZСÜRIDΛD」](?p=songs/OZCURIDAD&l=zh-CN)的NT难度是Notanote中定数最高的谱面，定数为10.8。
 - [「ΩZСÜRIDΛD」](?p=songs/OZCURIDAD&l=zh-CN)的NT难度是Notanote第一个，也是目前唯一一个10+。
 - [「《Ж》」](?p=songs/OZCURIDAD&l=zh-CN)的SY难度是Notanote第一个10。
@@ -121,8 +111,8 @@ Notanote x Orzmic Vol.2 联动确认
 - [「ΩZСÜRIDΛD」](?p=songs/OZCURIDAD&l=zh-CN)与[「ИÖDΣ」](?p=songs/NODE&l=zh-CN)都是Notanote中第一个有解锁动画的曲目（不算解锁动画被删除的[「Eltaw」](?p=songs/Eltaw&l=zh-CN)）。
 - [「End Time」](?p=songs/End_Time&l=zh-CN)是Notanote中第一个拥有谱面异象的曲目。
 - [「能量过载-オーバロード-」](?p=songs/Nengliang_Guozai-Overload-&l=zh-CN)的曲名曾被误写为「能量过载-オーバロート-」（ド写成了ト），后于v1.6.0被修正。
-- [「Heavenly Sky (2024 Remake)」](?p=songs/Heavenly_Sky_(2024_Remake)&l=zh-CN)的曲名曾被误写为「Heavenly Sky(2024 Remake)」（左括号左侧漏加空格），后于v2.8.0被修正。
-- [「Aether Ingita!」](?p=songs/Aether_Ingita!&l=zh-CN)本来正确的曲名是「Aether Ignite!」，但是曲师提交初版稿件时打错字了，交终版的时候才发现，于是最后将错就错了。甚至在[更新预告动态](https://t.bilibili.com/1030287065050251271)中曲名又被错写成了「Aether Ignita!」的形式，现在动态已修改。
+- [「Heavenly Sky (2024 Remake)」](?p=songs/Heavenly_Sky_2024_Remake&l=zh-CN)的曲名曾被误写为「Heavenly Sky(2024 Remake)」（左括号左侧漏加空格），后于v2.8.0被修正。
+- [「Aether Ingita!」](?p=songs/Aether_Ingita&l=zh-CN)本来正确的曲名是「Aether Ignite!」，但是曲师提交初版稿件时打错字了，交终版的时候才发现，于是最后将错就错了。甚至在[更新预告动态](https://t.bilibili.com/1030287065050251271)中曲名又被错写成了「Aether Ignita!」的形式，现在动态已修改。
 - TL难度在v2.0以前叫做EX。
 - Notanote的前主策为[Amusing](https://space.bilibili.com/349685001)，后变为[qm](?p=charter_list&l=zh-CN#qm)。
 - Notanote的前主策[Amusing](https://space.bilibili.com/349685001)曾经开发过一个音游叫Compaz，后来被弃。

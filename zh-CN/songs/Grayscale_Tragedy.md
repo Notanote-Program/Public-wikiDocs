@@ -22,7 +22,7 @@
 | 信息 | SY | EZ |
 | :-: | :-: | :-: |
 | 定数 | 8.0 | 2.0 |
-| 颜色 | [映拟之缃](?p=chapters/Yellow&l=zh-CN) | [映拟之缃](?p=chapters/Yellow&l=zh-CN) |
+| 颜色 | [映拟之缃](?p=colors/Yellow&l=zh-CN) | [映拟之缃](?p=colors/Yellow&l=zh-CN) |
 | 物量 | 856 | 673 |
 | 谱师 | [grayScale tRagedY](?p=charter_list&l=zh-CN#SrY-ABYSS) | [grayScale tRagedY](?p=charter_list&l=zh-CN#SrY-ABYSS) |
 
@@ -59,10 +59,10 @@
 
 ## 音乐
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [polysha - Grayscale Tragedy【BerryMelody/DanceRail3】](https://www.bilibili.com/video/BV1sdFeeYERN/)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/youtube.ico) [[Berry Melody/Lanota] Grayscale Tragedy - polysha【音源】【高音質】](https://www.youtube.com/watch?v=DTSyKp43Zxg)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [polysha - Grayscale Tragedy【BerryMelody/DanceRail3】](https://www.bilibili.com/video/BV1sdFeeYERN/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/youtube.ico" class="vidimgicon" /> [[Berry Melody/Lanota] Grayscale Tragedy - polysha【音源】【高音質】](https://www.youtube.com/watch?v=DTSyKp43Zxg)
 
 ## 相关视频
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】Grayscale Tragedy [SY 8.0] 谱面演示](https://www.bilibili.com/video/BV1Q7KWzSEnV/)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】Grayscale Tragedy [EZ 2.0] 谱面演示](https://www.bilibili.com/video/BV1PvKWzuEaG/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Grayscale Tragedy [SY 8.0] 谱面演示](https://www.bilibili.com/video/BV1Q7KWzSEnV/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Grayscale Tragedy [EZ 2.0] 谱面演示](https://www.bilibili.com/video/BV1PvKWzuEaG/)

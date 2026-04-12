@@ -22,7 +22,7 @@
 | 信息 | SY | EZ |
 | :-: | :-: | :-: |
 | 定数 | 8.5 | 3.0 |
-| 颜色 | [框势之黑](?p=chapters/Black&l=zh-CN) | [框势之黑](?p=chapters/Black&l=zh-CN) |
+| 颜色 | [框势之黑](?p=colors/Black&l=zh-CN) | [框势之黑](?p=colors/Black&l=zh-CN) |
 | 物量 | 523 | 604 |
 | 谱师 | [二回：一曲浮槎云水间](?p=charter_list&l=zh-CN#XyX) | [二回](?p=charter_list&l=zh-CN#XyX)：[一曲浮槎云水间](?p=charter_list&l=zh-CN#AwlF) |
 
@@ -53,10 +53,10 @@
 
 ## 音乐
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico) [Mizu - Itz咸鱼/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2147011178)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote原创曲】Mizu - Itz咸鱼](https://www.bilibili.com/video/BV1AZ421n78Z/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Mizu - Itz咸鱼/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2147011178)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote原创曲】Mizu - Itz咸鱼](https://www.bilibili.com/video/BV1AZ421n78Z/)
 
 ## 相关视频
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】Mizu [SY 8.4] 谱面演示](https://www.bilibili.com/video/BV1bskXBNEEZ/)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】Mizu [EZ 3.0] 谱面演示](https://www.bilibili.com/video/BV1nrkXBWEEa/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Mizu [SY 8.4] 谱面演示](https://www.bilibili.com/video/BV1bskXBNEEZ/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Mizu [EZ 3.0] 谱面演示](https://www.bilibili.com/video/BV1nrkXBWEEa/)

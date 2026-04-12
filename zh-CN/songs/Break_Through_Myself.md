@@ -15,14 +15,14 @@
 | 时长 | 02:25 |
 | BPM | 200 |
 | 章节 | [单曲](?p=chapters/Singles&l=zh-CN) |
-| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Break_Through_Myself.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[喑暗](?p=illustrator_list&l=zh-CN#Yin-an) |
+| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Break_Through_Myself.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[喑暗](?p=illustrator_list&l=zh-CN#Yin-an)<details><summary>v2.4.0之前曲绘</summary><img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Break_Through_Myself_old.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[喑暗](?p=illustrator_list&l=zh-CN#Yin-an)</details> |
 
 ## 谱面信息
 
 | 信息 | SY | <span style="color: gray;">EZ（已删除）</span> |
 | :-: | :-: | :-: |
 | 定数 | 9.6 | <span style="color: gray;">5.4</span> |
-| 颜色 | [框势之黑](?p=chapters/Black&l=zh-CN) | |
+| 颜色 | [框势之黑](?p=colors/Black&l=zh-CN) | |
 | 物量 | 999 | <span style="color: gray;">747</span> |
 | 谱师 | [嘤箱](?p=charter_list&l=zh-CN#XyX) & [qm](?p=charter_list&l=zh-CN#qm) & [Arthur](?p=charter_list&l=zh-CN#Arthur) ft. [羽毛球awa](?p=charter_list&l=zh-CN#Greenball233) | <span style="color: gray;">[嘤箱](?p=charter_list&l=zh-CN#XyX) & [qm](?p=charter_list&l=zh-CN#qm) & [Arthur](?p=charter_list&l=zh-CN#Arthur) (Modified by [Rea-cy](?p=charter_list&l=zh-CN#Rea_cy))</span> |
 
@@ -131,11 +131,11 @@ Make a stand against<br />
 
 ## 音乐
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico) [Break Through Myself (feat. Risa Yuzuki) [Short Version] - DJ Myosuke/Laur/Risa Yuzuki - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1847176520)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/youtube.ico) [DJ Myosuke & Laur - Break Through Myself feat. Risa Yuzuki (Official Music Video)](https://www.youtube.com/watch?v=9D8NJxSMHrk)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [DJ Myosuke & Laur - Break Through Myself feat. Risa Yuzuki](https://www.bilibili.com/video/BV1xK4y1R76F/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Break Through Myself (feat. Risa Yuzuki) [Short Version] - DJ Myosuke/Laur/Risa Yuzuki - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1847176520)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/youtube.ico" class="vidimgicon" /> [DJ Myosuke & Laur - Break Through Myself feat. Risa Yuzuki (Official Music Video)](https://www.youtube.com/watch?v=9D8NJxSMHrk)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [DJ Myosuke & Laur - Break Through Myself feat. Risa Yuzuki](https://www.bilibili.com/video/BV1xK4y1R76F/)
 
 ## 相关视频
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】Break Through Myself [SY 9.6] 谱面演示](https://www.bilibili.com/video/BV117KTeKE9H/)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】Break Through Myself [EZ 5.4] 谱面演示](https://www.bilibili.com/video/BV117KTeKERM/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Break Through Myself [SY 9.6] 谱面演示](https://www.bilibili.com/video/BV117KTeKE9H/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Break Through Myself [EZ 5.4] 谱面演示](https://www.bilibili.com/video/BV117KTeKERM/)

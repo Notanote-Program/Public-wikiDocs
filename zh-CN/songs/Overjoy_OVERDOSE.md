@@ -1,5 +1,16 @@
 # Overjoy ★ OVERDOSE!!
 
+<style>
+    .spoiler {
+        background-color: var(--vp-c-text-1);
+        transition: background-color 0.3s;
+    }
+
+    .spoiler:hover {
+        background-color: unset;
+    }
+</style>
+
 <div class="NoticeBoard">
   <p>四国语言VTuber</p>
 </div>
@@ -15,15 +26,15 @@
 | 时长 | 02:29 |
 | BPM | 143 |
 | 章节 | [单曲](?p=chapters/Single&l=zh-CN) |
-| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Overjoy_OVERDOSE!!.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[Shalink](?p=illustrator_list&l=zh-CN#Shalink) |
+| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Overjoy_OVERDOSE.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[Shalink](?p=illustrator_list&l=zh-CN#Shalink) |
 
 ## 谱面信息
 
 | 信息 | SY |
 | :-: | :-: |
 | 定数 | 9.1 |
-| 颜色 | [空域之碧](?p=chapters/Green&l=zh-CN) |
-| 物量 | 897 |
+| 颜色 | [空域之碧](?p=colors/Green&l=zh-CN) |
+| 物量 | 896 |
 | 谱师 | [小嘤箱](?p=charter_list&l=zh-CN#XyX) |
 
 ## 解锁方法
@@ -41,7 +52,7 @@
 
 - 本曲是BOF:NT个人战第11名。
 - 本曲的歌词混合了英语、法语、日语、韩语。
-- 本曲的[官方谱面预览](https://www.bilibili.com/video/BV1hLqQB9ECe/)结尾藏了人机验证动画，暗示之后公布的[三相奇谈联动](?p=chapters/Threefold_Recital&l=zh-CN)，人机验证对应的是《三相奇谈》第三章中的“吾非机关人”。
+- 本曲的[官方谱面预览](https://www.bilibili.com/video/BV1hLqQB9ECe/)结尾藏了人机验证动画，暗示之后公布的[三相奇谈联动](?p=chapters/Threefold_Recital&l=zh-CN)，人机验证对应的是《三相奇谈》第三章中的<span class="spoiler">“吾非机关人”</span>。
 
 ## 攻略
 
@@ -170,10 +181,10 @@ So come back again, okay?
 
 ## 音乐
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico) [Overjoy ★ OVERDOSE!! - BilliumMoto/黒皇帝/Sobrem/Vally.exe - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2106610918)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/youtube.ico) [【BOF:NT】Overjoy ★ OVERDOSE!!](https://www.youtube.com/watch?v=tbVnVaIE5ys)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【BOF:NT】Luna Fozer(BilliumMoto & 黒皇帝 & Sobrem) - Overjoy ★ OVERDOSE!!](https://www.bilibili.com/video/BV1W94y1j7Q2/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Overjoy ★ OVERDOSE!! - BilliumMoto/黒皇帝/Sobrem/Vally.exe - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2106610918)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/youtube.ico" class="vidimgicon" /> [【BOF:NT】Overjoy ★ OVERDOSE!!](https://www.youtube.com/watch?v=tbVnVaIE5ys)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【BOF:NT】Luna Fozer(BilliumMoto & 黒皇帝 & Sobrem) - Overjoy ★ OVERDOSE!!](https://www.bilibili.com/video/BV1W94y1j7Q2/)
 
 ## 相关视频
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】Overjoy ★ OVERDOSE!! [SY 9.1] 谱面演示](https://www.bilibili.com/video/BV1hLqQB9ECe/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Overjoy ★ OVERDOSE!! [SY 9.1] 谱面演示](https://www.bilibili.com/video/BV1hLqQB9ECe/)

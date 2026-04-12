@@ -22,7 +22,7 @@
 | 信息 | SY | EZ |
 | :-: | :-: | :-: |
 | 定数 | 8.3 | 1.0 |
-| 颜色 | [赋染之蓝](?p=chapters/Blue&l=zh-CN) | [赋染之蓝](?p=chapters/Blue&l=zh-CN) |
+| 颜色 | [赋染之蓝](?p=colors/Blue&l=zh-CN) | [赋染之蓝](?p=colors/Blue&l=zh-CN) |
 | 物量 | 665 | 311 |
 | 谱师 | [小嘤箱](?p=charter_list&l=zh-CN#XyX) | [小嘤箱](?p=charter_list&l=zh-CN#XyX) ft. [大松Dason](?p=charter_list&l=zh-CN#Dason) |
 
@@ -53,9 +53,9 @@
 
 ## 音乐
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico) [星祀る狐 - Andreko - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2690081539)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico" class="vidimgicon" /> [星祀る狐 - Andreko - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2690081539)
 
 ## 相关视频
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】星祀る狐 [SY 8.3] 谱面演示](https://www.bilibili.com/video/BV1tmZtBTEyX/)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】星祀る狐 [EZ 1.0] 谱面演示](https://www.bilibili.com/video/BV1y5ZtBfEuE/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】星祀る狐 [SY 8.3] 谱面演示](https://www.bilibili.com/video/BV1tmZtBTEyX/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】星祀る狐 [EZ 1.0] 谱面演示](https://www.bilibili.com/video/BV1y5ZtBfEuE/)

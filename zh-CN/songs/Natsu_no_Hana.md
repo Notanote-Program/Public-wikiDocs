@@ -22,7 +22,7 @@
 | 信息 | SY | EZ |
 | :-: | :-: | :-: |
 | 定数 | 5.4 | 1.5 |
-| 颜色 | [承演之白](?p=chapters/White&l=zh-CN) | [承演之白](?p=chapters/White&l=zh-CN) |
+| 颜色 | [承演之白](?p=colors/White&l=zh-CN) | [承演之白](?p=colors/White&l=zh-CN) |
 | 物量 | 437 | 313 |
 | 谱师 | [舞仙翼](?p=charter_list&l=zh-CN#wxy) | [舞仙翼](?p=charter_list&l=zh-CN#wxy) vs. [Rea_cy](?p=charter_list&l=zh-CN#Rea_cy) |
 
@@ -59,7 +59,7 @@
 
 ## 音乐
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico) [夏の花 - Sakanapaste/Hilarity Leap Records - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2068402486)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico" class="vidimgicon" /> [夏の花 - Sakanapaste/Hilarity Leap Records - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2068402486)
 
 ## 相关视频
 

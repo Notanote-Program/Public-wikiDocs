@@ -22,7 +22,7 @@
 | 信息 | SY | EZ | SP |
 | :-: | :-: | :-: | :-: |
 | 定数 | 6.7 | 2.5 | ? |
-| 颜色 | [框势之黑](?p=chapters/Black&l=zh-CN) | [框势之黑](?p=chapters/Black&l=zh-CN) | [框势之黑](?p=chapters/Black&l=zh-CN) |
+| 颜色 | [框势之黑](?p=colors/Black&l=zh-CN) | [框势之黑](?p=colors/Black&l=zh-CN) | [框势之黑](?p=colors/Black&l=zh-CN) |
 | 物量 | 524 | 497 | 932 |
 | 谱师<sup><a id="note-1" href="#ref-1">[1]</a></sup> | e | π | 1 |
 
@@ -45,7 +45,7 @@ SP难度需完成[「主线二·无尽回廊」](?p=chapters/Main_Story_II&l=zh-
 
 ## 游戏相关
 
-- 本曲收录于专辑[星律回溯 Star Rhythm Collection Vol.1](https://www.bilibili.com/video/BV1dEGvzgEgT/)与[Celestial Evasion “類星逃逸”](https://music.163.com/&l=zh-CN#/album?id=274543457)中，同属于本专辑的[「Crystal Ember」](?p=songs/Crystal_Ember)与[「meteor();」](?p=songs/meteor();&l=zh-CN)也是Notanote原创曲。
+- 本曲收录于专辑[星律回溯 Star Rhythm Collection Vol.1](https://www.bilibili.com/video/BV1dEGvzgEgT/)与[Celestial Evasion “類星逃逸”](https://music.163.com/&l=zh-CN#/album?id=274543457)中，同属于本专辑的[「Crystal Ember」](?p=songs/Crystal_Ember)与[「meteor();」](?p=songs/meteor&l=zh-CN)也是Notanote原创曲。
 - 本曲曲名指数学中的虚数单位i。
 - 本曲的SP难度原定于v2.6.0上线，但是不小心于v2.5.1提前上线。
 
@@ -61,14 +61,14 @@ SP难度需完成[「主线二·无尽回廊」](?p=chapters/Main_Story_II&l=zh-
 
 ## 音乐
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico) [i - Ωμεγα - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2717010221)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote原创曲】i - Ωμεγα](https://www.bilibili.com/video/BV1tuhmz6ETF/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico" class="vidimgicon" /> [i - Ωμεγα - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2717010221)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote原创曲】i - Ωμεγα](https://www.bilibili.com/video/BV1tuhmz6ETF/)
 
 ## 相关视频
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】i [SY 6.7] 谱面演示](https://www.bilibili.com/video/BV1ANeqz5EGs/)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】i [EZ 2.5] 谱面演示](https://www.bilibili.com/video/BV17ieizPEeW/)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】i [SP ?] 谱面演示](https://www.bilibili.com/video/BV16gQUBhENB/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】i [SY 6.7] 谱面演示](https://www.bilibili.com/video/BV1ANeqz5EGs/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】i [EZ 2.5] 谱面演示](https://www.bilibili.com/video/BV17ieizPEeW/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】i [SP ?] 谱面演示](https://www.bilibili.com/video/BV16gQUBhENB/)
 
 ## 注释
 

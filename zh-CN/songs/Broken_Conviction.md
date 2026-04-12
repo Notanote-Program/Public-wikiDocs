@@ -22,7 +22,7 @@
 | 信息 | SY | EZ |
 | :-: | :-: | :-: |
 | 定数 | 9.5 | 5.1 |
-| 颜色 | [框势之黑](?p=chapters/Black&l=zh-CN) | [框势之黑](?p=chapters/Black&l=zh-CN) |
+| 颜色 | [框势之黑](?p=colors/Black&l=zh-CN) | [框势之黑](?p=colors/Black&l=zh-CN) |
 | 物量 | 1103 | 871 |
 | 谱师 | [活性氮](?p=charter_list&l=zh-CN#HXDan) | [活性氮](?p=charter_list&l=zh-CN#HXDan) |
 
@@ -60,14 +60,14 @@
 
 ## 音乐
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico) [Broken Conviction - Cansol - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2662029189)<sup><a id="note-1.1" href="#ref-1">[1]</a></sup>
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/youtube.ico) [【Milthm】 Cansol - Broken Conviction](https://www.youtube.com/watch?v=wl2lrAUX-Hk)<sup><a id="note-1.2" href="#ref-1">[1]</a></sup>
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Milthm】Cansol - Broken Conviction](https://www.bilibili.com/video/BV1q16DY1E2B/)<sup><a id="note-1.3" href="#ref-1">[1]</a></sup>
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Broken Conviction - Cansol - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2662029189)<sup><a id="note-1.1" href="#ref-1">[1]</a></sup>
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/youtube.ico" class="vidimgicon" /> [【Milthm】 Cansol - Broken Conviction](https://www.youtube.com/watch?v=wl2lrAUX-Hk)<sup><a id="note-1.2" href="#ref-1">[1]</a></sup>
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Milthm】Cansol - Broken Conviction](https://www.bilibili.com/video/BV1q16DY1E2B/)<sup><a id="note-1.3" href="#ref-1">[1]</a></sup>
 
 ## 相关视频
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】Broken Conviction [SY 9.5] 谱面演示](https://www.bilibili.com/video/BV1QNZ9YHEus/)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico)  [【Notanote谱面保管室】Broken Conviction [EZ 5.1] 谱面演示](https://www.youtube.com/watch?v=wl2lrAUX-Hk)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Broken Conviction [SY 9.5] 谱面演示](https://www.bilibili.com/video/BV1QNZ9YHEus/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" />  [【Notanote谱面保管室】Broken Conviction [EZ 5.1] 谱面演示](https://www.youtube.com/watch?v=wl2lrAUX-Hk)
 
 ## 注释
 

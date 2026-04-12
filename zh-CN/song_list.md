@@ -6,8 +6,8 @@
 | :-: | :-: | :-: | :-: | :-: |
 | [追憶](?p=songs/Tsuioku&l=zh-CN) | [PIKASONIC](?p=composer_list&l=zh-CN#PIKASONIC) & [なこたんまる](?p=composer_list&l=zh-CN#Nakontanmaru) | [于白](?p=illustrator_list&l=zh-CN#Yubai) | 第一次游戏性测试 | SY 4.5 |
 | ["SHE"](?p=songs/SHE&l=zh-CN) | [ΓИ7AL](?p=composer_list&l=zh-CN#FINAL) | [故离](?p=illustrator_list&l=zh-CN#Guli) | 第二次游戏性测试 | SY 2.5<br />TL 3.5 |
-| [Cursed Land (Acoustic)](?p=songs/Cursed_Land_(Acoustic&l=zh-CN)) | [SJQ音福](?p=composer_list&l=zh-CN#SJQ_Yinfu) | [ikun](?p=illustrator_list&l=zh-CN#Ikun) | 第一次游戏性测试 | SY 4.0 |
-| [Lockdown (Tatsunoshin VIP)](?p=songs/Lockdown_(Tatsunoshin_VIP)&l=zh-CN) | [Tatsunoshin](?p=composer_list&l=zh-CN#Tatsunoshin) & [PIKASONIC](?p=composer_list&l=zh-CN#PIKASONIC) | [故离](?p=illustrator_list&l=zh-CN#Guli) | 第一次游戏性测试 | SY 6.9<br />EZ 3.5 |
+| [Cursed Land (Acoustic)](?p=songs/Cursed_Land_Acoustic&l=zh-CN) | [SJQ音福](?p=composer_list&l=zh-CN#SJQ_Yinfu) | [ikun](?p=illustrator_list&l=zh-CN#Ikun) | 第一次游戏性测试 | SY 4.0 |
+| [Lockdown (Tatsunoshin VIP)](?p=songs/Lockdown_Tatsunoshin_VIP&l=zh-CN) | [Tatsunoshin](?p=composer_list&l=zh-CN#Tatsunoshin) & [PIKASONIC](?p=composer_list&l=zh-CN#PIKASONIC) | [故离](?p=illustrator_list&l=zh-CN#Guli) | 第一次游戏性测试 | SY 6.9<br />EZ 3.5 |
 | [Eltaw](?p=songs/Eltaw&l=zh-CN) | [Fl00t](?p=composer_list&l=zh-CN#Fl00t) | [Fl00t](?p=composer_list&l=zh-CN#Fl00t) | 第一次游戏性测试 | SY 8.3<br />EZ 4.5<br />TL 4.0 |
 
 ## [支线一·花火之夏](?p=chapters/Side_Story_I)
@@ -15,7 +15,7 @@
 | 曲名 | 曲师 | 画师 | 上线版本 | 定数 |
 | :-: | :-: | :-: | :-: | :-: |
 | [Summer Dream](?p=songs/Summer_Dream&l=zh-CN) | [Kirara Magic](?p=composer_list&l=zh-CN#Kirara_Magic) | [天野岁](?p=illustrator_list&l=zh-CN#Tianyesui) | 第二次游戏性测试 | SY 3.0 |
-| [Rainbow Flavor!](?p=songs/Rainbow_Flavor!&l=zh-CN) | [SuggestedCopy7](?p=composer_list&l=zh-CN#SuggestedCopy7) & [Yashu](?p=composer_list&l=zh-CN#Yashu) | [纸箱林Exut](?p=illustrator_list&l=zh-CN#Exut) | 第二次游戏性测试 | SY 6.3<br />EZ 1.5 |
+| [Rainbow Flavor!](?p=songs/Rainbow_Flavor&l=zh-CN) | [SuggestedCopy7](?p=composer_list&l=zh-CN#SuggestedCopy7) & [Yashu](?p=composer_list&l=zh-CN#Yashu) | [纸箱林Exut](?p=illustrator_list&l=zh-CN#Exut) | 第二次游戏性测试 | SY 6.3<br />EZ 1.5 |
 | [Airy Dream](?p=songs/Airy_Dream&l=zh-CN) | [Bob Hou](?p=composer_list&l=zh-CN#Bob_Hou) & [DEP](?p=composer_list&l=zh-CN#DEP) | [百利](?p=illustrator_list&l=zh-CN#Baili) | 第二次游戏性测试 | SY 7.3<br />EZ 1.0 |
 | [夏の花](?p=songs/Natsu_no_Hana&l=zh-CN) | [Sakanapaste](?p=composer_list&l=zh-CN#Sakanapaste) | [卡莫伦斯](?p=illustrator_list&l=zh-CN#CARMOLENS)　©跃动记录 | 第二次游戏性测试 | SY 5.4<br />EZ 1.5 |
 | [梦的彼岸](?p=songs/Meng_de_Bi-an&l=zh-CN) | [Caviare](?p=composer_list&l=zh-CN#Caviare) | [半界](?p=illustrator_list&l=zh-CN#Semiryoiki) vs. [喑暗](?p=illustrator_list&l=zh-CN#Yin-an) | 第二次游戏性测试 | SY 3.0<br />EZ 1.0 |
@@ -59,7 +59,7 @@
 | :-: | :-: | :-: | :-: | :-: |
 | [烁雨](?p=songs/Sparkrain&l=zh-CN) | [ILusMin](?p=composer_list&l=zh-CN#ILusMin) | [nanakaria](?p=illustrator_list&l=zh-CN#nanakaria) | v1.3.0 | SY 5.6 |
 | [cybernetic blazar](?p=songs/cybernetic_blazar&l=zh-CN) | [ああああ](?p=composer_list&l=zh-CN#aaaa) | [天野岁](?p=illustrator_list&l=zh-CN#Tianyesui) | v1.3.0 | SY 8.8 |
-| [Innocent white](?p=songs/Innocent_white&l=zh-CN) | [影虎。](?p=composer_list&l=zh-CN#Kagetora.) | [Ether-0](?p=illustrator_list&l=zh-CN#Ether-0) | v1.3.0 | SY 9.7<br />EZ 2.5<br />EZ+ 5.2 |
+| [Innocent white](?p=songs/Innocent_white&l=zh-CN) | [影虎。](?p=composer_list&l=zh-CN#Kagetora) | [Ether-0](?p=illustrator_list&l=zh-CN#Ether-0) | v1.3.0 | SY 9.7<br />EZ 2.5<br />EZ+ 5.2 |
 | [Vestige of Dreams](?p=songs/Vestige_of_Dreams&l=zh-CN) | [DRIVE.](?p=composer_list&l=zh-CN#DRIVE.) | [水沐汐](?p=illustrator_list&l=zh-CN#Shuimuxi) | v2.0.0 | SY 7.6 |
 | [Elsorhg](?p=songs/Elsorhg&l=zh-CN) | [Fl00t](?p=composer_list&l=zh-CN#Fl00t) | [Abyssitself](?p=illustrator_list&l=zh-CN#Abyssitself) | v2.0.0 | SY 8.5 |
 | [Meltovt Necrosys](?p=songs/Meltovt_Necrosys&l=zh-CN) | [Halv](?p=composer_list&l=zh-CN#Halv) | [nyniazero](?p=illustrator_list&l=zh-CN#nyniazero) vs. [yx](?p=illustrator_list&l=zh-CN#yx) | v2.0.0 | SY 10.2<br />EZ 5.3 |
@@ -79,9 +79,9 @@
 | [Apocalyptic](?p=songs/Apocalyptic&l=zh-CN) | [Z ClaxX](?p=composer_list&l=zh-CN#Z_ClaxX) & [SumaiLight](?p=composer_list&l=zh-CN#SumaiLight) | [Soul Notes](?p=illustrator_list&l=zh-CN#Soul_Notes) | v1.0.0 | SY 5.1 |
 | [璃](?p=songs/Li&l=zh-CN) | [CNHKSS](?p=composer_list&l=zh-CN#CNHKSS) | [Soul Notes](?p=illustrator_list&l=zh-CN#Soul_Notes) | v1.0.0 | SY 7.4<br />EZ 2.0 |
 | [Last Season](?p=songs/Vestige_of_Dreams&l=zh-CN) | [lunari.io](?p=composer_list&l=zh-CN#lunari.io) | [青梅煮酒](?p=illustrator_list&l=zh-CN#Qingmei_Zhujiu) | v2.0.0 | SY 5.8 |
-| [Aether Ingita!](?p=songs/Aether_Ingita!&l=zh-CN) | [ZAWA](?p=composer_list&l=zh-CN#ZAWA) | // [半界](?p=illustrator_list&l=zh-CN#Semiryoiki) | v2.0.0 | SY 10.5<br />EZ 5.5 |
-| [Meltovt Necrosys (UraniumW Remix)](?p=songs/Meltovt_Necrosys_(UraniumW_Remix&l=zh-CN)) | [UraniumW](?p=composer_list&l=zh-CN#UraniumW) feat. [ZAWA](?p=composer_list&l=zh-CN#ZAWA) | [nyniazero](?p=illustrator_list&l=zh-CN#nyniazero) vs. [yx](?p=illustrator_list&l=zh-CN#yx) | v2.0.0 | SY 8.3<br />TL 4.5 |
-| [Meltovt Necrosys (Salty Salt Remix)](?p=songs/Meltovt_Necrosys_(Salty_Salt_Remix&l=zh-CN)) | [Salty Salt](?p=composer_list&l=zh-CN#Salty_Salt) | [nyniazero](?p=illustrator_list&l=zh-CN#nyniazero) vs. [yx](?p=illustrator_list&l=zh-CN#yx) | v2.0.0 | SY 9.4<br />EZ 4.0 |
+| [Aether Ingita!](?p=songs/Aether_Ingita&l=zh-CN) | [ZAWA](?p=composer_list&l=zh-CN#ZAWA) | // [半界](?p=illustrator_list&l=zh-CN#Semiryoiki) | v2.0.0 | SY 10.5<br />EZ 5.5 |
+| [Meltovt Necrosys (UraniumW Remix)](?p=songs/Meltovt_Necrosys_UraniumW_Remix&l=zh-CN) | [UraniumW](?p=composer_list&l=zh-CN#UraniumW) feat. [ZAWA](?p=composer_list&l=zh-CN#ZAWA) | [nyniazero](?p=illustrator_list&l=zh-CN#nyniazero) vs. [yx](?p=illustrator_list&l=zh-CN#yx) | v2.0.0 | SY 8.3<br />TL 4.5 |
+| [Meltovt Necrosys (Salty Salt Remix)](?p=songs/Meltovt_Necrosys_Salty_Salt_Remix&l=zh-CN) | [Salty Salt](?p=composer_list&l=zh-CN#Salty_Salt) | [nyniazero](?p=illustrator_list&l=zh-CN#nyniazero) vs. [yx](?p=illustrator_list&l=zh-CN#yx) | v2.0.0 | SY 9.4<br />EZ 4.0 |
 | [Get Back](?p=songs/Get_Back&l=zh-CN) | [CAP3](?p=composer_list&l=zh-CN#CAP3) | [Soul Notes](?p=chapters/Soul_Notes&l=zh-CN) | v2.6.0 | SY 8.2<br />EZ 2.0 |
 
 ## [音波狂潮](?p=chapters/LiveMania)
@@ -91,7 +91,7 @@
 | [爱上想象的你](?p=songs/Aishang_Xiangxiang_de_Ni&l=zh-CN) | [KOTONOHOUSE](?p=composer_list&l=zh-CN#KOTONOHOUSE) | [生物碱](?p=illustrator_list&l=zh-CN#Shengwujian) / [黑茶](?p=illustrator_list&l=zh-CN#Heicha) | v1.5.0 | SY 6.6<br />EZ 4.0 |
 | [今天不是明天](?p=songs/Jintian_Bushi_Mingtian&l=zh-CN) | [PIKASONIC](?p=composer_list&l=zh-CN#PIKASONIC) feat. [兰音Reine](?p=composer_list&l=zh-CN#Reine) | [KiTA](?p=illustrator_list&l=zh-CN#KiTA) | v1.5.0 | SY 7.0<br />EZ 4.0 |
 | [甜涩之梦](?p=songs/Tianse_zhi_Meng&l=zh-CN) | [YUC'e](?p=composer_list&l=zh-CN#YUC-e) feat. [早稻叽](?p=composer_list&l=zh-CN#Zaodaoji) | [岚](?p=illustrator_list&l=zh-CN#Lan) | v1.5.0 | SY 5.3 |
-| [恶修女——永火熔铸](?p=songs/Exiunyu_Yonghuo_Rongzhu&l=zh-CN) | [负离子SYNTHETIC](?p=composer_list&l=zh-CN#Fulizi_SYNTHETIC) feat. [黑泽诺亚NOIR](?p=composer_list&l=zh-CN#Noir) | [黑茶](?p=illustrator_list&l=zh-CN#Heicha) | v1.5.0 | SY 6.1<br />TL 7.5 |
+| [恶修女——永火熔铸](?p=songs/Exiunyu_Yonghuo_Rongzhu&l=zh-CN) | [负离子SYNTHETIC](?p=composer_list&l=zh-CN#Fulizi_SYNTHETIC) | [黑茶](?p=illustrator_list&l=zh-CN#Heicha) | v1.5.0 | SY 6.1<br />TL 7.5 |
 | [IGNITE](?p=songs/IGNITE&l=zh-CN) | [USAO](?p=composer_list&l=zh-CN#USAO) vs. [Massive New Krew](?p=composer_list&l=zh-CN#Massive_New_Krew) | [LAM](?p=illustrator_list&l=zh-CN#LAM) | v2.6.0 | SY 9.3<br />EZ 4.5 |
 
 ## [UXN Records](?p=chapters/UXN_Records)
@@ -100,7 +100,7 @@
 | :-: | :-: | :-: | :-: | :-: |
 | [Feeling Lonely](?p=songs/Feeling_Lonely&l=zh-CN) | [Tony Greywolf](?p=composer_list&l=zh-CN#Tony_Greywolf) | [瓶裝可樂_BottledSodaa](?p=illustrator_list&l=zh-CN#BottledSodaa) | 第二次游戏性测试 | SY 5.2<br />TL 2.0 |
 | [Velocity](?p=songs/Velocity&l=zh-CN) | [Netbuse](?p=composer_list&l=zh-CN#Netbuse) | [CroxsBOss](?p=illustrator_list&l=zh-CN#CroxsBOss) | 第二次游戏性测试 | SY 6.0<br />EZ 2.0 |
-| [What U Wanna Be (Radio Edit)](?p=songs/What_U_Wanna_Be_(Radio_Edit&l=zh-CN)) | [Kisshi](?p=composer_list&l=zh-CN#Kisshi) & [Fox Rays](?p=composer_list&l=zh-CN#Fox_Rays) | [故离](?p=illustrator_list&l=zh-CN#Guli)&[五月蝉](?p=illustrator_list&l=zh-CN#Wuyuechan) | 第二次游戏性测试 | SY 6.9 |
+| [What U Wanna Be (Radio Edit)](?p=songs/What_U_Wanna_Be_Radio_Edit&l=zh-CN) | [Kisshi](?p=composer_list&l=zh-CN#Kisshi) & [Fox Rays](?p=composer_list&l=zh-CN#Fox_Rays) | [故离](?p=illustrator_list&l=zh-CN#Guli)&[五月蝉](?p=illustrator_list&l=zh-CN#Wuyuechan) | 第二次游戏性测试 | SY 6.9 |
 | [Enough](?p=songs/Enough&l=zh-CN) | [LOAKJ](?p=composer_list&l=zh-CN#LOAKJ) & [N1Tro](?p=composer_list&l=zh-CN#N1Tro) | [故离](?p=illustrator_list&l=zh-CN#Guli) & [喑暗](?p=illustrator_list&l=zh-CN#Yin-an) | 第二次游戏性测试 | SY 6.6 |
 | [The Fire](?p=songs/The_Fire&l=zh-CN) | [Soundstorm](?p=composer_list&l=zh-CN#Soundstorm) | [故离](?p=illustrator_list&l=zh-CN#Guli) | v1.8.0 | SP ? |
 
@@ -113,7 +113,7 @@
 | [Altersist](?p=songs/Altersist&l=zh-CN) | [void](?p=composer_list&l=zh-CN#void) | [纸箱林Exut](?p=illustrator_list&l=zh-CN#Exut) | 第一次游戏性测试 | SY 7.6<br />EZ 3.0 |
 | [Only 1 Minute](?p=songs/Only_1_Minute&l=zh-CN) | [816ThreeNumbers](?p=composer_list&l=zh-CN#816ThreeNumbers) | [故离](?p=illustrator_list&l=zh-CN#Guli) | 第二次游戏性测试 | SY 1.0<br />TL 3.0 |
 | [End Me](?p=songs/End_Me&l=zh-CN) | [ZxNX as Delaina](?p=composer_list&l=zh-CN#ZxNX) | [瓶装可乐](?p=illustrator_list&l=zh-CN#BottledSodaa) | 第二次游戏性测试 | SY 5.7<br />EZ 2.5 |
-| [Heavenly Sky (2024 Remake)](?p=songs/Heavenly_Sky_(2024_Remake&l=zh-CN)) | [Jehezukiel](?p=composer_list&l=zh-CN#Jehezukiel) | [半界](?p=illustrator_list&l=zh-CN#Semiryoiki) | 第二次游戏性测试 | SY 7.0<br />EZ 3.5 |
+| [Heavenly Sky (2024 Remake)](?p=songs/Heavenly_Sky_2024_Remake&l=zh-CN) | [Jehezukiel](?p=composer_list&l=zh-CN#Jehezukiel) | [半界](?p=illustrator_list&l=zh-CN#Semiryoiki) | 第二次游戏性测试 | SY 7.0<br />EZ 3.5 |
 | [Kaze](?p=songs/Kaze&l=zh-CN) | [Itz咸鱼](?p=composer_list&l=zh-CN#ItzXianyu) | [CroxsBOss](?p=illustrator_list&l=zh-CN#CroxsBOss) | 第二次游戏性测试 | SY 6.2 |
 | [YUMEND](?p=songs/YUMEND&l=zh-CN) | [MYUKKE.](?p=composer_list&l=zh-CN#MYUKKE) | [故离](?p=illustrator_list&l=zh-CN#Guli) & [于白](?p=illustrator_list&l=zh-CN#Yubai) | 第二次游戏性测试 | SY 8.2<br />EZ 3.0 |
 | [Chronomia](?p=songs/Chronomia&l=zh-CN) | [Lime](?p=composer_list&l=zh-CN#Lime) | [喑暗](?p=illustrator_list&l=zh-CN#Yin-an) | 第二次游戏性测试 | SY 9.0 |
@@ -128,7 +128,7 @@
 | [Abatement](?p=songs/Abatement&l=zh-CN) | [SNKS](?p=composer_list&l=zh-CN#SNKS) & [mimitsu](?p=composer_list&l=zh-CN#mimitsu) | [cyana'](?p=illustrator_list&l=zh-CN#cyana) | v1.4.0 | SY 8.1<br />EZ 2.5 |
 | [self-dissociation](?p=songs/self-dissociation&l=zh-CN) | [Lidelle](?p=composer_list&l=zh-CN#Kurokotei) × [Sobrem](?p=composer_list&l=zh-CN#Sobrem) × [Sennzai](?p=composer_list&l=zh-CN#Sennzai) | [半界](?p=illustrator_list&l=zh-CN#Semiryoiki) | v1.6.0 | SY 9.1<br />EZ 4.5 |
 | [Nakunaru](?p=songs/Nakunaru&l=zh-CN) | [P3T](?p=composer_list&l=zh-CN#P3T) | [Keiby](?p=illustrator_list&l=zh-CN#Keiby) | v1.7.0 | SY 8.0 |
-| [slic.hertz](?p=songs/slic.hertz&l=zh-CN) | [Sobrem](?p=composer_list&l=zh-CN#Sobrem) | [harkiadel](?p=illustrator_list&l=zh-CN#harkiadel) | v1.8.0 | SY 8.6 |
+| [slic.hertz](?p=songs/slic-hertz&l=zh-CN) | [Sobrem](?p=composer_list&l=zh-CN#Sobrem) | [harkiadel](?p=illustrator_list&l=zh-CN#harkiadel) | v1.8.0 | SY 8.6 |
 | [弦色幻想诗](?p=songs/Xianse_Huanxiangshi&l=zh-CN) | [格里特](?p=composer_list&l=zh-CN#GR1T) w/ [AiSS](?p=composer_list&l=zh-CN#AiSS) ft.Mai | [cyana'](?p=illustrator_list&l=zh-CN#cyana) | v1.10.0 | SY 7.5<br />EZ 2.0 |
 | [ENERGY SYNERGY MATRIX](?p=songs/ENERGY_SYNERGY_MATRIX&l=zh-CN) | [Tanchiky](?p=composer_list&l=zh-CN#Tanchiky) | [半界 vs 双开门三文鱼](?p=illustrator_list&l=zh-CN#Semiryoiki) | v2.0.0 | SY 6.9<br />EZ 2.5 |
 | [愛を探して](?p=songs/Searching_for_your_love&l=zh-CN) | [きくお](?p=composer_list&l=zh-CN#Kikuo) | [瓶装可乐](?p=illustrator_list&l=zh-CN#BottledSodaa) | v2.1.0 | SY 6.9 |
@@ -138,7 +138,7 @@
 | [Sense](?p=songs/Sense&l=zh-CN) | [BilliumMoto](?p=composer_list&l=zh-CN#BilliumMoto) × [Silentroom](?p=composer_list&l=zh-CN#Silentroom) | [Mahinii](?p=illustrator_list&l=zh-CN#Mahinii) | v2.4.0 | SY 8.1 |
 | [DayBreak](?p=songs/DayBreak&l=zh-CN) | [shadow_bling](?p=composer_list&l=zh-CN#shadow_bling) & [ТЕЕМСИКЛ](?p=composer_list&l=zh-CN#ТЕЕМSYKL) & [SKa2or](?p=composer_list&l=zh-CN#SKa2or) feat. 左乙ZOEE | [Chen-ing尘音文化](?p=illustrator_list&l=zh-CN#Chen-ing) | v2.6.0 | SY 7.9<br />EZ 5.1 |
 | [幽体離脱](?p=songs/Yuutai_Ridatsu&l=zh-CN) | [きくお](?p=composer_list&l=zh-CN#Kikuo) feat. 初音ミク | [瓶装可乐](?p=illustrator_list&l=zh-CN#BottledSodaa) | v2.6.0 | SY 5.6 |
-| [Reimei](?p=songs/Reimei&l=zh-CN) | [影虎。](?p=composer_list&l=zh-CN#Kagetora.) | [影虎。](?p=composer_list&l=zh-CN#Kagetora.) | v2.6.0 | SY 7.7<br />EZ 3.0 |
+| [Reimei](?p=songs/Reimei&l=zh-CN) | [影虎。](?p=composer_list&l=zh-CN#Kagetora) | [影虎。](?p=composer_list&l=zh-CN#Kagetora) | v2.6.0 | SY 7.7<br />EZ 3.0 |
 | [the world of scarlet](?p=songs/the_world_of_scarlet&l=zh-CN) | [OfficialAz3](?p=composer_list&l=zh-CN#OfficialAz3) | [haohao](?p=illustrator_list&l=zh-CN#Ember) | v2.6.0 | SY 10.0<br />EZ 4.5 |
 | [F℟IEND](?p=songs/FRIEND&l=zh-CN) | [D_AAN](?p=composer_list&l=zh-CN#D_AAN) | [半界](?p=illustrator_list&l=zh-CN#Semiryoiki) & [X-chalk](?p=illustrator_list&l=zh-CN#X-chalk) | v2.7.0 | SY 8.6<br />EZ 4.0 |
 | [Mizu](?p=songs/Mizu&l=zh-CN) | [Itz咸鱼](?p=composer_list&l=zh-CN#Itz_Xianyu) | [CroxsBOss](?p=illustrator_list&l=zh-CN#CroxsBOss) | v2.7.0 | SY 8.5<br />EZ 3.0 |
@@ -146,22 +146,22 @@
 | [Victory Sense](?p=songs/Victory_Sense&l=zh-CN) | [KAH](?p=composer_list&l=zh-CN#KAH) | [LUMINESCENCEP](?p=illustrator_list&l=zh-CN#LUMINESCENCEP) feat. [X-chalk](?p=illustrator_list&l=zh-CN#X-chalk) | v2.7.0 | SY 7.7<br />EZ 3.0 |
 | [Fever Dream](?p=songs/Fever_Dream&l=zh-CN) | [Hundotte](?p=composer_list&l=zh-CN#Hundotte) & [BilliumMoto](?p=composer_list&l=zh-CN#BilliumMoto) | [Transendium](?p=illustrator_list&l=zh-CN#Transendium) | v2.7.0 | SY 9.9<br />EZ 4.0 |
 | [Glimmer](?p=songs/Glimmer&l=zh-CN) | [Akiuta](?p=composer_list&l=zh-CN#Akiuta) | [Ameru_nya](?p=illustrator_list&l=zh-CN#Ameru_nya) | v2.7.3 | SY 5.3 |
-| [Overjoy ★ OVERDOSE!!](?p=songs/Overjoy_OVERDOSE!!&l=zh-CN) | Luna Fozer ([BilliumMoto](?p=composer_list&l=zh-CN#BilliumMoto) & [黒皇帝](?p=composer_list&l=zh-CN#Kurokotei) & [Sobrem](?p=composer_list&l=zh-CN#Sobrem) feat. vally.exe) | [Shalink](?p=illustrator_list&l=zh-CN#Shalink) | v2.8.0 | SY 9.1 |
+| [Overjoy ★ OVERDOSE!!](?p=songs/Overjoy_OVERDOSE&l=zh-CN) | Luna Fozer ([BilliumMoto](?p=composer_list&l=zh-CN#BilliumMoto) & [黒皇帝](?p=composer_list&l=zh-CN#Kurokotei) & [Sobrem](?p=composer_list&l=zh-CN#Sobrem) feat. vally.exe) | [Shalink](?p=illustrator_list&l=zh-CN#Shalink) | v2.8.0 | SY 9.1 |
 | [Silver Morpho](?p=songs/Silver_Morpho&l=zh-CN) | [sakakosmos](?p=composer_list&l=zh-CN#sakakosmos) | [sakakosmos](?p=illustrator_list&l=zh-CN#sakakosmos) | v2.8.0 | SY 6.0 |
 | [Agnostic](?p=songs/Agnostic&l=zh-CN) | [AiSS](?p=composer_list&l=zh-CN#AiSS) | [Ayutkia](?p=illustrator_list&l=zh-CN#Ayutkia) | re:v2.0.0 | SY 8.8<br />EZ 2.5 |
 | [Kirakira Universe](?p=songs/Kirakira_Universe&l=zh-CN) | [Bakami](?p=composer_list&l=zh-CN#Bakami) | [Sakura Records](?p=illustrator_list&l=zh-CN#Sakura_Records) | re:v2.0.0 | SY 8.4 |
 | [星祀る狐](?p=songs/Hoshi_Matsuru_Kitsune&l=zh-CN) | [andreko](?p=composer_list&l=zh-CN#andreko) | [爱吃包子的包包](?p=illustrator_list&l=zh-CN#Aichi_Baozi_de_Baobao) | re:v2.0.0 | SY 8.3<br />EZ 1.0 |
 | [T R A N S C E N D - T H E - E A R T H](?p=songs/TRANSCEND-THE-EARTH&l=zh-CN) | [Akiuta](?p=composer_list&l=zh-CN#Akiuta) / 2088 RECORDS | [三卜二卜百五十一](?p=illustrator_list&l=zh-CN#BottledSodaa) | re:v2.0.0 | SY 6.8 |
-| [ИÖDΣ](?p=songs/NODE&l=zh-CN) | [I](?p=composer_list&l=zh-CN#ILusMin)[C](?p=composer_list&l=zh-CN#CNHKSS)[B](?p=composer_list&l=zh-CN#Brycillum)[M](?p=composer_list&l=zh-CN#NonNam) | [教授_Professor](?p=illustrator_list&l=zh-CN#JQ.Professor) & [祈莲](?p=illustrator_list&l=zh-CN#Panthullu) | re:v2.0.0 | SY 9.0<br />SY+ 10.6<br />EZ 5.0 |
+| [ИÖDΣ](?p=songs/NODE&l=zh-CN) | [I](?p=composer_list&l=zh-CN#ILusMin)[C](?p=composer_list&l=zh-CN#CNHKSS)[B](?p=composer_list&l=zh-CN#Brycillum)[M](?p=composer_list&l=zh-CN#NonNam) | [教授_Professor](?p=illustrator_list&l=zh-CN#JQ-Professor) & [祈莲](?p=illustrator_list&l=zh-CN#Panthullu) | re:v2.0.0 | SY 9.0<br />SY+ 10.6<br />EZ 5.0 |
 | [时契](?p=songs/Shiqi&l=zh-CN) | [KAIRCI](?p=composer_list&l=zh-CN#KAIRCI) feat. Aletta | [ブウユー](?p=illustrator_list&l=zh-CN#Buyu) ft. [此路Cilu](?p=illustrator_list&l=zh-CN#Cilu) | re:v2.0.0 | SY 8.1 |
 
 ## [？？？](?p=chapters/???&l=zh-CN)
 
 | 曲名 | 曲师 | 画师 | 上线版本 | 定数 | 备注 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| [Nota Studio](?p=songs/Nota_Studio&l=zh-CN) | 诺塔 & 诺特 feat. [嘤箱](?p=composer_list&l=zh-CN#XyX) & [呆泠](?p=composer_list&l=zh-CN#Dailing) | | v2.0.0 | SP ? | 2025年愚人节曲目 |
-| [Candy Day](?p=songs/Candy_Day&l=zh-CN) | 诺塔 & 诺特 feat. [嘤箱](?p=composer_list&l=zh-CN#XyX) & [Bob Hou](?p=composer_list&l=zh-CN#Bob_Hou) | | v2.0.0 | SP ? | 2025年愚人节曲目 |
-| [ИÖDΣ - OMG It's Boss Quan we're doomed -](?p=songs/NODE-OMG_It-s_Boss_Quan_we-re_doomed-&l=zh-CN) | [泉大人的恩情](?p=composer_list&l=zh-CN#NonNam)[还不完\o/](?p=composer_list&l=zh-CN#watch) | [泉大人的恩情还不完\o/](?p=composer_list&l=zh-CN#Semiryoiki) | v2.11.0 | SP ? | 2026年愚人节曲目 |
+| [Nota Studio](?p=songs/Nota_Studio&l=zh-CN) | 诺塔 & 诺特 feat. [嘤箱](?p=composer_list&l=zh-CN#XyX) & [呆泠](?p=composer_list&l=zh-CN#Dailing) | [未标注画师](?p=illustrator_list&l=zh-CN#null) | v2.0.0 | SP ? | 2025年愚人节曲目 |
+| [Candy Day](?p=songs/Candy_Day&l=zh-CN) | 诺塔 & 诺特 feat. [嘤箱](?p=composer_list&l=zh-CN#XyX) & [Bob Hou](?p=composer_list&l=zh-CN#Bob_Hou) | [未标注画师](?p=illustrator_list&l=zh-CN#null) | v2.0.0 | SP ? | 2025年愚人节曲目 |
+| [ИÖDΣ - OMG It's Boss Quan we're doomed -](?p=songs/NODE-OMG_It-s_Boss_Quan_we-re_doomed-&l=zh-CN) | [泉大人的恩情](?p=composer_list&l=zh-CN#NonNam)[还不完\o/](?p=composer_list&l=zh-CN#watch) | [泉大人的恩情还不完\o/](?p=illustrator_list&l=zh-CN#Semiryoiki) | v2.11.0 | SP ? | 2026年愚人节曲目 |
 
 ## 下架曲目
 
@@ -175,11 +175,13 @@
 | :-: | :-: | :-: | :-: |
 | [Kiri](?p=songs/Kiri&l=zh-CN) | [Itz咸鱼](?p=composer_list&l=zh-CN#Itz_Xianyu) | [CroxsBOss](?p=illustrator_list&l=zh-CN#CroxsBOss) | 未知 |
 | [Crystal Ember](?p=songs/Crystal_Ember&l=zh-CN) | [Ascellia Mio](?p=composer_list&l=zh-CN#Ascellia_Mio) | 未知 | 未知 |
-| [meteor();](?p=songs/meteor();&l=zh-CN) | [ILusMin](?p=composer_list&l=zh-CN#ILusMin) & [ShooTinGStaR](?p=composer_list&l=zh-CN#ShooTinGStaR) | 未知 | 未知 |
+| [meteor();](?p=songs/meteor&l=zh-CN) | [ILusMin](?p=composer_list&l=zh-CN#ILusMin) & [ShooTinGStaR](?p=composer_list&l=zh-CN#ShooTinGStaR) | 未知 | 未知 |
 | [Recordatio Temporis](?p=songs/Recordatio_Temporis&l=zh-CN) | [EOTW433](?p=composer_list&l=zh-CN#EOTW433) | [HOSHILINEARX.](?p=illustrator_list&l=zh-CN#HOSHILINEARX.) | 未知 |
 | [茶靡](?p=songs/Chami&l=zh-CN) | [急冻秋刀鱼](?p=composer_list&l=zh-CN#Jidong_Qiudaoyu) | [Semiryoiki](?p=illustrator_list&l=zh-CN#Semiryoiki) | 未知 |
 | [Fiend Demme](?p=songs/Fiend_Demme&l=zh-CN) | Delaina as ["ZxNX"](?p=composer_list&l=zh-CN#ZxNX) | [QIER](?p=illustrator_list&l=zh-CN#QIER) | 未知 |
 | [Star Fall in Evernight City](?p=songs/Star_Fall_in_Evernight_City&l=zh-CN) | [Reku Mochizuki](?p=composer_list&l=zh-CN#Reku_Mochizuki) | [微米](?p=illustrator_list&l=zh-CN#Weimi) | 未知 |
 | [Sphalerite](?p=songs/Sphalerite&l=zh-CN) | [RYOQUCHA](?p=composer_list&l=zh-CN#RYOQUCHA) & [CS4W](?p=composer_list&l=zh-CN#CS4W) | [恋殇](?p=illustrator_list&l=zh-CN#Lianshang) | 未知 |
 | [余烬行者](?p=songs/Yujin_Xingzhe&l=zh-CN) | [KAIRCI](?p=composer_list&l=zh-CN#KAIRCI) feat. Kari脆球 | [ブウユー](?p=illustrator_list&l=zh-CN#Buyu) feat. [此路Cilu](?p=illustrator_list&l=zh-CN#Cilu) | 未知 |
-| [三相奇谈 (SKa2or Remix)](?p=songs/Threefold_Recital_(SKa2or_Remix)&l=zh-CN) | [SKa2or](?p=composer_list#Ska2or&l=zh-CN) | [whale](?p=illustrator_list#whale&l=zh-CN) / [Ayutkia](?p=illustrator_list#Ayutkia&l=zh-CN) ft. [可乐](?p=illustrator_list#BottledSodaa&l=zh-CN) | 未知 |
+| [三相奇谈 (SKa2or Remix)](?p=songs/Threefold_Recital_SKa2or_Remix&l=zh-CN) | [SKa2or](?p=composer_list&l=zh-CN#SKa2or) | [whale](?p=illustrator_list&l=zh-CN#whale) / [Ayutkia](?p=illustrator_list&l=zh-CN#Ayutkia) ft. [可乐](?p=illustrator_list&l=zh-CN#BottledSodaa) | 未知 |
+| [Outa Starlight](?p=songs/Outa_Starlight&l=zh-CN) | [祈枫_yita](?p=composer_list&l=zh-CN#yita) | [Ayutkia](?p=illustrator_list&l=zh-CN#Ayutkia) | 未知 |
+| [XIII: Fatum](?p=songs/XIII-Fatum&l=zh-CN) | [Chikanya](?p=composer_list&l=zh-CN#Chikanya) | [CroxsBOss](?p=illustrator_list&l=zh-CN#CroxsBOss) | 未知 |

@@ -34,7 +34,7 @@
 | 信息 | SY | EZ |
 | :-: | :-: | :-: |
 | 定数 | 5.9 | 2.0 |
-| 颜色 | [空域之碧](?p=chapters/Green&l=zh-CN) | [空域之碧](?p=chapters/Green&l=zh-CN) |
+| 颜色 | [空域之碧](?p=colors/Green&l=zh-CN) | [空域之碧](?p=colors/Green&l=zh-CN) |
 | 物量 | 478 | 362 |
 | 谱师 | [海公子](?p=charter_list&l=zh-CN#XyX) | [海公子](?p=charter_list&l=zh-CN#XyX) feat. [钱备](?p=charter_list&l=zh-CN#Dason) |
 

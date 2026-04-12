@@ -22,7 +22,7 @@
 | 信息 | SY |
 | :-: | :-: |
 | 定数 | 7.6 |
-| 颜色 | [赋染之蓝](?p=chapters/Blue&l=zh-CN) |
+| 颜色 | [赋染之蓝](?p=colors/Blue&l=zh-CN) |
 | 物量 | 615 |
 | 谱师 | [小嘤箱](?p=charter_list&l=zh-CN#XyX) |
 
@@ -57,9 +57,9 @@
 
 ## 音乐
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/youtube.ico) [DRIVE. - Vestige of Dreams [Official]](https://www.youtube.com/watch?v=LPX97lstvWM)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [[Official] DRIVE. - Vestige of Dreams [Milthm/Notanote]](https://www.bilibili.com/video/BV1mCZBYgEAo/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/youtube.ico" class="vidimgicon" /> [DRIVE. - Vestige of Dreams [Official]](https://www.youtube.com/watch?v=LPX97lstvWM)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [[Official] DRIVE. - Vestige of Dreams [Milthm/Notanote]](https://www.bilibili.com/video/BV1mCZBYgEAo/)
 
 ## 相关视频
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】Vestige of Dreams [SY 7.6] 谱面演示](https://www.bilibili.com/video/BV1aCZ9YxECs/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Vestige of Dreams [SY 7.6] 谱面演示](https://www.bilibili.com/video/BV1aCZ9YxECs/)

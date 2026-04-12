@@ -39,9 +39,9 @@
 
 ## 音乐
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/youtube.ico) [Sphalerite（游戏《Orzmic》第九章魔王曲） - CS4W/RYOQUCHA - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2722325977)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/youtube.ico) [RYOQUCHA & CS4W - Sphalerite 【From: Orzmic】](https://www.youtube.com/watch?v=6m7wq0mdBL0)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [RYOQUCHA & CS4W - Sphalerite 【From: Orzmic】](https://www.bilibili.com/video/BV1UmADe9Eh7/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/youtube.ico" class="vidimgicon" /> [Sphalerite（游戏《Orzmic》第九章魔王曲） - CS4W/RYOQUCHA - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2722325977)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/youtube.ico" class="vidimgicon" /> [RYOQUCHA & CS4W - Sphalerite 【From: Orzmic】](https://www.youtube.com/watch?v=6m7wq0mdBL0)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [RYOQUCHA & CS4W - Sphalerite 【From: Orzmic】](https://www.bilibili.com/video/BV1UmADe9Eh7/)
 
 ## 相关视频
 

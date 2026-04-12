@@ -83,7 +83,7 @@
     <tr>
       <td>10.5</td>
       <td>
-        <a href="?p=songs/Aether_Ingita!&l=zh-CN" data-class="SY"><img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Aether_Ingita!.jpg" alt="Aether Ingita!" /></a>
+        <a href="?p=songs/Aether_Ingita&l=zh-CN" data-class="SY"><img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Aether_Ingita.jpg" alt="Aether Ingita!" /></a>
         <a href="?p=songs/Convergence&l=zh-CN" data-class="SY"><img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Convergence.jpg" alt="《Ж》" /></a>
       </td>
     </tr>
@@ -149,7 +149,7 @@
       <td>9.4</td>
       <td>
         <a href="?p=songs/End_Time&l=zh-CN" data-class="SY"><img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/End_Time.jpg" alt="End Time" /></a>
-        <a href="?p=songs/Meltovt_Necrosys_(Salty_Salt_Remix)&l=zh-CN" data-class="SY"><img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Meltovt_Necrosys_(Salty_Salt_Remix).jpg" alt="Meltovt Necrosys (Salty Salt Remix)" /></a>
+        <a href="?p=songs/Meltovt_Necrosys_Salty_Salt_Remix&l=zh-CN" data-class="SY"><img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Meltovt_Necrosys_Salty_Salt_Remix.jpg" alt="Meltovt Necrosys (Salty Salt Remix)" /></a>
       </td>
     </tr>
     <tr>
@@ -169,7 +169,7 @@
       <td>9.1</td>
       <td>
         <a href="?p=songs/self-dissociation&l=zh-CN" data-class="SY"><img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/self-dissociation.jpg" alt="self-dissociation" /></a>
-        <a href="?p=songs/Overjoy_OVERDOSE!!&l=zh-CN" data-class="SY"><img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Overjoy_OVERDOSE!!.jpg" alt="Overjoy ★ OVERDOSE!!" /></a>
+        <a href="?p=songs/Overjoy_OVERDOSE&l=zh-CN" data-class="SY"><img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Overjoy_OVERDOSE.jpg" alt="Overjoy ★ OVERDOSE!!" /></a>
       </td>
     </tr>
     <tr>
@@ -199,7 +199,7 @@
     <tr>
       <td>8.6</td>
       <td>
-        <a href="?p=songs/slic.hertz&l=zh-CN" data-class="SY"><img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/slic.hertz.jpg" alt="slic.hertz" /></a>
+        <a href="?p=songs/slic-hertz&l=zh-CN" data-class="SY"><img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/slic-hertz.jpg" alt="slic.hertz" /></a>
         <a href="?p=songs/FRIEND&l=zh-CN" data-class="SY"><img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/FRIEND.jpg" alt="F℟IEND" /></a>
         <a href="?p=songs/Lapis&l=zh-CN" data-class="SY"><img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Lapis.jpg" alt="Lapis" /></a>
       </td>
@@ -224,7 +224,7 @@
       <td>
         <a href="?p=songs/Eltaw&l=zh-CN" data-class="SY"><img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Eltaw.jpg" alt="Eltaw" /></a>
         <a href="?p=songs/Moondread&l=zh-CN" data-class="SY"><img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Moondread.jpg" alt="Moondread" /></a>
-        <a href="?p=songs/Meltovt_Necrosys_(UraniumW_Remix)&l=zh-CN" data-class="SY"><img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Meltovt_Necrosys_(UraniumW_Remix).jpg" alt="Meltovt Necrosys (UraniumW Remix)" /></a>
+        <a href="?p=songs/Meltovt_Necrosys_UraniumW_Remix&l=zh-CN" data-class="SY"><img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Meltovt_Necrosys_UraniumW_Remix.jpg" alt="Meltovt Necrosys (UraniumW Remix)" /></a>
       </td>
     </tr>
     <tr>
@@ -312,14 +312,14 @@
       <td>7.0</td>
       <td>
         <a href="?p=songs/Jintian_Bushi_Mingtian&l=zh-CN" data-class="SY"><img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Jintian_Bushi_Mingtian.jpg" alt="今天不是明天" /></a>
-        <a href="?p=songs/Heavenly_Sky_(2024_Remake)&l=zh-CN" data-class="SY"><img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Heavenly_Sky_(2024_Remake).jpg" alt="Heavenly Sky (2024 Remake)" /></a>
+        <a href="?p=songs/Heavenly_Sky_2024_Remake&l=zh-CN" data-class="SY"><img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Heavenly_Sky_2024_Remake.jpg" alt="Heavenly Sky (2024 Remake)" /></a>
       </td>
     </tr>
     <tr>
       <td>6.9</td>
       <td>
-        <a href="?p=songs/Lockdown_(Tatsunoshin_VIP)&l=zh-CN" data-class="SY"><img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Lockdown_(Tatsunoshin_VIP).jpg" alt="Lockdown (Tatsunoshin VIP)" /></a>
-        <a href="?p=songs/What_U_Wanna_Be_(Radio_Edit)&l=zh-CN" data-class="SY"><img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/What_U_Wanna_Be_(Radio_Edit).jpg" alt="What U Wanna Be (Radio Edit)" /></a>
+        <a href="?p=songs/Lockdown_Tatsunoshin_VIP&l=zh-CN" data-class="SY"><img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Lockdown_Tatsunoshin_VIP.jpg" alt="Lockdown (Tatsunoshin VIP)" /></a>
+        <a href="?p=songs/What_U_Wanna_Be_Radio_Edit&l=zh-CN" data-class="SY"><img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/What_U_Wanna_Be_Radio_Edit.jpg" alt="What U Wanna Be (Radio Edit)" /></a>
         <a href="?p=songs/ENERGY_SYNERGY_MATRIX&l=zh-CN" data-class="SY"><img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/ENERGY_SYNERGY_MATRIX.jpg" alt="ENERGY SYNERGY MATRIX" /></a>
         <a href="?p=songs/Searching_for_your_love&l=zh-CN" data-class="SY"><img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Searching_for_your_love.jpg" alt="Searching for your love" /></a>
       </td>
@@ -357,7 +357,7 @@
     <tr>
       <td>6.3</td>
       <td>
-        <a href="?p=songs/Rainbow_Flavor!&l=zh-CN" data-class="SY"><img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Rainbow_Flavor!.jpg" alt="Rainbow Flavor!" /></a>
+        <a href="?p=songs/Rainbow_Flavor&l=zh-CN" data-class="SY"><img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Rainbow_Flavor.jpg" alt="Rainbow Flavor!" /></a>
         <a href="?p=songs/Brand_New_Day&l=zh-CN" data-class="SY"><img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Brand_New_Day.jpg" alt="Brand New Day" /></a>
       </td>
     </tr>
@@ -410,7 +410,7 @@
     <tr>
       <td>5.5</td>
       <td>
-        <a href="?p=songs/Aether_Ingita!&l=zh-CN" data-class="EZ"><img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Aether_Ingita!.jpg" alt="Aether Ingita!" /></a>
+        <a href="?p=songs/Aether_Ingita&l=zh-CN" data-class="EZ"><img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Aether_Ingita.jpg" alt="Aether Ingita!" /></a>
       </td>
     </tr>
     <tr>
@@ -457,7 +457,7 @@
         <a href="?p=songs/Eltaw&l=zh-CN" data-class="EZ"><img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Eltaw.jpg" alt="Eltaw" /></a>
         <a href="?p=songs/Eschatology&l=zh-CN" data-class="EZ"><img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Eschatology.jpg" alt="Eschatology" /></a>
         <a href="?p=songs/Star_Chain&l=zh-CN" data-class="SY"><img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Star_Chain.jpg" alt="Star Chain" /></a>
-        <a href="?p=songs/Meltovt_Necrosys_(UraniumW_Remix)&l=zh-CN" data-class="TL"><img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Meltovt_Necrosys_(UraniumW_Remix).jpg" alt="Meltovt Necrosys (UraniumW Remix)" /></a>
+        <a href="?p=songs/Meltovt_Necrosys_UraniumW_Remix&l=zh-CN" data-class="TL"><img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Meltovt_Necrosys_UraniumW_Remix.jpg" alt="Meltovt Necrosys (UraniumW Remix)" /></a>
         <a href="?p=songs/IGNITE&l=zh-CN" data-class="EZ"><img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/IGNITE.jpg" alt="IGNITE" /></a>
         <a href="?p=songs/self-dissociation&l=zh-CN" data-class="EZ"><img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/self-dissociation.jpg" alt="self-dissociation" /></a>
         <a href="?p=songs/Stardust_Ember&l=zh-CN" data-class="EZ"><img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Stardust_Ember.jpg" alt="Stardust Ember" /></a>
@@ -467,9 +467,9 @@
     <tr>
       <td>4.0</td>
       <td>
-        <a href="?p=songs/Cursed_Land_(Acoustic)&l=zh-CN" data-class="SY"><img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Cursed_Land_(Acoustic).jpg" alt="Cursed Land (Acoustic)" /></a>
+        <a href="?p=songs/Cursed_Land_Acoustic&l=zh-CN" data-class="SY"><img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Cursed_Land_Acoustic.jpg" alt="Cursed Land (Acoustic)" /></a>
         <a href="?p=songs/Eltaw&l=zh-CN" data-class="TL"><img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Eltaw.jpg" alt="Eltaw" /></a>
-        <a href="?p=songs/Meltovt_Necrosys_(Salty_Salt_Remix)&l=zh-CN" data-class="EZ"><img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Meltovt_Necrosys_(Salty_Salt_Remix).jpg" alt="Meltovt Necrosys (Salty Salt Remix)" /></a>
+        <a href="?p=songs/Meltovt_Necrosys_Salty_Salt_Remix&l=zh-CN" data-class="EZ"><img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Meltovt_Necrosys_Salty_Salt_Remix.jpg" alt="Meltovt Necrosys (Salty Salt Remix)" /></a>
         <a href="?p=songs/Aishang_Xiangxiang_de_Ni&l=zh-CN" data-class="EZ"><img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Aishang_Xiangxiang_de_Ni.jpg" alt="爱上想象的你" /></a>
         <a href="?p=songs/Jintian_Bushi_Mingtian&l=zh-CN" data-class="EZ"><img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Jintian_Bushi_Mingtian.jpg" alt="今天不是明天" /></a>
         <a href="?p=songs/life_flashes_before_weeb_eyes&l=zh-CN" data-class="EZ"><img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/life_flashes_before_weeb_eyes.jpg" alt="life flashes before weeb eyes" /></a>
@@ -481,9 +481,9 @@
       <td>3.5</td>
       <td>
         <a href="?p=songs/SHE&l=zh-CN" data-class="TL"><img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/SHE.jpg" alt="&quot;SHE&quot;" /></a>
-        <a href="?p=songs/Lockdown_(Tatsunoshin_VIP)&l=zh-CN" data-class="EZ"><img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Lockdown_(Tatsunoshin_VIP).jpg" alt="Lockdown (Tatsunoshin VIP)" /></a>
+        <a href="?p=songs/Lockdown_Tatsunoshin_VIP&l=zh-CN" data-class="EZ"><img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Lockdown_Tatsunoshin_VIP.jpg" alt="Lockdown (Tatsunoshin VIP)" /></a>
         <a href="?p=songs/Moondread&l=zh-CN" data-class="EZ"><img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Moondread.jpg" alt="Moondread" /></a>
-        <a href="?p=songs/Heavenly_Sky_(2024_Remake)&l=zh-CN" data-class="EZ"><img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Heavenly_Sky_(2024_Remake).jpg" alt="Heavenly Sky (2024 Remake)" /></a>
+        <a href="?p=songs/Heavenly_Sky_2024_Remake&l=zh-CN" data-class="EZ"><img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Heavenly_Sky_2024_Remake.jpg" alt="Heavenly Sky (2024 Remake)" /></a>
         <a href="?p=songs/The_History&l=zh-CN" data-class="EZ"><img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/The_History.jpg" alt="浮光 (The History)" /></a>
       </td>
     </tr>
@@ -535,7 +535,7 @@
     <tr>
       <td>1.5</td>
       <td>
-        <a href="?p=songs/Rainbow_Flavor!&l=zh-CN" data-class="EZ"><img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Rainbow_Flavor!.jpg" alt="Rainbow Flavor!" /></a>
+        <a href="?p=songs/Rainbow_Flavor&l=zh-CN" data-class="EZ"><img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Rainbow_Flavor.jpg" alt="Rainbow Flavor!" /></a>
         <a href="?p=songs/Natsu_no_Hana&l=zh-CN" data-class="EZ"><img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Natsu_no_Hana.jpg" alt="夏の花" /></a>
         <a href="?p=songs/Zhishang_Jiangshan&l=zh-CN" data-class="EZ"><img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Zhishang_Jiangshan.jpg" alt="纸上江山" /></a>
         <a href="?p=songs/Shiqi&l=zh-CN" data-class="EZ"><img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Shiqi.jpg" alt="时契" /></a>

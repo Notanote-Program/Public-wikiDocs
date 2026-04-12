@@ -198,15 +198,15 @@
 
 ## 音乐
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico) [追憶 (feat. nakotanmaru) - PIKASONIC / なこたんまる - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1869161372)<sup><a id="note-1.1" href="#ref-1">[1]</a></sup>
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/youtube.ico) [PIKASONIC - 追憶 (feat.nakotanmaru)](https://www.youtube.com/watch?v=8TpMs2oS5u0)<sup><a id="note-1.2" href="#ref-1">[1]</a></sup>
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [PIKASONIC - 追憶 (feat.nakotanmaru)](https://www.bilibili.com/video/BV1C3411R7c2/)<sup><a id="note-1.3" href="#ref-1">[1]</a></sup>
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico" class="vidimgicon" /> [追憶 (feat. nakotanmaru) - PIKASONIC / なこたんまる - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1869161372)<sup><a id="note-1.1" href="#ref-1">[1]</a></sup>
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/youtube.ico" class="vidimgicon" /> [PIKASONIC - 追憶 (feat.nakotanmaru)](https://www.youtube.com/watch?v=8TpMs2oS5u0)<sup><a id="note-1.2" href="#ref-1">[1]</a></sup>
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [PIKASONIC - 追憶 (feat.nakotanmaru)](https://www.bilibili.com/video/BV1C3411R7c2/)<sup><a id="note-1.3" href="#ref-1">[1]</a></sup>
 
 ## 相关视频
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】追憶 [SY 4.5] 谱面演示](https://www.bilibili.com/video/BV1nUQUBvE42/)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】（已删除谱面）追憶 [EZ 3.0] 谱面演示](https://www.bilibili.com/video/BV1pYgZzGEcM/)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】（已删除谱面）追憶 [TL 5.4] 谱面演示](https://www.bilibili.com/video/BV1negZzrECL/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】追憶 [SY 4.5] 谱面演示](https://www.bilibili.com/video/BV1nUQUBvE42/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】（已删除谱面）追憶 [EZ 3.0] 谱面演示](https://www.bilibili.com/video/BV1pYgZzGEcM/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】（已删除谱面）追憶 [TL 5.4] 谱面演示](https://www.bilibili.com/video/BV1negZzrECL/)
 
 ## 注释
 

@@ -15,14 +15,14 @@
 | 时长 | 02:40 |
 | BPM | 128 |
 | 章节 | [支线一·花火之夏](?p=chapters/Side_Story_I&l=zh-CN) |
-| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Rainbow_Flavor!.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[纸箱林Exut](?p=illustrator_list&l=zh-CN#Exut) |
+| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Rainbow_Flavor.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[纸箱林Exut](?p=illustrator_list&l=zh-CN#Exut) |
 
 ## 谱面信息
 
 | 信息 | SY | EZ |
 | :-: | :-: | :-: |
 | 定数 | 6.3 | 1.5 |
-| 颜色 | [映拟之缃](?p=chapters/Yellow&l=zh-CN) | [映拟之缃](?p=chapters/Yellow&l=zh-CN) |
+| 颜色 | [映拟之缃](?p=colors/Yellow&l=zh-CN) | [映拟之缃](?p=colors/Yellow&l=zh-CN) |
 | 物量 | 483 | 525 |
 | 谱师 | [嘤箱](?p=charter_list&l=zh-CN#XyX) | [嘤箱](?p=charter_list&l=zh-CN#XyX) |
 
@@ -61,13 +61,13 @@
 
 ## 音乐
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico) [Rainbow Flavor!（彩虹的味道） - SuggestedCopy7/亚述 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2039084825)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【原创萌系电音EP】SuggestedCopy7&YashuUwU—《Rainbow Flavor!》单曲试听~](https://www.bilibili.com/video/BV1RT41187Hi/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Rainbow Flavor!（彩虹的味道） - SuggestedCopy7/亚述 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2039084825)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【原创萌系电音EP】SuggestedCopy7&YashuUwU—《Rainbow Flavor!》单曲试听~](https://www.bilibili.com/video/BV1RT41187Hi/)
 
 ## 相关视频
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】Rainbow Flavor! [SY 7.0] 谱面演示](https://www.bilibili.com/video/BV1278RzsEiN/)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】Rainbow Flavor! [EZ 1.5] 谱面演示](https://www.bilibili.com/video/BV1KZ8CztEkJ/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Rainbow Flavor! [SY 7.0] 谱面演示](https://www.bilibili.com/video/BV1278RzsEiN/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Rainbow Flavor! [EZ 1.5] 谱面演示](https://www.bilibili.com/video/BV1KZ8CztEkJ/)
 
 ## 注释
 

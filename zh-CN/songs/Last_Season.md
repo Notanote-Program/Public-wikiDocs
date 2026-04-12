@@ -15,14 +15,14 @@
 | 时长 | 02:35 |
 | BPM | 120 |
 | 章节 | [Soul Notes](?p=chapters/Milthm&l=zh-CN) |
-| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Last_Season.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[青梅煮酒](?p=illustrator_list&l=zh-CN#Qingmei_Zhujiu) |
+| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Last_Season.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[青梅煮酒](?p=illustrator_list&l=zh-CN#Qingmei_Zhujiu)<details><summary>v2.11.0之前曲绘</summary><img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Last_Season_old.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[青梅煮酒](?p=illustrator_list&l=zh-CN#Qingmei_Zhujiu)</details> |
 
 ## 谱面信息
 
 | 信息 | SY |
 | :-: | :-: |
 | 定数 | 5.8 |
-| 颜色 | [承演之白](?p=chapters/White&l=zh-CN) |
+| 颜色 | [承演之白](?p=colors/White&l=zh-CN) |
 | 物量 | 553 |
 | 谱师 | [舞仙翼](?p=charter_list&l=zh-CN#wxy) |
 
@@ -43,6 +43,7 @@
 | 2025/07/21 | v2.4.1 | App Store国区侧上线曲目 |
 | 2025/08/16 | v2.5.0 | SY难度定数由6.0改为6.2 |
 | 2026/02/14 | re:v2.0.0 | SY难度定数由6.2改为5.8 |
+| 2026/04/01 | re:v2.11.0 | 更换曲绘 |
 
 ## 游戏相关
 
@@ -60,9 +61,9 @@
 
 ## 音乐
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico) [Last Season - lunari.io/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2714634339)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote x Soul Notes】Last Season - lunari.io](https://www.bilibili.com/video/BV15GKweNEcq/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Last Season - lunari.io/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2714634339)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote x Soul Notes】Last Season - lunari.io](https://www.bilibili.com/video/BV15GKweNEcq/)
 
 ## 相关视频
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】Last Season [SY 6.2] 谱面演示](https://www.bilibili.com/video/BV1N6ZRY7EtU/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Last Season [SY 6.2] 谱面演示](https://www.bilibili.com/video/BV1N6ZRY7EtU/)

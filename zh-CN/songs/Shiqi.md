@@ -22,7 +22,7 @@
 | 信息 | SY | EZ |
 | :-: | :-: | :-: |
 | 定数 | 8.1 | 1.5 |
-| 颜色 | [空域之碧](?p=chapters/Green&l=zh-CN) | [空域之碧](?p=chapters/Green&l=zh-CN) |
+| 颜色 | [空域之碧](?p=colors/Green&l=zh-CN) | [空域之碧](?p=colors/Green&l=zh-CN) |
 | 物量 | 960 | 536 |
 | 谱师 | [小嘤箱](?p=charter_list&l=zh-CN#XyX) | [小嘤箱](?p=charter_list&l=zh-CN#XyX) ft. [大松Dason](?p=charter_list&l=zh-CN#Dason) |
 
@@ -70,10 +70,10 @@
 
 ## 音乐
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico) [时契 - KAIRCI/Aletta/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=3344738302)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote原创曲】时契 - KAIRCI feat. Aletta](https://www.bilibili.com/video/BV1Ly6wBaE4y/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico" class="vidimgicon" /> [时契 - KAIRCI/Aletta/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=3344738302)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote原创曲】时契 - KAIRCI feat. Aletta](https://www.bilibili.com/video/BV1Ly6wBaE4y/)
 
 ## 相关视频
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】时契 [SY 8.1] 谱面演示](https://www.bilibili.com/video/BV18yZtBuEYa/)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】时契 [EZ 1.5] 谱面演示](https://www.bilibili.com/video/BV1byZtBuEys/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】时契 [SY 8.1] 谱面演示](https://www.bilibili.com/video/BV18yZtBuEYa/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】时契 [EZ 1.5] 谱面演示](https://www.bilibili.com/video/BV1byZtBuEys/)

@@ -22,7 +22,7 @@
 | 信息 | SY |
 | :-: | :-: |
 | 定数 | 5.3 |
-| 颜色 | [空域之碧](?p=chapters/Green&l=zh-CN) |
+| 颜色 | [空域之碧](?p=colors/Green&l=zh-CN) |
 | 物量 | 320 |
 | 谱师 | [zecolost](?p=charter_list&l=zh-CN#zecolost) |
 
@@ -87,12 +87,12 @@
 
 ## 音乐
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico) [Glimmer - Akiuta - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2601368621)<sup><a id="note-1.1" href="#ref-1">[1]</a></sup>
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [Glimmer - Sea of Flowers EP -](https://www.bilibili.com/video/BV1AS411A7om/)<sup><a id="note-1.2" href="#ref-1">[1]</a></sup>
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Glimmer - Akiuta - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2601368621)<sup><a id="note-1.1" href="#ref-1">[1]</a></sup>
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [Glimmer - Sea of Flowers EP -](https://www.bilibili.com/video/BV1AS411A7om/)<sup><a id="note-1.2" href="#ref-1">[1]</a></sup>
 
 ## 相关视频
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】Glimmer [SY 5.3] 谱面演示](https://www.bilibili.com/video/BV1QGmPB2EGA/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Glimmer [SY 5.3] 谱面演示](https://www.bilibili.com/video/BV1QGmPB2EGA/)
 
 ## 注释
 

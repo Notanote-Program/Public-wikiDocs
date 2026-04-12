@@ -41,8 +41,8 @@
 
 ## 音乐
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico) [Kiri - Itz咸鱼/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2681833383)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote原创曲】Kiri - Itz咸鱼](https://www.bilibili.com/video/BV18jmzYHEBw/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Kiri - Itz咸鱼/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2681833383)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote原创曲】Kiri - Itz咸鱼](https://www.bilibili.com/video/BV18jmzYHEBw/)
 
 ## 相关视频
 

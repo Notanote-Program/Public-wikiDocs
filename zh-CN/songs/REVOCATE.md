@@ -22,7 +22,7 @@
 | 信息 | SY | EZ |
 | :-: | :-: | :-: |
 | 定数 | 8.8 | 2.0 |
-| 颜色 | [框势之黑](?p=chapters/Black&l=zh-CN) | [框势之黑](?p=chapters/Black&l=zh-CN) |
+| 颜色 | [框势之黑](?p=colors/Black&l=zh-CN) | [框势之黑](?p=colors/Black&l=zh-CN) |
 | 物量 | 708 | 437 |
 | 谱师 | [SRYΘABYSS](?p=charter_list&l=zh-CN#SrY-ABYSS) | [ABYSS](?p=charter_list&l=zh-CN#SrY-ABYSS) |
 
@@ -58,11 +58,11 @@
 
 ## 音乐
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico) [REVΘCATE - kuro - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2676009531)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/youtube.ico) [Artcore | kuro (くろ) - REVΘCATE](https://www.youtube.com/watch?v=lBouDv1c7DY)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [Artcore | kuro (くろ) - REVΘCATE](https://www.bilibili.com/video/BV1wLr3BTEAY/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico" class="vidimgicon" /> [REVΘCATE - kuro - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2676009531)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/youtube.ico" class="vidimgicon" /> [Artcore | kuro (くろ) - REVΘCATE](https://www.youtube.com/watch?v=lBouDv1c7DY)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [Artcore | kuro (くろ) - REVΘCATE](https://www.bilibili.com/video/BV1wLr3BTEAY/)
 
 ## 相关视频
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】REVΘCATE [SY 8.8] 谱面演示](https://www.bilibili.com/video/BV1F38yzUEh9/)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】REVΘCATE [EZ 2.0] 谱面演示](https://www.bilibili.com/video/BV1Ja8CzLEuy/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】REVΘCATE [SY 8.8] 谱面演示 / REVOCATE](https://www.bilibili.com/video/BV1F38yzUEh9/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】REVΘCATE [EZ 2.0] 谱面演示 / REVOCATE](https://www.bilibili.com/video/BV1Ja8CzLEuy/)

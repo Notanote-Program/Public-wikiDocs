@@ -22,7 +22,7 @@
 | 信息 | SY | EZ | TL |
 | :-: | :-: | :-: | :-: |
 | 定数 | 8.3 | 4.5 | 4.0 |
-| 颜色 | [赋染之蓝](?p=chapters/Blue&l=zh-CN) | [赋染之蓝](?p=chapters/Blue&l=zh-CN) | [流韵之赤](?p=chapters/Red&l=zh-CN) |
+| 颜色 | [赋染之蓝](?p=colors/Blue&l=zh-CN) | [赋染之蓝](?p=colors/Blue&l=zh-CN) | [流韵之赤](?p=chapters/Red&l=zh-CN) |
 | 物量 | 730 | 553 | 468 |
 | 谱师 | [嘤光棒](?p=charter_list&l=zh-CN#XyX) feat. [qm](?p=charter_list&l=zh-CN#qm) | [嘤光棒](?p=charter_list&l=zh-CN#XyX) ([活性氮](?p=charter_list&l=zh-CN#HXDan) modified) | [Arthur](?p=charter_list&l=zh-CN#Arthur) |
 
@@ -89,16 +89,16 @@ Eltaw
 
 ## 音乐
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico) [Eltaw - Fl00t - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1924765006)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/youtube.ico) [Fl00t - Eltaw](https://www.youtube.com/watch?v=tgH4FxutyXc)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [Fl00t - Eltaw](https://www.bilibili.com/video/BV1Fb4y117BW/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Eltaw - Fl00t - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1924765006)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/youtube.ico" class="vidimgicon" /> [Fl00t - Eltaw](https://www.youtube.com/watch?v=tgH4FxutyXc)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [Fl00t - Eltaw](https://www.bilibili.com/video/BV1Fb4y117BW/)
 
 ## 相关视频
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】Eltaw [SY 8.3] 谱面演示](https://www.bilibili.com/video/BV1WtgZz1EDU/)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】Eltaw [EZ 4.5] 谱面演示](https://www.bilibili.com/video/BV1WtgZz1E6n/)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】Eltaw [TL 4.0] 谱面演示](https://www.bilibili.com/video/BV1khgZzCEZ8/)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【内测首杀】Eltaw - Notanote](https://www.bilibili.com/video/BV1fX4y177be/)（玩家：[爬爬](https://space.bilibili.com/296690663/)）
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Eltaw [SY 8.3] 谱面演示](https://www.bilibili.com/video/BV1WtgZz1EDU/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Eltaw [EZ 4.5] 谱面演示](https://www.bilibili.com/video/BV1WtgZz1E6n/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Eltaw [TL 4.0] 谱面演示](https://www.bilibili.com/video/BV1khgZzCEZ8/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【内测首杀】Eltaw - Notanote](https://www.bilibili.com/video/BV1fX4y177be/)（玩家：[爬爬](https://space.bilibili.com/296690663/)）
 
 ## 注释
 

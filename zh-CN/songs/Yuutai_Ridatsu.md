@@ -22,7 +22,7 @@
 | 信息 | SY |
 | :-: | :-: |
 | 定数 | 5.6 |
-| 颜色 | [赋染之蓝](?p=chapters/Blue&l=zh-CN) |
+| 颜色 | [赋染之蓝](?p=colors/Blue&l=zh-CN) |
 | 物量 | 466 |
 | 谱师 | [福luuuu](?p=charter_list&l=zh-CN#Fulu) |
 
@@ -215,10 +215,10 @@
 
 ## 音乐
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico) [幽体離脱 (feat. 初音ミク)（灵魂出窍） - きくお/初音ミク - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1953839808)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/youtube.ico) [Kikuo - 幽体離脱](https://www.youtube.com/watch?v=UHH2KKN0xoc)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [Kikuo - 星体投射 feat. 初音ミク & 初音未來](https://www.bilibili.com/video/BV1pU4y1d78T/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico" class="vidimgicon" /> [幽体離脱 (feat. 初音ミク)（灵魂出窍） - きくお/初音ミク - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1953839808)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/youtube.ico" class="vidimgicon" /> [Kikuo - 幽体離脱](https://www.youtube.com/watch?v=UHH2KKN0xoc)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [Kikuo - 星体投射 feat. 初音ミク & 初音未來](https://www.bilibili.com/video/BV1pU4y1d78T/)
 
 ## 相关视频
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】幽体離脱 [SY 5.6] 谱面演示 / 星体投射](https://www.bilibili.com/video/BV1fhHAz5EdM/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】幽体離脱 [SY 5.6] 谱面演示 / 星体投射](https://www.bilibili.com/video/BV1fhHAz5EdM/)

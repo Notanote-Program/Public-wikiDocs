@@ -22,7 +22,7 @@
 | 信息 | SY |
 | :-: | :-: |
 | 定数 | 7.3 |
-| 颜色 | [赋染之蓝](?p=chapters/Blue&l=zh-CN) |
+| 颜色 | [赋染之蓝](?p=colors/Blue&l=zh-CN) |
 | 物量 | 1029 |
 | 谱师 | [F1utt6r1n5](?p=charter_list&l=zh-CN#1615) |
 
@@ -51,8 +51,8 @@
 
 ## 音乐
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico) [Flutter Echo - Cansol - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1927491548)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Flutter Echo - Cansol - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1927491548)
 
 ## 相关视频
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】Flutter Echo [SY 7.3] 谱面演示](https://www.bilibili.com/video/BV1cM8yzDEUo/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Flutter Echo [SY 7.3] 谱面演示](https://www.bilibili.com/video/BV1cM8yzDEUo/)

@@ -22,7 +22,7 @@
 | 信息 | SY | EZ |
 | :-: | :-: | :-: |
 | 定数 | 6.3 | 2.0 |
-| 颜色 | [承演之白](?p=chapters/White&l=zh-CN) | [承演之白](?p=chapters/White&l=zh-CN) |
+| 颜色 | [承演之白](?p=colors/White&l=zh-CN) | [承演之白](?p=colors/White&l=zh-CN) |
 | 物量 | 829 | 359 |
 | 谱师 | [Yx](?p=charter_list&l=zh-CN#XyX) | [Yx](?p=charter_list&l=zh-CN#XyX) feat. [Dason](?p=charter_list&l=zh-CN#Dason) & [Wxy](?p=charter_list&l=zh-CN#wxy) |
 
@@ -116,14 +116,14 @@
 
 ## 音乐
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico) [Brand New Day - 猎影双煞NonNam/FrostOwl - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2079106190)<sup><a id="note-1.1" href="#ref-1">[1]</a></sup>
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote原创曲】重置版：Brand New Day - Bcc & NonNam ft. Mai](https://www.bilibili.com/video/BV1SPFQzrEcF/)<sup><a id="note-2" href="#ref-2">[2]</a></sup>
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【新音游 Notanote / Ace Studio】Brand New Day [ft. 赫瑞 & 诺塔]](https://www.bilibili.com/video/BV1jp4y177Bo/)<sup><a id="note-1.2" href="#ref-1">[1]</a></sup>
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Brand New Day - 猎影双煞NonNam/FrostOwl - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2079106190)<sup><a id="note-1.1" href="#ref-1">[1]</a></sup>
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote原创曲】重置版：Brand New Day - Bcc & NonNam ft. Mai](https://www.bilibili.com/video/BV1SPFQzrEcF/)<sup><a id="note-2" href="#ref-2">[2]</a></sup>
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【新音游 Notanote / Ace Studio】Brand New Day [ft. 赫瑞 & 诺塔]](https://www.bilibili.com/video/BV1jp4y177Bo/)<sup><a id="note-1.2" href="#ref-1">[1]</a></sup>
 
 ## 相关视频
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】Brand New Day [SY 6.3] 谱面演示](https://www.bilibili.com/video/BV1w1QUBBEkj/)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】Brand New Day [EZ 2.0] 谱面演示](https://www.bilibili.com/video/BV1p1QUBqEG1/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Brand New Day [SY 6.3] 谱面演示](https://www.bilibili.com/video/BV1w1QUBBEkj/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Brand New Day [EZ 2.0] 谱面演示](https://www.bilibili.com/video/BV1p1QUBqEG1/)
 
 ## 注释
 

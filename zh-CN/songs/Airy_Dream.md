@@ -22,7 +22,7 @@
 | 信息 | SY | EZ |
 | :-: | :-: | :-: |
 | 定数 | 7.3 | 1.0 |
-| 颜色 | [承演之白](?p=chapters/White&l=zh-CN) | [承演之白](?p=chapters/White&l=zh-CN) |
+| 颜色 | [承演之白](?p=colors/White&l=zh-CN) | [承演之白](?p=colors/White&l=zh-CN) |
 | 物量 | 483 | 525 |
 | 谱师 | [嘤箱](?p=charter_list&l=zh-CN#XyX) | [嘤箱](?p=charter_list&l=zh-CN#XyX) (Modified by [Rea_cy](?p=charter_list&l=zh-CN#Rea_cy)) |
 
@@ -61,7 +61,7 @@
 
 ## 音乐
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico) [Airy Dream - Bob Hou/DEP/Sakura records official樱花记录 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2073434954)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Airy Dream - Bob Hou/DEP/Sakura records official樱花记录 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2073434954)
 
 ## 相关视频
 

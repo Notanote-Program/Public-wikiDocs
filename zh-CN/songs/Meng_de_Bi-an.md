@@ -22,7 +22,7 @@
 | 信息 | SY | EZ |
 | :-: | :-: | :-: |
 | 定数 | 3.0 | 1.0 |
-| 颜色 | [无色](?p=colours&l=zh-CN#void) | [无色](?p=colours&l=zh-CN#void) |
+| 颜色 | [无色](?p=colors/Void&l=zh-CN) | [无色](?p=colors/Void&l=zh-CN) |
 | 物量 | 483 | 525 |
 | 谱师 | [嘤箱](?p=charter_list&l=zh-CN#XyX) | [嘤箱](?p=charter_list&l=zh-CN#XyX) vs. [Rea_cy](?p=charter_list&l=zh-CN#Rea_cy) |
 
@@ -59,8 +59,8 @@
 
 ## 音乐
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico) [梦的彼岸 - Caviare - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1971867249)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【电音/Midtempo】霓彩 —— Caviare - 梦的彼岸](https://www.bilibili.com/video/BV1514y197CD/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico" class="vidimgicon" /> [梦的彼岸 - Caviare - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1971867249)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【电音/Midtempo】霓彩 —— Caviare - 梦的彼岸](https://www.bilibili.com/video/BV1514y197CD/)
 
 ## 相关视频
 

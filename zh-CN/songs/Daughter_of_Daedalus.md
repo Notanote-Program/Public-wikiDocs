@@ -22,7 +22,7 @@
 | 信息 | SY | SY+ | EZ |
 | :-: | :-: | :-: | :-: |
 | 定数 | 7.1 | 9.6 | 2.0 |
-| 颜色 | [映拟之缃](?p=chapters/Yellow&l=zh-CN) | [映拟之缃](?p=chapters/Yellow&l=zh-CN) | [映拟之缃](?p=chapters/Yellow&l=zh-CN) |
+| 颜色 | [映拟之缃](?p=colors/Yellow&l=zh-CN) | [映拟之缃](?p=colors/Yellow&l=zh-CN) | [映拟之缃](?p=colors/Yellow&l=zh-CN) |
 | 物量 | 1145 | 1204 | 1141 |
 | 谱师 | [小嘤箱](?p=charter_list&l=zh-CN#XyX) | [小嘤箱](?p=charter_list&l=zh-CN#XyX) | [小嘤箱](?p=charter_list&l=zh-CN#XyX) |
 
@@ -64,10 +64,10 @@
 
 ## 音乐
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote原创曲】Daughter of Daedalus - tn-shi](https://www.bilibili.com/video/BV1MyvPzaErG/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote原创曲】Daughter of Daedalus - tn-shi](https://www.bilibili.com/video/BV1MyvPzaErG/)
 
 ## 相关视频
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】Daughter of Daedalus [SY 7.1] 谱面演示 / DOD](https://www.bilibili.com/video/BV1p6J9zWET8/)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】Daughter of Daedalus [SY+ 9.6] 谱面演示 / DOD](https://www.bilibili.com/video/BV1XEJ9zBEDy/)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】Daughter of Daedalus [EZ 2.0] 谱面演示 / DOD](https://www.bilibili.com/video/BV1YEJ9zBEUv/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Daughter of Daedalus [SY 7.1] 谱面演示 / DOD](https://www.bilibili.com/video/BV1p6J9zWET8/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Daughter of Daedalus [SY+ 9.6] 谱面演示 / DOD](https://www.bilibili.com/video/BV1XEJ9zBEDy/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Daughter of Daedalus [EZ 2.0] 谱面演示 / DOD](https://www.bilibili.com/video/BV1YEJ9zBEUv/)

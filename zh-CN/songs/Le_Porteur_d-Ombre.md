@@ -22,7 +22,7 @@
 | 信息 | SY | EZ | SP |
 | :-: | :-: | :-: | :-: |
 | 定数 | 10.6 | 5.0 | ? |
-| 颜色 | [框势之黑](?p=chapters/Black&l=zh-CN) | [框势之黑](?p=chapters/Black&l=zh-CN) | [空域之碧](?p=chapters/Green&l=zh-CN) |
+| 颜色 | [框势之黑](?p=colors/Black&l=zh-CN) | [框势之黑](?p=colors/Black&l=zh-CN) | [空域之碧](?p=colors/Green&l=zh-CN) |
 | 物量 | 1315 | 844 | 1233 |
 | 谱师 | [零彩](?p=charter_list&l=zh-CN#zecolost) & [嘤箱](?p=charter_list&l=zh-CN#XyX) & [舞仙翼](?p=charter_list&l=zh-CN#wxy) | [零彩](?p=charter_list&l=zh-CN#zecolost) & [嘤箱](?p=charter_list&l=zh-CN#XyX) | [你绿](?p=charter_list&l=zh-CN#Vluoy) vs. [Nan](?p=charter_list&l=zh-CN#zecolost) Chart [Team](?p=charter_list&l=zh-CN#qm) |
 
@@ -77,13 +77,13 @@ Aeia suo’qia noi’laer
 
 ## 音乐
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico) [Le Porteur d'Ombre（游戏《Orzmic》主线第七章最终曲） - 黒皇帝/AKA - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2061373391)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/youtube.ico) [[Orzmic] 黒皇帝 feat. AKA - Le Porteur d'Ombre](https://www.youtube.com/watch?v=T7HSohcdKEY)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【黒皇帝 feat. AKA】 Le Porteur d'Ombre 【Orzmic】](https://www.bilibili.com/video/BV1zj411V7ZR/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Le Porteur d'Ombre（游戏《Orzmic》主线第七章最终曲） - 黒皇帝/AKA - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2061373391)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/youtube.ico" class="vidimgicon" /> [[Orzmic] 黒皇帝 feat. AKA - Le Porteur d'Ombre](https://www.youtube.com/watch?v=T7HSohcdKEY)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【黒皇帝 feat. AKA】 Le Porteur d'Ombre 【Orzmic】](https://www.bilibili.com/video/BV1zj411V7ZR/)
 
 ## 相关视频
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】Le Porteur d'Ombre [SY 10.6] 谱面演示 / LPO / 永夜城](https://www.bilibili.com/video/BV1qHCmYjEBQ/)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】Le Porteur d'Ombre [EZ 5.0] 谱面演示 / LPO / 永夜城](https://www.bilibili.com/video/BV1Uu1MBEEJc/)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】Le Porteur d'Ombre [SP ?] 谱面演示 / LPO / 永夜城](https://www.bilibili.com/video/BV1uu1MBEE3G/)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【站内二杀/超绝帅谱】Le Porteur d'Ombre SY10 理论值](https://www.bilibili.com/video/BV1m1hezBECS/)（玩家：[CH2N8-](https://space.bilibili.com/325129469/)）
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Le Porteur d'Ombre [SY 10.6] 谱面演示 / LPO / 永夜城](https://www.bilibili.com/video/BV1qHCmYjEBQ/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Le Porteur d'Ombre [EZ 5.0] 谱面演示 / LPO / 永夜城](https://www.bilibili.com/video/BV1Uu1MBEEJc/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Le Porteur d'Ombre [SP ?] 谱面演示 / LPO / 永夜城](https://www.bilibili.com/video/BV1uu1MBEE3G/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【站内二杀/超绝帅谱】Le Porteur d'Ombre SY10 理论值](https://www.bilibili.com/video/BV1m1hezBECS/)（玩家：[CH2N8-](https://space.bilibili.com/325129469/)）

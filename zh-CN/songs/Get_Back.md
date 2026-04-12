@@ -22,7 +22,7 @@
 | 信息 | SY | EZ |
 | :-: | :-: | :-: |
 | 定数 | 8.2 | 2.0 |
-| 颜色 | [赋染之蓝](?p=chapters/Blue&l=zh-CN) | [赋染之蓝](?p=chapters/Blue&l=zh-CN) |
+| 颜色 | [赋染之蓝](?p=colors/Blue&l=zh-CN) | [赋染之蓝](?p=colors/Blue&l=zh-CN) |
 | 物量 | 848 | 804 |
 | 谱师 | [乾啊啊啊啊啊](?p=charter_list&l=zh-CN#qa) & [AwlF](?p=charter_list&l=zh-CN#AwlF) | [AwlF](?p=charter_list&l=zh-CN#AwlF) & [乾啊啊啊啊啊](?p=charter_list&l=zh-CN#qa) |
 
@@ -55,10 +55,10 @@
 
 ## 音乐
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico) [Get Back（游戏《Phigros》收录曲） - CAP3 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1428353930)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [Get Back-CAP3](https://www.bilibili.com/video/BV18S411A7Bv/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Get Back（游戏《Phigros》收录曲） - CAP3 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1428353930)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [Get Back-CAP3](https://www.bilibili.com/video/BV18S411A7Bv/)
 
 ## 相关视频
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】Get Back [SY 8.2] 谱面演示](https://www.bilibili.com/video/BV18LHtzaEEj/)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】Get Back [EZ 2.0] 谱面演示](https://www.bilibili.com/video/BV1wuHPzJEcH/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Get Back [SY 8.2] 谱面演示](https://www.bilibili.com/video/BV18LHtzaEEj/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Get Back [EZ 2.0] 谱面演示](https://www.bilibili.com/video/BV1wuHPzJEcH/)

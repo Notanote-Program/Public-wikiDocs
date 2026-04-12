@@ -22,7 +22,7 @@
 | 信息 | SY | TL |
 | :-: | :-: | :-: |
 | 定数 | 2.5 | 3.5 |
-| 颜色 | [框势之黑](?p=chapters/Black&l=zh-CN) | [框势之黑](?p=chapters/Black&l=zh-CN) |
+| 颜色 | [框势之黑](?p=colors/Black&l=zh-CN) | [框势之黑](?p=colors/Black&l=zh-CN) |
 | 物量 | 449 | 122 |
 | 谱师 | [XyX](?p=charter_list&l=zh-CN#XyX) | [流星嘤](?p=charter_list&l=zh-CN#XyX) |
 
@@ -106,8 +106,8 @@ And not have to remember you never belonged to me
 
 ## 音乐
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico) ["She" - ΓИ7AL - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1887473162)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico" class="vidimgicon" /> ["She" - ΓИ7AL - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1887473162)
 
 ## 相关视频
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】"SHE" [TL 3.5] 谱面演示](https://www.bilibili.com/video/BV16igZzgEif/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】"SHE" [TL 3.5] 谱面演示](https://www.bilibili.com/video/BV16igZzgEif/)

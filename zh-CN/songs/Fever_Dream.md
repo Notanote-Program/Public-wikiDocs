@@ -22,7 +22,7 @@
 | 信息 | SY | EZ |
 | :-: | :-: | :-: |
 | 定数 | 9.9 | 4.0 |
-| 颜色 | [框势之黑](?p=chapters/Black&l=zh-CN) | [框势之黑](?p=chapters/Black&l=zh-CN) |
+| 颜色 | [框势之黑](?p=colors/Black&l=zh-CN) | [框势之黑](?p=colors/Black&l=zh-CN) |
 | 物量 | 814 | 1187 |
 | 谱师 | [xyx](?p=charter_list&l=zh-CN#XyX) & [静似止](?p=charter_list&l=zh-CN#jm333) | [xyx](?p=charter_list&l=zh-CN#XyX) & [静似止](?p=charter_list&l=zh-CN#jm333) |
 
@@ -122,11 +122,11 @@ Dream
 
 ## 音乐
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico) [Fever Dream - BilliumMoto/Hundotte - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1993475592)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/youtube.ico) [【BOF:ET】Fever Dream / Hundotte & BilliumMoto【BGA】](https://www.youtube.com/watch?v=hfZm9nIia9w)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【BOF:ET】Fever Dream / Hundotte & BilliumMoto【BGA】](https://www.bilibili.com/video/BV1Uk4y1T7Mb/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Fever Dream - BilliumMoto/Hundotte - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1993475592)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/youtube.ico" class="vidimgicon" /> [【BOF:ET】Fever Dream / Hundotte & BilliumMoto【BGA】](https://www.youtube.com/watch?v=hfZm9nIia9w)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【BOF:ET】Fever Dream / Hundotte & BilliumMoto【BGA】](https://www.bilibili.com/video/BV1Uk4y1T7Mb/)
 
 ## 相关视频
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】Fever Dream [SY 9.9] 谱面演示](https://www.bilibili.com/video/BV1zAkXBJEYD/)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】Fever Dream [EZ 4.0] 谱面演示](https://www.bilibili.com/video/BV1GEkXBgEG9/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Fever Dream [SY 9.9] 谱面演示](https://www.bilibili.com/video/BV1zAkXBJEYD/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Fever Dream [EZ 4.0] 谱面演示](https://www.bilibili.com/video/BV1GEkXBgEG9/)

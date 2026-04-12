@@ -22,7 +22,7 @@
 | 信息 | SY | EZ |
 | :-: | :-: | :-: |
 | 定数 | 10.4 | 4.5 |
-| 颜色 | [赋染之蓝](?p=chapters/Blue&l=zh-CN) | [赋染之蓝](?p=chapters/Blue&l=zh-CN) |
+| 颜色 | [赋染之蓝](?p=colors/Blue&l=zh-CN) | [赋染之蓝](?p=colors/Blue&l=zh-CN) |
 | 物量 | 1000 | 689 |
 | 谱师 | C/ [2025 H√-1](?p=charter_list&l=zh-CN#wxy) "[ZRESAIPH](?p=charter_list&l=zh-CN#zecolost) | C/ 2025 H√-1 "[ZRESAIPH](?p=charter_list&l=zh-CN#zecolost) |
 
@@ -58,11 +58,11 @@
 
 ## 音乐
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico) [Eschatology - 清水達也/Scarlette - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2689900694)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/youtube.ico) [[Kalpa] Eschatology - Tatsh & Scarlette【Music】](https://www.youtube.com/watch?v=8i1d3R9dyik)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【转载，已授权】【KALPA】Eschatology 末世论（KALPA × Lanota联动曲目之一）](https://www.bilibili.com/video/BV1Ht4y187yM/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Eschatology - 清水達也/Scarlette - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2689900694)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/youtube.ico" class="vidimgicon" /> [[Kalpa] Eschatology - Tatsh & Scarlette【Music】](https://www.youtube.com/watch?v=8i1d3R9dyik)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【转载，已授权】【KALPA】Eschatology 末世论（KALPA × Lanota联动曲目之一）](https://www.bilibili.com/video/BV1Ht4y187yM/)
 
 ## 相关视频
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】Eschatology [SY 10.4] 谱面演示](https://www.bilibili.com/video/BV17i8CzkE53/)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】Eschatology [EZ 4.5] 谱面演示](https://www.bilibili.com/video/BV1qi8CzkE6X/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Eschatology [SY 10.4] 谱面演示](https://www.bilibili.com/video/BV17i8CzkE53/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Eschatology [EZ 4.5] 谱面演示](https://www.bilibili.com/video/BV1qi8CzkE6X/)

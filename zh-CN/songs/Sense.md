@@ -21,7 +21,7 @@
 | 信息 | SY |
 | :-: | :-: |
 | 定数 | 8.1 |
-| 颜色 | [赋染之蓝](?p=chapters/Blue&l=zh-CN) |
+| 颜色 | [赋染之蓝](?p=colors/Blue&l=zh-CN) |
 | 物量 | 687 |
 | 谱师 | [零彩](?p=charter_list&l=zh-CN#zecolost) & [嘤箱](?p=charter_list&l=zh-CN#XyX) |
 
@@ -49,10 +49,10 @@
 
 ## 音乐
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico) [Sense - BilliumMoto/Silentroom - 单曲 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1909347605)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/youtube.ico) [【BOFXVII】BilliumMoto × Silentroom - Sense](https://www.youtube.com/watch?v=ZZtzydJXkaw)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [BilliumMoto × Silentroom - Sense | BOFXVII Team [Clue]](https://www.bilibili.com/video/BV1HU4y1g7AQ/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Sense - BilliumMoto/Silentroom - 单曲 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1909347605)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/youtube.ico" class="vidimgicon" /> [【BOFXVII】BilliumMoto × Silentroom - Sense](https://www.youtube.com/watch?v=ZZtzydJXkaw)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [BilliumMoto × Silentroom - Sense | BOFXVII Team [Clue]](https://www.bilibili.com/video/BV1HU4y1g7AQ/)
 
 ## 相关视频
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】Sense [SY 8.1] 谱面演示](https://www.bilibili.com/video/BV1ac8Ez8EJs/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Sense [SY 8.1] 谱面演示](https://www.bilibili.com/video/BV1ac8Ez8EJs/)

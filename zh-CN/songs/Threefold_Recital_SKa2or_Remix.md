@@ -23,11 +23,11 @@
 | 曲名 | 三相奇谈 (SKa2or Remix) |
 | 别名 | 无 |
 | 授权性质 | 原创 |
-| 曲师 | [SKa2or](?p=composer_list#Ska2or&l=zh-CN) |
+| 曲师 | [SKa2or](?p=composer_list&l=zh-CN#SKa2or) |
 | 时长 | 03:29 |
 | BPM | 166 |
 | 章节 | [三相奇谈](?p=chapters/Threefold_Recital&l=zh-CN) |
-| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Threefold_Recital_(SKa2or_Remix).jpg" style="max-width: 13rem;max-height: 13rem" /><br />[whale](?p=illustrator_list#whale&l=zh-CN) / [Ayutkia](?p=illustrator_list#Ayutkia&l=zh-CN) ft. [可乐](?p=illustrator_list#BottledSodaa&l=zh-CN) |
+| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Threefold_Recital_SKa2or_Remix.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[whale](?p=illustrator_list&l=zh-CN#whale) / [Ayutkia](?p=illustrator_list&l=zh-CN#Ayutkia) ft. [可乐](?p=illustrator_list&l=zh-CN#BottledSodaa) |
 
 ## 谱面信息
 

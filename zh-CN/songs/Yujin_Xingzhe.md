@@ -87,8 +87,8 @@
 
 ## 音乐
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico) [余烬行者 - Kari脆球/KAIRCI/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=3358496040)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote原创曲】余烬行者 - KAIRCI feat. Kari脆球](https://www.bilibili.com/video/BV1PGAmzhEL6/)<sup><a id="note-1" href="#ref-1">[1]</a></sup>
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico" class="vidimgicon" /> [余烬行者 - Kari脆球/KAIRCI/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=3358496040)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote原创曲】余烬行者 - KAIRCI feat. Kari脆球](https://www.bilibili.com/video/BV1PGAmzhEL6/)<sup><a id="note-1" href="#ref-1">[1]</a></sup>
 
 ## 相关视频
 

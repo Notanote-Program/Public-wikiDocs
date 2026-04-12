@@ -15,14 +15,14 @@
 | 时长 | 02:57 |
 | BPM | 200 |
 | 章节 | [单曲](?p=chapters/Singles&l=zh-CN) |
-| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/NODE.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[教授_Professor](?p=illustrator_list&l=zh-CN#JQ.Professor) & [祈莲](?p=illustrator_list&l=zh-CN#Panthullu) |
+| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/NODE.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[教授_Professor](?p=illustrator_list&l=zh-CN#JQ-Professor) & [祈莲](?p=illustrator_list&l=zh-CN#Panthullu) |
 
 ## 谱面信息
 
 | 信息 | SY | SY+ | EZ |
 | :-: | :-: | :-: | :-: |
 | 定数 | 9.0 | 10.6 | 5.0 |
-| 颜色 | [赋染之蓝](?p=chapters/Blue&l=zh-CN) | [赋染之蓝](?p=chapters/Blue&l=zh-CN) | [赋染之蓝](?p=chapters/Blue&l=zh-CN) |
+| 颜色 | [赋染之蓝](?p=colors/Blue&l=zh-CN) | [赋染之蓝](?p=colors/Blue&l=zh-CN) | [赋染之蓝](?p=colors/Blue&l=zh-CN) |
 | 物量 | 1215 | 1544 | 1028 |
 | 谱师 | [Notanote Charting Team](?p=charter_list&l=zh-CN#XyX) | [Notanote](?p=charter_list&l=zh-CN#XyX) Charting [Team](?p=charter_list&l=zh-CN#wxy) | [小嘤箱](?p=charter_list&l=zh-CN#XyX) & [凉皮!!!](?p=charter_list&l=zh-CN#LPI) |
 
@@ -93,11 +93,11 @@
 
 ## 音乐
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico) [ИÖDΣ - ILusMin/CNHKSS/ブリシルム★/猎影双煞NonNam/Cher雪小小/Notanote/Sakura records official樱花记录 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2726207063)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [[Notanote原创曲] ИÖDΣ - ICBM](https://www.bilibili.com/video/BV1L931zPEZs/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico" class="vidimgicon" /> [ИÖDΣ - ILusMin/CNHKSS/ブリシルム★/猎影双煞NonNam/Cher雪小小/Notanote/Sakura records official樱花记录 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2726207063)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [[Notanote原创曲] ИÖDΣ - ICBM](https://www.bilibili.com/video/BV1L931zPEZs/)
 
 ## 相关视频
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】ИÖDΣ [SY 9.0] 谱面演示 / NODE](https://www.bilibili.com/video/BV1fqZpBBEMJ/)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】ИÖDΣ [SY+ 10.6] 谱面演示 / NODE](https://www.bilibili.com/video/BV1ZzZpBTEtX/)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】ИÖDΣ [EZ 5.0] 谱面演示 / NODE](https://www.bilibili.com/video/BV1dkZpBNEPQ/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】ИÖDΣ [SY 9.0] 谱面演示 / NODE](https://www.bilibili.com/video/BV1fqZpBBEMJ/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】ИÖDΣ [SY+ 10.6] 谱面演示 / NODE](https://www.bilibili.com/video/BV1ZzZpBTEtX/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】ИÖDΣ [EZ 5.0] 谱面演示 / NODE](https://www.bilibili.com/video/BV1dkZpBNEPQ/)

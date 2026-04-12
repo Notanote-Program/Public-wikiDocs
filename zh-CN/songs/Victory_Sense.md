@@ -22,7 +22,7 @@
 | 信息 | SY | EZ |
 | :-: | :-: | :-: |
 | 定数 | 7.7 | 3.0 |
-| 颜色 | [承演之白](?p=chapters/White&l=zh-CN) | [承演之白](?p=chapters/White&l=zh-CN) |
+| 颜色 | [承演之白](?p=colors/White&l=zh-CN) | [承演之白](?p=colors/White&l=zh-CN) |
 | 物量 | 776 | 717 |
 | 谱师 | [小嘤箱](?p=charter_list&l=zh-CN#XyX) | [小嘤箱](?p=charter_list&l=zh-CN#XyX) |
 
@@ -52,10 +52,10 @@
 
 ## 音乐
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico) [Victory Sense（BOFXVI 参赛曲） - KAH - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2747250689)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/youtube.ico) [【BOFXVI】 Victory Sense / KAH【BGA】](https://www.youtube.com/watch?v=5_v8QTmwQ88)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Victory Sense（BOFXVI 参赛曲） - KAH - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2747250689)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/youtube.ico" class="vidimgicon" /> [【BOFXVI】 Victory Sense / KAH【BGA】](https://www.youtube.com/watch?v=5_v8QTmwQ88)
 
 ## 相关视频
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】Victory Sense [SY 7.7] 谱面演示](https://www.bilibili.com/video/BV1WYkXBfEUA/)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】Victory Sense [EZ 3.0] 谱面演示](https://www.bilibili.com/video/BV1fPkXBUEhw/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Victory Sense [SY 7.7] 谱面演示](https://www.bilibili.com/video/BV1WYkXBfEUA/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Victory Sense [EZ 3.0] 谱面演示](https://www.bilibili.com/video/BV1fPkXBUEhw/)

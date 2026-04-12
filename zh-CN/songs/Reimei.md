@@ -11,7 +11,7 @@
 | 曲名 | Reimei |
 | 别名 | 黎明 |
 | 授权性质 | 非原创 |
-| 曲师 | [影虎。](?p=composer_list&l=zh-CN#Kagetora.) |
+| 曲师 | [影虎。](?p=composer_list&l=zh-CN#Kagetora) |
 | 时长 | 02:28 |
 | BPM | 185 |
 | 章节 | [单曲](?p=chapters/Singles&l=zh-CN) |
@@ -54,11 +54,11 @@
 
 ## 音乐
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico) [Reimei（黎明） - 影虎。 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1396181979)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/youtube.ico) [影虎。[Kagetora.] / Reimei 【G2R2018 / Phigros】](https://www.youtube.com/watch?v=PqkNsrEJzpk)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [影虎。[Kagetora..] / Reimei](https://www.bilibili.com/video/BV1C44y1r7KH/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Reimei（黎明） - 影虎。 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1396181979)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/youtube.ico" class="vidimgicon" /> [影虎。[Kagetora.] / Reimei 【G2R2018 / Phigros】](https://www.youtube.com/watch?v=PqkNsrEJzpk)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [影虎。[Kagetora..] / Reimei](https://www.bilibili.com/video/BV1C44y1r7KH/)
 
 ## 相关视频
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】Reimei [SY 7.7] 谱面演示](https://www.bilibili.com/video/BV1ugHAzfEXX/)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】Reimei [EZ 3.0] 谱面演示](https://www.bilibili.com/video/BV1TLHAzxEcu/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Reimei [SY 7.7] 谱面演示](https://www.bilibili.com/video/BV1ugHAzfEXX/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Reimei [EZ 3.0] 谱面演示](https://www.bilibili.com/video/BV1TLHAzxEcu/)

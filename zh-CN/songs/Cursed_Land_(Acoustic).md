@@ -15,14 +15,14 @@
 | 时长 | 02:42 |
 | BPM | 136.12 |
 | 章节 | [主线一·晴雨之遇](?p=chapters/Main_Story_I&l=zh-CN) |
-| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Cursed_Land_(Acoustic).jpg" style="max-width: 13rem;max-height: 13rem" /><br />[ikun](?p=illustrator_list&l=zh-CN#ikun) |
+| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Cursed_Land_Acoustic.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[ikun](?p=illustrator_list&l=zh-CN#ikun) |
 
 ## 谱面信息
 
 | 信息 | SY | <span style="color: gray;">TL（已删除）</span> |
 | :-: | :-: | :-: |
 | 定数 | 4.0 | <span style="color: gray;">5.0</span> |
-| 颜色 | [框势之黑](?p=chapters/Black&l=zh-CN) | |
+| 颜色 | [框势之黑](?p=colors/Black&l=zh-CN) | |
 | 物量 | 286 | <span style="color: gray;">401</span> |
 | 谱师 | [XyX](?p=charter_list&l=zh-CN#XyX) | <span style="color: gray;">[嘤箱](?p=charter_list&l=zh-CN#XyX) feat. [qm](?p=charter_list&l=zh-CN#qm) & [wxy](?p=charter_list&l=zh-CN#wxy)</span> |
 
@@ -60,10 +60,10 @@
 
 ## 音乐
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico) [Cursed Land (Acoustic) - SJQ音福 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2009517807)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [[音乐制作工坊/凯尔特风] 《Cursed Land》 愚蠢贪婪的人类，终将受到惩罚……](https://www.bilibili.com/video/BV1pv4y1z7UR/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Cursed Land (Acoustic) - SJQ音福 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2009517807)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [[音乐制作工坊/凯尔特风] 《Cursed Land》 愚蠢贪婪的人类，终将受到惩罚……](https://www.bilibili.com/video/BV1pv4y1z7UR/)
 
 ## 相关视频
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】Cursed Land (Acoustic) [SY 4.0] 谱面演示](https://www.bilibili.com/video/BV1o5QUBZEof/)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】（已删除谱面）Cursed Land (Acoustic) [TL 5.0] 谱面演示](https://www.bilibili.com/video/BV1nigZzgEge/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Cursed Land (Acoustic) [SY 4.0] 谱面演示](https://www.bilibili.com/video/BV1o5QUBZEof/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】（已删除谱面）Cursed Land (Acoustic) [TL 5.0] 谱面演示](https://www.bilibili.com/video/BV1nigZzgEge/)

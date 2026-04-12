@@ -1,4 +1,4 @@
-# ИÖDΣ
+# ИÖDΣ - OMG It's Boss Quan we're doomed -
 
 <div class="NoticeBoard">
   <p style="font-size: xx-large;"><strong>⚠️&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;警&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;惕&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;福&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;瑞&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;控&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚠️</strong></p>
@@ -15,16 +15,16 @@
 | 时长 | 02:41 |
 | BPM | 170 ~~不是哥们竟然没原曲BPM高~~ |
 | 章节 | [？？？](?p=chapters/???&l=zh-CN) |
-| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/NODE-OMG_It-s_Boss_Quan_we-re_doomed-.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[泉大人的恩情还不完\o/](?p=composer_list&l=zh-CN#Semiryoiki) |
+| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/NODE-OMG_It-s_Boss_Quan_we-re_doomed-.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[泉大人的恩情还不完\o/](?p=illustrator_list&l=zh-CN#Semiryoiki) |
 
 ## 谱面信息
 
 | 信息 | SP |
 | :-: | :-: |
 | 定数 | ? |
-| 颜色 | [无色](?p=colours&l=zh-CN#void) |
+| 颜色 | [无色](?p=colors/Void&l=zh-CN) |
 | 物量 | 1746 |
-| 谱师 | [泉大人的](?p=composer_list&l=zh-CN#qm)[恩情](?p=composer_list&l=zh-CN#XyX)[还不完\o/](?p=composer_list&l=zh-CN#Dason) |
+| 谱师 | [泉大人的](?p=charter_list&l=zh-CN#qm)[恩情](?p=charter_list&l=zh-CN#XyX)[还不完\o/](?p=charter_list&l=zh-CN#Dason) |
 
 ## 解锁方法
 
@@ -51,8 +51,8 @@
 
 ## 音乐
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【OtaOte愚人节】ИÖDΣ - OMG It's Boss Quan we're doomed - - 泉大人的恩情还不完✋😭✋](https://www.bilibili.com/video/BV1XK9EBzEyq/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【OtaOte愚人节】ИÖDΣ - OMG It's Boss Quan we're doomed - - 泉大人的恩情还不完✋😭✋](https://www.bilibili.com/video/BV1XK9EBzEyq/)
 
 ## 相关视频
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote噗面爆管室/愚人节】ИÖDΣ - OMG It's Boss Quan we're doomed - / NODE愚人节](https://www.bilibili.com/video/BV1Ev9EBSEoU/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote噗面爆管室/愚人节】ИÖDΣ - OMG It's Boss Quan we're doomed - [SP ?] / NODE愚人节](https://www.bilibili.com/video/BV1Ev9EBSEoU/)

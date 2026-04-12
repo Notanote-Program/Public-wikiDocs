@@ -22,7 +22,7 @@
 | 信息 | SY |
 | :-: | :-: |
 | 定数 | 6.8 |
-| 颜色 | [框势之黑](?p=chapters/Black&l=zh-CN) |
+| 颜色 | [框势之黑](?p=colors/Black&l=zh-CN) |
 | 物量 | 937 |
 | 谱师 | [ＸＣＤ](?p=charter_list&l=zh-CN#AwlF) - Ａ - [ＺＯＮＥ](?p=charter_list&l=zh-CN#XyX) |
 
@@ -49,11 +49,11 @@
 
 ## 音乐
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico) [T R A N S C E N D - T H E - E A R T H - Akiuta/2088 RECORDS - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2164562702)<sup><a id="note-1" href="#ref-1">[1]</a></sup>
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico" class="vidimgicon" /> [T R A N S C E N D - T H E - E A R T H - Akiuta/2088 RECORDS - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2164562702)<sup><a id="note-1" href="#ref-1">[1]</a></sup>
 
 ## 相关视频
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】T R A N S C E N D - T H E - E A R T H [SY 6.8] 谱面演示](https://www.bilibili.com/video/BV1NVZtBhEAY/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】T R A N S C E N D - T H E - E A R T H [SY 6.8] 谱面演示](https://www.bilibili.com/video/BV1NVZtBhEAY/)
 
 ## 注释
 

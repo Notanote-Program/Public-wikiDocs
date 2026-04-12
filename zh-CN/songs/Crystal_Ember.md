@@ -31,7 +31,7 @@
 
 ## 游戏相关
 
-- 本曲收录于专辑[星律回溯 Star Rhythm Collection Vol.1](https://www.bilibili.com/video/BV1dEGvzgEgT/)与[Celestial Evasion “類星逃逸”](https://music.163.com/&l=zh-CN#/album?id=274543457)中，同属于本专辑的[「i」](?p=songs/i&l=zh-CN)与[「meteor();」](?p=songs/meteor();&l=zh-CN)也是Notanote原创曲。
+- 本曲收录于专辑[星律回溯 Star Rhythm Collection Vol.1](https://www.bilibili.com/video/BV1dEGvzgEgT/)与[Celestial Evasion “類星逃逸”](https://music.163.com/&l=zh-CN#/album?id=274543457)中，同属于本专辑的[「i」](?p=songs/i&l=zh-CN)与[「meteor();」](?p=songs/meteor&l=zh-CN)也是Notanote原创曲。
 
 ## 攻略
 
@@ -39,7 +39,7 @@
 
 ## 音乐
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico) [Crystal Ember - Ascellia Mio/Hilarity Leap Records/维度坍缩/逃离记录Exit Records/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2713429542)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Crystal Ember - Ascellia Mio/Hilarity Leap Records/维度坍缩/逃离记录Exit Records/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2713429542)
 
 ## 相关视频
 

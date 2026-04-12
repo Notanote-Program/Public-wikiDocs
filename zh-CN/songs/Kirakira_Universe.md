@@ -22,7 +22,7 @@
 | 信息 | SY |
 | :-: | :-: |
 | 定数 | 8.4 |
-| 颜色 | [框势之黑](?p=chapters/Black&l=zh-CN) |
+| 颜色 | [框势之黑](?p=colors/Black&l=zh-CN) |
 | 物量 | 999 |
 | 谱师 | [小嘤箱](?p=charter_list&l=zh-CN#XyX) |
 
@@ -49,8 +49,8 @@
 
 ## 音乐
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico) [Kirakira Universe - Bakami/Sakura records official樱花记录 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2046728252)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Kirakira Universe - Bakami/Sakura records official樱花记录 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2046728252)
 
 ## 相关视频
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】Kirakira Universe [SY 8.4] 谱面演示](https://www.bilibili.com/video/BV1w7ZtBZEpU/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Kirakira Universe [SY 8.4] 谱面演示](https://www.bilibili.com/video/BV1w7ZtBZEpU/)

@@ -22,7 +22,7 @@
 | 信息 | SY | TL |
 | :-: | :-: | :-: |
 | 定数 | 10.5 | 7.8 |
-| 颜色 | [承演之白](?p=chapters/White&l=zh-CN) | [流韵之赤](?p=chapters/Red&l=zh-CN) |
+| 颜色 | [承演之白](?p=colors/White&l=zh-CN) | [流韵之赤](?p=chapters/Red&l=zh-CN) |
 | 物量 | 1240 | 875 |
 | 谱师 | [Nobody](?p=charter_list&l=zh-CN#XyX) and [Nothing](?p=charter_list&l=zh-CN#wxy) | 《[LEI](?p=charter_list&l=zh-CN#Lei_motife) devour [QM](?p=charter_list&l=zh-CN#qm)》 |
 
@@ -61,12 +61,12 @@
 
 ## 音乐
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico) [《Ж》（第19届BOF创作大赛个人战冠军曲） - LYRi "Cyanblue" WHiTE/NIKANON - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2128530603)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/youtube.ico) [【BOF:NT】 《Ж》 【BGA】](https://www.youtube.com/watch?v=iUB32XQAwEE)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【BOF:NT】《Ж》【BGA】](https://www.bilibili.com/video/BV1fr4y1X7nt/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico" class="vidimgicon" /> [《Ж》（第19届BOF创作大赛个人战冠军曲） - LYRi "Cyanblue" WHiTE/NIKANON - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2128530603)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/youtube.ico" class="vidimgicon" /> [【BOF:NT】 《Ж》 【BGA】](https://www.youtube.com/watch?v=iUB32XQAwEE)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【BOF:NT】《Ж》【BGA】](https://www.bilibili.com/video/BV1fr4y1X7nt/)
 
 ## 相关视频
 
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】《Ж》 [SY 10.5] 谱面预览 / 米 / 黑洞](https://www.bilibili.com/video/BV1g6421w7mo/)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote谱面保管室】《Ж》 [TL 8.6] 谱面演示 / 米 / 黑洞](https://www.bilibili.com/video/BV1yZ8XzEEZp/)
-- ![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [【Notanote/全球首杀】震撼！Notanote最难魔王曲《Ж》[SY 10] All Perfect Rank X！](https://www.bilibili.com/video/BV1R78gz1Ewe/)（玩家：[九段不合格](https://space.bilibili.com/1633653929/)）
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】《Ж》 [SY 10.5] 谱面预览 / 米 / 黑洞](https://www.bilibili.com/video/BV1g6421w7mo/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】《Ж》 [TL 8.6] 谱面演示 / 米 / 黑洞](https://www.bilibili.com/video/BV1yZ8XzEEZp/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote/全球首杀】震撼！Notanote最难魔王曲《Ж》[SY 10] All Perfect Rank X！](https://www.bilibili.com/video/BV1R78gz1Ewe/)（玩家：[九段不合格](https://space.bilibili.com/1633653929)）
