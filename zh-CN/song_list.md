@@ -137,14 +137,14 @@
 | [GRAND-i-FLORA](?p=songs/GRAND-i-FLORA&l=zh-CN) | [DRIVE.](?p=composer_list&l=zh-CN#DRIVE.) | [DRIVE.](?p=illustrator_list&l=zh-CN#DRIVE.) | v2.2.0 | SY 8.9 |
 | [Sense](?p=songs/Sense&l=zh-CN) | [BilliumMoto](?p=composer_list&l=zh-CN#BilliumMoto) × [Silentroom](?p=composer_list&l=zh-CN#Silentroom) | [Mahinii](?p=illustrator_list&l=zh-CN#Mahinii) | v2.4.0 | SY 8.1 |
 | [DayBreak](?p=songs/DayBreak&l=zh-CN) | [shadow_bling](?p=composer_list&l=zh-CN#shadow_bling) & [ТЕЕМСИКЛ](?p=composer_list&l=zh-CN#ТЕЕМSYKL) & [SKa2or](?p=composer_list&l=zh-CN#SKa2or) feat. 左乙ZOEE | [Chen-ing尘音文化](?p=illustrator_list&l=zh-CN#Chen-ing) | v2.6.0 | SY 7.9<br />EZ 5.1 |
-| [幽体離脱](?p=songs/Yuutai_Ridatsu&l=zh-CN) | [きくお](?p=composer_list&l=zh-CN#Kikuo) feat. 初音ミク | [瓶装可乐](?p=illustrator_list&l=zh-CN#BottledSodaa) | v2.6.0 | SY 5.6 |
+| [幽体離脱](?p=songs/Yuutai_Ridatsu&l=zh-CN) | [きくお](?p=composer_list&l=zh-CN#Kikuo) feat. 初音ミク | [瓶装可乐](?p=illustrator_list&l=zh-CN#BottledSodaa) | v2.6.0 | SY 5.6 |
 | [Reimei](?p=songs/Reimei&l=zh-CN) | [影虎。](?p=composer_list&l=zh-CN#Kagetora) | [影虎。](?p=composer_list&l=zh-CN#Kagetora) | v2.6.0 | SY 7.7<br />EZ 3.0 |
 | [the world of scarlet](?p=songs/the_world_of_scarlet&l=zh-CN) | [OfficialAz3](?p=composer_list&l=zh-CN#OfficialAz3) | [haohao](?p=illustrator_list&l=zh-CN#Ember) | v2.6.0 | SY 10.0<br />EZ 4.5 |
 | [F℟IEND](?p=songs/FRIEND&l=zh-CN) | [D_AAN](?p=composer_list&l=zh-CN#D_AAN) | [半界](?p=illustrator_list&l=zh-CN#Semiryoiki) & [X-chalk](?p=illustrator_list&l=zh-CN#X-chalk) | v2.7.0 | SY 8.6<br />EZ 4.0 |
 | [Mizu](?p=songs/Mizu&l=zh-CN) | [Itz咸鱼](?p=composer_list&l=zh-CN#Itz_Xianyu) | [CroxsBOss](?p=illustrator_list&l=zh-CN#CroxsBOss) | v2.7.0 | SY 8.5<br />EZ 3.0 |
 | [Lapis](?p=songs/Lapis&l=zh-CN) | [SHIKI](?p=composer_list&l=zh-CN#SHIKI) | [半界](?p=illustrator_list&l=zh-CN#Semiryoiki) | v2.7.0 | SY 8.6<br />EZ 2.5 |
 | [Victory Sense](?p=songs/Victory_Sense&l=zh-CN) | [KAH](?p=composer_list&l=zh-CN#KAH) | [LUMINESCENCEP](?p=illustrator_list&l=zh-CN#LUMINESCENCEP) feat. [X-chalk](?p=illustrator_list&l=zh-CN#X-chalk) | v2.7.0 | SY 7.7<br />EZ 3.0 |
-| [Fever Dream](?p=songs/Fever_Dream&l=zh-CN) | [Hundotte](?p=composer_list&l=zh-CN#Hundotte) & [BilliumMoto](?p=composer_list&l=zh-CN#BilliumMoto) | [Transendium](?p=illustrator_list&l=zh-CN#Transendium) | v2.7.0 | SY 9.9<br />EZ 4.0 |
+| [Fever Dream](?p=songs/Fever_Dream&l=zh-CN) | [Hundotte](?p=composer_list&l=zh-CN#Hundotte) & [BilliumMoto](?p=composer_list&l=zh-CN#BilliumMoto) | [Transendium](?p=illustrator_list&l=zh-CN#Transendium) | v2.7.0 | SY 9.9<br />EZ 4.0 |
 | [Glimmer](?p=songs/Glimmer&l=zh-CN) | [Akiuta](?p=composer_list&l=zh-CN#Akiuta) | [Ameru_nya](?p=illustrator_list&l=zh-CN#Ameru_nya) | v2.7.3 | SY 5.3 |
 | [Overjoy ★ OVERDOSE!!](?p=songs/Overjoy_OVERDOSE&l=zh-CN) | Luna Fozer ([BilliumMoto](?p=composer_list&l=zh-CN#BilliumMoto) & [黒皇帝](?p=composer_list&l=zh-CN#Kurokotei) & [Sobrem](?p=composer_list&l=zh-CN#Sobrem) feat. vally.exe) | [Shalink](?p=illustrator_list&l=zh-CN#Shalink) | v2.8.0 | SY 9.1 |
 | [Silver Morpho](?p=songs/Silver_Morpho&l=zh-CN) | [sakakosmos](?p=composer_list&l=zh-CN#sakakosmos) | [sakakosmos](?p=illustrator_list&l=zh-CN#sakakosmos) | v2.8.0 | SY 6.0 |
@@ -153,7 +153,7 @@
 | [星祀る狐](?p=songs/Hoshi_Matsuru_Kitsune&l=zh-CN) | [andreko](?p=composer_list&l=zh-CN#andreko) | [爱吃包子的包包](?p=illustrator_list&l=zh-CN#Aichi_Baozi_de_Baobao) | re:v2.0.0 | SY 8.3<br />EZ 1.0 |
 | [T R A N S C E N D - T H E - E A R T H](?p=songs/TRANSCEND-THE-EARTH&l=zh-CN) | [Akiuta](?p=composer_list&l=zh-CN#Akiuta) / 2088 RECORDS | [三卜二卜百五十一](?p=illustrator_list&l=zh-CN#BottledSodaa) | re:v2.0.0 | SY 6.8 |
 | [ИÖDΣ](?p=songs/NODE&l=zh-CN) | [I](?p=composer_list&l=zh-CN#ILusMin)[C](?p=composer_list&l=zh-CN#CNHKSS)[B](?p=composer_list&l=zh-CN#Brycillum)[M](?p=composer_list&l=zh-CN#NonNam) | [教授_Professor](?p=illustrator_list&l=zh-CN#JQ-Professor) & [祈莲](?p=illustrator_list&l=zh-CN#Panthullu) | re:v2.0.0 | SY 9.0<br />SY+ 10.6<br />EZ 5.0 |
-| [时契](?p=songs/Shiqi&l=zh-CN) | [KAIRCI](?p=composer_list&l=zh-CN#KAIRCI) feat. Aletta | [ブウユー](?p=illustrator_list&l=zh-CN#Buyu) ft. [此路Cilu](?p=illustrator_list&l=zh-CN#Cilu) | re:v2.0.0 | SY 8.1 |
+| [时契](?p=songs/Shiqi&l=zh-CN) | [KAIRCI](?p=composer_list&l=zh-CN#KAIRCI) feat. Aletta | [ブウユー](?p=illustrator_list&l=zh-CN#Buyu) ft. [此路Cilu](?p=illustrator_list&l=zh-CN#Cilu) | re:v2.0.0 | SY 8.1<br />EZ 1.5 |
 
 ## [？？？](?p=chapters/???&l=zh-CN)
 

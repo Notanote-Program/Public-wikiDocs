@@ -13,7 +13,7 @@
 | 授权性质 | 独家 |
 | 曲师 | [祈枫_yita](?p=composer_list&l=zh-CN#yita) |
 | 时长 | 03:11 |
-| BPM | 174 |
+| BPM | 175 |
 | 章节 | 未知 |
 | 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Outa_Starlight.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[Ayutkia](?p=illustrator_list&l=zh-CN#Ayutkia) |
 

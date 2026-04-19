@@ -21,7 +21,7 @@
 
 | 信息 | SY | TL |
 | :-: | :-: | :-: |
-| 定数 | 7.9 | 4.5 |
+| 定数 | 8.3 | 4.5 |
 | 颜色 | [框势之黑](?p=colors/Black&l=zh-CN) | [框势之黑](?p=colors/Black&l=zh-CN) |
 | 物量 | 636 | 487 |
 | 谱师 | [Lost](?p=charter_list&l=zh-CN#zecolost) in [Abyss](?p=charter_list&l=zh-CN#SrY-ABYSS) | [百八十四](?p=charter_list&l=zh-CN#SrY-ABYSS) |
@@ -63,7 +63,7 @@
 
 ## 相关视频
 
-- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Meltovt Necrosys (UraniumW Remix) [SY 7.9] 谱面演示 / 香蕉牛奶](https://www.bilibili.com/video/BV1TNGzziEP1/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Meltovt Necrosys (UraniumW Remix) [SY 8.3] 谱面演示 / 香蕉牛奶](https://www.bilibili.com/video/BV1TNGzziEP1/)
 - <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Meltovt Necrosys (UraniumW Remix) [TL 4.5] 谱面演示 / 香蕉牛奶](https://www.bilibili.com/video/BV1PgGzzAEQv/)
 
 ## 注释

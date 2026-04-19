@@ -66,4 +66,4 @@
 
 ## 相关视频
 
-- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Last Season [SY 6.2] 谱面演示](https://www.bilibili.com/video/BV1N6ZRY7EtU/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Last Season [SY 5.8] 谱面演示](https://www.bilibili.com/video/BV1N6ZRY7EtU/)

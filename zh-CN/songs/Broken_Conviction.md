@@ -10,7 +10,7 @@
 | :-: | :-: |
 | 曲名 | Broken Conviction |
 | 别名 | BC |
-| 授权性质 | 联合原创（与Milthm） |
+| 授权性质 | 联动（来自Milthm） |
 | 曲师 | [Cansol](?p=composer_list&l=zh-CN#Cansol) |
 | 时长 | 02:25 |
 | BPM | 180 |
@@ -46,7 +46,6 @@
 ## 游戏相关
 
 - 本曲是本家Milthm在2024年更新的最后的曲目。
-- 本曲原为Milthm原创曲，v2.9.0后变为Notanote与Milthm的联合原创曲。
 
 ## 攻略
 

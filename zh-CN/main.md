@@ -104,7 +104,6 @@
 - [「《Ж》」](?p=songs/OZCURIDAD&l=zh-CN)的SY难度是Notanote存活时间最长的谱面，存活504天后被[九段不合格](https://space.bilibili.com/1633653929/)击杀。
 - [「Innocent white」](?p=songs/Innocent_white&l=zh-CN)之所以有EZ+难度是因为[舞仙翼](?p=charter_list&l=zh-CN#wxy)和[活性氮](?p=charter_list&l=zh-CN#HXDan)撞车了。
 - [「Meltovt Necrosys」](?p=songs/Meltovt_Necrosys&l=zh-CN)与[「Elsorhg」](?p=songs/Elsorhg&l=zh-CN)虽然在[Milthm](?p=chapters/Milthm&l=zh-CN)联动章节内，但实际上为Notanote一家的原创曲。
-- v2.9.0后，[「Vestige of Dreams」](?p=songs/Vestige_of_Dreams&l=zh-CN)与[「Broken Conviction」](?p=songs/Broken_Conviction&l=zh-CN)由Milthm原创曲变为Notanote与Milthm的联合原创，从此Milthm章节内所有曲目都属于或部分属于Notanote。
 - [「cybernetic blazar」](?p=songs/cybernetic_blazar&l=zh-CN)为Notanote第一个被联动出去的曲子，被联动至Orzmic。
 - [「夏の花」](?p=songs/Natsu_no_Hana&l=zh-CN)是Notanote中时长最短的音乐，仅有1分37秒。
 - [「追憶」](?p=songs/Tsuioku&l=zh-CN)是Notanote中第一个更改曲绘的曲目。

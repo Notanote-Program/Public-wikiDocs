@@ -23,7 +23,7 @@
 | :-: | :-: |
 | 定数 | ? |
 | 颜色 | [无色](?p=colors/Void&l=zh-CN) |
-| 物量 | 1746 |
+| 物量 | 1745 |
 | 谱师 | [泉大人的](?p=charter_list&l=zh-CN#qm)[恩情](?p=charter_list&l=zh-CN#XyX)[还不完\o/](?p=charter_list&l=zh-CN#Dason) |
 
 ## 解锁方法

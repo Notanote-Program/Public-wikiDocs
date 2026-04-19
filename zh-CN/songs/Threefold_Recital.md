@@ -51,6 +51,7 @@
 ## 游戏相关
 
 - 本曲为《三相奇谈》的主题曲。
+- 本曲在游戏中有删减。
 - 本曲是第一个在谱面上线前就公布谱师的曲目。（信息位于预览视频中的简介）
 - 谱师名义中的海公子与钱备为<span class="spoiler">《三相奇谈》中的角色</span>。
 - 本曲的谱面包含了多个《三相奇谈》中的元素：
@@ -74,8 +75,12 @@
 
 ## 音乐
 
-- ![哔哩哔哩图标](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [主题曲 - 《三相奇谈》](https://www.bilibili.com/video/BV1o4whekEH7/)
+- ![哔哩哔哩图标](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico) [主题曲 - 《三相奇谈》](https://www.bilibili.com/video/BV1o4whekEH7/)<sup><a id="note-1" href="#ref-1">[1]</a></sup>
 
 ## 相关视频
 
 此部分暂无内容。
+
+## 注释
+
+1. <a id="ref-1" href="#note-1">↑</a> 完整版音乐。

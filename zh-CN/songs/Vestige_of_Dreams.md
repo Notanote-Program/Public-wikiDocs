@@ -10,7 +10,7 @@
 | :-: | :-: |
 | 曲名 | Vestige of Dreams |
 | 别名 | VOD |
-| 授权性质 | 联合原创（与Milthm） |
+| 授权性质 | 联动（来自Milthm） |
 | 曲师 | [DRIVE.](?p=composer_list&l=zh-CN#DRIVE.) |
 | 时长 | 02:16 |
 | BPM | 202 |
@@ -46,7 +46,6 @@
 ## 游戏相关
 
 - 本曲是本家Milthm的支线章节一 花裳随雨得春迟的开门曲。
-- 本曲原为Milthm原创曲，v2.9.0后变为Notanote与Milthm的联合原创曲。
 - 本曲在Notanote的上线时间比Milthm早了约6个月。
 
 ## 攻略

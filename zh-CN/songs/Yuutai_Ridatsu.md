@@ -11,7 +11,7 @@
 | 曲名 | 幽体離脱 |
 | 别名 | 星体投射 |
 | 授权性质 | 非原创 |
-| 曲师 | [きくお](?p=composer_list&l=zh-CN#Kikuo) feat. 初音ミク |
+| 曲师 | [きくお](?p=composer_list&l=zh-CN#Kikuo) feat. 初音ミク |
 | 时长 | 03:17 |
 | BPM | 128 |
 | 章节 | [单曲](?p=chapters/Singles&l=zh-CN) |

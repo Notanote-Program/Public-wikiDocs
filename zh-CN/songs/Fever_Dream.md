@@ -11,7 +11,7 @@
 | 曲名 | Fever Dream |
 | 别名 | 无 |
 | 授权性质 | 非原创 |
-| 曲师 | [Hundotte](?p=composer_list&l=zh-CN#Hundotte) & [BilliumMoto](?p=composer_list&l=zh-CN#BilliumMoto) |
+| 曲师 | [Hundotte](?p=composer_list&l=zh-CN#Hundotte) & [BilliumMoto](?p=composer_list&l=zh-CN#BilliumMoto) |
 | 时长 | 02:51 |
 | BPM | 172 |
 | 章节 | [单曲](?p=chapters/Singles&l=zh-CN) |

@@ -31,6 +31,29 @@
 | :-: | :-: | :-: | :-: |
 | [ИÖDΣ](?p=songs/NODE&l=zh-CN) | [单曲](?p=chapters/Singles&l=zh-CN) | [I](#ILusMin)[C](#CNHKSS)[B](#Brycillum)[M](#NonNam) | 曲师名义为从四个曲师中各取一个字母，刻意贴合洲际弹道导弹的缩写 |
 
+<a id="ILusMin"></a>
+
+## ILusMin
+
+- [哔哩哔哩](https://space.bilibili.com/3076780)
+
+| 曲名 | 所属章节 | 曲师名义 | 备注 |
+| :-: | :-: | :-: | :-: |
+| [烁雨](?p=songs/Sparkrain&l=zh-CN) | [Milthm](?p=chapters/Milthm&l=zh-CN) | [ILusMin](#ILusMin) | |
+| [ИÖDΣ](?p=songs/NODE&l=zh-CN) | [单曲](?p=chapters/Singles&l=zh-CN) | [I](#ILusMin)[C](#CNHKSS)[B](#Brycillum)[M](#NonNam) | 曲师名义为从四个曲师中各取一个字母，刻意贴合洲际弹道导弹的缩写 |
+| [meteor();](?p=songs/meteor&l=zh-CN) | 未上线 | [ILusMin](#ILusMin) | |
+
+<a id="CNHKSS"></a>
+
+## CNHKSS
+
+- [哔哩哔哩](https://space.bilibili.com/45903610)
+
+| 曲名 | 所属章节 | 曲师名义 | 备注 |
+| :-: | :-: | :-: | :-: |
+| [璃](?p=songs/Li&l=zh-CN) | [Soul Notes](?p=chapters/Soul_Notes&l=zh-CN) | [CNHKSS](#CNHKSS) | |
+| [ИÖDΣ](?p=songs/NODE&l=zh-CN) | [单曲](?p=chapters/Singles&l=zh-CN) | [I](#ILusMin)[C](#CNHKSS)[B](#Brycillum)[M](#NonNam) | 曲师名义为从四个曲师中各取一个字母，刻意贴合洲际弹道导弹的缩写 |
+
 <a id="yita"></a>
 
 ## 祈枫_yita

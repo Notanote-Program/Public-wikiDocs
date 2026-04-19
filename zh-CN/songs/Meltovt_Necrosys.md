@@ -69,7 +69,7 @@
 ## 相关视频
 
 - <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Meltovt Necrosys [SY 10.2] 谱面演示](https://www.bilibili.com/video/BV1PrZRY2EVA/)
-- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Meltovt Necrosys [EZ 5.8] 谱面演示](https://www.bilibili.com/video/BV116ZRY7Eki/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Meltovt Necrosys [EZ 5.3] 谱面演示](https://www.bilibili.com/video/BV116ZRY7Eki/)
 
 ## 注释
 

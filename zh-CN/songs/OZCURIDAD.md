@@ -70,7 +70,7 @@ NT难度需完成[「主线二·无尽回廊」](?p=chapters/Main_Story_II&l=zh-
 
 ## 相关视频
 
-- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】ΩZСÜRIDΛD [SY 9.3] 谱面演示 / 瓜牛 / OZCURIDAD](https://www.bilibili.com/video/BV1aHJ9ziEWk/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】ΩZСÜRIDΛD [SY 9.2] 谱面演示 / 瓜牛 / OZCURIDAD](https://www.bilibili.com/video/BV1aHJ9ziEWk/)
 - <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】ΩZСÜRIDΛD [EZ 2.5] 谱面演示 / 瓜牛 / OZCURIDAD](https://www.bilibili.com/video/BV15keizFEQz/)
 - <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】ΩZСÜRIDΛD [NT 10.8] 谱面演示 / 瓜牛 / OZCURIDAD](https://www.bilibili.com/video/BV1aAeizdEQo/)
 - <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote/手法教学】全新第二章最难魔王曲 ΩZСÜRIDΛD [NT 10+] All Perfect Rank X！读谱拆谱手顺背谱节奏地狱　瓜牛](https://www.bilibili.com/video/BV1chebzsED5/)（玩家：[九段不合格](https://space.bilibili.com/1633653929/)）

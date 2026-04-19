@@ -58,5 +58,5 @@
 
 ## 相关视频
 
-- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Mizu [SY 8.4] 谱面演示](https://www.bilibili.com/video/BV1bskXBNEEZ/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Mizu [SY 8.5] 谱面演示](https://www.bilibili.com/video/BV1bskXBNEEZ/)
 - <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Mizu [EZ 3.0] 谱面演示](https://www.bilibili.com/video/BV1nrkXBWEEa/)

@@ -66,7 +66,7 @@
 
 ## 相关视频
 
-- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Rainbow Flavor! [SY 7.0] 谱面演示](https://www.bilibili.com/video/BV1278RzsEiN/)
+- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Rainbow Flavor! [SY 6.3] 谱面演示](https://www.bilibili.com/video/BV1278RzsEiN/)
 - <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Rainbow Flavor! [EZ 1.5] 谱面演示](https://www.bilibili.com/video/BV1KZ8CztEkJ/)
 
 ## 注释

@@ -27,9 +27,9 @@
 
 | 曲名 | 所属章节 | 谱师名义 | 备注 |
 | :-: | :-: | :-: | :-: |
-| [追憶](?p=songs/Tsuioku&l=zh-CN) | [主线一·晴雨之遇](?p=chapters/Main_Story_I&l=zh-CN) | **SY** [XyX](#XyX)<br /><span style="color: gray;">**EZ** [八樱盒](#XyX) ([活性氮](#HXDan) modified)</span><br /><span style="color: gray;">**TL** [八樱盒](#XyX) feat. [Fyato](#Fyato)</span> | |
+| [追憶](?p=songs/Tsuioku&l=zh-CN) | [主线一·晴雨之遇](?p=chapters/Main_Story_I&l=zh-CN) | **SY** [XyX](#XyX)<br /><span style="color: gray;">**EZ（已删除）** [八樱盒](#XyX) ([活性氮](#HXDan) modified)</span><br /><span style="color: gray;">**TL（已删除）** [八樱盒](#XyX) feat. [Fyato](#Fyato)</span> | |
 | ["SHE"](?p=songs/SHE&l=zh-CN) | [主线一·晴雨之遇](?p=chapters/Main_Story_I&l=zh-CN) | **SY** [XyX](#XyX)<br />**TL** [流星嘤](#XyX) | TL难度谱师名义中的“流星”代表本曲所属厂牌[流星体](https://space.bilibili.com/3546611869288986/) |
-| [Cursed Land (Acoustic)](?p=songs/Cursed_Land_Acoustic&l=zh-CN) | [主线一·晴雨之遇](?p=chapters/Main_Story_I&l=zh-CN) | **SY** [XyX](#XyX)<br /><span style="color: gray;">**TL** [嘤箱](#XyX) feat. [qm](#qm) & [wxy](#wxy)</span> | |
+| [Cursed Land (Acoustic)](?p=songs/Cursed_Land_Acoustic&l=zh-CN) | [主线一·晴雨之遇](?p=chapters/Main_Story_I&l=zh-CN) | **SY** [XyX](#XyX)<br /><span style="color: gray;">**TL（已删除）** [嘤箱](#XyX) feat. [qm](#qm) & [wxy](#wxy)</span> | |
 | [Lockdown (Tatsunoshin VIP)](?p=songs/Lockdown_Tatsunoshin_VIP&l=zh-CN) | [主线一·晴雨之遇](?p=chapters/Main_Story_I&l=zh-CN) | **SY** [嘤嘤嘤箱](#XyX) feat. [冬花](#Donghua)<br />**EZ** [嘤嘤嘤箱](#XyX) feat. [冬花](#Donghua) ([活性氮](#HXDan) modified) | |
 | [Eltaw](?p=songs/Eltaw&l=zh-CN) | [主线一·晴雨之遇](?p=chapters/Main_Story_I&l=zh-CN) | **SY** [嘤光棒](#XyX) feat. [qm](#qm)<br />**EZ** [嘤光棒](#XyX) ([活性氮](#HXDan) modified) | |
 | [Rainbow Flavor!](?p=songs/Rainbow_Flavor&l=zh-CN) | [支线一·花火之夏](?p=chapters/Side_Story_I&l=zh-CN) | **SY** [嘤箱](#XyX)<br />**EZ** [嘤箱](#XyX) | |
@@ -102,7 +102,7 @@
 
 | 曲名 | 所属章节 | 谱师名义 | 备注 |
 | :-: | :-: | :-: | :-: |
-| [Cursed Land (Acoustic)](?p=songs/Cursed_Land_Acoustic&l=zh-CN) | [主线一·晴雨之遇](?p=chapters/Main_Story_I&l=zh-CN) | <span style="color: gray;">**TL** [嘤箱](#XyX) feat. [qm](#qm) & [wxy](#wxy)</span> | |
+| [Cursed Land (Acoustic)](?p=songs/Cursed_Land_Acoustic&l=zh-CN) | [主线一·晴雨之遇](?p=chapters/Main_Story_I&l=zh-CN) | <span style="color: gray;">**TL（已删除）** [嘤箱](#XyX) feat. [qm](#qm) & [wxy](#wxy)</span> | |
 | [Summer Dream](?p=songs/Summer_Dream&l=zh-CN) | [支线一·花火之夏](?p=chapters/Side_Story_I&l=zh-CN) | **SY** [qm](#qm) x [wxy](#wxy) | |
 | [夏の花](?p=songs/Natsu_no_Hana&l=zh-CN) | [支线一·花火之夏](?p=chapters/Side_Story_I&l=zh-CN) | **SY** [舞仙翼](#wxy)<br />**EZ** [舞仙翼](#wxy) vs. [Rea_cy](#Rea_cy) | |
 | [Brand New Day](?p=songs/Brand_New_Day&l=zh-CN) | [支线一·花火之夏](?p=chapters/Side_Story_I&l=zh-CN) | **EZ** [Yx](#XyX) feat. [Dason](#Dason) & [Wxy](#wxy) | 每个谱师的名义都为首字母大写，模仿曲名每个单词首字母大写 |
@@ -118,7 +118,7 @@
 | [Last Season](?p=songs/Last_Season&l=zh-CN) | [Soul Notes](?p=chapters/Soul_Notes&l=zh-CN) | **SY** [舞仙翼](#wxy) | |
 | [Aether Ingita!](?p=songs/Aether_Ingita&l=zh-CN) | [Soul Notes](?p=chapters/Soul_Notes&l=zh-CN) | **SY** [Nota](#Fulu)[note](#qm) [Char](#XyX)[ting](#zecolost) [Te](#wxy)[am](#Arthur)<br />**EZ** [Nota](#Fulu)[note](#qm) [Char](#XyX)[ting](#zecolost) [Te](#wxy)[am](#Arthur) | |
 | [今天不是明天](?p=songs/Jintian_Bushi_Mingtian&l=zh-CN) | [音波狂潮](?p=chapters/LiveMania&l=zh-CN) | **SY** [小嘤箱](#XyX) ≠ [舞仙翼](#wxy) ≠ [zecolost](#zecolost) | 谱师名义用不等于号连接，对应曲名中的“不是” |
-| [Enough](?p=songs/Enough&l=zh-CN) | [UXN Records](?p=chapters/UXN_Records&l=zh-CN) | **SY** [DarntZhunr](#DarntZhunr) & [舞仙翼](#wxy) | |
+| [Enough](?p=songs/Enough&l=zh-CN) | [UXN Records](?p=chapters/UXN_Records&l=zh-CN) | **SY** [DarntZhunr](#Arthur) & [舞仙翼](#wxy) | |
 | [The Fire](?p=songs/Enough&l=zh-CN) | [UXN Records](?p=chapters/UXN_Records&l=zh-CN) | **SY** [0641](#wxy) | |
 | [MARENOL](?p=songs/MARENOL&l=zh-CN) | [单曲](?p=chapters/Singles&l=zh-CN) | **SY** 啊！[箱](#XyX) feat. 哇！[仙翼](#wxy) & [q弹！m](#qm) | 谱师名义中的“啊！”“哇！”对应曲目中的尖叫声 |
 | [Altersist](?p=songs/Altersist&l=zh-CN) | [单曲](?p=chapters/Singles&l=zh-CN) | **SY** [嘤箱](#XyX) & [舞仙翼](#wxy) feat. [qm](#qm)（[熠烨](#Yiye)） vs. [zecolost](#zecolost)<br />**EZ** [嘤箱](#XyX) & [舞仙翼](#wxy) feat. [Lei](#Lei_motife) | |
@@ -141,7 +141,7 @@
 
 | 曲名 | 所属章节 | 谱师名义 | 备注 |
 | :-: | :-: | :-: | :-: |
-| [Cursed Land (Acoustic)](?p=songs/Cursed_Land_Acoustic&l=zh-CN) | [主线一·晴雨之遇](?p=chapters/Main_Story_I&l=zh-CN) | <span style="color: gray;">**TL** [嘤箱](#XyX) feat. [qm](#qm) & [wxy](#wxy)</span> | |
+| [Cursed Land (Acoustic)](?p=songs/Cursed_Land_Acoustic&l=zh-CN) | [主线一·晴雨之遇](?p=chapters/Main_Story_I&l=zh-CN) | <span style="color: gray;">**TL（已删除）** [嘤箱](#XyX) feat. [qm](#qm) & [wxy](#wxy)</span> | |
 | [Eltaw](?p=songs/Eltaw&l=zh-CN) | [主线一·晴雨之遇](?p=chapters/Main_Story_I&l=zh-CN) | **SY** [嘤光棒](#XyX) feat. [qm](#qm) | |
 | [Summer Dream](?p=songs/Summer_Dream&l=zh-CN) | [支线一·花火之夏](?p=chapters/Side_Story_I&l=zh-CN) | **SY** [qm](#qm) x [wxy](#wxy) | |
 | [Brand New Day](?p=songs/Brand_New_Day&l=zh-CN) | [支线一·花火之夏](?p=chapters/Side_Story_I&l=zh-CN) | <span style="color: gray;">**旧SY** [Yx](#XyX) vs. [Qm](#qm) feat. [Lei](#Lei_motife)</span> | 每个谱师的名义都为首字母大写，模仿曲名每个单词首字母大写 |
@@ -183,7 +183,7 @@
 | [爱上想象的你](?p=songs/Aishang_Xiangxiang_de_Ni&l=zh-CN) | [音波狂潮](?p=chapters/LiveMania&l=zh-CN) | **SY** [zecolost](#zecolost) | |
 | [今天不是明天](?p=songs/Jintian_Bushi_Mingtian&l=zh-CN) | [音波狂潮](?p=chapters/LiveMania&l=zh-CN) | **SY** [小嘤箱](#XyX) ≠ [舞仙翼](#wxy) ≠ [zecolost](#zecolost) | 谱师名义用不等于号连接，对应曲名中的“不是” |
 | [恶修女——永火熔铸](?p=songs/Exiunyu_Yonghuo_Rongzhu&l=zh-CN) | [音波狂潮](?p=chapters/LiveMania&l=zh-CN) | **SY** [国际](#Greenball233)[箱](#XyX)[棋](#zecolost)<br />**TL** [泪莫提](#Lei_motife) vs. [zecolost](#zecolost)——[qm](#qm) | SY难度谱师名义为“国际象棋”谐音，对应BGA与谱面表演中的国际象棋；TL难度谱师名义中模仿曲名有破折号 |
-| [Enough](?p=songs/Enough&l=zh-CN) | [UXN Records](?p=chapters/UXN_Records&l=zh-CN) | **SY** [DarntZhunr](#DarntZhunr) & [舞仙翼](#wxy) | |
+| [Enough](?p=songs/Enough&l=zh-CN) | [UXN Records](?p=chapters/UXN_Records&l=zh-CN) | **SY** [DarntZhunr](#Arthur) & [舞仙翼](#wxy) | |
 | [Abatement](?p=songs/Abatement&l=zh-CN) | [单曲](?p=chapters/Singles&l=zh-CN) | **SY** [zecolost](#zecolost) | |
 | [self-dissociation](?p=songs/self-dissociation&l=zh-CN) | [单曲](?p=chapters/Singles&l=zh-CN) | **SY** [ze[CLUE]st](#zecolost) | 谱师名义中的[CLUE]为本曲所属的BOF参赛队伍名，也是本队参赛曲系列剧情中的角色 |
 | [ENERGY SYNERGY MATRIX](?p=songs/ENERGY_SYNERGY_MATRIX&l=zh-CN) | [单曲](?p=chapters/Singles&l=zh-CN) | **SY** E[wxy](#wxy)gy Syn[zr](#zecolost)gy Matr[yx](#XyX)<br />**EZ** E[wxy](#wxy)gy Syn[zr](#zecolost)gy Matr[yx](#XyX) | 谱师名义模仿曲名 |
@@ -203,7 +203,7 @@
 | [Eltaw](?p=songs/Eltaw&l=zh-CN) | [主线一·晴雨之遇](?p=chapters/Main_Story_I&l=zh-CN) | **TL** [Arthur](#Arthur) | |
 | [Moondread](?p=songs/Moondread&l=zh-CN) | [主线二·无尽回廊](?p=chapters/Main_Story_II&l=zh-CN) | **NT** [Arthur](#Arthur) | |
 | [Aether Ingita!](?p=songs/Aether_Ingita&l=zh-CN) | [Soul Notes](?p=chapters/Soul_Notes&l=zh-CN) | **SY** [Nota](#Fulu)[note](#qm) [Char](#XyX)[ting](#zecolost) [Te](#wxy)[am](#Arthur)<br />**EZ** [Nota](#Fulu)[note](#qm) [Char](#XyX)[ting](#zecolost) [Te](#wxy)[am](#Arthur) | |
-| [Enough](?p=songs/Enough&l=zh-CN) | [UXN Records](?p=chapters/UXN_Records&l=zh-CN) | **SY** [DarntZhunr](#DarntZhunr) & [舞仙翼](#wxy) | |
+| [Enough](?p=songs/Enough&l=zh-CN) | [UXN Records](?p=chapters/UXN_Records&l=zh-CN) | **SY** [DarntZhunr](#Arthur) & [舞仙翼](#wxy) | |
 | [Break Through Myself](?p=songs/Break_Through_Myself&l=zh-CN) | [单曲](?p=chapters/Singles&l=zh-CN) | **SY** [嘤箱](#XyX) & [qm](#qm) & [Arthur](#Arthur) ft. [羽毛球awa](#Greenball233)<br /><span style="color: gray;">**EZ（已删除）** [嘤箱](#XyX) & [qm](#qm) & [Arthur](#Arthur) (Modified by [Rea-cy](#Rea_cy))</span> | |
 | [Chronomia](?p=songs/Nakunaru&l=zh-CN) | [单曲](?p=chapters/Singles&l=zh-CN) | **SY** [DarntZhunr](#Arthur) feat. [Arthur](#Arthur) | |
 | [YUMEND](?p=songs/YUMEND&l=zh-CN) | [单曲](?p=chapters/Singles&l=zh-CN) | **SY** [Arthur](#Arthur) feat. [qm](#qm) | |
@@ -241,7 +241,7 @@
 
 | 曲名 | 所属章节 | 谱师名义 | 备注 |
 | :-: | :-: | :-: | :-: |
-| [追憶](?p=songs/Tsuioku&l=zh-CN) | [主线一·晴雨之遇](?p=chapters/Main_Story_I) | **EZ** [八樱盒](#XyX) ([活性氮](#HXDan) modified) | |
+| [追憶](?p=songs/Tsuioku&l=zh-CN) | [主线一·晴雨之遇](?p=chapters/Main_Story_I) | <span style="color: gray;">**EZ（已删除）** [八樱盒](#XyX) ([活性氮](#HXDan) modified) | |
 | [Lockdown (Tatsunoshin VIP)](?p=songs/Lockdown_Tatsunoshin_VIP&l=zh-CN) | [主线一·晴雨之遇](?p=chapters/Main_Story_I&l=zh-CN) | **EZ** [嘤嘤嘤箱](#XyX) feat. [冬花](#Donghua) ([活性氮](#HXDan) modified) | |
 | [Eltaw](?p=songs/Eltaw&l=zh-CN) | [主线一·晴雨之遇](?p=chapters/Main_Story_I&l=zh-CN) | **EZ** [嘤光棒](#XyX) ([活性氮](#HXDan) modified) | |
 | [Innocent white](?p=songs/Innocent_white&l=zh-CN) | [Milthm](?p=chapters/Milthm&l=zh-CN) | **EZ+** [活性氮](#HXDan) | |
@@ -256,6 +256,7 @@
 ## 十六点一刻
 
 - 常用马甲：1615
+- 在Notanote中的初谱为[「Flutter Echo」](?p=songs/Flutter_Echo&l=zh-CN)的SY谱面
 - [哔哩哔哩](https://space.bilibili.com/43743261)
 
 | 曲名 | 所属章节 | 谱师名义 | 备注 |
@@ -269,6 +270,7 @@
 - 中文名：静橘
 - 常用马甲：KNYORG（与[JMY](#JMY)的合作名义）
 - 常与[JMY](#JMY)合作
+- 在Notanote中的初谱为[「End Time」](?p=songs/End_Time&l=zh-CN)的SY、SY+与EZ谱面
 - 也是曲师，会平面设计
 - 性别：男
 - [哔哩哔哩](https://space.bilibili.com/1675907700)
@@ -283,6 +285,7 @@
 
 - 常用马甲：Kanylant、KNYORG（与[SiLENTORANGE](#SiLENTORANGE)的合作名义）
 - 常与[SiLENTORANGE](#SiLENTORANGE)合作
+- 在Notanote中的初谱为[「End Time」](?p=songs/End_Time&l=zh-CN)的SY、SY+与EZ谱面
 - 也是曲师
 - 电子音乐社团“奇迹小调”主催
 - 性别：男
@@ -295,6 +298,8 @@
 <a id="AwlF"></a>
 
 ## AwlF
+
+- 在Notanote中的初谱为[「IGNITE」](?p=songs/IGNITE&l=zh-CN)的SY与EZ谱面、[「Get Back」](?p=songs/Get_Back&l=zh-CN)的SY与EZ谱面
 
 | 曲名 | 所属章节 | 谱师名义 | 备注 |
 | :-: | :-: | :-: | :-: |
@@ -310,6 +315,7 @@
 ## 乾啊啊啊啊啊
 
 - 英文名：qa
+- 在Notanote中的初谱为[「Get Back」](?p=songs/Get_Back&l=zh-CN)的SY与EZ谱面
 
 | 曲名 | 所属章节 | 谱师名义 | 备注 |
 | :-: | :-: | :-: | :-: |
@@ -340,10 +346,9 @@
 
 <a id="SeRazon"></a>
 
-## 星鸿
+## 星鸿_SeRazon
 
-- 英文名：SeRazon
-- 曾用网名为星河（英文名：StarsRiver），2024年3月改为现名
+- 曾用网名为星河_StarsRiver，2024年3月改为现名
 - 在Notanote中的初谱为[「F℟IEND」](?p=songs/FRIEND&l=zh-CN)的EZ谱面
 - 在组内也负责程序、外部联络、外部宣传
 - 也会写曲
@@ -362,10 +367,23 @@
 
 - 英文名：jm333
 - [哔哩哔哩](https://space.bilibili.com/372659996)
+- 在Notanote中的初谱为[「Fever Dream」](?p=songs/Fever_Dream&l=zh-CN)的SY与EZ谱面
 
 | 曲名 | 所属章节 | 谱师名义 | 备注 |
 | :-: | :-: | :-: | :-: |
 | [Fever Dream](?p=songs/Fever_Dream&l=zh-CN) | [单曲](?p=chapters/Singles&l=zh-CN) | **SY** [xyx](#XyX) & [静似止](#jm333)<br />**EZ** [xyx](#XyX) & [静似止](#jm333) | |
+
+<a id="Greenball233"></a>
+
+## 羽毛球awa
+
+- Notanote程序组成员
+- 在Notanote中的初谱为[「Break Through Myself」](?p=songs/Break_Through_Myself&l=zh-CN)的SY谱面
+
+| 曲名 | 所属章节 | 谱师名义 | 备注 |
+| :-: | :-: | :-: | :-: |
+| [Break Through Myself](?p=songs/Break_Through_Myself&l=zh-CN) | [单曲](?p=chapters/Singles&l=zh-CN) | **SY** [嘤箱](#XyX) & [qm](#qm) & [Arthur](#Arthur) ft. [羽毛球awa](#Greenball233) | |
+| [DayBreak](?p=songs/DayBreak&l=zh-CN) | [单曲](?p=chapters/Singles&l=zh-CN) | **EZ** [羽毛球awa](#Greenball233) vs. [小嘤箱](#XyX) | |
 
 <a id="LPI"></a>
 
@@ -378,6 +396,16 @@
 | 曲名 | 所属章节 | 谱师名义 | 备注 |
 | :-: | :-: | :-: | :-: |
 | [ИÖDΣ](?p=songs/NODE&l=zh-CN) | [单曲](?p=chapters/Singles&l=zh-CN) | **EZ** [小嘤箱](#XyX) & [凉皮!!!](#LPI) | |
+
+<a id="Ariayaka"></a>
+
+## Ariayaka
+
+- Milthm谱师，在Notanote中为客串谱师
+
+| 曲名 | 所属章节 | 谱师名义 | 备注 |
+| :-: | :-: | :-: | :-: |
+| [Innocent white](?p=songs/Innocent_white&l=zh-CN) | [Milthm](?p=chapters/Milthm&l=zh-CN) | **SY** [舞仙翼](#wxy) feat. [Ariayaka](#Ariayaka) (Milthm) | |
 
 ## 注释
 
