@@ -15,7 +15,7 @@
 | 时长 | 02:26 |
 | BPM | 184 |
 | 章节 | 未知 |
-| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/XIII-Fatum.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[CroxsBOss](?p=illustrator_list&l=zh-CN#CroxsBOss) |
+| 曲绘 | <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/XIII_Fatum.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[CroxsBOss](?p=illustrator_list&l=zh-CN#CroxsBOss) |
 
 ## 谱面信息
 
@@ -39,7 +39,7 @@
 
 ## 音乐
 
-- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Rhythmic Commons】XIII: Fatum - Chikanya](https://www.bilibili.com/video/BV1fUDQBMEPH/)
+- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Rhythmic Commons】XIII: Fatum - Chikanya](https://www.bilibili.com/video/BV1fUDQBMEPH/)
 
 ## 相关视频
 

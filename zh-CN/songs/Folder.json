@@ -101,6 +101,12 @@
     "songs/Moondread.md": "Moondread",
     "songs/OZCURIDAD.md": "ΩZСÜRIDΛD",
 
+    "songs/Scyllia.md": "Scyllia",
+    "songs/Prognostication_feat_Loky.md": "预知(feat. Loky)",
+    "songs/-mistopia.md": "-mistopia",
+    "songs/CHANGE_CHANGE.md": "缠歌变",
+    "songs/Nirvana_-Extinction-.md": "寂灭 -Extinction-",
+
     "songs/Threefold_Recital.md": "三相奇谈",
 
     "songs/Grayscale_Tragedy.md": "Grayscale Tragedy",
@@ -121,7 +127,7 @@
     "songs/Le_Porteur_d-Ombre": "Le Porteur d'Ombre",
 
     "songs/Last_Season.md": "Last Season",
-    "songs/Aether_Ingita!.md": "Aether Ingita!",
+    "songs/Aether_Ingita.md": "Aether Ingita!",
     "songs/Meltovt_Necrosys_Salty_Salt_Remix.md": "Meltovt Necrosys (Salty Salt Remix)",
     "songs/Meltovt_Necrosys_UraniumW_Remix.md": "Meltovt Necrosys (UraniumW Remix)",
     "songs/Get_Back.md": "Get Back",
@@ -131,7 +137,7 @@
     "songs/Kaze.md": "Kaze",
     "songs/Break_Through_Myself.md": "Break Through Myself",
     "songs/Convergence.md": "《Ж》",
-    "Stardust_Ember.md": "Stardust Ember",
+    "songs/Stardust_Ember.md": "Stardust Ember",
     "songs/Sense.md": "Sense",
     "songs/DayBreak.md": "DayBreak",
     "songs/Yuutai_Ridatsu.md": "幽体離脱",
@@ -154,7 +160,7 @@
 
     "songs/Nota_Studio.md": "Nota Studio",
     "songs/Candy_Day.md": "Candy Day",
-    "songs/NODE-OMG_It-s_Boss_Quan_we-re_doomed-.md": "ИÖDΣ - OMG It's Boss Quan we're doomed -",
+    "songs/NODE_-_OMG_It-s_Boss_Quan_we-re_doomed_-.md": "ИÖDΣ - OMG It's Boss Quan we're doomed -",
 
     "songs/Kiri.md": "Kiri",
     "songs/Crystal_Ember.md": "Crystal Ember",
@@ -165,5 +171,7 @@
     "songs/Star_Fall_in_Evernight_City.md": "Star Fall in Evernight City",
     "songs/Sphalerite.md": "Sphalerite",
     "songs/Yujin_Xingzhe.md": "余烬行者",
-    "songs/Threefold_Recital_SKa2or_Remix.md": "三相奇谈 (SKa2or Remix)"
+    "songs/Threefold_Recital_SKa2or_Remix.md": "三相奇谈 (SKa2or Remix)",
+    "songs/Outa_Starlight.md": "Outa Starlight",
+    "songs/XIII_Fatum.md": "XIII: Fatum"
 }

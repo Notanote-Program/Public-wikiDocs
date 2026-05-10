@@ -17,7 +17,7 @@
 | [Brand New Day](?p=songs/Brand_New_Day&l=zh-CN) | [支线一·花火之夏](?p=chapters/Side_Story_I) | [Bcc](#Bcc) & [NonNam](#NonNam) ft. Mai | |
 | [ΩZСÜRIDΛD](?p=songs/OZCURIDAD&l=zh-CN) | [主线二·无尽回廊](?p=chapters/Main_Story_II&l=zh-CN) | [瓜牛女王 vs. 瓜牛女王の夫](#NonNam) feat. SOLARIA | |
 | [ИÖDΣ](?p=songs/NODE&l=zh-CN) | [单曲](?p=chapters/Singles&l=zh-CN) | [I](#ILusMin)[C](#CNHKSS)[B](#Brycillum)[M](#NonNam) | 曲师名义为从四个曲师中各取一个字母，刻意贴合洲际弹道导弹的缩写 |
-| [ИÖDΣ - OMG It's Boss Quan we're doomed -](?p=songs/NODE-OMG_It-s_Boss_Quan_we-re_doomed-) | [？？？](?p=chapters/???&l=zh-CN) | [泉大人的恩情](#NonNam)[还不完\o/](#watch) | |
+| [ИÖDΣ - OMG It's Boss Quan we're doomed -](?p=songs/NODE_-_OMG_It-s_Boss_Quan_we-re_doomed_-) | [？？？](?p=chapters/???&l=zh-CN) | [泉大人的](#NonNam)[恩情](#Brycillum)[还不完\o/](#watch) | |
 
 <a id="Brycillum"></a>
 
@@ -30,6 +30,7 @@
 | 曲名 | 所属章节 | 曲师名义 | 备注 |
 | :-: | :-: | :-: | :-: |
 | [ИÖDΣ](?p=songs/NODE&l=zh-CN) | [单曲](?p=chapters/Singles&l=zh-CN) | [I](#ILusMin)[C](#CNHKSS)[B](#Brycillum)[M](#NonNam) | 曲师名义为从四个曲师中各取一个字母，刻意贴合洲际弹道导弹的缩写 |
+| [ИÖDΣ - OMG It's Boss Quan we're doomed -](?p=songs/NODE_-_OMG_It-s_Boss_Quan_we-re_doomed_-) | [？？？](?p=chapters/???&l=zh-CN) | [泉大人的](#NonNam)[恩情](#Brycillum)[还不完\o/](#watch) | |
 
 <a id="ILusMin"></a>
 
@@ -72,7 +73,7 @@
 
 | 曲名 | 所属章节 | 曲师名义 | 备注 |
 | :-: | :-: | :-: | :-: |
-| [XIII: Fatum](?p=songs/XIII-Fatum&l=zh-CN) | 未上线 | [Chikanya](#Chikanya) | |
+| [XIII: Fatum](?p=songs/XIII_Fatum&l=zh-CN) | 未上线 | [Chikanya](#Chikanya) | |
 
 <a id="Bcc"></a>
 
@@ -92,4 +93,4 @@
 
 | 曲名 | 所属章节 | 曲师名义 | 备注 |
 | :-: | :-: | :-: | :-: |
-| [ИÖDΣ - OMG It's Boss Quan we're doomed -](?p=songs/NODE-OMG_It-s_Boss_Quan_we-re_doomed-) | [？？？](?p=chapters/???&l=zh-CN) | [泉大人的恩情](#NonNam)[还不完\o/](#watch) | |
+| [ИÖDΣ - OMG It's Boss Quan we're doomed -](?p=songs/NODE_-_OMG_It-s_Boss_Quan_we-re_doomed_-) | [？？？](?p=chapters/???&l=zh-CN) | [泉大人的](#NonNam)[恩情](#Brycillum)[还不完\o/](#watch) | |

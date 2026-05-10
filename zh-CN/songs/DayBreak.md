@@ -15,7 +15,7 @@
 | 时长 | 02:52 |
 | BPM | 170 |
 | 章节 | [单曲](?p=chapters/Singles&l=zh-CN) |
-| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/DayBreak.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[Chen-ing尘音文化](?p=illustrator_list&l=zh-CN#Chen-ing) |
+| 曲绘 | <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/DayBreak.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[Chen-ing尘音文化](?p=illustrator_list&l=zh-CN#Chen-ing) |
 
 ## 谱面信息
 
@@ -98,10 +98,10 @@ And it's time to claim our every rights<br />
 
 ## 音乐
 
-- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico" class="vidimgicon" /> [韵临律界·DayBreak（韵临律界II主题曲） - shadow_bling/ТЕЕМСИКЛ/SKa2or/左乙/Chen-ing Music/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2731284950)
-- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【韵临律界II】主题曲《DayBreak》，那座大门将再度打开！](https://www.bilibili.com/video/BV1Z28Bz8EjS/)
+- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/netease-cloud-music.ico" class="vidimgicon" /> [韵临律界·DayBreak（韵临律界II主题曲） - shadow_bling/ТЕЕМСИКЛ/SKa2or/左乙/Chen-ing Music/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2731284950)
+- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【韵临律界II】主题曲《DayBreak》，那座大门将再度打开！](https://www.bilibili.com/video/BV1Z28Bz8EjS/)
 
 ## 相关视频
 
-- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】DayBreak [SY 7.9] 谱面演示](https://www.bilibili.com/video/BV16uHPzEEXC/)
-- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】DayBreak [EZ 5.1] 谱面演示](https://www.bilibili.com/video/BV17qHAz3Egr/)
+- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】DayBreak [SY 7.9] 谱面演示](https://www.bilibili.com/video/BV16uHPzEEXC/)
+- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】DayBreak [EZ 5.1] 谱面演示](https://www.bilibili.com/video/BV17qHAz3Egr/)

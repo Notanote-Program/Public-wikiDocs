@@ -15,7 +15,7 @@
 | 时长 | 02:28 |
 | BPM | 138 |
 | 章节 | [单曲](?p=chapters/Singles&l=zh-CN) |
-| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Hoshi_Matsuru_Kitsune.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[爱吃包子的包包](?p=illustrator_list&l=zh-CN#Aichi_Baozi_de_Baobao) |
+| 曲绘 | <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/Hoshi_Matsuru_Kitsune.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[爱吃包子的包包](?p=illustrator_list&l=zh-CN#Aichi_Baozi_de_Baobao) |
 
 ## 谱面信息
 
@@ -53,9 +53,14 @@
 
 ## 音乐
 
-- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico" class="vidimgicon" /> [星祀る狐 - Andreko - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2690081539)
+- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/netease-cloud-music.ico" class="vidimgicon" /> [星祀る狐 - Andreko - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2690081539)
+- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [andreko - 星祀る狐【Notanote Original】](https://www.bilibili.com/video/BV1u8fNB5Ez4/)<sup><a id="note-1" href="#ref-1">[1]</a></sup>
 
 ## 相关视频
 
-- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】星祀る狐 [SY 8.3] 谱面演示](https://www.bilibili.com/video/BV1tmZtBTEyX/)
-- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】星祀る狐 [EZ 1.0] 谱面演示](https://www.bilibili.com/video/BV1y5ZtBfEuE/)
+- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】星祀る狐 [SY 8.3] 谱面演示](https://www.bilibili.com/video/BV1tmZtBTEyX/)
+- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】星祀る狐 [EZ 1.0] 谱面演示](https://www.bilibili.com/video/BV1y5ZtBfEuE/)
+
+## 注释
+
+1. <a id="ref-1" href="#note-1">↑</a> 完整版音乐。

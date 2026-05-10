@@ -15,7 +15,7 @@
 | 时长 | 03:00 |
 | BPM | 128 |
 | 章节 | [支线一·花火之夏](?p=chapters/Side_Story_I&l=zh-CN) |
-| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Brand_New_Day.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[咩咩](?p=illustrator_list&l=zh-CN#Miemie) |
+| 曲绘 | <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/Brand_New_Day.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[咩咩](?p=illustrator_list&l=zh-CN#Miemie) |
 
 ## 谱面信息
 
@@ -116,16 +116,16 @@
 
 ## 音乐
 
-- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Brand New Day - 猎影双煞NonNam/FrostOwl - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2079106190)<sup><a id="note-1.1" href="#ref-1">[1]</a></sup>
-- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote原创曲】重置版：Brand New Day - Bcc & NonNam ft. Mai](https://www.bilibili.com/video/BV1SPFQzrEcF/)<sup><a id="note-2" href="#ref-2">[2]</a></sup>
-- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【新音游 Notanote / Ace Studio】Brand New Day [ft. 赫瑞 & 诺塔]](https://www.bilibili.com/video/BV1jp4y177Bo/)<sup><a id="note-1.2" href="#ref-1">[1]</a></sup>
+- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Brand New Day - 猎影双煞NonNam/FrostOwl - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2079106190)<sup><a id="note-1.1" href="#ref-1">[1]</a></sup>
+- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote原创曲】重置版：Brand New Day - Bcc & NonNam ft. Mai](https://www.bilibili.com/video/BV1SPFQzrEcF/)<sup><a id="note-2" href="#ref-2">[2]</a></sup>
+- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【新音游 Notanote / Ace Studio】Brand New Day [ft. 赫瑞 & 诺塔]](https://www.bilibili.com/video/BV1jp4y177Bo/)<sup><a id="note-1.2" href="#ref-1">[1]</a></sup>
 
 ## 相关视频
 
-- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Brand New Day [SY 6.3] 谱面演示](https://www.bilibili.com/video/BV1w1QUBBEkj/)
-- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Brand New Day [EZ 2.0] 谱面演示](https://www.bilibili.com/video/BV1p1QUBqEG1/)
+- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Brand New Day [SY 6.3] 谱面演示](https://www.bilibili.com/video/BV1w1QUBBEkj/)
+- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Brand New Day [EZ 2.0] 谱面演示](https://www.bilibili.com/video/BV1p1QUBqEG1/)
 
 ## 注释
 
-1. <a id="ref-1" href="#note-1.1">↑</a> <a id="ref-1" href="#note-1.2">↑</a> 旧版音乐。
+1. <a id="ref-1" href="#note-1.1">↑</a> <a href="#note-1.2">↑</a> 旧版音乐。
 1. <a id="ref-2" href="#note-2">↑</a> 重置版音乐。

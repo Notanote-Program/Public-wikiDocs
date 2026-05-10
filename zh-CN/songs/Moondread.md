@@ -15,7 +15,7 @@
 | 时长 | 02:20 |
 | BPM | 220 |
 | 章节 | [主线二·无尽回廊](?p=chapters/Main_Story_II&l=zh-CN) |
-| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Moondread.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[故离](?p=illustrator_list&l=zh-CN#Guli) |
+| 曲绘 | <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/Moondread.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[故离](?p=illustrator_list&l=zh-CN#Guli) |
 
 ## 谱面信息
 
@@ -60,13 +60,13 @@ NT难度需完成[「主线二·无尽回廊」](?p=chapters/Main_Story_II&l=zh-
 
 ## 音乐
 
-- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Moondread - Kry.exe - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1987568855)
-- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/youtube.ico" class="vidimgicon" /> [【BOF:ET】 Kry.exe - Moondread【BGA】](https://www.youtube.com/watch?v=MnlqdFuX8Hk)
-- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【BOF:ET】Kry.exe - Moondread【BGA】](https://www.bilibili.com/video/BV1re4y1r7dk/)
+- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Moondread - Kry.exe - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1987568855)
+- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/youtube.ico" class="vidimgicon" /> [【BOF:ET】 Kry.exe - Moondread【BGA】](https://www.youtube.com/watch?v=MnlqdFuX8Hk)
+- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【BOF:ET】Kry.exe - Moondread【BGA】](https://www.bilibili.com/video/BV1re4y1r7dk/)
 
 ## 相关视频
 
-- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Moondread [SY 8.3] 谱面演示](https://www.bilibili.com/video/BV18Deiz9ESS/)
-- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Moondread [EZ 3.5] 谱面演示](https://www.bilibili.com/video/BV1DkJXzAEGU/)
-- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Moondread [NT 10.3] 谱面演示](https://www.bilibili.com/video/BV1gSeizsED2/)
-- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote/烬月光痕】Moondread [NT 10] All Perfect Rank X！](https://www.bilibili.com/video/BV1o2egzhEfY/)（玩家：[九段不合格](https://space.bilibili.com/1633653929/)）
+- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Moondread [SY 8.3] 谱面演示](https://www.bilibili.com/video/BV18Deiz9ESS/)
+- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Moondread [EZ 3.5] 谱面演示](https://www.bilibili.com/video/BV1DkJXzAEGU/)
+- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Moondread [NT 10.3] 谱面演示](https://www.bilibili.com/video/BV1gSeizsED2/)
+- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote/烬月光痕】Moondread [NT 10] All Perfect Rank X！](https://www.bilibili.com/video/BV1o2egzhEfY/)（玩家：[九段不合格](https://space.bilibili.com/1633653929/)）

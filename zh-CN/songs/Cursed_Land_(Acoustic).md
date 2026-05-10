@@ -15,7 +15,7 @@
 | 时长 | 02:42 |
 | BPM | 136.12 |
 | 章节 | [主线一·晴雨之遇](?p=chapters/Main_Story_I&l=zh-CN) |
-| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Cursed_Land_Acoustic.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[ikun](?p=illustrator_list&l=zh-CN#ikun) |
+| 曲绘 | <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/Cursed_Land_Acoustic.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[ikun](?p=illustrator_list&l=zh-CN#ikun) |
 
 ## 谱面信息
 
@@ -60,10 +60,10 @@
 
 ## 音乐
 
-- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Cursed Land (Acoustic) - SJQ音福 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2009517807)
-- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [[音乐制作工坊/凯尔特风] 《Cursed Land》 愚蠢贪婪的人类，终将受到惩罚……](https://www.bilibili.com/video/BV1pv4y1z7UR/)
+- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Cursed Land (Acoustic) - SJQ音福 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2009517807)
+- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [[音乐制作工坊/凯尔特风] 《Cursed Land》 愚蠢贪婪的人类，终将受到惩罚……](https://www.bilibili.com/video/BV1pv4y1z7UR/)
 
 ## 相关视频
 
-- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Cursed Land (Acoustic) [SY 4.0] 谱面演示](https://www.bilibili.com/video/BV1o5QUBZEof/)
-- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】（已删除谱面）Cursed Land (Acoustic) [TL 5.0] 谱面演示](https://www.bilibili.com/video/BV1nigZzgEge/)
+- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Cursed Land (Acoustic) [SY 4.0] 谱面演示](https://www.bilibili.com/video/BV1o5QUBZEof/)
+- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】（已删除谱面）Cursed Land (Acoustic) [TL 5.0] 谱面演示](https://www.bilibili.com/video/BV1nigZzgEge/)

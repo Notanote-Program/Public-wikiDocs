@@ -32,6 +32,16 @@
 | [Moondread](?p=songs/Moondread&l=zh-CN) | [Kry.exe](?p=composer_list&l=zh-CN#Kry.exe) | [故离](?p=illustrator_list&l=zh-CN#Guli) | v2.5.0 | SY 8.3<br />EZ 3.5<br />NT 10.3 |
 | [ΩZСÜRIDΛD](?p=songs/OZCURIDAD&l=zh-CN) | [瓜牛女王 vs. 瓜牛女王の夫](?p=composer_list&l=zh-CN#NonNam) feat. SOLARIA | [PΩLIΛNYΛΩI](?p=illustrator_list&l=zh-CN#PoliaNyaoi) feat. [KΩÜRIE](?p=illustrator_list&l=zh-CN#kourie) | v2.5.0 | SY 9.2<br />EZ 2.5<br />NT 10.8 |
 
+## [OverEcho](?p=chapters/OverEcho)
+
+| 曲名 | 曲师 | 画师 | 上线版本 | 定数 |
+| :-: | :-: | :-: | :-: | :-: |
+| [Scyllia](?p=songs/Scyllia&l=zh-CN) | [Se-U-Ra](?p=composer_list&l=zh-CN#Se-U-Ra) | [Se-U-Ra](?p=illustrator_list&l=zh-CN#Se-U-Ra) | v2.12.0 | SY 9.0<br />EZ 5.3 |
+| [预知(feat. Loky)](?p=songs/Progonostication_feat_Loky&l=zh-CN) | [Salty Salt](?p=composer_list&l=zh-CN#Salty_Salt) | [ZEN.](?p=illustrator_list&l=zh-CN#ZEN) | v2.12.0 | SY 8.6<br />EZ 3.5 |
+| [-mistopia](?p=songs/-mistopia&l=zh-CN) | [Tanchiky](?p=composer_list&l=zh-CN#Tanchiky) | [ほりつけ](?p=illustrator_list&l=zh-CN#Horitsuke) | v2.12.0 | SY 10.1 |
+| [缠歌变](?p=songs/CHANGE_CHANGE&l=zh-CN) | [Zris](?p=composer_list&l=zh-CN#Zris) | [Panthullu's Bakery](?p=illustrator_list&l=zh-CN#Panthullu) | v2.12.0 | SY 8.1<br />EZ 4.5 |
+| [寂灭_-Extinction-](?p=songs/Nirvana_-Extinction-&l=zh-CN) | [Daily天利](?p=composer_list&l=zh-CN#Daily) | [Viosgit](?p=illustrator_list&l=zh-CN#Viosgit) | v2.12.0 | SY 9.6<br />EZ 5.9 |
+
 ## [三相奇谈](?p=chapters/Threefold_Recital&l=zh-CN)
 
 | 曲名 | 曲师 | 画师 | 上线版本 | 定数 |
@@ -161,7 +171,7 @@
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | [Nota Studio](?p=songs/Nota_Studio&l=zh-CN) | 诺塔 & 诺特 feat. [嘤箱](?p=composer_list&l=zh-CN#XyX) & [呆泠](?p=composer_list&l=zh-CN#Dailing) | [未标注画师](?p=illustrator_list&l=zh-CN#null) | v2.0.0 | SP ? | 2025年愚人节曲目 |
 | [Candy Day](?p=songs/Candy_Day&l=zh-CN) | 诺塔 & 诺特 feat. [嘤箱](?p=composer_list&l=zh-CN#XyX) & [Bob Hou](?p=composer_list&l=zh-CN#Bob_Hou) | [未标注画师](?p=illustrator_list&l=zh-CN#null) | v2.0.0 | SP ? | 2025年愚人节曲目 |
-| [ИÖDΣ - OMG It's Boss Quan we're doomed -](?p=songs/NODE-OMG_It-s_Boss_Quan_we-re_doomed-&l=zh-CN) | [泉大人的恩情](?p=composer_list&l=zh-CN#NonNam)[还不完\o/](?p=composer_list&l=zh-CN#watch) | [泉大人的恩情还不完\o/](?p=illustrator_list&l=zh-CN#Semiryoiki) | v2.11.0 | SP ? | 2026年愚人节曲目 |
+| [ИÖDΣ - OMG It's Boss Quan we're doomed -](?p=songs/NODE_-_OMG_It-s_Boss_Quan_we-re_doomed_-&l=zh-CN) | [泉大人的恩情](?p=composer_list&l=zh-CN#NonNam)[还不完\o/](?p=composer_list&l=zh-CN#watch) | [泉大人的恩情还不完\o/](?p=illustrator_list&l=zh-CN#Semiryoiki) | v2.11.0 | SP ? | 2026年愚人节曲目 |
 
 ## 下架曲目
 
@@ -184,4 +194,4 @@
 | [余烬行者](?p=songs/Yujin_Xingzhe&l=zh-CN) | [KAIRCI](?p=composer_list&l=zh-CN#KAIRCI) feat. Kari脆球 | [ブウユー](?p=illustrator_list&l=zh-CN#Buyu) feat. [此路Cilu](?p=illustrator_list&l=zh-CN#Cilu) | 未知 |
 | [三相奇谈 (SKa2or Remix)](?p=songs/Threefold_Recital_SKa2or_Remix&l=zh-CN) | [SKa2or](?p=composer_list&l=zh-CN#SKa2or) | [whale](?p=illustrator_list&l=zh-CN#whale) / [Ayutkia](?p=illustrator_list&l=zh-CN#Ayutkia) ft. [可乐](?p=illustrator_list&l=zh-CN#BottledSodaa) | 未知 |
 | [Outa Starlight](?p=songs/Outa_Starlight&l=zh-CN) | [祈枫_yita](?p=composer_list&l=zh-CN#yita) | [Ayutkia](?p=illustrator_list&l=zh-CN#Ayutkia) | 未知 |
-| [XIII: Fatum](?p=songs/XIII-Fatum&l=zh-CN) | [Chikanya](?p=composer_list&l=zh-CN#Chikanya) | [CroxsBOss](?p=illustrator_list&l=zh-CN#CroxsBOss) | 未知 |
+| [XIII: Fatum](?p=songs/XIII_Fatum&l=zh-CN) | [Chikanya](?p=composer_list&l=zh-CN#Chikanya) | [CroxsBOss](?p=illustrator_list&l=zh-CN#CroxsBOss) | 未知 |

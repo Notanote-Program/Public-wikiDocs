@@ -15,7 +15,7 @@
 | 时长 | 未知 |
 | BPM | 210 |
 | 章节 | [Orzmic](?p=chapters/Orzmic&l=zh-CN) |
-| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Fiend_Demme.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[QIER](?p=illustrator_list&l=zh-CN#QIER) |
+| 曲绘 | <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/Fiend_Demme.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[QIER](?p=illustrator_list&l=zh-CN#QIER) |
 
 ## 谱面信息
 
@@ -39,9 +39,9 @@
 
 ## 音乐
 
-- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Fiend Demme（From Orzmic） - ZxNX - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2678547740)
-- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/youtube.ico" class="vidimgicon" /> [【Orzmic】Delaina as "ZxNX" - Fiend Demme](https://www.youtube.com/watch?v=JzPsTGd1PPA)
-- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Orzmic】Delaina as "ZxNX" - Fiend Demme](https://www.bilibili.com/video/BV1DF411x72r/)
+- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Fiend Demme（From Orzmic） - ZxNX - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2678547740)
+- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/youtube.ico" class="vidimgicon" /> [【Orzmic】Delaina as "ZxNX" - Fiend Demme](https://www.youtube.com/watch?v=JzPsTGd1PPA)
+- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Orzmic】Delaina as "ZxNX" - Fiend Demme](https://www.bilibili.com/video/BV1DF411x72r/)
 
 ## 相关视频
 

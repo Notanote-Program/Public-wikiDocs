@@ -37,11 +37,55 @@
 
 ## 新闻
 
+### 2026/04/30
+
+Notanote 全新时装公开：
+
+[「诺塔-初心」](?p=characters/Nota-Initial_Heart&l=zh-CN)
+
+——“愿此行，终抵群星。”
+
+![](https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/news/3beb4c85e4d9c6255fba5960c39028f9701972652.jpg)
+
+<img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> **[原动态](https://www.bilibili.com/opus/1196889052640444418)**
+
+---
+
+### 2026/04/27
+
+Notanote × OverEcho联动版本全新角色公开：
+
+[「安列维」](?p=characters/Anlevi&l=zh-CN)
+
+——虽然进入陌生的世界已是日常，但这里仿佛与之前经历的世界都完全不同。<br />
+“在这里，稍微放松一下也是可以的吧。”<br />
+于是便熄灭屏幕，放下装备，望向陌生的天空。
+
+![](https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/news/cb7a8aa41ec8422341947fb1da71a1dd701972652.png)
+
+<img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> **[原动态](https://www.bilibili.com/opus/1195952889362644992)**
+
+
+### 2026/04/26
+
+Notanote x OverEcho 联动 将于 Notanote v2.12 更新！<br />
+本次联动将迎来五首来自OverEcho的曲目：
+
+- [「预知(feat. Loky)」](?p=songs/Prognostication_feat_Loky&l=zh-CN)by [Salty Salt](?p=composer_list&l=zh-CN#Salty_Salt)
+- [「Scyllia」](?p=songs/Scyllia&l=zh-CN)by [Se-U-Ra](?p=composer_list&l=zh-CN#Se-U-Ra)
+- [「寂灭 -Extinction-」](?p=songs/Nirvana_-Extinction-&l=zh-CN)by [Daily天利](?p=composer_list&l=zh-CN#Daily)
+- [「缠歌变」](?p=songs/CHANGE_CHANGE&l=zh-CN)by [Zris](?p=composer_list&l=zh-CN#Zris)
+- [「-mistopia」](?p=songs/-mistopia&l=zh-CN)by [Tanchiky](?p=composer_list&l=zh-CN#Tanchiky)
+
+此外，来自OverEcho的角色「安列维」也将作为常驻联动角色登场，敬请期待！
+
+<img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> **[【Notanote】v2.12 OverEcho联动曲目预览](https://www.bilibili.com/video/BV13tofBtETp/)**
+
 ### 2026/04/12
 
-<img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> **[【Rhythmic Commons】Outa Starlight - 祈枫_yita](https://www.bilibili.com/video/BV1tqDyBYEx2/)**
+<img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> **[【Rhythmic Commons】Outa Starlight - 祈枫_yita](https://www.bilibili.com/video/BV1tqDyBYEx2/)**
 
-<img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> **[【Rhythmic Commons】XIII: Fatum - Chikanya](https://www.bilibili.com/video/BV1fUDQBMEPH/)**
+<img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> **[【Rhythmic Commons】XIII: Fatum - Chikanya](https://www.bilibili.com/video/BV1fUDQBMEPH/)**
 
 ---
 
@@ -49,51 +93,11 @@
 
 （迫害策划中……）
 
-<img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> **[【OtaOte愚人节】ИÖDΣ - OMG It's Boss Quan we're doomed - - 泉大人的恩情还不完✋😭✋](https://www.bilibili.com/video/BV1XK9EBzEyq/)**
+<img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> **[【OtaOte愚人节】ИÖDΣ - OMG It's Boss Quan we're doomed - - 泉大人的恩情还不完✋😭✋](https://www.bilibili.com/video/BV1XK9EBzEyq/)**
 
 ---
 
-<img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> **[【诺特utau声库配布】あなたしか見えないの/眼中只有你一人](https://www.bilibili.com/video/BV144XDBHE2T/)**
-
----
-
-### 2026/03/27
-
-**盗版网站套路深，​<br />
-破解补丁别当真。​<br />
-链接一点几十万，​<br />
-够买十年正版身。**
-
-**⚡诺无语⚡在此提醒您：​<br />
-游玩不规范，亲人两行泪​<br />
-设备中毒炸穿屏⚡**
-
-![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/news/April_Fool_Preview.png)
-
-<img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> **[【☢️诺无语/未授权翻译☢️】⚡⚡OtaOte破解版.exe⚡⚡](https://www.bilibili.com/video/BV1c8QSBqETF/)**
-
----
-
-### 2026/03/02
-
-<img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> **[【Notanote原创曲】三相奇谈 (SKa2or Remix) - SKa2or](https://www.bilibili.com/video/BV1DnAqz5EhB/)**
-
----
-
-### 2026/02/26
-
-“来自世界以外的目光……注视过来了……”
-
-在下一个更新版本中，一名特殊角色将在Notanote中限时出场。​<br />
-\>\> 花费糖果解锁该角色…？
-
-“糖果……混乱……逆转……恐慌……祝各位好运。”
-
-![](https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/news/f13b0239027007fccf2bf81310657e86701972652.png)
-
-### 2026/02/27
-
-<img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> **[【Notanote原创曲】余烬行者 - KAIRCI feat. Kari脆球](https://www.bilibili.com/video/BV1PGAmzhEL6/)**
+<img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> **[【诺特utau声库配布】あなたしか見えないの/眼中只有你一人](https://www.bilibili.com/video/BV144XDBHE2T/)**
 
 ## 你知道吗
 

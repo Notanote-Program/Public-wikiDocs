@@ -15,7 +15,7 @@
 | 时长 | 02:57 |
 | BPM | 146 |
 | 章节 | [单曲](?p=chapters/Singles&l=zh-CN) |
-| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Lapis.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[半界](?p=illustrator_list&l=zh-CN#Semiryoiki) |
+| 曲绘 | <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/Lapis.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[半界](?p=illustrator_list&l=zh-CN#Semiryoiki) |
 
 ## 谱面信息
 
@@ -53,11 +53,11 @@
 
 ## 音乐
 
-- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Lapis（苍星石） - SHIKI - 单曲 - 网易云音乐](https://music.163.com/#/song?id=22792729)
-- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/youtube.ico" class="vidimgicon" /> [SHIKI - Lapis](https://www.youtube.com/watch?v=cx2FMTxQ98A)
-- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [Lapis / SHIKI┃BMS - BOF2008【BGA】](https://www.bilibili.com/video/BV1NU4y1W78v/)
+- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Lapis（苍星石） - SHIKI - 单曲 - 网易云音乐](https://music.163.com/#/song?id=22792729)
+- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/youtube.ico" class="vidimgicon" /> [SHIKI - Lapis](https://www.youtube.com/watch?v=cx2FMTxQ98A)
+- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [Lapis / SHIKI┃BMS - BOF2008【BGA】](https://www.bilibili.com/video/BV1NU4y1W78v/)
 
 ## 相关视频
 
-- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Lapis [SY 8.6] 谱面演示](https://www.bilibili.com/video/BV1nrkXBWEe6/)
-- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Lapis [EZ 2.5] 谱面演示](https://www.bilibili.com/video/BV16kkXBXEJB/)
+- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Lapis [SY 8.6] 谱面演示](https://www.bilibili.com/video/BV1nrkXBWEe6/)
+- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Lapis [EZ 2.5] 谱面演示](https://www.bilibili.com/video/BV16kkXBXEJB/)

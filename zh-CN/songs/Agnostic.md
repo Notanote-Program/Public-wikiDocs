@@ -15,7 +15,7 @@
 | 时长 | 02:13 |
 | BPM | 167 |
 | 章节 | [单曲](?p=chapters/Singles&l=zh-CN) |
-| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Agnostic.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[Ayutkia](?p=illustrator_list&l=zh-CN#Ayutkia) |
+| 曲绘 | <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/Agnostic.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[Ayutkia](?p=illustrator_list&l=zh-CN#Ayutkia) |
 
 ## 谱面信息
 
@@ -54,10 +54,10 @@
 
 ## 音乐
 
-- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Agnostic (Short ver. ) - AiSS/AiSS_初号机 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1891508303)<sup><a id="note-1.1" href="#ref-1">[1]</a></sup>
-- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Agnostic - 卉HUI-Works/AiSS/AiSS_初号机 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1805342105)<sup><a id="note-2.1" href="#ref-2">[2]</a></sup>
-- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【原创/音游投稿】Agnostic (Short ver. )](https://www.bilibili.com/video/BV1zP4y1G7aJ/)<sup><a id="note-1.2" href="#ref-1">[1]</a></sup>
-- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【原创音乐】Agnostic](https://www.bilibili.com/video/BV19T4y1M7r9/)<sup><a id="note-2.2" href="#ref-2">[2]</a></sup>
+- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Agnostic (Short ver. ) - AiSS/AiSS_初号机 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1891508303)<sup><a id="note-1.1" href="#ref-1">[1]</a></sup>
+- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Agnostic - 卉HUI-Works/AiSS/AiSS_初号机 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1805342105)<sup><a id="note-2.1" href="#ref-2">[2]</a></sup>
+- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【原创/音游投稿】Agnostic (Short ver. )](https://www.bilibili.com/video/BV1zP4y1G7aJ/)<sup><a id="note-1.2" href="#ref-1">[1]</a></sup>
+- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【原创音乐】Agnostic](https://www.bilibili.com/video/BV19T4y1M7r9/)<sup><a id="note-2.2" href="#ref-2">[2]</a></sup>
 
 ## 相关视频
 

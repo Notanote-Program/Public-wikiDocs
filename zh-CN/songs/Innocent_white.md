@@ -15,7 +15,7 @@
 | 时长 | 02:04 |
 | BPM | 180 |
 | 章节 | [Milthm](?p=chapters/Milthm&l=zh-CN) |
-| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Innocent_white.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[Ether-0](?p=illustrator_list&l=zh-CN#Ether-0)<details><summary>v2.0.0之前曲绘</summary><img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Innocent_white_old.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[Ether-0](?p=illustrator_list&l=zh-CN#Ether-0)</details> |
+| 曲绘 | <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/Innocent_white.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[Ether-0](?p=illustrator_list&l=zh-CN#Ether-0)<details><summary>v2.0.0之前曲绘</summary><img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/Innocent_white_old.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[Ether-0](?p=illustrator_list&l=zh-CN#Ether-0)</details> |
 
 ## 谱面信息
 
@@ -62,12 +62,12 @@
 
 ## 音乐
 
-- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Innocent white（游戏《Milthm》X《Notanote》原创曲） - 影虎。 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2139042161)
-- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/youtube.ico" class="vidimgicon" /> [影虎。[Kagetora..] / Innocent white【from Notanote x Milthm】](https://www.youtube.com/watch?v=AYmGKA-3SC4)
-- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [影虎。 / Innocent white【from Notanote x Milthm】](https://www.bilibili.com/video/BV1Cr42187Lk/)
+- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Innocent white（游戏《Milthm》X《Notanote》原创曲） - 影虎。 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2139042161)
+- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/youtube.ico" class="vidimgicon" /> [影虎。[Kagetora..] / Innocent white【from Notanote x Milthm】](https://www.youtube.com/watch?v=AYmGKA-3SC4)
+- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [影虎。 / Innocent white【from Notanote x Milthm】](https://www.bilibili.com/video/BV1Cr42187Lk/)
 
 ## 相关视频
 
-- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Innocent white [SY 9.7] 谱面演示](https://www.bilibili.com/video/BV1u5nJzMEpB/)
-- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Innocent white [EZ+ 5.2] 谱面演示](https://www.bilibili.com/video/BV14YHpz1Enu/)
-- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Innocent white [EZ 2.5] 谱面演示](https://www.bilibili.com/video/BV147HxzpE6P/)
+- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Innocent white [SY 9.7] 谱面演示](https://www.bilibili.com/video/BV1u5nJzMEpB/)
+- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Innocent white [EZ+ 5.2] 谱面演示](https://www.bilibili.com/video/BV14YHpz1Enu/)
+- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Innocent white [EZ 2.5] 谱面演示](https://www.bilibili.com/video/BV147HxzpE6P/)

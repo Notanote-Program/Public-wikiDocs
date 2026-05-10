@@ -15,7 +15,7 @@
 | 时长 | 01:37 |
 | BPM | 126 |
 | 章节 | [支线一·花火之夏](?p=chapters/Side_Story_I&l=zh-CN) |
-| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Natsu_no_Hana.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[卡莫伦斯](?p=illustrator_list&l=zh-CN#CARMOLENS)　©跃动记录 |
+| 曲绘 | <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/Natsu_no_Hana.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[卡莫伦斯](?p=illustrator_list&l=zh-CN#CARMOLENS)　©跃动记录 |
 
 ## 谱面信息
 
@@ -59,7 +59,7 @@
 
 ## 音乐
 
-- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/netease-cloud-music.ico" class="vidimgicon" /> [夏の花 - Sakanapaste/Hilarity Leap Records - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2068402486)
+- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/netease-cloud-music.ico" class="vidimgicon" /> [夏の花 - Sakanapaste/Hilarity Leap Records - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2068402486)
 
 ## 相关视频
 

@@ -30,7 +30,7 @@
 | [Stardust Ember](?p=songs/Stardust_Ember&l=zh-CN) | [单曲](?p=chapters/Singles&l=zh-CN) | [半界](#Semiryoiki) | |
 | [F℟IEND](?p=songs/FRIEND&l=zh-CN) | [单曲](?p=chapters/Singles&l=zh-CN) | [半界](#Semiryoiki) & [X-chalk](#X-chalk) | |
 | [Lapis](?p=songs/Lapis&l=zh-CN) | [单曲](?p=chapters/Singles&l=zh-CN) | [半界](#Semiryoiki) | |
-| [ИÖDΣ - OMG It's Boss Quan we're doomed -](?p=songs/NODE-OMG_It-s_Boss_Quan_we-re_doomed-&l=zh-CN) | [？？？](?p=chapters/???&l=zh-CN) | [泉大人的恩情还不完\o/](?p=composer_list&l=zh-CN#Semiryoiki) | |
+| [ИÖDΣ - OMG It's Boss Quan we're doomed -](?p=songs/NODE_-_OMG_It-s_Boss_Quan_we-re_doomed_-&l=zh-CN) | [？？？](?p=chapters/???&l=zh-CN) | [泉大人的恩情还不完\o/](#Semiryoiki) | |
 | [茶靡](?p=songs/Chami&l=zh-CN) | 未上线 | [Semiryoiki](#Semiryoiki) | |
 
 <a id="Exut"></a>
@@ -106,7 +106,7 @@
 | [Kaze](?p=songs/Kaze&l=zh-CN) | [单曲](?p=chapters/Singles) | [CroxsBOss](#CroxsBOss) | |
 | [Mizu](?p=songs/Mizu&l=zh-CN) | [单曲](?p=chapters/Singles) | [CroxsBOss](#CroxsBOss) | |
 | [Kiri](?p=songs/Kiri&l=zh-CN) | 未上线 | [CroxsBOss](#CroxsBOss) | |
-| [XIII: Fatum](?p=songs/XIII-Fatum&l=zh-CN) | 未上线 | [CroxsBOss](#CroxsBOss) | |
+| [XIII: Fatum](?p=songs/XIII_Fatum&l=zh-CN) | 未上线 | [CroxsBOss](#CroxsBOss) | |
 
 <a id="Ayutkia"></a>
 
@@ -140,6 +140,7 @@
 | 曲名 | 所属章节 | 画师名义 | 备注 |
 | :-: | :-: | :-: | :-: |
 | [Daughter of Daedalus](?p=songs/Daughter_of_Daedalus&l=zh-CN) | [主线二·无尽回廊](?p=chapters/Main_Story_II) | [Exut](#Exut) & [Panthullu](#Panthullu) | |
+| [缠歌变](?p=songs/CHANGE_CHANGE&l=zh-CN) | [OverEcho](?p=chapters/OverEcho) | [Panthullu's Bakery](#Panthullu) | |
 | [ИÖDΣ](?p=songs/NODE&l=zh-CN) | [单曲](?p=chapters/Singles) | [教授_Professor](#JQ-Professor) & [祈莲](#Panthullu) | |
 
 <a id="JQ-Professor"></a>
@@ -215,3 +216,50 @@
 | 曲名 | 所属章节 | 画师名义 | 备注 |
 | :-: | :-: | :-: | :-: |
 | [三相奇谈 (SKa2or Remix)](?p=songs/Threefold_Recital_SKa2or_Remix&l=zh-CN) | [三相奇谈](?p=chapters/Threefold_Recital&l=zh-CN) | [whale](#whale) / [Ayutkia](#Ayutkia) ft. [可乐](#BottledSodaa) | |
+
+<a id="Viosgit"></a>
+
+## Viosgit
+
+- 为Phigros等音游供过曲绘
+- [哔哩哔哩](https://space.bilibili.com/100034760)
+
+| 曲名 | 所属章节 | 画师名义 | 备注 |
+| :-: | :-: | :-: | :-: |
+| [寂灭 -Extinction-](?p=songs/Nirvana_-Extinction-&l=zh-CN) | [OverEcho](?p=chapters/OverEcho) | [Viosgit](#Viosgit) | |
+
+<a id="Se-U-Ra"></a>
+
+## Se-U-Ra
+
+- 同时也是著名曲师
+- [X](https://x.com/SeURa_Nue)
+
+| 曲名 | 所属章节 | 画师名义 | 备注 |
+| :-: | :-: | :-: | :-: |
+| [Scyllia](?p=songs/Scyllia&l=zh-CN) | [OverEcho](?p=chapters/OverEcho) | [Se-U-Ra](#Se-U-Ra) | |
+
+<a id="ZEN"></a>
+
+## ZEN.
+
+| 曲名 | 所属章节 | 画师名义 | 备注 |
+| :-: | :-: | :-: | :-: |
+| [预知(feat. Loky)](?p=songs/Prognostication_feat_Loky&l=zh-CN) | [OverEcho](?p=chapters/OverEcho) | [ZEN.](#ZEN) | |
+
+<a id="Horitsuke"></a>
+
+## ほりつけ
+
+| 曲名 | 所属章节 | 画师名义 | 备注 |
+| :-: | :-: | :-: | :-: |
+| [-mistopia](?p=songs/-mistopia&l=zh-CN) | [OverEcho](?p=chapters/OverEcho) | [ほりつけ](#Horitsuke) | |
+
+<a id="null"></a>
+
+## 未标注画师
+
+| 曲名 | 所属章节 | 画师名义 | 备注 |
+| :-: | :-: | :-: | :-: |
+| [Nota Studio](?p=songs/Nota_Studio&l=zh-CN) | [？？？](?p=chapters/???&l=zh-CN) | [未标注画师](#null) | |
+| [Candy Day](?p=songs/Candy_Day&l=zh-CN) | [？？？](?p=chapters/???&l=zh-CN) | [未标注画师](#null) | |

@@ -15,7 +15,7 @@
 | 时长 | |
 | BPM | |
 | 章节 | [？？？](?p=chapters/???&l=zh-CN) |
-| 曲绘 | <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/illustrations/Nota_Studio.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[未标注画师](?p=illustrator_list&l=zh-CN#null) |
+| 曲绘 | <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/Nota_Studio.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[未标注画师](?p=illustrator_list&l=zh-CN#null) |
 
 ## 谱面信息
 
@@ -54,5 +54,5 @@
 
 ## 相关视频
 
-- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote噗面爆管室/愚人节】Nota Studio [SP ?] 噗面演示](https://www.bilibili.com/video/BV1X4SfBkETy/)
-- <img src="https://git.tebyte.cn/Notanote-Public/Public-wikiDocs/raw/branch/main/static/bilibili.ico" class="vidimgicon" /> [[notanote]谁家音游愚人节谱过了一年才出现首杀？？？](https://www.bilibili.com/video/BV1oZSmBQECW/)（玩家：[一只刷刷](https://space.bilibili.com/1832665183)）
+- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote噗面爆管室/愚人节】Nota Studio [SP ?] 噗面演示](https://www.bilibili.com/video/BV1X4SfBkETy/)
+- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [[notanote]谁家音游愚人节谱过了一年才出现首杀？？？](https://www.bilibili.com/video/BV1oZSmBQECW/)（玩家：[一只刷刷](https://space.bilibili.com/1832665183)）
