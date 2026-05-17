@@ -1,7 +1,7 @@
 # Scyllia
 
 <div class="NoticeBoard">
-  <p>啊↓啊↑ 啊↓啊↑</p>
+  <p><s>经过OverEcho海峡惨遭斯库拉的神秘节奏袭击</s></p>
 </div>
 
 ## 曲目信息

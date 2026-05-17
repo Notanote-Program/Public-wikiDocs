@@ -1,7 +1,7 @@
 # 寂灭 -Extinction-
 
 <div class="NoticeBoard">
-  <p>啊↓啊↑ 啊↓啊↑</p>
+  <p>呜↑ 呜哇哦~ 啊↑ 啊↑ 呜哇哦~</p>
 </div>
 
 ## 曲目信息

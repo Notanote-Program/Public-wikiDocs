@@ -1,7 +1,7 @@
 # -mistopia
 
 <div class="NoticeBoard">
-  <p></p>
+  <p>拜谢.png</p>
 </div>
 
 ## 曲目信息

@@ -239,6 +239,17 @@
 | :-: | :-: | :-: | :-: |
 | [Scyllia](?p=songs/Scyllia&l=zh-CN) | [OverEcho](?p=chapters/OverEcho) | [Se-U-Ra](#Se-U-Ra) | |
 
+<a id="Yamawolf"></a>
+
+## 狼小魂
+
+- 森罗万象游戏画师，前狛纳世界画师
+- [哔哩哔哩](https://space.bilibili.com/1125844412)
+
+| 曲名 | 所属章节 | 画师名义 | 备注 |
+| :-: | :-: | :-: | :-: |
+| [三相奇谈](?p=songs/Threefold_Recital&l=zh-CN) | [三相奇谈](?p=chapters/Threefold_Recital&l=zh-CN) | [狼小魂](#Yamawolf) | |
+
 <a id="ZEN"></a>
 
 ## ZEN.

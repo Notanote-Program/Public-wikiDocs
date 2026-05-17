@@ -88,7 +88,7 @@
 | [Star Chain](?p=songs/Star_Chain&l=zh-CN) | [WEch Blackey](?p=composer_list&l=zh-CN#WEch_Blackey) | [Soul Notes](?p=illustrator_list&l=zh-CN#Soul_Notes) | v1.0.0 | SY 4.5 |
 | [Apocalyptic](?p=songs/Apocalyptic&l=zh-CN) | [Z ClaxX](?p=composer_list&l=zh-CN#Z_ClaxX) & [SumaiLight](?p=composer_list&l=zh-CN#SumaiLight) | [Soul Notes](?p=illustrator_list&l=zh-CN#Soul_Notes) | v1.0.0 | SY 5.1 |
 | [璃](?p=songs/Li&l=zh-CN) | [CNHKSS](?p=composer_list&l=zh-CN#CNHKSS) | [Soul Notes](?p=illustrator_list&l=zh-CN#Soul_Notes) | v1.0.0 | SY 7.4<br />EZ 2.0 |
-| [Last Season](?p=songs/Vestige_of_Dreams&l=zh-CN) | [lunari.io](?p=composer_list&l=zh-CN#lunari.io) | [青梅煮酒](?p=illustrator_list&l=zh-CN#Qingmei_Zhujiu) | v2.0.0 | SY 5.8 |
+| [Last Season](?p=songs/Last Season&l=zh-CN) | [lunari.io](?p=composer_list&l=zh-CN#lunari.io) | [青梅煮酒](?p=illustrator_list&l=zh-CN#Qingmei_Zhujiu) | v2.0.0 | SY 5.8 |
 | [Aether Ingita!](?p=songs/Aether_Ingita&l=zh-CN) | [ZAWA](?p=composer_list&l=zh-CN#ZAWA) | // [半界](?p=illustrator_list&l=zh-CN#Semiryoiki) | v2.0.0 | SY 10.5<br />EZ 5.5 |
 | [Meltovt Necrosys (UraniumW Remix)](?p=songs/Meltovt_Necrosys_UraniumW_Remix&l=zh-CN) | [UraniumW](?p=composer_list&l=zh-CN#UraniumW) feat. [ZAWA](?p=composer_list&l=zh-CN#ZAWA) | [nyniazero](?p=illustrator_list&l=zh-CN#nyniazero) vs. [yx](?p=illustrator_list&l=zh-CN#yx) | v2.0.0 | SY 8.3<br />TL 4.5 |
 | [Meltovt Necrosys (Salty Salt Remix)](?p=songs/Meltovt_Necrosys_Salty_Salt_Remix&l=zh-CN) | [Salty Salt](?p=composer_list&l=zh-CN#Salty_Salt) | [nyniazero](?p=illustrator_list&l=zh-CN#nyniazero) vs. [yx](?p=illustrator_list&l=zh-CN#yx) | v2.0.0 | SY 9.4<br />EZ 4.0 |

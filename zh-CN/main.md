@@ -37,6 +37,23 @@
 
 ## 新闻
 
+### 2026/05/09
+
+《诺物语Notanote》正式确认参展【缀梦DREAM 国际音乐游戏产业文化博览会】！
+
+这里是诺塔！本次摊位限定周边、超多惊喜彩蛋全都备好啦，音游同好们快来摊位贴贴🥳
+
+7月24日~7月26日，杭州大会展中心，我们不见不散！
+
+📍场地信息：<br />
+浙江省杭州市萧山区美狮线与岩南线交叉路口往西约210米
+
+![](https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/news/62f74d6f00eeda525acaf9804a8d8a1b701972652.jpg)
+
+<img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> **[原动态](https://www.bilibili.com/opus/1200367984734896136)**
+
+---
+
 ### 2026/04/30
 
 Notanote 全新时装公开：
@@ -65,6 +82,7 @@ Notanote × OverEcho联动版本全新角色公开：
 
 <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> **[原动态](https://www.bilibili.com/opus/1195952889362644992)**
 
+---
 
 ### 2026/04/26
 
@@ -80,24 +98,6 @@ Notanote x OverEcho 联动 将于 Notanote v2.12 更新！<br />
 此外，来自OverEcho的角色「安列维」也将作为常驻联动角色登场，敬请期待！
 
 <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> **[【Notanote】v2.12 OverEcho联动曲目预览](https://www.bilibili.com/video/BV13tofBtETp/)**
-
-### 2026/04/12
-
-<img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> **[【Rhythmic Commons】Outa Starlight - 祈枫_yita](https://www.bilibili.com/video/BV1tqDyBYEx2/)**
-
-<img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> **[【Rhythmic Commons】XIII: Fatum - Chikanya](https://www.bilibili.com/video/BV1fUDQBMEPH/)**
-
----
-
-### 2026/04/01
-
-（迫害策划中……）
-
-<img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> **[【OtaOte愚人节】ИÖDΣ - OMG It's Boss Quan we're doomed - - 泉大人的恩情还不完✋😭✋](https://www.bilibili.com/video/BV1XK9EBzEyq/)**
-
----
-
-<img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> **[【诺特utau声库配布】あなたしか見えないの/眼中只有你一人](https://www.bilibili.com/video/BV144XDBHE2T/)**
 
 ## 你知道吗
 
