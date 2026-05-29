@@ -15,7 +15,7 @@
 | 时长 | 03:25 |
 | BPM | 180 |
 | 章节 | 未知 |
-| 曲绘 | <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/Recordatio_Temporis.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[HOSHILINEARX.](?p=illustrator_list&l=zh-CN#HOSHILINEARX.) |
+| 曲绘 | <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/Recordatio_Temporis.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[HOSHILINEARX.](?p=illustrator_list&l=zh-CN#HOSHILINEARX.) |
 
 ## 谱面信息
 
@@ -39,7 +39,7 @@
 
 ## 音乐
 
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote x 第九日记录】Recordatio Temporis - EOTW433](https://www.bilibili.com/video/BV16p17B8EPb/)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote x 第九日记录】Recordatio Temporis - EOTW433](https://www.bilibili.com/video/BV16p17B8EPb/)
 
 ## 相关视频
 

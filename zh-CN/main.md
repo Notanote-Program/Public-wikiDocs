@@ -50,7 +50,7 @@
 
 ![](https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/news/62f74d6f00eeda525acaf9804a8d8a1b701972652.jpg)
 
-<img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> **[原动态](https://www.bilibili.com/opus/1200367984734896136)**
+<img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> **[原动态](https://www.bilibili.com/opus/1200367984734896136)**
 
 ---
 
@@ -64,7 +64,7 @@ Notanote 全新时装公开：
 
 ![](https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/news/3beb4c85e4d9c6255fba5960c39028f9701972652.jpg)
 
-<img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> **[原动态](https://www.bilibili.com/opus/1196889052640444418)**
+<img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> **[原动态](https://www.bilibili.com/opus/1196889052640444418)**
 
 ---
 
@@ -80,7 +80,7 @@ Notanote × OverEcho联动版本全新角色公开：
 
 ![](https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/news/cb7a8aa41ec8422341947fb1da71a1dd701972652.png)
 
-<img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> **[原动态](https://www.bilibili.com/opus/1195952889362644992)**
+<img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> **[原动态](https://www.bilibili.com/opus/1195952889362644992)**
 
 ---
 
@@ -97,7 +97,7 @@ Notanote x OverEcho 联动 将于 Notanote v2.12 更新！<br />
 
 此外，来自OverEcho的角色「安列维」也将作为常驻联动角色登场，敬请期待！
 
-<img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> **[【Notanote】v2.12 OverEcho联动曲目预览](https://www.bilibili.com/video/BV13tofBtETp/)**
+<img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> **[【Notanote】v2.12 OverEcho联动曲目预览](https://www.bilibili.com/video/BV13tofBtETp/)**
 
 ## 你知道吗
 

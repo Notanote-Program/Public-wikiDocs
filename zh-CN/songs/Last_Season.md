@@ -15,7 +15,7 @@
 | 时长 | 02:35 |
 | BPM | 120 |
 | 章节 | [Soul Notes](?p=chapters/Soul_Notes&l=zh-CN) |
-| 曲绘 | <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/Last_Season.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[青梅煮酒](?p=illustrator_list&l=zh-CN#Qingmei_Zhujiu)<details><summary>v2.11.0之前曲绘</summary><img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/Last_Season_old.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[青梅煮酒](?p=illustrator_list&l=zh-CN#Qingmei_Zhujiu)</details> |
+| 曲绘 | <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/Last_Season.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[青梅煮酒](?p=illustrator_list&l=zh-CN#Qingmei_Zhujiu)<details><summary>v2.11.0之前曲绘</summary><img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/Last_Season_old.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[青梅煮酒](?p=illustrator_list&l=zh-CN#Qingmei_Zhujiu)</details> |
 
 ## 谱面信息
 
@@ -51,7 +51,7 @@
   > 心中有光的人总在深冬怀揣春天。
   > ——正观新闻《此心光明万物生》
 
-  本动态已删除，但是有[大松_Dason](?p=charter_list&l=zh-CN#Dason)在[Notanote官方Discord服务器](https://discord.gg/notanote)上发送的一张动态[截图](https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/Last_Season_leak.png)留存。（[Discord原消息链接](https://discord.com/channels/1094981701190557706/1094982163981684796/1334501924027760711)）
+  本动态已删除，但是有[大松_Dason](?p=charter_list&l=zh-CN#Dason)在[Notanote官方Discord服务器](https://discord.gg/notanote)上发送的一张动态[截图](https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/Last_Season_leak.png)留存。（[Discord原消息链接](https://discord.com/channels/1094981701190557706/1094982163981684796/1334501924027760711)）
 
 ## 攻略
 
@@ -61,9 +61,9 @@
 
 ## 音乐
 
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Last Season - lunari.io/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2714634339)
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote x Soul Notes】Last Season - lunari.io](https://www.bilibili.com/video/BV15GKweNEcq/)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Last Season - lunari.io/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2714634339)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote x Soul Notes】Last Season - lunari.io](https://www.bilibili.com/video/BV15GKweNEcq/)
 
 ## 相关视频
 
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Last Season [SY 5.8] 谱面演示](https://www.bilibili.com/video/BV1N6ZRY7EtU/)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Last Season [SY 5.8] 谱面演示](https://www.bilibili.com/video/BV1N6ZRY7EtU/)

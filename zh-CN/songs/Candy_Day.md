@@ -15,7 +15,7 @@
 | 时长 | |
 | BPM | |
 | 章节 | [？？？](?p=chapters/???&l=zh-CN) |
-| 曲绘 | <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/Candy_Day.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[未标注画师](?p=illustrator_list&l=zh-CN#null) |
+| 曲绘 | <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/Candy_Day.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[未标注画师](?p=illustrator_list&l=zh-CN#null) |
 
 ## 谱面信息
 
@@ -55,4 +55,4 @@
 
 ## 相关视频
 
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote噗面爆管室/愚人节】Candy Day [SP ?] 噗面演示](https://www.bilibili.com/video/BV1KZSZBYE1G/)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote噗面爆管室/愚人节】Candy Day [SP ?] 噗面演示](https://www.bilibili.com/video/BV1KZSZBYE1G/)

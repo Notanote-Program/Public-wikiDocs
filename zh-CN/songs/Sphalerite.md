@@ -15,7 +15,7 @@
 | 时长 | 未知 |
 | BPM | 230 |
 | 章节 | [Orzmic](?p=chapters/Orzmic&l=zh-CN) |
-| 曲绘 | <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/Sphalerite.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[恋殇](?p=illustrator_list&l=zh-CN#Lianshang) |
+| 曲绘 | <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/Sphalerite.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[恋殇](?p=illustrator_list&l=zh-CN#Lianshang) |
 
 ## 谱面信息
 
@@ -39,9 +39,9 @@
 
 ## 音乐
 
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/youtube.ico" class="vidimgicon" /> [Sphalerite（游戏《Orzmic》第九章魔王曲） - CS4W/RYOQUCHA - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2722325977)
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/youtube.ico" class="vidimgicon" /> [RYOQUCHA & CS4W - Sphalerite 【From: Orzmic】](https://www.youtube.com/watch?v=6m7wq0mdBL0)
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [RYOQUCHA & CS4W - Sphalerite 【From: Orzmic】](https://www.bilibili.com/video/BV1UmADe9Eh7/)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/youtube.ico" class="vidimgicon" /> [Sphalerite（游戏《Orzmic》第九章魔王曲） - CS4W/RYOQUCHA - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2722325977)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/youtube.ico" class="vidimgicon" /> [RYOQUCHA & CS4W - Sphalerite 【From: Orzmic】](https://www.youtube.com/watch?v=6m7wq0mdBL0)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [RYOQUCHA & CS4W - Sphalerite 【From: Orzmic】](https://www.bilibili.com/video/BV1UmADe9Eh7/)
 
 ## 相关视频
 

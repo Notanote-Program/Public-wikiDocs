@@ -15,7 +15,7 @@
 | 时长 | 02:19 |
 | BPM | 200 |
 | 章节 | [单曲](?p=chapters/Singles&l=zh-CN) |
-| 曲绘 | <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/Stardust_Ember.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[半界](?p=illustrator_list&l=zh-CN#Semiryoiki) |
+| 曲绘 | <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/Stardust_Ember.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[半界](?p=illustrator_list&l=zh-CN#Semiryoiki) |
 
 ## 谱面信息
 
@@ -55,10 +55,10 @@
 
 ## 音乐
 
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Stardust Ember - RAI/维度坍缩 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2156135247)
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【联动原创曲】Stardust Ember - RAI](https://www.bilibili.com/video/BV1g1421D7x1/)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Stardust Ember - RAI/维度坍缩 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2156135247)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【联动原创曲】Stardust Ember - RAI](https://www.bilibili.com/video/BV1g1421D7x1/)
 
 ## 相关视频
 
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Stardust Ember [SY 8.5] 谱面演示](https://www.bilibili.com/video/BV14bKWzVEkY/)
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Stardust Ember [EZ 4.5] 谱面演示](https://www.bilibili.com/video/BV1woKpzNE91/)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Stardust Ember [SY 8.5] 谱面演示](https://www.bilibili.com/video/BV14bKWzVEkY/)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Stardust Ember [EZ 4.5] 谱面演示](https://www.bilibili.com/video/BV1woKpzNE91/)

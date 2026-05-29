@@ -15,7 +15,7 @@
 | 时长 | 03:24 |
 | BPM | 202.4 |
 | 章节 | [Soul Notes](?p=chapters/Soul_Notes&l=zh-CN) |
-| 曲绘 | <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/Aether_Ingita.jpg" style="max-width: 13rem;max-height: 13rem" /><br />// [半界](?p=illustrator_list&l=zh-CN#Semiryoiki)<details><summary>v2.4.0之前曲绘</summary><img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/Aether_Ingita_old.jpg" style="max-width: 13rem;max-height: 13rem" /><br />// [半界](?p=illustrator_list&l=zh-CN#Semiryoiki)</details> |
+| 曲绘 | <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/Aether_Ingita.jpg" style="max-width: 13rem;max-height: 13rem" /><br />// [半界](?p=illustrator_list&l=zh-CN#Semiryoiki)<details><summary>v2.4.0之前曲绘</summary><img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/Aether_Ingita_old.jpg" style="max-width: 13rem;max-height: 13rem" /><br />// [半界](?p=illustrator_list&l=zh-CN#Semiryoiki)</details> |
 
 ## 谱面信息
 
@@ -71,11 +71,11 @@
 
 ## 音乐
 
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Aether Ingita!!!!! - ZAWA/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2714634340)
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote x Soul Notes】Aether Ingita! - ZAWA](https://www.bilibili.com/video/BV1uFPCeqEJD/)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Aether Ingita!!!!! - ZAWA/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2714634340)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote x Soul Notes】Aether Ingita! - ZAWA](https://www.bilibili.com/video/BV1uFPCeqEJD/)
 
 ## 相关视频
 
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Aether Ingita! [SY 10.5] 谱面演示](https://www.bilibili.com/video/BV1wyZRYyEUF/)
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Aether Ingita! [EZ 5.5] 谱面演示](https://www.bilibili.com/video/BV1S6GzzrEp7/)
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote/全球首杀/屏元】Notanote第二难曲 Aether Ingita! [SY 10] All Perfect Rank X！](https://www.bilibili.com/video/BV1zMhNz3E5M/)（玩家：[九段不合格](https://space.bilibili.com/1633653929/)）
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Aether Ingita! [SY 10.5] 谱面演示](https://www.bilibili.com/video/BV1wyZRYyEUF/)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Aether Ingita! [EZ 5.5] 谱面演示](https://www.bilibili.com/video/BV1S6GzzrEp7/)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote/全球首杀/屏元】Notanote第二难曲 Aether Ingita! [SY 10] All Perfect Rank X！](https://www.bilibili.com/video/BV1zMhNz3E5M/)（玩家：[九段不合格](https://space.bilibili.com/1633653929/)）

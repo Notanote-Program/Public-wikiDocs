@@ -15,7 +15,7 @@
 | 时长 | 02:29 |
 | BPM | 145 |
 | 章节 | [单曲](?p=chapters/Singles&l=zh-CN) |
-| 曲绘 | <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/TRANSCEND-THE-EARTH.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[三卜二卜百五十一](?p=illustrator_list&l=zh-CN#BottledSodaa) |
+| 曲绘 | <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/TRANSCEND-THE-EARTH.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[三卜二卜百五十一](?p=illustrator_list&l=zh-CN#BottledSodaa) |
 
 ## 谱面信息
 
@@ -49,12 +49,12 @@
 
 ## 音乐
 
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/netease-cloud-music.ico" class="vidimgicon" /> [T R A N S C E N D - T H E - E A R T H - Akiuta/2088 RECORDS - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2164562702)<sup><a id="note-1.1" href="#ref-1">[1]</a></sup>
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote原创曲】T R A N S C E N D - T H E - E A R T H - Akiuta / 2088 RECORDS](https://www.bilibili.com/video/BV1Vif1BaENW/)<sup><a id="note-1.2" href="#ref-1">[1]</a></sup>
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/netease-cloud-music.ico" class="vidimgicon" /> [T R A N S C E N D - T H E - E A R T H - Akiuta/2088 RECORDS - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2164562702)<sup><a id="note-1.1" href="#ref-1">[1]</a></sup>
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote原创曲】T R A N S C E N D - T H E - E A R T H - Akiuta / 2088 RECORDS](https://www.bilibili.com/video/BV1Vif1BaENW/)<sup><a id="note-1.2" href="#ref-1">[1]</a></sup>
 
 ## 相关视频
 
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】T R A N S C E N D - T H E - E A R T H [SY 6.8] 谱面演示](https://www.bilibili.com/video/BV1NVZtBhEAY/)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】T R A N S C E N D - T H E - E A R T H [SY 6.8] 谱面演示](https://www.bilibili.com/video/BV1NVZtBhEAY/)
 
 ## 注释
 

@@ -15,7 +15,7 @@
 | 时长 | 02:17 |
 | BPM | 195 |
 | 章节 | [Milthm](?p=chapters/Milthm&l=zh-CN) |
-| 曲绘 | <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/Elsorhg.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[Abyssitself](?p=illustrator_list&l=zh-CN#Abyssitself) |
+| 曲绘 | <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/Elsorhg.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[Abyssitself](?p=illustrator_list&l=zh-CN#Abyssitself) |
 
 ## 谱面信息
 
@@ -71,10 +71,10 @@ Elsorhgey delimed tu le
 
 ## 音乐
 
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Elsorhg - Fl00t/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2676684027)
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/youtube.ico" class="vidimgicon" /> [【Notanote × Milthm】Fl00t - Elsorhg](https://www.youtube.com/watch?v=9_3tjJYLvdE)
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote原创曲】Elsorhg - Fl00t](https://www.bilibili.com/video/BV16aFieoEB5/)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Elsorhg - Fl00t/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2676684027)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/youtube.ico" class="vidimgicon" /> [【Notanote × Milthm】Fl00t - Elsorhg](https://www.youtube.com/watch?v=9_3tjJYLvdE)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote原创曲】Elsorhg - Fl00t](https://www.bilibili.com/video/BV16aFieoEB5/)
 
 ## 相关视频
 
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Elsorhg [SY 8.5] 谱面演示](https://www.bilibili.com/video/BV1eBZ9YfE6M/)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Elsorhg [SY 8.5] 谱面演示](https://www.bilibili.com/video/BV1eBZ9YfE6M/)

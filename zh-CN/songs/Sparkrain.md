@@ -15,7 +15,7 @@
 | 时长 | 02:01 |
 | BPM | 166 |
 | 章节 | [Milthm](?p=chapters/Milthm&l=zh-CN) |
-| 曲绘 | <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/Sparkrain.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[nanakaria](?p=illustrator_list&l=zh-CN#nanakaria) |
+| 曲绘 | <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/Sparkrain.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[nanakaria](?p=illustrator_list&l=zh-CN#nanakaria) |
 
 ## 谱面信息
 
@@ -52,9 +52,9 @@
 
 ## 音乐
 
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/netease-cloud-music.ico" class="vidimgicon" /> [烁雨 - ILusMin - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2618516962)
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【原创曲】烁雨 - Milthm x Notanote](https://www.bilibili.com/video/BV1KM4m1X783/)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/netease-cloud-music.ico" class="vidimgicon" /> [烁雨 - ILusMin - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2618516962)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【原创曲】烁雨 - Milthm x Notanote](https://www.bilibili.com/video/BV1KM4m1X783/)
 
 ## 相关视频
 
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】烁雨 [SY 5.6] 谱面演示](https://www.bilibili.com/video/BV1wLr3BTEAY/)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】烁雨 [SY 5.6] 谱面演示](https://www.bilibili.com/video/BV1wLr3BTEAY/)

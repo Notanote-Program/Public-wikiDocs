@@ -15,7 +15,7 @@
 | 时长 | 02:16 |
 | BPM | 202 |
 | 章节 | [Milthm](?p=chapters/Milthm&l=zh-CN) |
-| 曲绘 | <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/Vestige_of_Dreams.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[水沐汐](?p=illustrator_list&l=zh-CN#Shuimuxi) |
+| 曲绘 | <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/Vestige_of_Dreams.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[水沐汐](?p=illustrator_list&l=zh-CN#Shuimuxi) |
 
 ## 谱面信息
 
@@ -56,9 +56,9 @@
 
 ## 音乐
 
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/youtube.ico" class="vidimgicon" /> [DRIVE. - Vestige of Dreams [Official]](https://www.youtube.com/watch?v=LPX97lstvWM)
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [[Official] DRIVE. - Vestige of Dreams [Milthm/Notanote]](https://www.bilibili.com/video/BV1mCZBYgEAo/)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/youtube.ico" class="vidimgicon" /> [DRIVE. - Vestige of Dreams [Official]](https://www.youtube.com/watch?v=LPX97lstvWM)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [[Official] DRIVE. - Vestige of Dreams [Milthm/Notanote]](https://www.bilibili.com/video/BV1mCZBYgEAo/)
 
 ## 相关视频
 
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Vestige of Dreams [SY 7.6] 谱面演示](https://www.bilibili.com/video/BV1aCZ9YxECs/)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Vestige of Dreams [SY 7.6] 谱面演示](https://www.bilibili.com/video/BV1aCZ9YxECs/)

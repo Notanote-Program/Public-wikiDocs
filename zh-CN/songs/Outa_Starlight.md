@@ -10,12 +10,12 @@
 | :-: | :-: |
 | 曲名 | Outa Starlight |
 | 别名 | 无 |
-| 授权性质 | 独家 |
+| 授权性质 | |
 | 曲师 | [祈枫_yita](?p=composer_list&l=zh-CN#yita) |
 | 时长 | 03:11 |
 | BPM | 175 |
 | 章节 | 未知 |
-| 曲绘 | <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/Outa_Starlight.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[Ayutkia](?p=illustrator_list&l=zh-CN#Ayutkia) |
+| 曲绘 | <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/Outa_Starlight.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[Ayutkia](?p=illustrator_list&l=zh-CN#Ayutkia) |
 
 ## 谱面信息
 
@@ -39,7 +39,7 @@
 
 ## 音乐
 
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Rhythmic Commons】Outa Starlight - 祈枫_yita](https://www.bilibili.com/video/BV1tqDyBYEx2/)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Rhythmic Commons】Outa Starlight - 祈枫_yita](https://www.bilibili.com/video/BV1tqDyBYEx2/)
 
 ## 相关视频
 

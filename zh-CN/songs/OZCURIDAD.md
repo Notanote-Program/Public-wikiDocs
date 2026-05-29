@@ -15,7 +15,7 @@
 | 时长 | 02:44 |
 | BPM | 190 |
 | 章节 | [主线二·无尽回廊](?p=chapters/Main_Story_II&l=zh-CN) |
-| 曲绘 | <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/OZCURIDAD.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[PΩLIΛNYΛΩI](?p=illustrator_list&l=zh-CN#PoliaNyaoi) feat. [KΩÜRIE](?p=illustrator_list&l=zh-CN#kourie) |
+| 曲绘 | <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/OZCURIDAD.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[PΩLIΛNYΛΩI](?p=illustrator_list&l=zh-CN#PoliaNyaoi) feat. [KΩÜRIE](?p=illustrator_list&l=zh-CN#kourie) |
 
 ## 谱面信息
 
@@ -65,15 +65,15 @@ NT难度需完成[「主线二·无尽回廊」](?p=chapters/Main_Story_II&l=zh-
 
 ## 音乐
 
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/netease-cloud-music.ico" class="vidimgicon" /> [ΩZСÜRIDΛD - 猎影双煞NonNam/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2737848248)
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote原创曲】主线二最终曲：ΩZСÜRIDΛD - 瓜牛女王 vs. 瓜牛女王の夫 feat. SOLARIA](https://www.bilibili.com/video/BV15yeBziEH7/)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/netease-cloud-music.ico" class="vidimgicon" /> [ΩZСÜRIDΛD - 猎影双煞NonNam/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2737848248)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote原创曲】主线二最终曲：ΩZСÜRIDΛD - 瓜牛女王 vs. 瓜牛女王の夫 feat. SOLARIA](https://www.bilibili.com/video/BV15yeBziEH7/)
 
 ## 相关视频
 
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】ΩZСÜRIDΛD [SY 9.2] 谱面演示 / 瓜牛 / OZCURIDAD](https://www.bilibili.com/video/BV1aHJ9ziEWk/)
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】ΩZСÜRIDΛD [EZ 2.5] 谱面演示 / 瓜牛 / OZCURIDAD](https://www.bilibili.com/video/BV15keizFEQz/)
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】ΩZСÜRIDΛD [NT 10.8] 谱面演示 / 瓜牛 / OZCURIDAD](https://www.bilibili.com/video/BV1aAeizdEQo/)
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote/手法教学】全新第二章最难魔王曲 ΩZСÜRIDΛD [NT 10+] All Perfect Rank X！读谱拆谱手顺背谱节奏地狱　瓜牛](https://www.bilibili.com/video/BV1chebzsED5/)（玩家：[九段不合格](https://space.bilibili.com/1633653929/)）
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】ΩZСÜRIDΛD [SY 9.2] 谱面演示 / 瓜牛 / OZCURIDAD](https://www.bilibili.com/video/BV1aHJ9ziEWk/)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】ΩZСÜRIDΛD [EZ 2.5] 谱面演示 / 瓜牛 / OZCURIDAD](https://www.bilibili.com/video/BV15keizFEQz/)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】ΩZСÜRIDΛD [NT 10.8] 谱面演示 / 瓜牛 / OZCURIDAD](https://www.bilibili.com/video/BV1aAeizdEQo/)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote/手法教学】全新第二章最难魔王曲 ΩZСÜRIDΛD [NT 10+] All Perfect Rank X！读谱拆谱手顺背谱节奏地狱　瓜牛](https://www.bilibili.com/video/BV1chebzsED5/)（玩家：[九段不合格](https://space.bilibili.com/1633653929/)）
 
 ## 注释
 

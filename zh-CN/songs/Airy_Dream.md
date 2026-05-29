@@ -15,7 +15,7 @@
 | 时长 | 03:12 |
 | BPM | 128 |
 | 章节 | [支线一·花火之夏](?p=chapters/Side_Story_I&l=zh-CN) |
-| 曲绘 | <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/Airy_Dream.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[百利](?p=illustrator_list&l=zh-CN#Baili) |
+| 曲绘 | <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/Airy_Dream.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[百利](?p=illustrator_list&l=zh-CN#Baili) |
 
 ## 谱面信息
 
@@ -61,7 +61,7 @@
 
 ## 音乐
 
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Airy Dream - Bob Hou/DEP/Sakura records official樱花记录 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2073434954)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Airy Dream - Bob Hou/DEP/Sakura records official樱花记录 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2073434954)
 
 ## 相关视频
 

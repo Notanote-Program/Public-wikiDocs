@@ -15,7 +15,7 @@
 | 时长 | 02:49 |
 | BPM | 75 |
 | 章节 | [单曲](?p=chapters/Single&l=zh-CN) |
-| 曲绘 | <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/Silver_Morpho.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[sakakosmos](?p=illustrator_list&l=zh-CN#sakakosmos) |
+| 曲绘 | <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/Silver_Morpho.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[sakakosmos](?p=illustrator_list&l=zh-CN#sakakosmos) |
 
 ## 谱面信息
 
@@ -187,9 +187,9 @@ Are you goin' down with me?
 
 ## 音乐
 
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Silver Morpho（银闪蝶） - sakakosmos - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2612128470)
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【官方MV】 《Silver Morpho》（银闪蝶）- sakakosmos【先行主打1】【PROJECT 001】](https://www.bilibili.com/video/BV1sr421M711/)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Silver Morpho（银闪蝶） - sakakosmos - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2612128470)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【官方MV】 《Silver Morpho》（银闪蝶）- sakakosmos【先行主打1】【PROJECT 001】](https://www.bilibili.com/video/BV1sr421M711/)
 
 ## 相关视频
 
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Silver Morpho [SY 6.0] 谱面演示](https://www.bilibili.com/video/BV1QLqQB9EEo/)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Silver Morpho [SY 6.0] 谱面演示](https://www.bilibili.com/video/BV1QLqQB9EEo/)

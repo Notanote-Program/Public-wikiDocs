@@ -15,7 +15,7 @@
 | 时长 | 01:54 |
 | BPM | 200 |
 | 章节 | [单曲](?p=chapters/Singles&l=zh-CN) |
-| 曲绘 | <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/FRIEND.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[半界](?p=illustrator_list&l=zh-CN#Semiryoiki) & [X-chalk](?p=illustrator_list&l=zh-CN#X-chalk) |
+| 曲绘 | <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/FRIEND.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[半界](?p=illustrator_list&l=zh-CN#Semiryoiki) & [X-chalk](?p=illustrator_list&l=zh-CN#X-chalk) |
 
 ## 谱面信息
 
@@ -95,11 +95,11 @@
 
 ## 音乐
 
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/netease-cloud-music.ico" class="vidimgicon" /> [F℟IEND - D_AAN/初音ミク - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1930968844)
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/youtube.ico" class="vidimgicon" /> [【BOFU2017】 F℟IEND](https://www.youtube.com/watch?v=l2hVqHSEhtU)
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【BOFU2017】 F℟IEND](https://www.bilibili.com/video/BV1Qx411u71a/)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/netease-cloud-music.ico" class="vidimgicon" /> [F℟IEND - D_AAN/初音ミク - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1930968844)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/youtube.ico" class="vidimgicon" /> [【BOFU2017】 F℟IEND](https://www.youtube.com/watch?v=l2hVqHSEhtU)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【BOFU2017】 F℟IEND](https://www.bilibili.com/video/BV1Qx411u71a/)
 
 ## 相关视频
 
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】F℟IEND [SY 8.4] 谱面演示](https://www.bilibili.com/video/BV1MskXBPE7W/)
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】F℟IEND [EZ 4.0] 谱面演示](https://www.bilibili.com/video/BV1UskXBNErG/)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】F℟IEND [SY 8.4] 谱面演示](https://www.bilibili.com/video/BV1MskXBPE7W/)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】F℟IEND [EZ 4.0] 谱面演示](https://www.bilibili.com/video/BV1UskXBNErG/)

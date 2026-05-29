@@ -15,7 +15,7 @@
 | 时长 | 02:03 |
 | BPM | 88 |
 | 章节 | [主线一·晴雨之遇](?p=chapters/Main_Story_I&l=zh-CN) |
-| 曲绘 | <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/SHE.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[故离](?p=illustrator_list&l=zh-CN#Guli) |
+| 曲绘 | <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/SHE.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[故离](?p=illustrator_list&l=zh-CN#Guli) |
 
 ## 谱面信息
 
@@ -106,8 +106,8 @@ And not have to remember you never belonged to me
 
 ## 音乐
 
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/netease-cloud-music.ico" class="vidimgicon" /> ["She" - ΓИ7AL - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1887473162)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/netease-cloud-music.ico" class="vidimgicon" /> ["She" - ΓИ7AL - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1887473162)
 
 ## 相关视频
 
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】"SHE" [TL 3.5] 谱面演示](https://www.bilibili.com/video/BV16igZzgEif/)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】"SHE" [TL 3.5] 谱面演示](https://www.bilibili.com/video/BV16igZzgEif/)

@@ -15,7 +15,7 @@
 | 时长 | 02:30 |
 | BPM | 155 |
 | 章节 | [单曲](?p=chapters/Singles&l=zh-CN) |
-| 曲绘 | <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/Victory_Sense.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[LUMINESCENCEP](?p=illustrator_list&l=zh-CN#LUMINESCENCEP) feat. [X-chalk](?p=illustrator_list&l=zh-CN#X-chalk) |
+| 曲绘 | <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/Victory_Sense.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[LUMINESCENCEP](?p=illustrator_list&l=zh-CN#LUMINESCENCEP) feat. [X-chalk](?p=illustrator_list&l=zh-CN#X-chalk) |
 
 ## 谱面信息
 
@@ -52,10 +52,10 @@
 
 ## 音乐
 
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Victory Sense（BOFXVI 参赛曲） - KAH - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2747250689)
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/youtube.ico" class="vidimgicon" /> [【BOFXVI】 Victory Sense / KAH【BGA】](https://www.youtube.com/watch?v=5_v8QTmwQ88)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Victory Sense（BOFXVI 参赛曲） - KAH - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2747250689)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/youtube.ico" class="vidimgicon" /> [【BOFXVI】 Victory Sense / KAH【BGA】](https://www.youtube.com/watch?v=5_v8QTmwQ88)
 
 ## 相关视频
 
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Victory Sense [SY 7.7] 谱面演示](https://www.bilibili.com/video/BV1WYkXBfEUA/)
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Victory Sense [EZ 3.0] 谱面演示](https://www.bilibili.com/video/BV1fPkXBUEhw/)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Victory Sense [SY 7.7] 谱面演示](https://www.bilibili.com/video/BV1WYkXBfEUA/)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Victory Sense [EZ 3.0] 谱面演示](https://www.bilibili.com/video/BV1fPkXBUEhw/)

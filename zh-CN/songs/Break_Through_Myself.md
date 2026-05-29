@@ -15,7 +15,7 @@
 | 时长 | 02:25 |
 | BPM | 200 |
 | 章节 | [单曲](?p=chapters/Singles&l=zh-CN) |
-| 曲绘 | <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/Break_Through_Myself.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[喑暗](?p=illustrator_list&l=zh-CN#Yin-an)<details><summary>v2.4.0之前曲绘</summary><img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/Break_Through_Myself_old.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[喑暗](?p=illustrator_list&l=zh-CN#Yin-an)</details> |
+| 曲绘 | <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/Break_Through_Myself.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[喑暗](?p=illustrator_list&l=zh-CN#Yin-an)<details><summary>v2.4.0之前曲绘</summary><img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/Break_Through_Myself_old.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[喑暗](?p=illustrator_list&l=zh-CN#Yin-an)</details> |
 
 ## 谱面信息
 
@@ -131,11 +131,11 @@ Make a stand against<br />
 
 ## 音乐
 
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Break Through Myself (feat. Risa Yuzuki) [Short Version] - DJ Myosuke/Laur/Risa Yuzuki - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1847176520)
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/youtube.ico" class="vidimgicon" /> [DJ Myosuke & Laur - Break Through Myself feat. Risa Yuzuki (Official Music Video)](https://www.youtube.com/watch?v=9D8NJxSMHrk)
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [DJ Myosuke & Laur - Break Through Myself feat. Risa Yuzuki](https://www.bilibili.com/video/BV1xK4y1R76F/)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Break Through Myself (feat. Risa Yuzuki) [Short Version] - DJ Myosuke/Laur/Risa Yuzuki - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1847176520)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/youtube.ico" class="vidimgicon" /> [DJ Myosuke & Laur - Break Through Myself feat. Risa Yuzuki (Official Music Video)](https://www.youtube.com/watch?v=9D8NJxSMHrk)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [DJ Myosuke & Laur - Break Through Myself feat. Risa Yuzuki](https://www.bilibili.com/video/BV1xK4y1R76F/)
 
 ## 相关视频
 
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Break Through Myself [SY 9.6] 谱面演示](https://www.bilibili.com/video/BV117KTeKE9H/)
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Break Through Myself [EZ 5.4] 谱面演示](https://www.bilibili.com/video/BV117KTeKERM/)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Break Through Myself [SY 9.6] 谱面演示](https://www.bilibili.com/video/BV117KTeKE9H/)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Break Through Myself [EZ 5.4] 谱面演示](https://www.bilibili.com/video/BV117KTeKERM/)

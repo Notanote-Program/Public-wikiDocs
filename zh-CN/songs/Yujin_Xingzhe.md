@@ -15,7 +15,7 @@
 | 时长 | 04:10 |
 | BPM | 152 |
 | 章节 | 未知 |
-| 曲绘 | <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/Yujin_Xingzhe.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[ブウユー](?p=illustrator_list&l=zh-CN#Buyu) feat. [此路Cilu](?p=illustrator_list&l=zh-CN#Cilu) |
+| 曲绘 | <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/Yujin_Xingzhe.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[ブウユー](?p=illustrator_list&l=zh-CN#Buyu) feat. [此路Cilu](?p=illustrator_list&l=zh-CN#Cilu) |
 
 ## 谱面信息
 
@@ -87,8 +87,8 @@
 
 ## 音乐
 
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/netease-cloud-music.ico" class="vidimgicon" /> [余烬行者 - Kari脆球/KAIRCI/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=3358496040)
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote原创曲】余烬行者 - KAIRCI feat. Kari脆球](https://www.bilibili.com/video/BV1PGAmzhEL6/)<sup><a id="note-1" href="#ref-1">[1]</a></sup>
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/netease-cloud-music.ico" class="vidimgicon" /> [余烬行者 - Kari脆球/KAIRCI/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=3358496040)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote原创曲】余烬行者 - KAIRCI feat. Kari脆球](https://www.bilibili.com/video/BV1PGAmzhEL6/)<sup><a id="note-1" href="#ref-1">[1]</a></sup>
 
 ## 相关视频
 

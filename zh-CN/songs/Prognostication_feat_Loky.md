@@ -15,7 +15,7 @@
 | 时长 | 02:20 |
 | BPM | 165 |
 | 章节 | [OverEcho](?p=chapters/OverEcho&l=zh-CN) |
-| 曲绘 | <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/Prognostication_feat_Loky.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[ZEN.](?p=illustrator_list&l=zh-CN#ZEN) |
+| 曲绘 | <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/Prognostication_feat_Loky.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[ZEN.](?p=illustrator_list&l=zh-CN#ZEN) |
 
 ## 谱面信息
 

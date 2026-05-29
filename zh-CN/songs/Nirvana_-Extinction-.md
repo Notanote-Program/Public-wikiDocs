@@ -15,7 +15,7 @@
 | 时长 | 02:30 |
 | BPM | 222 |
 | 章节 | [OverEcho](?p=chapters/OverEcho&l=zh-CN) |
-| 曲绘 | <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/Nirvana_-Extinction-.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[Viosgit](?p=illustrator_list&l=zh-CN#Viosgit) |
+| 曲绘 | <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/Nirvana_-Extinction-.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[Viosgit](?p=illustrator_list&l=zh-CN#Viosgit) |
 
 ## 谱面信息
 

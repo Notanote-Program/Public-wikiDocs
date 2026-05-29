@@ -27,7 +27,7 @@
 | 时长 | 03:41 |
 | BPM | 144 |
 | 章节 | [三相奇谈](?p=chapters/Threefold_Recital&l=zh-CN) |
-| 曲绘 | <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/Threefold_Recital.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[狼小魂](?p=illustrator_list#Yamawolf&l=zh-CN) |
+| 曲绘 | <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/Threefold_Recital.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[狼小魂](?p=illustrator_list#Yamawolf&l=zh-CN) |
 
 ## 谱面信息
 
@@ -75,7 +75,7 @@
 
 ## 音乐
 
-- ![哔哩哔哩图标](https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico) [主题曲 - 《三相奇谈》](https://www.bilibili.com/video/BV1o4whekEH7/)<sup><a id="note-1" href="#ref-1">[1]</a></sup>
+- ![哔哩哔哩图标](https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico) [主题曲 - 《三相奇谈》](https://www.bilibili.com/video/BV1o4whekEH7/)<sup><a id="note-1" href="#ref-1">[1]</a></sup>
 
 ## 相关视频
 

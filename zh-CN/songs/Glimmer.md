@@ -15,7 +15,7 @@
 | 时长 | 02:33 |
 | BPM | 160 |
 | 章节 | [单曲](?p=chapters/Singles&l=zh-CN) |
-| 曲绘 | <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/Glimmer.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[Ameru_nya](?p=illustrator_list&l=zh-CN#Ameru_nya) |
+| 曲绘 | <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/Glimmer.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[Ameru_nya](?p=illustrator_list&l=zh-CN#Ameru_nya) |
 
 ## 谱面信息
 
@@ -87,12 +87,12 @@
 
 ## 音乐
 
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Glimmer - Akiuta - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2601368621)<sup><a id="note-1.1" href="#ref-1">[1]</a></sup>
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [Glimmer - Sea of Flowers EP -](https://www.bilibili.com/video/BV1AS411A7om/)<sup><a id="note-1.2" href="#ref-1">[1]</a></sup>
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Glimmer - Akiuta - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2601368621)<sup><a id="note-1.1" href="#ref-1">[1]</a></sup>
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [Glimmer - Sea of Flowers EP -](https://www.bilibili.com/video/BV1AS411A7om/)<sup><a id="note-1.2" href="#ref-1">[1]</a></sup>
 
 ## 相关视频
 
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Glimmer [SY 5.3] 谱面演示](https://www.bilibili.com/video/BV1QGmPB2EGA/)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Glimmer [SY 5.3] 谱面演示](https://www.bilibili.com/video/BV1QGmPB2EGA/)
 
 ## 注释
 

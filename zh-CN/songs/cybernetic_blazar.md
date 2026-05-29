@@ -15,7 +15,7 @@
 | 时长 | 02:01 |
 | BPM | **0ms**: 148<br />**40540ms**: 220<br />**47049ms**: 230<br />**50179ms**: 210<br />**51893ms**: 156<br />**58046ms**: 150<br />**61246ms**: 148 |
 | 章节 | [Milthm](?p=chapters/Milthm&l=zh-CN) |
-| 曲绘 | <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/cybernetic_blazar.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[天野岁](?p=illustrator_list&l=zh-CN#Tianyesui) |
+| 曲绘 | <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/cybernetic_blazar.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[天野岁](?p=illustrator_list&l=zh-CN#Tianyesui) |
 
 ## 谱面信息
 
@@ -54,10 +54,10 @@
 
 ## 音乐
 
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/netease-cloud-music.ico" class="vidimgicon" /> [cybernetic blazar（Notanote x Milthm Original） - ああああ - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2688806116)
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/youtube.ico" class="vidimgicon" /> [ああああ - cybernetic blazar](https://www.youtube.com/watch?v=NEmnoZBmrYM)
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【原创曲】cybernetic blazar - Milthm x Notanote](https://www.bilibili.com/video/BV12m421x7Am/)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/netease-cloud-music.ico" class="vidimgicon" /> [cybernetic blazar（Notanote x Milthm Original） - ああああ - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2688806116)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/youtube.ico" class="vidimgicon" /> [ああああ - cybernetic blazar](https://www.youtube.com/watch?v=NEmnoZBmrYM)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【原创曲】cybernetic blazar - Milthm x Notanote](https://www.bilibili.com/video/BV12m421x7Am/)
 
 ## 相关视频
 
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】cybernetic blazar [SY 8.8] 谱面演示](https://www.bilibili.com/video/BV19ar3BsEk4/)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】cybernetic blazar [SY 8.8] 谱面演示](https://www.bilibili.com/video/BV19ar3BsEk4/)

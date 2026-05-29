@@ -15,7 +15,7 @@
 | 时长 | 02:10 |
 | BPM | 186 |
 | 章节 | [单曲](?p=chapters/Singles&l=zh-CN) |
-| 曲绘 | <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/Kaze.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[CroxsBOss](?p=illustrator_list&l=zh-CN#CroxsBOss) |
+| 曲绘 | <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/Kaze.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[CroxsBOss](?p=illustrator_list&l=zh-CN#CroxsBOss) |
 
 ## 谱面信息
 
@@ -65,9 +65,9 @@
 
 ## 音乐
 
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Kaze - Itz咸鱼 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2080814039)
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【新音游 Notanote】Kaze - Itz咸鱼](https://www.bilibili.com/video/BV1e14y1k7JD/)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Kaze - Itz咸鱼 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2080814039)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【新音游 Notanote】Kaze - Itz咸鱼](https://www.bilibili.com/video/BV1e14y1k7JD/)
 
 ## 相关视频
 
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Kaze [SY 6.2] 谱面演示](https://www.bilibili.com/video/BV1Nf8XzUEuY/)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Kaze [SY 6.2] 谱面演示](https://www.bilibili.com/video/BV1Nf8XzUEuY/)

@@ -15,7 +15,7 @@
 | 时长 | 03:09 |
 | BPM | 128 |
 | 章节 | [Soul Notes](?p=chapters/Soul_Notes&l=zh-CN) |
-| 曲绘 | <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/Get_Back.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[Soul Notes](?p=chapters/Soul_Notes&l=zh-CN) |
+| 曲绘 | <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/Get_Back.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[Soul Notes](?p=chapters/Soul_Notes&l=zh-CN) |
 
 ## 谱面信息
 
@@ -55,10 +55,10 @@
 
 ## 音乐
 
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Get Back（游戏《Phigros》收录曲） - CAP3 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1428353930)
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [Get Back-CAP3](https://www.bilibili.com/video/BV18S411A7Bv/)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Get Back（游戏《Phigros》收录曲） - CAP3 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1428353930)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [Get Back-CAP3](https://www.bilibili.com/video/BV18S411A7Bv/)
 
 ## 相关视频
 
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Get Back [SY 8.2] 谱面演示](https://www.bilibili.com/video/BV18LHtzaEEj/)
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Get Back [EZ 2.0] 谱面演示](https://www.bilibili.com/video/BV1wuHPzJEcH/)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Get Back [SY 8.2] 谱面演示](https://www.bilibili.com/video/BV18LHtzaEEj/)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Get Back [EZ 2.0] 谱面演示](https://www.bilibili.com/video/BV1wuHPzJEcH/)

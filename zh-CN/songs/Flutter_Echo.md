@@ -15,7 +15,7 @@
 | 时长 | 02:42 |
 | BPM | **0ms**: 219<br />**142191ms**: 292 |
 | 章节 | [KALPA](?p=chapters/KALPA&l=zh-CN) |
-| 曲绘 | <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/Flutter_Echo.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[©QueseraGames Co., Ltd](?p=illustrator_list&l=zh-CN#QueseraGames) |
+| 曲绘 | <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/Flutter_Echo.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[©QueseraGames Co., Ltd](?p=illustrator_list&l=zh-CN#QueseraGames) |
 
 ## 谱面信息
 
@@ -51,8 +51,8 @@
 
 ## 音乐
 
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Flutter Echo - Cansol - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1927491548)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Flutter Echo - Cansol - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1927491548)
 
 ## 相关视频
 
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Flutter Echo [SY 7.3] 谱面演示](https://www.bilibili.com/video/BV1cM8yzDEUo/)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Flutter Echo [SY 7.3] 谱面演示](https://www.bilibili.com/video/BV1cM8yzDEUo/)

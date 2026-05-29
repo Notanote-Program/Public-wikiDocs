@@ -15,7 +15,7 @@
 | 时长 | 02:27 |
 | BPM | 220 |
 | 章节 | [Orzmic](?p=chapters/Orzmic&l=zh-CN) |
-| 曲绘 | <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/Le_Porteur_d-Ombre.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[NekoFTR](?p=illustrator_list&l=zh-CN#NekoFTR) |
+| 曲绘 | <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/Le_Porteur_d-Ombre.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[NekoFTR](?p=illustrator_list&l=zh-CN#NekoFTR) |
 
 ## 谱面信息
 
@@ -77,13 +77,13 @@ Aeia suo’qia noi’laer
 
 ## 音乐
 
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Le Porteur d'Ombre（游戏《Orzmic》主线第七章最终曲） - 黒皇帝/AKA - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2061373391)
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/youtube.ico" class="vidimgicon" /> [[Orzmic] 黒皇帝 feat. AKA - Le Porteur d'Ombre](https://www.youtube.com/watch?v=T7HSohcdKEY)
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【黒皇帝 feat. AKA】 Le Porteur d'Ombre 【Orzmic】](https://www.bilibili.com/video/BV1zj411V7ZR/)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Le Porteur d'Ombre（游戏《Orzmic》主线第七章最终曲） - 黒皇帝/AKA - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2061373391)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/youtube.ico" class="vidimgicon" /> [[Orzmic] 黒皇帝 feat. AKA - Le Porteur d'Ombre](https://www.youtube.com/watch?v=T7HSohcdKEY)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【黒皇帝 feat. AKA】 Le Porteur d'Ombre 【Orzmic】](https://www.bilibili.com/video/BV1zj411V7ZR/)
 
 ## 相关视频
 
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Le Porteur d'Ombre [SY 10.6] 谱面演示 / LPO / 永夜城](https://www.bilibili.com/video/BV1qHCmYjEBQ/)
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Le Porteur d'Ombre [EZ 5.0] 谱面演示 / LPO / 永夜城](https://www.bilibili.com/video/BV1Uu1MBEEJc/)
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Le Porteur d'Ombre [SP ?] 谱面演示 / LPO / 永夜城](https://www.bilibili.com/video/BV1uu1MBEE3G/)
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【站内二杀/超绝帅谱】Le Porteur d'Ombre SY10 理论值](https://www.bilibili.com/video/BV1m1hezBECS/)（玩家：[CH2N8-](https://space.bilibili.com/325129469/)）
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Le Porteur d'Ombre [SY 10.6] 谱面演示 / LPO / 永夜城](https://www.bilibili.com/video/BV1qHCmYjEBQ/)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Le Porteur d'Ombre [EZ 5.0] 谱面演示 / LPO / 永夜城](https://www.bilibili.com/video/BV1Uu1MBEEJc/)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Le Porteur d'Ombre [SP ?] 谱面演示 / LPO / 永夜城](https://www.bilibili.com/video/BV1uu1MBEE3G/)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【站内二杀/超绝帅谱】Le Porteur d'Ombre SY10 理论值](https://www.bilibili.com/video/BV1m1hezBECS/)（玩家：[CH2N8-](https://space.bilibili.com/325129469/)）

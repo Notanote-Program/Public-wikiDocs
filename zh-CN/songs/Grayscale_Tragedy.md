@@ -15,7 +15,7 @@
 | 时长 | 02:09 |
 | BPM | 185 |
 | 章节 | [Berry Melody](?p=chapters/Berry_Melody&l=zh-CN) |
-| 曲绘 | <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/Grayscale_Tragedy.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[快乐鸽子厂](?p=illustrator_list&l=zh-CN#Kuaile_Gezichang) |
+| 曲绘 | <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/Grayscale_Tragedy.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[快乐鸽子厂](?p=illustrator_list&l=zh-CN#Kuaile_Gezichang) |
 
 ## 谱面信息
 
@@ -59,10 +59,10 @@
 
 ## 音乐
 
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [polysha - Grayscale Tragedy【BerryMelody/DanceRail3】](https://www.bilibili.com/video/BV1sdFeeYERN/)
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/youtube.ico" class="vidimgicon" /> [[Berry Melody/Lanota] Grayscale Tragedy - polysha【音源】【高音質】](https://www.youtube.com/watch?v=DTSyKp43Zxg)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [polysha - Grayscale Tragedy【BerryMelody/DanceRail3】](https://www.bilibili.com/video/BV1sdFeeYERN/)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/youtube.ico" class="vidimgicon" /> [[Berry Melody/Lanota] Grayscale Tragedy - polysha【音源】【高音質】](https://www.youtube.com/watch?v=DTSyKp43Zxg)
 
 ## 相关视频
 
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Grayscale Tragedy [SY 8.0] 谱面演示](https://www.bilibili.com/video/BV1Q7KWzSEnV/)
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Grayscale Tragedy [EZ 2.0] 谱面演示](https://www.bilibili.com/video/BV1PvKWzuEaG/)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Grayscale Tragedy [SY 8.0] 谱面演示](https://www.bilibili.com/video/BV1Q7KWzSEnV/)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Grayscale Tragedy [EZ 2.0] 谱面演示](https://www.bilibili.com/video/BV1PvKWzuEaG/)

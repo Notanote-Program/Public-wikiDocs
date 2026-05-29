@@ -15,7 +15,7 @@
 | 时长 | 02:41 |
 | BPM | 170 ~~不是哥们竟然没原曲BPM高~~ |
 | 章节 | [？？？](?p=chapters/???&l=zh-CN) |
-| 曲绘 | <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/NODE_-_OMG_It-s_Boss_Quan_we-re_doomed_-.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[泉大人的恩情还不完\o/](?p=illustrator_list&l=zh-CN#Semiryoiki) |
+| 曲绘 | <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/NODE_-_OMG_It-s_Boss_Quan_we-re_doomed_-.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[泉大人的恩情还不完\o/](?p=illustrator_list&l=zh-CN#Semiryoiki) |
 
 ## 谱面信息
 
@@ -51,8 +51,9 @@
 
 ## 音乐
 
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【OtaOte愚人节】ИÖDΣ - OMG It's Boss Quan we're doomed - - 泉大人的恩情还不完✋😭✋](https://www.bilibili.com/video/BV1XK9EBzEyq/)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【OtaOte愚人节】ИÖDΣ - OMG It's Boss Quan we're doomed - - 泉大人的恩情还不完✋😭✋](https://www.bilibili.com/video/BV1XK9EBzEyq/)
 
 ## 相关视频
 
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote噗面爆管室/愚人节】ИÖDΣ - OMG It's Boss Quan we're doomed - [SP ?] / NODE愚人节](https://www.bilibili.com/video/BV1Ev9EBSEoU/)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote噗面爆管室/愚人节】ИÖDΣ - OMG It's Boss Quan we're doomed - [SP ?] / NODE愚人节](https://www.bilibili.com/video/BV1Ev9EBSEoU/)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote/全球首杀】震撼！Notanote最难魔王曲《Ж》[SY 10] All Perfect Rank X！](https://www.bilibili.com/video/BV1QML86VEn4/)（玩家：[九段不合格](https://space.bilibili.com/1633653929)）

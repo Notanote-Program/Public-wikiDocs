@@ -15,7 +15,7 @@
 | 时长 | 02:28 |
 | BPM | 138 |
 | 章节 | [单曲](?p=chapters/Singles&l=zh-CN) |
-| 曲绘 | <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/Kirakira_Universe.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[Sakura Records](?p=illustrator_list&l=zh-CN#Sakura_Records) |
+| 曲绘 | <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/Kirakira_Universe.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[Sakura Records](?p=illustrator_list&l=zh-CN#Sakura_Records) |
 
 ## 谱面信息
 
@@ -49,12 +49,12 @@
 
 ## 音乐
 
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Kirakira Universe - Bakami/Sakura records official樱花记录 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2046728252)<sup><a id="note-1" href="#ref-1">[1]</a></sup>
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote原创曲】Kirakira Universe - Bakami](https://www.bilibili.com/video/BV1NvfvBpEHz/)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Kirakira Universe - Bakami/Sakura records official樱花记录 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2046728252)<sup><a id="note-1" href="#ref-1">[1]</a></sup>
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote原创曲】Kirakira Universe - Bakami](https://www.bilibili.com/video/BV1NvfvBpEHz/)
 
 ## 相关视频
 
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Kirakira Universe [SY 8.4] 谱面演示](https://www.bilibili.com/video/BV1w7ZtBZEpU/)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Kirakira Universe [SY 8.4] 谱面演示](https://www.bilibili.com/video/BV1w7ZtBZEpU/)
 
 ## 注释
 

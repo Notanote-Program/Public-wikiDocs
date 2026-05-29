@@ -15,7 +15,7 @@
 | 时长 | 02:11 |
 | BPM | 180 |
 | 章节 | [主线二·无尽回廊](?p=chapters/Main_Story_II&l=zh-CN) |
-| 曲绘 | <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/End_Time.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[Taiyo Yamamoto](?p=illustrator_list&l=zh-CN#Taiyo_Yamamoto) |
+| 曲绘 | <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/End_Time.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[Taiyo Yamamoto](?p=illustrator_list&l=zh-CN#Taiyo_Yamamoto) |
 
 ## 谱面信息
 
@@ -63,13 +63,13 @@
 
 ## 音乐
 
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/netease-cloud-music.ico" class="vidimgicon" /> [End Time - Cres. - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2079867339)
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/youtube.ico" class="vidimgicon" /> [[BOF 2006] End Time - Cres](https://www.youtube.com/watch?v=9-bLRFOTVQM)
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【BOF2006】Cres. - End Time [SEGA高画质REMAKE For maimai]](https://www.bilibili.com/video/BV1at411F7nS/)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/netease-cloud-music.ico" class="vidimgicon" /> [End Time - Cres. - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2079867339)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/youtube.ico" class="vidimgicon" /> [[BOF 2006] End Time - Cres](https://www.youtube.com/watch?v=9-bLRFOTVQM)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【BOF2006】Cres. - End Time [SEGA高画质REMAKE For maimai]](https://www.bilibili.com/video/BV1at411F7nS/)
 
 ## 相关视频
 
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】End Time [SY 9.4] 谱面演示](https://www.bilibili.com/video/BV1EYeizKEfv/)
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】End Time [SY+ 10.4] 谱面演示](https://www.bilibili.com/video/BV1EYeizKEfv/)
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】End Time [EZ 3.0] 谱面演示](https://www.bilibili.com/video/BV1EYeizKEfv/)
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote/手把手教你爆打烂烂的楼】End Time [SY+ 10] All Perfect Rank X！](https://www.bilibili.com/video/BV13oegz9E21/)（玩家：[九段不合格](https://space.bilibili.com/1633653929/)）
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】End Time [SY 9.4] 谱面演示](https://www.bilibili.com/video/BV1EYeizKEfv/)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】End Time [SY+ 10.4] 谱面演示](https://www.bilibili.com/video/BV1EYeizKEfv/)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】End Time [EZ 3.0] 谱面演示](https://www.bilibili.com/video/BV1EYeizKEfv/)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote/手把手教你爆打烂烂的楼】End Time [SY+ 10] All Perfect Rank X！](https://www.bilibili.com/video/BV13oegz9E21/)（玩家：[九段不合格](https://space.bilibili.com/1633653929/)）

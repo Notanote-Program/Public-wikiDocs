@@ -15,7 +15,7 @@
 | 时长 | 02:19 |
 | BPM | 205 |
 | 章节 | [Berry Melody](?p=chapters/Berry_Melody&l=zh-CN) |
-| 曲绘 | <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/Shiro_to_Kuro_no_Bakemono.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[久世](?p=illustrator_list&l=zh-CN#Kuze) |
+| 曲绘 | <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/Shiro_to_Kuro_no_Bakemono.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[久世](?p=illustrator_list&l=zh-CN#Kuze) |
 
 ## 谱面信息
 
@@ -142,15 +142,15 @@
 
 ## 音乐
 
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/netease-cloud-music.ico" class="vidimgicon" /> [白と黒のバケモノ（白与黑的怪物） - テヅカ - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2679749732)<sup><a id="note-1.1" href="#ref-1">[1]</a></sup>
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/netease-cloud-music.ico" class="vidimgicon" /> [白と黒のバケモノ(feat. 鏡音リン)（白与黑的怪物） - テヅカ/鏡音リン - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2679751286)<sup><a id="note-2.1" href="#ref-2">[2]</a></sup>
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/youtube.ico" class="vidimgicon" /> [[Berry Melody/Phigros] 白と黒のバケモノ - テヅカ【Music】](https://www.youtube.com/watch?v=p03JG9jb2dM)<sup><a id="note-1.2" href="#ref-1">[1]</a></sup>
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/youtube.ico" class="vidimgicon" /> [白と黒のバケモノ / テヅカ feat. 鏡音リン](https://www.youtube.com/watch?v=6IqP1IBwvXE)<sup><a id="note-2.2" href="#ref-2">[2]</a></sup>
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [白と黒のバケモノ(黑与白的怪物) / テヅカ feat. 鏡音リン](https://www.bilibili.com/video/BV1xU4y1v7tW/)<sup><a id="note-2.3" href="#ref-2">[2]</a></sup>
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/netease-cloud-music.ico" class="vidimgicon" /> [白と黒のバケモノ（白与黑的怪物） - テヅカ - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2679749732)<sup><a id="note-1.1" href="#ref-1">[1]</a></sup>
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/netease-cloud-music.ico" class="vidimgicon" /> [白と黒のバケモノ(feat. 鏡音リン)（白与黑的怪物） - テヅカ/鏡音リン - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2679751286)<sup><a id="note-2.1" href="#ref-2">[2]</a></sup>
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/youtube.ico" class="vidimgicon" /> [[Berry Melody/Phigros] 白と黒のバケモノ - テヅカ【Music】](https://www.youtube.com/watch?v=p03JG9jb2dM)<sup><a id="note-1.2" href="#ref-1">[1]</a></sup>
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/youtube.ico" class="vidimgicon" /> [白と黒のバケモノ / テヅカ feat. 鏡音リン](https://www.youtube.com/watch?v=6IqP1IBwvXE)<sup><a id="note-2.2" href="#ref-2">[2]</a></sup>
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [白と黒のバケモノ(黑与白的怪物) / テヅカ feat. 鏡音リン](https://www.bilibili.com/video/BV1xU4y1v7tW/)<sup><a id="note-2.3" href="#ref-2">[2]</a></sup>
 
 ## 相关视频
 
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】白と黒のバケモノ [SY 9.8] 谱面演示 / 白黑怪物](https://www.bilibili.com/video/BV1m4KWzCEhs/)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】白と黒のバケモノ [SY 9.8] 谱面演示 / 白黑怪物](https://www.bilibili.com/video/BV1m4KWzCEhs/)
 
 ## 注释
 

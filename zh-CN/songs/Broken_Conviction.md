@@ -15,7 +15,7 @@
 | 时长 | 02:25 |
 | BPM | 180 |
 | 章节 | [Milthm](?p=chapters/Milthm&l=zh-CN) |
-| 曲绘 | <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/Broken_Conviction.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[QIER](?p=illustrator_list&l=zh-CN#QIER) |
+| 曲绘 | <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/Broken_Conviction.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[QIER](?p=illustrator_list&l=zh-CN#QIER) |
 
 ## 谱面信息
 
@@ -59,14 +59,14 @@
 
 ## 音乐
 
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Broken Conviction - Cansol - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2662029189)<sup><a id="note-1.1" href="#ref-1">[1]</a></sup>
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/youtube.ico" class="vidimgicon" /> [【Milthm】 Cansol - Broken Conviction](https://www.youtube.com/watch?v=wl2lrAUX-Hk)<sup><a id="note-1.2" href="#ref-1">[1]</a></sup>
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Milthm】Cansol - Broken Conviction](https://www.bilibili.com/video/BV1q16DY1E2B/)<sup><a id="note-1.3" href="#ref-1">[1]</a></sup>
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Broken Conviction - Cansol - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2662029189)<sup><a id="note-1.1" href="#ref-1">[1]</a></sup>
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/youtube.ico" class="vidimgicon" /> [【Milthm】 Cansol - Broken Conviction](https://www.youtube.com/watch?v=wl2lrAUX-Hk)<sup><a id="note-1.2" href="#ref-1">[1]</a></sup>
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Milthm】Cansol - Broken Conviction](https://www.bilibili.com/video/BV1q16DY1E2B/)<sup><a id="note-1.3" href="#ref-1">[1]</a></sup>
 
 ## 相关视频
 
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Broken Conviction [SY 9.5] 谱面演示](https://www.bilibili.com/video/BV1QNZ9YHEus/)
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" />  [【Notanote谱面保管室】Broken Conviction [EZ 5.1] 谱面演示](https://www.youtube.com/watch?v=wl2lrAUX-Hk)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Broken Conviction [SY 9.5] 谱面演示](https://www.bilibili.com/video/BV1QNZ9YHEus/)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" />  [【Notanote谱面保管室】Broken Conviction [EZ 5.1] 谱面演示](https://www.youtube.com/watch?v=wl2lrAUX-Hk)
 
 ## 注释
 

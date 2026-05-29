@@ -15,7 +15,7 @@
 | 时长 | 02:28 |
 | BPM | 185 |
 | 章节 | [单曲](?p=chapters/Singles&l=zh-CN) |
-| 曲绘 | <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/Reimei.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[HaltquinZ♠♥♣♦](?p=composer_list&l=zh-CN#HaltquinZ) |
+| 曲绘 | <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/Reimei.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[HaltquinZ♠♥♣♦](?p=composer_list&l=zh-CN#HaltquinZ) |
 
 ## 谱面信息
 
@@ -54,11 +54,11 @@
 
 ## 音乐
 
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Reimei（黎明） - 影虎。 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1396181979)
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/youtube.ico" class="vidimgicon" /> [影虎。[Kagetora.] / Reimei 【G2R2018 / Phigros】](https://www.youtube.com/watch?v=PqkNsrEJzpk)
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [影虎。[Kagetora..] / Reimei](https://www.bilibili.com/video/BV1C44y1r7KH/)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Reimei（黎明） - 影虎。 - 单曲 - 网易云音乐](https://music.163.com/#/song?id=1396181979)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/youtube.ico" class="vidimgicon" /> [影虎。[Kagetora.] / Reimei 【G2R2018 / Phigros】](https://www.youtube.com/watch?v=PqkNsrEJzpk)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [影虎。[Kagetora..] / Reimei](https://www.bilibili.com/video/BV1C44y1r7KH/)
 
 ## 相关视频
 
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Reimei [SY 7.7] 谱面演示](https://www.bilibili.com/video/BV1ugHAzfEXX/)
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Reimei [EZ 3.0] 谱面演示](https://www.bilibili.com/video/BV1TLHAzxEcu/)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Reimei [SY 7.7] 谱面演示](https://www.bilibili.com/video/BV1ugHAzfEXX/)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Reimei [EZ 3.0] 谱面演示](https://www.bilibili.com/video/BV1TLHAzxEcu/)

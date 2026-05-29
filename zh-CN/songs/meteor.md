@@ -15,7 +15,7 @@
 | 时长 | 03:01 |
 | BPM | 162 |
 | 章节 | 未知 |
-| 曲绘 | <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/meteor.jpg" style="max-width: 13rem;max-height: 13rem" /><br />未知 |
+| 曲绘 | <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/meteor.jpg" style="max-width: 13rem;max-height: 13rem" /><br />未知 |
 
 ## 谱面信息
 
@@ -41,7 +41,7 @@
 
 ## 音乐
 
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/netease-cloud-music.ico" class="vidimgicon" /> [meteor(); (ILusMin “OVERDECONSTRUCTION” remix) - ILusMin/ShooTinGStaR/Hilarity Leap Records/维度坍缩/逃离记录Exit Records/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2713426120)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/netease-cloud-music.ico" class="vidimgicon" /> [meteor(); (ILusMin “OVERDECONSTRUCTION” remix) - ILusMin/ShooTinGStaR/Hilarity Leap Records/维度坍缩/逃离记录Exit Records/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2713426120)
 
 ## 相关视频
 

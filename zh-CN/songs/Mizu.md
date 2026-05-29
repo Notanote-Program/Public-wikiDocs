@@ -15,7 +15,7 @@
 | 时长 | 02:13 |
 | BPM | 94 |
 | 章节 | [单曲](?p=chapters/Singles&l=zh-CN) |
-| 曲绘 | <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/Mizu.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[CroxsBOss](?p=illustrator_list&l=zh-CN#CroxsBOss) |
+| 曲绘 | <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/illustrations/Mizu.jpg" style="max-width: 13rem;max-height: 13rem" /><br />[CroxsBOss](?p=illustrator_list&l=zh-CN#CroxsBOss) |
 
 ## 谱面信息
 
@@ -53,10 +53,10 @@
 
 ## 音乐
 
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Mizu - Itz咸鱼/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2147011178)
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote原创曲】Mizu - Itz咸鱼](https://www.bilibili.com/video/BV1AZ421n78Z/)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/netease-cloud-music.ico" class="vidimgicon" /> [Mizu - Itz咸鱼/Notanote - 单曲 - 网易云音乐](https://music.163.com/#/song?id=2147011178)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote原创曲】Mizu - Itz咸鱼](https://www.bilibili.com/video/BV1AZ421n78Z/)
 
 ## 相关视频
 
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Mizu [SY 8.5] 谱面演示](https://www.bilibili.com/video/BV1bskXBNEEZ/)
-- <img src="https://gh-proxy.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Mizu [EZ 3.0] 谱面演示](https://www.bilibili.com/video/BV1nrkXBWEEa/)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Mizu [SY 8.5] 谱面演示](https://www.bilibili.com/video/BV1bskXBNEEZ/)
+- <img src="https://github.cnxiaobai.com/https://raw.githubusercontent.com/Notanote-Program/Public-wikiDocs/refs/heads/main/static/bilibili.ico" class="vidimgicon" /> [【Notanote谱面保管室】Mizu [EZ 3.0] 谱面演示](https://www.bilibili.com/video/BV1nrkXBWEEa/)
